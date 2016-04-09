@@ -4,11 +4,11 @@
 
 Plover supports several protocols that are in use by various machines:
 
-* Stentura serial: most machines by Stenograph and many others.
-* Gemini PR serial: typically any recent machine made by the Neutrino Group, such as the Piper, Revolution, or Infinity series.
-* TX Bolt: an older protocol supported by some machines as a primary or secondary protocol.
-* Treal: used only by the Treal from Word Technologies.
-* Passport: used only by the Passport Writer from Advantage Software.
+* **Stentura serial**: most machines by Stenograph and many others.
+* **Gemini PR serial**: typically any recent machine made by the Neutrino Group, such as the Piper, Revolution, or Infinity series.
+* **TX Bolt**: an older protocol supported by some machines as a primary or secondary protocol.
+* **Treal**: used only by the Treal from Word Technologies.
+* **Passport**: used only by the Passport Writer from Advantage Software.
 
 This means that, in theory, many machines work with Plover.
 
