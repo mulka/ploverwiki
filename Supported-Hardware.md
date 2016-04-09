@@ -19,7 +19,7 @@ after actually trying it:
 
 | Product Name                       | Manufacturer       | Connection         | Protocol           | Comments                |
 | ---------------------------------- | ------------------ | ------------------ | ------------------ | ----------------------- |
-| Elan Cybra Student                 | Stenograph         |                    |                    |                         |
+| Elan Cybra Student                 | Stenograph         | serial             | TX Bolt            |                         |
 | Flash Writer                       | ProCAT             |                    |                    |                         |
 | Gemini2                            | Neutrino Group     |                    |                    |                         |
 | Lightspeed                         | Stenovations       |                    |                    |                         |
