@@ -54,22 +54,7 @@ And a partial answer to the second question can be found below. Steno 101 is an 
 [http://plover.stenoknight.com/2013/01/steno-101-lesson-four.html Lesson Four]
 
 === What hardware is needed to use Plover? ===
-Currently Plover works with stenotype machines or a computer keyboard. 
-
-Plover supports the following stenotype protocols:
-* Stentura serial protocol (most machines by Stenograph and many others)
-* Gemini PR serial protocol (typically any recent machine made by the Neutrino Group, such as the Piper, Revolution, or Infinity series)
-* TX Bolt (an older protocol supported by some machines as a primary or secondary protocol)
-* Treal (used only by the Treal from Word Technologies)
-* Passport (used only by the Passport Writer from Advantage Software)
-
-You can also use any qwerty keyboard with [http://en.wikipedia.org/wiki/Rollover_(key) n-key rollover] (also sometimes called, inaccurately, anti-ghosting). Many high-end gaming and programming keyboards have this feature, including [http://www.daskeyboard.com/ Das Keyboard], [http://store.razerzone.com/store/razerusa/en_US/pd/productID.169420000 Razer Tarantula], [http://www.steelseries.com/products/keyboards/steelseries-7g Steelseries 7G], and the Filco Majestouch 2. However, the cheapest steno-compatible keyboard on the market is Microsoft's [http://www.microsoft.com/hardware/gaming/productdetails.aspx?pid=105 SideWinder X4], which sells for around $45. The qwerty keyboard can be used as a steno machine right out of the box, but many people like applying keypads to the 22 keys used in steno, to provide haptic feedback and to compensate somewhat for the qwerty layout's misaligned columns.
-
-Here's the qwerty-to-steno conversion map:
-
-[[File:Stenqwerty.png]]
-
-The dark blue letters on top are the qwerty keys and the light blue letters on the bottom are the steno keys they correspond to. Basically, just put your left thumb in the crack between the C and V keys and your right thumb between the N and M keys, your left pinky between the Q and A keys and your right pinky between the P and ; keys (when you need to hit D and Z in steno, you shift your pinky to the right without moving the rest of your hand), your left pointer between the R and F keys, and your right pointer between the U and J keys.
+See the [[Supported Hardware]] page.
 
 === What can Plover do right now? ===
 Plover can write properly capitalized and punctuated text into any window as if it were an ordinary keyboard. It can send command strokes such as Enter or Escape, giving it complete equivalence to the Qwerty keyboard. It's also a robust and convenient text entry system, suitable for writing, coding, chatting, and kicking people's butts at online typing games.
@@ -82,7 +67,7 @@ And here's a demonstration of Plover with eSpeak, a free text-to-speech engine, 
 This is Mirabai's demonstration. It shows the keys pressed along with their resulting output. Read more about it [http://plover.stenoknight.com/2011/10/split-screen-demonstration.html from her blog post] {{#ev:youtube|JXQQzW99cAI}}
 
 === Who's responsible for Plover's development? ===
-Mirabai Knight, Certified CART provider for [http://stenoknight.com/ StenoKnight CART Services], Hesky Fisher, lead developer, and Joshua Harlan Lifton, freelance Python coder, with additional help from readers of the [http://plover.stenoknight.com/ Plover Blog] and members of the [http://groups.google.com/group/ploversteno Plover Discussion Group].
+Plover was originally created by [http://www.blogger.com/profile/16494847224950297255 Mirabai Knight] and [http://launchpad.net/~joshua-harlan-lifton Joshua Harlan Lifton], and is the software arm of [http://openstenoproject.org/ The Open Steno Project], an umbrella organization for open source steno tools. The current lead developer is Theodore Morin.
 
 === Does the Plover Project accept donations? ===
 Absolutely. Contributions of money, code, testing, documentation, publicity, or TypeRacer cannon fodder are [http://stenoknight.com/plover/donatepage.html gratefully accepted].
