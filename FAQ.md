@@ -34,13 +34,17 @@ systems—use keyboard "chords" to type syllables, words, or entire
 phrases. If you ever practiced piano, it might be helpful to liken them
 to certain piano pieces common in a pianist's repertoire. The
 "typewriter-style" systems (qwerty, dvorak, etc.) are like Chopin's
-Fantasie Impromptu: {{\#ev:youtube|tvm2ZsRv3C8}}
+Fantasie Impromptu:
+
+[![Yundi Li - Chopin "Fantasie" Impromptu, Op. 66](https://img.youtube.com/vi/tvm2ZsRv3C8/0.jpg)](https://www.youtube.com/watch?v=tvm2ZsRv3C8)
 
 Notice how this piece—like typing—is mainly runs of single fingers. When
 you learn and practice this piece, you often do many finger exercises to
 strengthen certain fingers to increase your speed. However,
 "steno-style" systems (NYCI, StenoEd, Phoenix, etc.) are like
-Rachmaninoff's Prelude in G Minor: {{\#ev:youtube|4QB7ugJnHgs}}
+Rachmaninoff's Prelude in G Minor:
+
+[![Rachmaninoff Prelude in g minor op. 23 #5](https://img.youtube.com/vi/4QB7ugJnHgs/0.jpg)](https://www.youtube.com/watch?v=4QB7ugJnHgs)
 
 Unlike the Chopin, this piece is almost entirely chorded. When learning
 a piece like this, you learn how to block your chords. So your approach
@@ -158,18 +162,22 @@ typing games.
 Here's a video of me kicking someone's butt in
 [TypeRacer](http://play.typeracer.com/), an online typing game that lets
 people race against each other by hammering out random snippets of text
-at high velocities: {{\#ev:youtube|jkUyg\_uoidY}}
+at high velocities:
+
+[![Plover Wins the Race!](https://img.youtube.com/vi/jkUyg_uoidY/0.jpg)](https://www.youtube.com/watch?v=jkUyg_uoidY)
 
 And here's a demonstration of Plover with eSpeak, a free text-to-speech
 engine, which can be a way to talk at a normal conversational pace by
 people who don't use their voices to speak, as discussed in [How to
 Speak With your Fingers](http://stenoknight.com/SpeakFingers.html).
-{{\#ev:youtube|K3MYFT6VZk8}}
+
+[![Realtime Text to Speech with Plover](https://img.youtube.com/vi/K3MYFT6VZk8/0.jpg)](https://www.youtube.com/watch?v=K3MYFT6VZk8)
 
 This is Mirabai's demonstration. It shows the keys pressed along with
 their resulting output. Read more about it [from her blog
 post](http://plover.stenoknight.com/2011/10/split-screen-demonstration.html)
-{{\#ev:youtube|JXQQzW99cAI}}
+
+[![Demonstration of Plover with Qwerty Keyboard](https://img.youtube.com/vi/JXQQzW99cAI/0.jpg)](https://www.youtube.com/watch?v=JXQQzW99cAI)
 
 ### Who's responsible for Plover's development?
 
