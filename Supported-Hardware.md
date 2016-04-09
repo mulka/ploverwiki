@@ -31,7 +31,7 @@ after actually trying it:
 | [SOFT/HRUF](https://softhruf.love) | Scott Urueta       |                    |                    | Open source hardware    |
 | [Stenoboard](http://utopen.com)    | Utopen             |                    |                    | Open source hardware    |
 | Stentura 400 SRT                   | Stenograph         |                    |                    |                         |
-| Tréal                              | Word technologies  |                    |                    |                         |
+| Tréal                              | Word technologies  | USB                | Treal              |                         |
 | Wave                               | Stenograph         |                    |                    |                         |
 
 # Keyboards
