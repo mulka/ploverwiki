@@ -1,7 +1,8 @@
 ### Why does Plover exist?
 
 Falling numbers of graduates from steno schools and the high attrition
-of retiring stenographers initially caused Mirabai to worry about the
+of retiring stenographers initially caused [Mirabai Knight](http://StenoKnight.com)
+to worry about the
 future of her profession, as inferior non-verbatim systems (e.g., ER,
 Typewell, C-Print, automated speech recognition) threaten to fill in the
 supply vacuum caused by a shortage of steno professionals. At the same
@@ -108,7 +109,7 @@ heart's delight.
 
 See the [[supported hardware|Supported Hardware]] page. In summary, Plover supports many common steno machines that you may own, but critically also supports using a regular computer keyboard and mapping a subset of its keys to the steno layout. This lets users try out stenography without needing to purchase a steno machine!
 
-### Is a NKRO keyboard as fast as a steno machine?
+### Is an NKRO keyboard as fast as a steno machine?
 
 No. It's definitely clunkier and squishier than a genuine lever-based
 steno machine, and a certain amount of accuracy and speed is necessarily
@@ -119,7 +120,7 @@ for a trained stenographer to reach speeds of 220 WPM or higher using something 
 Sidewinder X4, especially if they have the optional laser-cut steno
 keytoppers ([$20 from the Plover store](http://plover.deco-craft.com/shop/view_product/Laser_Cut_Steno_Keys_Kit?n=2910988)):
 
-![](http://plover.deco-craft.com/spcimages/2162178/8148158/1/1/CCCCCC/prod.jpg?b=10934258&v=1457964486)
+![Black key toppers from the Plover store, stacked in columns](http://plover.deco-craft.com/spcimages/2162178/8148158/1/1/CCCCCC/prod.jpg?b=10934258&v=1457964486)
 
 ### How many people currently use Plover?
 
