@@ -1,7 +1,7 @@
 This FAQ is for general users who are new to steno. If you're a steno professional, read the [[FAQ for Stenographers]].
 
 === What is Plover? ===
-Plover is the world's first free, open-source stenography program. It is available on Windows, Mac and Linux. It can be downloaded [http://openstenoproject.github.io/plover/ here].
+Plover is the world's first free, open-source stenography program. It is available on Windows, Mac and Linux. See the [https://github.com/openstenoproject/plover/releases Releases] page.
 
 === What is stenography? ===
 Real-time machine stenography is a code translation system that lets users enter words and syllables by pressing multiple keys simultaneously in a chord, which is then instantly translated into English text. This makes steno the fastest and most accurate text entry method currently available. In the first semester of steno school, nearly all students learn to exceed 100 words per minute. By comparison, top qwerty typists can do 120 WPM, top Dvorak typists around 140 WPM, and voice writers dictating to voice recognition software around 180 WPM. But experienced stenographers can enter text at up to 300 words per minute (the world record is actually 360, but that's an outlier). Conceivably, with practice, amateur steno users could reach 160-200 words per minute.
