@@ -112,7 +112,7 @@ For learning, the best resource is [Learn Plover!](https://sites.google.com/site
 
 ### What hardware is needed to use Plover?
 
-See the [Supported Hardware](Supported_Hardware "wikilink") page.
+See the [[supported hardware|Supported Hardware]] page.
 
 ### What can Plover do right now?
 
