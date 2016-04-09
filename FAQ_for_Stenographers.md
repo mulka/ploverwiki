@@ -106,16 +106,16 @@ heart's delight.
 
 ### Which steno machines are compatible with Plover?
 
-See the [[supported hardware|Supported Hardware]] page.
+See the [[supported hardware|Supported Hardware]] page. In summary, Plover supports many common steno machines that you may own, but critically also supports using a regular computer keyboard and mapping a subset of its keys to the steno layout. This lets users try out stenography without needing to purchase a steno machine!
 
-### Is a Sidewinder X4 as fast as a steno machine?
+### Is a NKRO keyboard as fast as a steno machine?
 
 No. It's definitely clunkier and squishier than a genuine lever-based
 steno machine, and a certain amount of accuracy and speed is necessarily
 sacrificed because of that. It's also somewhat more fatiguing, because
 it requires more force to press the keys and their travel depth is
 deeper than most modern steno machines. However, it's perfectly possible
-for a trained stenographer to reach speeds of 220 WPM or higher using a
+for a trained stenographer to reach speeds of 220 WPM or higher using something like a
 Sidewinder X4, especially if they have the optional laser-cut steno
 keytoppers ([$20 from the Plover store](http://plover.deco-craft.com/shop/view_product/Laser_Cut_Steno_Keys_Kit?n=2910988)):
 
