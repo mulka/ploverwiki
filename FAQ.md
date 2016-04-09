@@ -94,55 +94,21 @@ do – but much, much faster.
 
 I've broken the answer to the first question into six parts:
 
-[Part One: How to Speak With Your
-Fingers](http://stenoknight.com/SpeakFingers.html) - For people who
-can't use their voice to speak but want to communicate in realtime using
+1. [How to Speak With Your Fingers](http://stenoknight.com/SpeakFingers.html): for people who
+can't use their voice to speak but want to communicate in real-time using
 a steno-enabled text to speech device.
-
-[Part Two: Writing and
-Coding](http://stenoknight.com/WritingCoding.html) - For people whose
+1. [Writing and Coding](http://stenoknight.com/WritingCoding.html): for people whose
 fluency of thought depends on ease and efficiency of text input.
-
-[Part Three: The Ergonomic
-Argument](http://stenoknight.com/ErgonomicArgument.html) - For people
+1. [The Ergonomic Argument](http://stenoknight.com/ErgonomicArgument.html): for people
 who want to avoid wasted effort and repetitive stress injuries.
-
-[Part Four: Mobile and Wearable
-Computing](http://stenoknight.com/MobileWearable.html) - For people who
+1. [Mobile and Wearable Computing](http://stenoknight.com/MobileWearable.html): for people who
 want to input text and control their computers while walking around,
 with a minimum of dorkitude.
-
-[Part Five: Raw Speed](http://stenoknight.com/RawSpeed.html) - For
-people who have to be the fastest, no matter what.
-
-[Part Six: CART, Court, and
-Captioning](http://stenoknight.com/CARTCourtCaptioning.html) - For
+1. [Raw Speed](http://stenoknight.com/RawSpeed.html): for people who have to be the fastest, no matter what.
+1. [CART, Court, and Captioning](http://stenoknight.com/CARTCourtCaptioning.html): for
 people who want to provide live verbatim transcription professionally.
 
-And a partial answer to the second question can be found below. Steno
-101 is an ongoing online course on the fundamentals of machine
-shorthand. So far it has covered the basic principles of the system and
-a complete tour of the keyboard, with more to come. Since steno is a
-mnemonic-kinetic system, the ideal way to learn it would be through a
-tutorial video game, but nothing like that currently exists. After
-Plover has reached its current goals, Steno Hero is next on the list.
-
-[How to Do
-It?](http://plover.stenoknight.com/2010/06/steno-101-how-to-do-it.html)
-
-[Lesson
-Zero](http://plover.stenoknight.com/2010/06/steno-101-lesson-zero.html)
-
-[Lesson One](http://plover.stenoknight.com/2010/07/teaser-graphic.html)
-
-[Lesson
-Two](http://plover.stenoknight.com/2010/08/steno-101-lesson-two.html)
-
-[Lesson
-Three](http://plover.stenoknight.com/2011/01/steno-101-lesson-three.html)
-
-[Lesson
-Four](http://plover.stenoknight.com/2013/01/steno-101-lesson-four.html)
+For learning, the best resource is [Learn Plover!](https://sites.google.com/site/ploverdoc/home) by Zack Brown.
 
 ### What hardware is needed to use Plover?
 
