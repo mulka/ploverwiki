@@ -56,14 +56,14 @@ entry.
 ### Why was Plover written?
 
 A professional stenographer, forced to buy proprietary (and DRM-riddled)
-steno software for \$4,000 plus an annual \$700 upgrade fee after
-shelling out for a \$3,000 steno machine, looked around and saw that
+steno software for $4,000 plus an annual $700 upgrade fee after
+shelling out for a $3,000 steno machine, looked around and saw that
 most of the people who made their living and their free time putting
 text up on a screen were crawling along at around 60 words per minute
 because they were using qwerty instead of steno. She realized that the
 only way to spread the wonders of high speed efficient text entry to the
 geeks, hackers, writers, and internet addicts who desperately needed it
-was to make the software free and the hardware cost less than \$60. She
+was to make the software free and the hardware cost less than $60. She
 found a Python programmer who was also a hardware maven, and they both
 got down to work. Eleven months later, Plover was ready for prime time.
 
@@ -76,7 +76,7 @@ be written in a single stroke on a steno machine. The longer answer is
 ### How is Plover different from commercial steno programs?
 
 Well, first off, it's free. Free to distribute, free to modify. No
-dongles, no upgrade fees, no constraints. That's already a \$4,000
+dongles, no upgrade fees, no constraints. That's already a $4,000
 difference. To the developer's knowledge, it's also the only steno
 software that works on a buffer-based system rather than a timer-based
 system, and that has direct access to the OS rather than filtering
