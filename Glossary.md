@@ -19,7 +19,7 @@ The pressing down of multiple keys at the same time.
 
 Used by Plover or other stenotype software. Contains all the words and
 the strokes that produce those words. While generally these are
-constructed using a steno theory, this can be freely modified by the
+constructed using a [[steno theory|Glossary#steno-theory]], this can be freely modified by the
 stenographer.
 
 # Steno Theory
