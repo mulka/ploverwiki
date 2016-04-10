@@ -17,22 +17,22 @@ This means that, in theory, many machines work with Plover.
 The following machines have been confirmed by users to work with Plover
 after actually trying it:
 
-| Product Name                       | Manufacturer       | Connection         | Protocol           | Comments                |
-| ---------------------------------- | ------------------ | ------------------ | ------------------ | ----------------------- |
-| Elan Cybra Student                 | Stenograph         | serial             | TX Bolt            |                         |
-| Flash Writer                       | ProCAT             |                    |                    |                         |
-| Gemini2                            | Neutrino Group     |                    |                    |                         |
-| Lightspeed                         | Stenovations       |                    |                    |                         |
-| Infinity Ergonomic                 | Neutrino Group     |                    |                    |                         |
-| Infinity Genesis                   | Neutrino Group     | serial             | Gemini PR          |                         |
-| Passport                           | Advantage Software | USB                | -                  |                         |
-| Protege                            | Stenograph         |                    |                    |                         |
-| Revolution Grand                   | Neutrino Group     |                    |                    |                         |
-| [SOFT/HRUF](https://softhruf.love) | Scott Urueta       |                    |                    | Open source hardware    |
-| [Stenoboard](http://utopen.com)    | Utopen             |                    |                    | Open source hardware    |
-| Stentura 400 SRT                   | Stenograph         |                    |                    |                         |
-| Tréal                              | Word technologies  | USB                | -                  |                         |
-| Wave                               | Stenograph         |                    |                    |                         |
+| Product Name                       | Manufacturer       | Protocol/Connection | Comments                |
+| ---------------------------------- | ------------------ | ------------------- | ----------------------- |
+| Elan Cybra Student                 | Stenograph         | TX Bolt (serial)    |                         |
+| Flash Writer                       | ProCAT             |                     |                         |
+| Gemini2                            | Neutrino Group     | Gemini PR (serial)  |                         |
+| Lightspeed                         | Stenovations       |                     |                         |
+| Infinity Ergonomic                 | Neutrino Group     | Gemini PR (serial)  |                         |
+| Infinity Genesis                   | Neutrino Group     | Gemini PR (serial)  |                         |
+| Passport                           | Advantage Software | Passport (USB)      |                         |
+| Protege                            | Stenograph         |                     |                         |
+| Revolution Grand                   | Neutrino Group     | Gemini PR (serial)  |                         |
+| [SOFT/HRUF](https://softhruf.love) | Scott Urueta       | TX Bolt (serial)    | Open source hardware    |
+| [Stenoboard](http://utopen.com)    | Utopen             | TX Bolt (serial)    | Open source hardware    |
+| Stentura 400 SRT                   | Stenograph         | Stentura (serial)   |                         |
+| Tréal                              | Word technologies  | Treal (USB)         |                         |
+| Wave                               | Stenograph         |                     |                         |
 
 # Keyboards
 
