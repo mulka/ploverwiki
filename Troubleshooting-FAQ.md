@@ -8,10 +8,10 @@ Some common problems and solutions are recorded here. If you're having a problem
 
 # Mac OS X
 
-* if you use a NKRO keyboard, Plover need *Assistive Device Permission*
+* if you use an NKRO keyboard, Plover needs *Assistive Device Permission*
 
 # Linux
 
-* older versions of Ibus (prior to 1.5.11) don't handle the very fast simulated key presses of Plover, make sure you disable it
+* older versions of IBus (prior to 1.5.11) don't handle the very fast simulated key presses of Plover, make sure you disable it
 
 * Plover does not handle dynamic keyboard layout switching: see [bug #298](https://github.com/openstenoproject/plover/issues/298)
