@@ -1,45 +1,87 @@
-# Brief
+This glossary will help you with terms that you may come across in the steno community.
 
-Also known as the "abbreviation", "short form", or "arbitrary".  Briefs
+- #### Brief
+    
+    Also known as the "abbreviation", "short form", or "arbitrary".  Briefs
 are simply non-phonetic mappings of steno outlines to English words or
-phrases. For instance, the phrase "from time to time" could be written
+phrases. Common words and phrases are often briefed for the purpose of speed.
+For instance, the phrase "from time to time" would regularly be written
 out:
 
-`FROM/TAOIM/TO/TAOIM` *(Four strokes)*
+    `FROM/TAOIM/TO/TAOIM` (reads: "from/time/to/time" and takes four strokes)
 
-Or it could be briefed:
+    Or, as a simple brief:
 
-`FRIMT` *(One stroke)*
+    `FRIMT` (reads: "frimt" and takes only one stroke)
 
-# Chord
+- #### Chord
 
-The pressing down of multiple keys at the same time.
+    The pressing down of multiple keys at the same time.
 
-# Dictionary
+- #### Conflict
 
-Used by Plover or other stenotype software. Contains all the words and
+    (1); traditionally: a conflict-based theory uses one stroke for multiple translations. For example, a non-realtime stenographer could use the same stroke for "bare", "bear", and "bar", which is a conflict that the stenographer would have to manually resolve at a later time. Plover is a realtime-only system and does not support conflict-theories.
+
+    (2); informal; a.k.a collision: when two dictionaries have the same stroke, the dictionary with the highest priority is favored. For this reason, it is important to understand your dictionary order.
+
+- #### JSON
+
+    JSON, in the context of stenography, is a dictionary format which maps steno
+strokes to translations. You will often see strokes expressed in the JSON format,
+such as `"SKP": "and"`.
+
+- #### RTF/CRE
+
+    Plover can read steno dictionaries in JSON and RTF/CRE format. RTF/CRE stands for
+rich text format with court reporting extensions. It is a standard format that most
+proprietary steno software can import from and export to. Plover can read RTF/CRE
+natively.
+
+- #### Steno Dictionary
+
+    Used by Plover or other stenotype software. Contains all the words and
 the strokes that produce those words. While generally these are
 constructed using a [[steno theory|Glossary#steno-theory]], this can be freely modified by the
-stenographer.
+stenographer. Dictionaries are a collection of entries, which map strokes to translation.
 
-# Steno Theory
+- #### Steno Order
 
-A "system" or way of thinking that determines which steno strokes will
+    The 22 keys on the steno machine has an explicit "order" that gets read out,
+top-to-bottom, left to write. The entire steno layout is defined by `STKPHRAO*EUFRPBLGTSDZ`.
+
+- #### Stroke
+
+    Can refer to a [[chord|Glossary#chord]], or a set of chords that you have for a
+given translation. E.g., "my stroke for `steno-dude` is `STOEUPB/TKAOUD`"
+
+- #### Steno Theory
+
+    A "system" or way of thinking that determines which steno strokes will
 match to which words. Theories range generally from being based on
-spelling (or "brief-heavy") to being based on the sound of the word (or
-"stroke-heavy"). The one included with Plover is based on NYCI theory
-which descended from StenEd.
+spelling ("brief-heavy") to being based on the sound of the word ("stroke-heavy").
+The dictionary included with Plover uses a theory based on is based on NYCI theory
+which is descended from StenEd. It offers a hybrid between a brief-heavy and
+stroke-heavy theory. It is recommended to start learning with Plover theory, and
+you will likely learn what style you like and you can always switch later. Mirabai
+uses the Plover dictionary professionally.
 
-# Word Boundary
+- #### Word Boundary
 
-The implicit spacing in between words. Spacing is inserted automatically
+    The implicit spacing in between words. Spacing is inserted automatically
 by Plover or other steno software. As words and phrases will often sound
 similar to others, a stenographer needs to choose the stroke or brief
 appropriate for the situation with the correct word boundary.
 
-Examples (Plover):
+    An illustration of a word boundary **error** is given by the phrase "cat log". If
+a stenographer were to write "cat log" with Plover, by default, the system will
+write "catalog". This happens because "cat log" isn't a very common word-pair
+in English. The stenographer must explicitly write "cat (space) log".
+But, there are many more common cases that are handled and the
+stenographer must be explicit. See below for how some phonetics are differentiated:
 
-* "in here" ("**TPH**/HAOER") vs "insect" ("**EUPB**/SEBGT")
-* "on top of" ("**OPB**/TOP/-F") vs "onto" ("**AUPN**/TO")
-* "it is a live (wire)" ("T/S/**AEU**/HREUF") vs "it is alive" ("T/S/**A**/HRAOEUF")
+    Examples (Plover):
+
+    * "in here"; **`TPH`**/`HAOER` vs "insect"; **`EUPB`**/`SEBGT`
+    * "on top of"; **`OPB`**/`TOP`/`-F` vs "onto"; **`AUPN`**/`TO`
+    * "it is a live (wire)"; `T`/`S`/**`AEU`**/`HREUF` vs "it is alive"; `T`/`S`/**`A`**/`HRAOEUF`
 
