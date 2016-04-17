@@ -1,3 +1,18 @@
+**Table of Contents**
+
+- [What is Plover?](#what-is-plover)
+- [What is stenography?](#what-is-stenography)
+- [How does it work?](#how-does-it-work)
+- [Why was Plover written?](#why-was-plover-written)
+- [Why "Plover"?](#why-plover)
+- [How is Plover different from commercial steno programs?](#how-is-plover-different-from-commercial-steno-programs)
+- [Why learn steno? And how?](#why-learn-steno-and-how)
+- [What hardware is needed to use Plover?](#what-hardware-is-needed-to-use-plover)
+- [What can Plover do right now?](#what-can-plover-do-right-now)
+- [What does Plover look like in action?](#what-does-plover-look-like-in-action)
+- [Who's responsible for Plover's development?](#whos-responsible-for-plovers-development)
+- [Does the Plover Project accept donations?](#does-the-plover-project-accept-donations)
+
 This FAQ is for general users who are new to steno. If you're a steno
 professional, read the [[FAQ for Stenographers]]. For troubleshooting, see the dedicated [[Troubleshooting FAQ]].
 
