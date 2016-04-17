@@ -1,3 +1,16 @@
+**Table of Contents**
+
+- [Why does Plover exist?](#why-does-plover-exist)
+- [Why does steno need amateurs?](#why-does-steno-need-amateurs)
+- [What is Steno Arcade?](#what-is-steno-arcade)
+- [Is Steno Arcade going to put steno schools out of business?](#is-steno-arcade-going-to-put-steno-schools-out-of-business)
+- [Is Plover going to put CAT software companies out of business?](#is-plover-going-to-put-cat-software-companies-out-of-business)
+- [What are some features in Plover not commonly found in most CAT software?](#what-are-some-features-in-plover-not-commonly-found-in-most-cat-software)
+- [Which steno machines are compatible with Plover?](#which-steno-machines-are-compatible-with-plover)
+- [Is an NKRO keyboard as fast as a steno machine?](#is-an-nkro-keyboard-as-fast-as-a-steno-machine)
+- [How many people currently use Plover?](#how-many-people-currently-use-plover)
+- [What theory is Plover's default dictionary based on?](#what-theory-is-plovers-default-dictionary-based-on)
+
 ### Why does Plover exist?
 
 Falling numbers of graduates from steno schools and the high attrition
