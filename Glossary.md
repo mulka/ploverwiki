@@ -1,5 +1,18 @@
 This glossary will help you with terms that you may come across in the steno community.
 
+**Table of Contents**
+
+- [Brief](#brief)
+- [Chord](#chord)
+- [Conflict](#conflict)
+- [JSON](#json)
+- [RTF/CRE](#rtfcre)
+- [Steno Dictionary](#steno-dictionary)
+- [Steno Order](#steno-order)
+- [Stroke](#stroke)
+- [Steno Theory](#steno-theory)
+- [Word Boundary](#word-boundary)
+
 - #### Brief
     
     Also known as the "abbreviation", "short form", or "arbitrary".  Briefs
