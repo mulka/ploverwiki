@@ -60,7 +60,7 @@ stenographer. Dictionaries are a collection of entries, which map strokes to tra
 #### Steno Order
 
 The 22 keys on the steno machine has an explicit "order" that gets read out,
-top-to-bottom, left to write. The entire steno layout is defined by `STKPHRAO*EUFRPBLGTSDZ`.
+top-to-bottom, left to write. The entire steno layout is defined by `STKPWHRAO*EUFRPBLGTSDZ`.
 
 #### Stroke
 
