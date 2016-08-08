@@ -2,7 +2,7 @@ This page is under construction. Please refer to [Learn Plover! Appendix: The Di
 
 ## JSON and RTF/CRE
 
-Plover supports two types of dictionaries, **JSON** (the default and recommended format) and **RTF**. RTF/CRE is an import/export format used by proprietary steno software, which means that Plover can work with exported dictionaries from Eclipse, ProCAT, Case CATalyst, and more. There are some caveats with each format, however. Mainly, RTF dictionaries will cause Plover to take longer to start up and don't have working Unicode characters in Plover, while JSON is Plover-specific and moving to other steno software will require a conversion to RTF. The Plover JSON format also doesn't have support for stroke metadata, but at the moment Plover doesn't support reading/writing RTF metadata.
+Plover supports two types of dictionaries, **JSON** (the default and recommended format) and **RTF**. RTF/CRE is an import/export format used by proprietary steno software, which means that Plover can work with exported dictionaries from Eclipse, ProCAT, Case CATalyst, and more. There are some caveats with each format, however. Mainly, RTF dictionaries will cause Plover to take longer to start up and won't have Unicode support, while JSON is a Plover-specific format and moving to other steno software will require a conversion to RTF. The Plover JSON format also doesn't have support for stroke metadata, but at the moment Plover doesn't support reading/writing RTF metadata.
 
 ## Sending Symbols
 
