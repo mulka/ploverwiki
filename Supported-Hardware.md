@@ -22,7 +22,7 @@ after actually trying it:
 | Elan Cybra Student                 | Stenograph         | TX Bolt (serial)    |                         |
 | Flash Writer                       | ProCAT             |                     |                         |
 | Gemini2                            | Neutrino Group     | Gemini PR (serial)  |                         |
-| Lightspeed                         | Stenovations       | TX Bolt (serial over USB/Bluetooth) | Baud rate 19200 |
+| Lightspeed                         | Stenovations       | TX Bolt (serial over USB/Bluetooth) | Baud rate 9600 |
 | Infinity Ergonomic                 | Neutrino Group     | Gemini PR (serial over USB/Bluetooth)  | Baud rate 115200 |
 | Infinity Genesis                   | Neutrino Group     | Gemini PR (serial)  |                         |
 | Passport                           | Advantage Software | Passport (USB)      |                         |
