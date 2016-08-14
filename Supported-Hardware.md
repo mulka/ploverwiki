@@ -22,14 +22,14 @@ after actually trying it:
 | Elan Cybra Student                 | Stenograph         | TX Bolt (serial)    |                         |
 | Flash Writer                       | ProCAT             |                     |                         |
 | Gemini2                            | Neutrino Group     | Gemini PR (serial)  |                         |
-| Lightspeed                         | Stenovations       |                     |                         |
-| Infinity Ergonomic                 | Neutrino Group     | Gemini PR (serial)  |                         |
+| Lightspeed                         | Stenovations       | TX Bolt (serial over USB/Bluetooth) | Baud rate 19200 |
+| Infinity Ergonomic                 | Neutrino Group     | Gemini PR (serial over USB/Bluetooth)  | Baud rate 115200 |
 | Infinity Genesis                   | Neutrino Group     | Gemini PR (serial)  |                         |
 | Passport                           | Advantage Software | Passport (USB)      |                         |
 | Protege                            | Stenograph         |                     |                         |
 | Revolution Grand                   | Neutrino Group     | Gemini PR (serial)  |                         |
 | [SOFT/HRUF](https://softhruf.love) | Scott Urueta       | TX Bolt (serial)    | Open source hardware    |
-| [Stenoboard](http://utopen.com)    | Utopen             | TX Bolt (serial)    | Open source hardware    |
+| [Stenoboard](http://utopen.com)    | Utopen             | NKRO/TX Bolt/Gemini PR | Open source hardware    |
 | Stentura 400 SRT                   | Stenograph         | Stentura (serial)   |                         |
 | Tréal                              | Word technologies  | Treal (USB)         |                         |
 | Wave                               | Stenograph         |                     |                         |
