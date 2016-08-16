@@ -94,8 +94,8 @@ To use modifiers, simply use parentheses to delimit where keys are pressed down.
 
 These next strokes are not particularly useful, but show you what you can do with the command syntax.
 
-- `"TKAO*UP": "{#control(c v v v)}" — copy, then paste 3 times
-- `"SKPH-Z": "{#control(z shift(z))" — program-dependent, but possibly "undo/redo". Notice how the first z has only the control operator, and the second has both the control and the shift operator.
+- `"TKAO*UP": "{#control(c v v v)}"` — copy, then paste 3 times
+- `"SKPH-Z": "{#control(z shift(z))"` — program-dependent, but possibly "undo/redo". Notice how the first z has only the control operator, and the second has both the control and the shift operator.
 
 Note that above, adding capitals will not affect the output. Commands are case insensitive. `{#control(z shift(z))` is the same as `"{#CONTROL_L(Z SHIFT(Z))}"`
 
