@@ -46,7 +46,7 @@ Strokes can be attached at the beginning and/or end using the "attach" operator.
 
 - `{~|}` or `{^~|^}` where the attach operator is optional.
 
-In English, we have punctuation that is doesn't get capitalized, but instead the next letter gets the capitalization. For example, if you end a sentence in quotes, the next sentence still starts with a capital letter! `"You can't eat that!" The baby ate on.` In order to support this, there is a special pre/in/suffix syntax that will "pass on" or "carry" the capitalized state. You might find this useful with quotes, parentheses, and words like `'til` or `'cause`. The default dictionary for Plover should use these operators where appropriate.
+In English, we have punctuation that doesn't get capitalized, but instead the next letter gets the capitalization. For example, if you end a sentence in quotes, the next sentence still starts with a capital letter! `"You can't eat that!" The baby ate on.` In order to support this, there is a special pre/in/suffix syntax that will "pass on" or "carry" the capitalized state. You might find this useful with quotes, parentheses, and words like `'til` or `'cause`. The default dictionary for Plover should use these operators where appropriate.
 
 ```json
 {
