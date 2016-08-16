@@ -1,5 +1,18 @@
 This page is under construction. Please refer to [Learn Plover! Appendix: The Dictionary Format](https://sites.google.com/site/ploverdoc/appendix-the-dictionary-format) for a more complete document. Note that as of Plover 3.1, the Plover Control Commands have been updated and this document is more accurate as to their function.
 
+**Table of Contents**
+
+- [JSON and RTF/CRE](#json-and-rtfcre)
+- [Sending Symbols](#sending-symbols)
+- [Text Formatting](#text-formatting)
+  * [Prefixes, Infixes, and Suffixes](#prefixes-infixes-and-suffixes)
+  * [Carrying Capitalization](#carrying-capitalization)
+- [Commands and Keyboard Shortcuts](#commands-and-keyboard-shortcuts)
+- [Output Modes](#output-modes)
+  * [Reset Command](#reset-command)
+  * [Modes](#modes)
+  * [Custom Modes](#custom-modes)
+
 ## JSON and RTF/CRE
 
 Plover supports two types of dictionaries, **JSON** (the default and recommended format) and **RTF**. RTF/CRE is an import/export format used by proprietary steno software, which means that Plover can work with exported dictionaries from Eclipse, ProCAT, Case CATalyst, and more. There are some caveats with each format, however. Mainly, RTF dictionaries will cause Plover to take longer to start up and won't have Unicode support, while JSON is a Plover-specific format and moving to other steno software will require a conversion to RTF. The Plover JSON format also doesn't have support for stroke metadata, but at the moment Plover doesn't support reading/writing RTF metadata.
