@@ -37,8 +37,8 @@ In English, we have punctuation that is doesn't get capitalized, but instead the
 
 ```json
 {
-  "KW-GS": "{~|"^}",
-  "KR-GS": "{^~|"}",
+  "KW-GS": "{~|\"^}",
+  "KR-GS": "{^~|\"}",
   "KA*US": "{~|'^}cause,
   "PREPB": "{~|(^}",
   "PR*EPB": "{^~|)}"
