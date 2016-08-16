@@ -39,7 +39,7 @@ In English, we have punctuation that is doesn't get capitalized, but instead the
 {
   "KW-GS": "{~|\"^}",
   "KR-GS": "{^~|\"}",
-  "KA*US": "{~|'^}cause,
+  "KA*US": "{~|'^}cause",
   "PREPB": "{~|(^}",
   "PR*EPB": "{^~|)}"
 }
