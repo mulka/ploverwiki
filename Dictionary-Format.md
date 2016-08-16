@@ -29,6 +29,22 @@ Strokes can be attached at the beginning and/or end using the "attach" operator.
 - `{in^}` is a prefix, e.g. `influx`.
 - Most custom punctuation entries will take advantage of the attach operator, e.g. `{^—^}` for an emdash.
 
+### Carrying Capitalization
+
+- `{~|}` or `{^~|^}` where the attach operator is optional.
+
+In English, we have punctuation that is doesn't get capitalized, but instead the next letter gets the capitalization. For example, if you end a sentence in quotes, the next sentence still starts with a capital letter! `"You can't eat that!" The baby ate on.` In order to support this, there is a special pre/in/suffix syntax that will "pass on" or "carry" the capitalized state. You might find this useful with quotes, parentheses, and words like `'til` or `'cause`. The default dictionary for Plover should use these operators where appropriate.
+
+```json
+{
+  "KW-GS": "{~|"^}",
+  "KR-GS": "{^~|"}",
+  "KA*US": "{~|'^}cause,
+  "PREPB": "{~|(^}",
+  "PR*EPB": "{^~|)}"
+}
+```
+
 ## Commands and Keyboard Shortcuts
 
 Most Plover strokes are just text and formatting operators. Plover handles standard strokes really well, which allows it to handle "undoing" with the asterisk key, as well as automatically handling case and spacing. However, Plover's text and formatting strokes can't send arbitrary key strokes, like sending keyboard shortcuts.
