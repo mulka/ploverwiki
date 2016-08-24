@@ -26,7 +26,7 @@ after actually trying it:
 | Infinity Ergonomic                 | Neutrino Group     | Gemini PR (serial over USB/Bluetooth)  | Baud rate 115200 |
 | Infinity Genesis                   | Neutrino Group     | Gemini PR (serial)  |                         |
 | Passport                           | Advantage Software | Passport (USB)      |                         |
-| Passport Touch                     | Advantage Software | Stentura (USB)      | Set in "Compatibility Mode" |
+| Passport Touch                     | Advantage Software | USB, Bluetooth | While in "Emulation Mode": Stentura over Bluetooth or TX Bolt over USB ﻿ |
 | Protege                            | Stenograph         |                     |                         |
 | Revolution Grand                   | Neutrino Group     | Gemini PR (serial)  |                         |
 | [SOFT/HRUF](https://softhruf.love) | Scott Urueta       | TX Bolt (serial)    | Open source hardware    |
