@@ -9,6 +9,7 @@ Some common problems and solutions are recorded here. If you're having a problem
 # Mac OS X
 
 * if you use an NKRO keyboard, Plover needs *Assistive Device Permission*
+* OS X has a feature where holding down a key brings up an accent menu. This can sometimes drop keys when typing quickly, such as `TO/FPLT` producing `t.` instead of `to.`. To disable this, follow the instructions at https://www.tekrevue.com/tip/how-to-disable-the-character-accent-menu-in-os-x-mountain-lion/
 
 # Linux
 
