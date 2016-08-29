@@ -38,7 +38,7 @@ after actually trying it:
 
 # Keyboards
 
-Plover is best used with a keyboard supporting N-Key Rollover (NKRO).
+If you don't have a steno machine, Plover is best used with a keyboard supporting N-Key Rollover (NKRO).
 
 ## What's NKRO?
 
