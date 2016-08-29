@@ -20,7 +20,7 @@ after actually trying it:
 | Product Name                       | Manufacturer       | Protocol/Connection | Comments                |
 | ---------------------------------- | ------------------ | ------------------- | ----------------------- |
 | Elan Cybra Student                 | Stenograph         | TX Bolt (serial)    |                         |
-| Flash Writer                       | ProCAT             |                     |                         |
+| Flash Writer                       | ProCAT             | TX Bolt             | Press `Mode` (far right button), click `Setup`, then press the `Emul` button. Display should read `Emulate: Baron` |
 | Gemini2                            | Neutrino Group     | Gemini PR (serial)  |                         |
 | Gemini RT                          | Neutrino Group     | TX Bolt             | Must start a job on screen or in [Infinity2](http://www.infinitytraditional.com/infinity-2/) |
 | Lightspeed                         | Stenovations       | TX Bolt (serial over USB/Bluetooth) | Baud rate 9600 |
