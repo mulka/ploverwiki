@@ -22,6 +22,7 @@ after actually trying it:
 | Elan Cybra Student                 | Stenograph         | TX Bolt (serial)    |                         |
 | Flash Writer                       | ProCAT             |                     |                         |
 | Gemini2                            | Neutrino Group     | Gemini PR (serial)  |                         |
+| Gemini RT                          | Neutrino Group     | TX Bolt             | Must start a job on screen or in [Infinity2](http://www.infinitytraditional.com/infinity-2/) |
 | Lightspeed                         | Stenovations       | TX Bolt (serial over USB/Bluetooth) | Baud rate 9600 |
 | Infinity Ergonomic                 | Neutrino Group     | Gemini PR (serial over USB/Bluetooth)  | Baud rate 115200 |
 | Infinity Genesis                   | Neutrino Group     | Gemini PR (serial)  |                         |
