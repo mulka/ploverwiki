@@ -32,7 +32,7 @@ after actually trying it:
 | Revolution Grand                   | Neutrino Group     | Gemini PR (serial)  |                         |
 | [SOFT/HRUF](https://softhruf.love) | Scott Urueta       | TX Bolt (serial)    | Open source hardware    |
 | [Stenoboard](http://utopen.com)    | Utopen             | NKRO/TX Bolt/Gemini PR | Open source hardware    |
-| Stentura 400 SRT                   | Stenograph         | Stentura (serial)   |                         |
+| Stentura 400 SRT                   | Stenograph         | Stentura (serial)   | [[Setup Instructions|How-to-setup-and-use-Plover-with-a-Stentura-400SRT]]  |
 | Tréal                              | Word technologies  | Treal (USB)         |                         |
 | Wave                               | Stenograph         |                     |                         |
 
