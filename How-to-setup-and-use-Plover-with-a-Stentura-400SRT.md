@@ -1,7 +1,7 @@
 ## What you need
 * Stentura Stenograph device. This was done with a Stentura 400SRT, but it should work with others versions, as long as it is the electric version.
 * A cable. There are a few options here:
- + Option 1: The Stenograph realtime cable kit. The one that usually comes with the Stentura comes in three parts. A grey connector, a black connector, and a cable.
+ + Option 1: The Stenograph realtime cable kit. The one that usually comes with the Stentura comes in three parts. A grey connector, a black connector, and a cable. There's nothing special about this cable, even though they try to pretend there is. So if you don't already have it, don't spend the amounts of money they are charging to get one. Use Option 2 instead.
  + Option 2: Any RS232 (Also called DB9) male to female cross over-cable (Also known as Null Modem). Here are a few options from Amazon:
     - https://www.amazon.com/StarTech-com-RS232-Serial-Female-SCNM9FM2MBK/dp/B00CEMGMMM/
     - https://www.amazon.com/Serial-Modem-Cable-Female-RS232/dp/B0026KE4CM/
