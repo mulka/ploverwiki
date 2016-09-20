@@ -2,11 +2,12 @@
 Sometimes the first steps of learning stenotype is an especially steep learning curve -- much like learning the alphabet and basic sounds of a new language. This page presents some mnemonic devices to help ease this initial learning process.
 More info on learning steno: http://stenoknight.com/wiki/Practice
 
-##Consonants
-See the Learn Plover [Lesson 1](https://sites.google.com/site/ploverdoc/lesson-1-fingers-and-keys) for more detail.
-Single-stroke consonants
+##Single-stroke consonants and short vowels
+![source: qwertysteno.org](https://www.dropbox.com/s/yhlwbrtwsozxbpd/steno-keyboard2.png?dl=0)
+Word mnemonic for consonants in steno order:
+"STicK PoWer HeRe FoR PuB LoGo: 'ToeS DoZe'"
 
-Compound-stroke consonants
+##Compound-stroke consonants
 
 ##Vowels
 See the Learn Plover [Lesson 1](https://sites.google.com/site/ploverdoc/lesson-1-fingers-and-keys) for more detail.
