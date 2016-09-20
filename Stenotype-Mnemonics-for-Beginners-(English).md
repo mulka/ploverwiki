@@ -62,3 +62,7 @@ saw - AU <br>
 soup - AOU <br>
 pow - OU <br>
 eye - AOEU <br>
+
+##Notes:
+* Layered "xcf" image files editable in [https://www.gimp.org/](GIMP) are available [https://www.dropbox.com/sh/h1ytoo3kydwi8hn/AABXtMzt2gH3TZlhCrTbjeB_a?dl=0](here) if you want to put in some of your own mnemonics.
+* The images provided are for education etc, "[https://en.wikipedia.org/wiki/Fair_use](fair use)".
