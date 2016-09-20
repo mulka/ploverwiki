@@ -16,7 +16,7 @@ Download [hi-res version](https://www.dropbox.com/s/cvzb7c0sv5893jd/024_PloverMn
 ![](https://www.dropbox.com/s/n5c6j3hozbittvr/005_PloverMnemonicVowels.png?raw=1)
 Download [hi-res version](https://www.dropbox.com/s/n5c6j3hozbittvr/005_PloverMnemonicVowels.png?dl=0)
 
-##Mnemonic Image Keys:
+##Mnemonic Image Keys: <br>
 * Consonants:
 **sh**oe
 **z**ebra
