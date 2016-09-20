@@ -51,11 +51,11 @@ bu**lge** (**lj**)
 lo**tion** (**shun**)
 
 * Vowels: <br>
-moon - AO - often disambiguator identifying homophones spelled "oo" or "oa" <br>
+moon - AO - identifies homophones spelled "oo" or "oa" <br>
 mitt - EU<br>
 ape-baby - AEU <br>
 rowing-boat - OE <br>
-pea - AE - often disambiguator identifying homophones spelled "ea" instead of "ee" <br>
+pea - AE - identifies homophones spelled "ea" instead of "ee" <br>
 wheel - AOE <br>
 oil - OEU - often "wildcard" for making funky briefs <br>
 saw - AU <br>
