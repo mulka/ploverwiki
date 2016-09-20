@@ -7,12 +7,12 @@ More info on learning steno: http://stenoknight.com/wiki/Practice
 * Verbal mnemonic for consonants in steno order: <br>
 "STicK PoWer HeRe FoR PuB LoGo: 'ToeS DoZe'" <br>
 * Verbal mnemonic for single-key vowels <br>
-"The bat-bot bet her butt"
+"The bAt-bOt bEt her bUtt that she could put cat-boy behind bars..."
 
-##Compound-stroke consonants
+##Compound-stroke Consonants
+![](https://www.dropbox.com/s/n5c6j3hozbittvr/005_PloverMnemonicVowels.png?dl=0)
 
-##Vowels
-See the Learn Plover [Lesson 1](https://sites.google.com/site/ploverdoc/lesson-1-fingers-and-keys) for more detail.
-Single-stroke vowels:
+##Compound-stroke Vowels
+![](https://www.dropbox.com/s/cvzb7c0sv5893jd/024_PloverMnemonicConsonants.png?dl=0)
 
 Compound-stroke vowels:
