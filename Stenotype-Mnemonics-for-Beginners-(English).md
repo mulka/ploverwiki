@@ -26,39 +26,39 @@ Download [hi-res version](https://www.dropbox.com/s/n5c6j3hozbittvr/005_PloverMn
 **th**ought
 **f**eather
 **d**ucky
-gift
-yellowbrickroad
-chop
-machinegun
-bubble
-lion
-pump
-tooth
-yolk
-link
-patch
-curve
-crunch / -lch
-cash
-pawn
-kong
-pump
-ham
-badge (j)
-sock
-redaction (kshun)
-bulge
-lotion (shun)
+**g**ift
+**y**ellowbrickroad
+**ch**op
+**m**achinegun
+**b**ubble
+**l**ion
+**p**ump
+too**th**
+yo**lk**
+li**nk**
+pat**ch**
+cur**v**e
+cru**nch** / **-lch**
+ca**sh**
+paw**n**
+ko**ng**
+pu**mp**
+ha**m**
+ba**dge** (**j**)
+soc**k**
+reda**ction** (**kshun**)
+bu**lge** (**lj**)
+lo**tion** (**shun**)
 
-* Vowels:
-moon*
-mitt
-ape-baby
-rowing-boat
-pea*
-wheel
-oil*
-saw
-soup
-pow
-eye
+* Vowels: <br>
+moon - AO - often disambiguator identifying homophones spelled "oo" or "oa" <br>
+mitt - EU<br>
+ape-baby - AEU <br>
+rowing-boat - OE <br>
+pea - AE - often disambiguator identifying homophones spelled "ea" instead of "ee" <br>
+wheel - AOE <br>
+oil - OEU - often "wildcard" for making funky briefs <br>
+saw - AU <br>
+soup - AOU <br>
+pow - OU <br>
+eye - AOEU <br>
