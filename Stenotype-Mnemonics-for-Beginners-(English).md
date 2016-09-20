@@ -10,9 +10,11 @@ More info on learning steno: http://stenoknight.com/wiki/Practice
 "The bAt-bOt bEt her bUtt that she could put cat-boy behind bars..."
 
 ##Compound-stroke Consonants
-![](https://www.dropbox.com/s/n5c6j3hozbittvr/005_PloverMnemonicVowels.png?raw=1)
+![](https://www.dropbox.com/s/cvzb7c0sv5893jd/024_PloverMnemonicConsonants.png?raw=1)
+Download [hi-res version](https://www.dropbox.com/s/cvzb7c0sv5893jd/024_PloverMnemonicConsonants.png?dl=0)
 
 ##Compound-stroke Vowels
-![](https://www.dropbox.com/s/cvzb7c0sv5893jd/024_PloverMnemonicConsonants.png?raw=1)
+![](https://www.dropbox.com/s/n5c6j3hozbittvr/005_PloverMnemonicVowels.png?raw=1)
+Download [hi-res version](https://www.dropbox.com/s/n5c6j3hozbittvr/005_PloverMnemonicVowels.png?dl=0)
 
 Compound-stroke vowels:
