@@ -37,7 +37,7 @@ tooth
 yolk
 link
 patch
-curv
+curve
 crunch / -lch
 cash
 pawn
