@@ -3,13 +3,13 @@ Sometimes the first steps of learning stenotype is an especially steep learning 
 More info on learning steno: http://stenoknight.com/wiki/Practice
 
 ##Consonants
-See the Learn Plover page for more detail.
-Single-stroke consonants:
+See the Learn Plover [Lesson 1](https://sites.google.com/site/ploverdoc/lesson-1-fingers-and-keys) for more detail.
+Single-stroke consonants
 
 Compound-stroke consonants
 
 ##Vowels
-See the Learn Plover page for more detail.
+See the Learn Plover [Lesson 1](https://sites.google.com/site/ploverdoc/lesson-1-fingers-and-keys) for more detail.
 Single-stroke vowels:
 
 Compound-stroke vowels:
