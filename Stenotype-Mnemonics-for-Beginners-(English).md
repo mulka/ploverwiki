@@ -4,8 +4,9 @@ More info on learning steno: http://stenoknight.com/wiki/Practice
 
 ##Single-stroke consonants and short vowels
 ![source: qwertysteno.org](https://www.dropbox.com/s/yhlwbrtwsozxbpd/steno-keyboard2.png?dl=0)
-Word mnemonic for consonants in steno order: <br>
-"STicK PoWer HeRe FoR PuB LoGo: 'ToeS DoZe'"
+* Verbal mnemonic for consonants in steno order: <br>
+* * "STicK PoWer HeRe FoR PuB LoGo: 'ToeS DoZe'" <br>
+V
 
 ##Compound-stroke consonants
 
