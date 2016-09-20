@@ -65,4 +65,6 @@ eye - AOEU <br>
 
 ##Notes:
 * Layered "xcf" image files editable in [GIMP](https://www.gimp.org/) are available [here](https://www.dropbox.com/sh/h1ytoo3kydwi8hn/AABXtMzt2gH3TZlhCrTbjeB_a?dl=0) if you want to put in some of your own mnemonics.
+* The best mnemonics are always the ones you make up yourself. So feel encouraged to make your own mnemonic sketches, or modify the xcf file with your favorite sound/image associations.
+* Info about mnemonic methods: http://artofmemory.com/ , https://en.wikipedia.org/wiki/World_Memory_Championships , https://www.ted.com/talks/joshua_foer_feats_of_memory_anyone_can_do?language=en
 * The images provided are for education etc, "[fair use](https://en.wikipedia.org/wiki/Fair_use)".
