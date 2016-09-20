@@ -64,5 +64,5 @@ pow - OU <br>
 eye - AOEU <br>
 
 ##Notes:
-* Layered "xcf" image files editable in [https://www.gimp.org/](GIMP) are available at [https://www.dropbox.com/sh/h1ytoo3kydwi8hn/AABXtMzt2gH3TZlhCrTbjeB_a?dl=0](bla) if you want to put in some of your own mnemonics.
-* The images provided are for education etc, "[https://en.wikipedia.org/wiki/Fair_use](fair use)".
+* Layered "xcf" image files editable in [GIMP](https://www.gimp.org/) are available [here](https://www.dropbox.com/sh/h1ytoo3kydwi8hn/AABXtMzt2gH3TZlhCrTbjeB_a?dl=0) if you want to put in some of your own mnemonics.
+* The images provided are for education etc, "[fair use](https://en.wikipedia.org/wiki/Fair_use)".
