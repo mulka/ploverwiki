@@ -17,7 +17,7 @@ Download [hi-res version](https://www.dropbox.com/s/cvzb7c0sv5893jd/024_PloverMn
 Download [hi-res version](https://www.dropbox.com/s/n5c6j3hozbittvr/005_PloverMnemonicVowels.png?dl=0)
 
 ##Mnemonic Image Keys:
-Consonants:
+* Consonants:
 **sh**oe
 **z**ebra
 **v**ote
@@ -49,3 +49,16 @@ sock
 redaction (kshun)
 bulge
 lotion (shun)
+
+* Vowels:
+moon*
+mitt
+ape-baby
+rowing-boat
+pea*
+wheel
+oil*
+saw
+soup
+pow
+eye
