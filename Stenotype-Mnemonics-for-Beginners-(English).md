@@ -9,12 +9,43 @@ More info on learning steno: http://stenoknight.com/wiki/Practice
 * Verbal mnemonic for single-key vowels <br>
 "The bAt-bOt bEt her bUtt that she could put cat-boy behind bars..."
 
-##Compound-stroke Consonants
+##Compound-stroke Mnemonic Images
 ![](https://www.dropbox.com/s/cvzb7c0sv5893jd/024_PloverMnemonicConsonants.png?raw=1)
 Download [hi-res version](https://www.dropbox.com/s/cvzb7c0sv5893jd/024_PloverMnemonicConsonants.png?dl=0)
 
-##Compound-stroke Vowels
 ![](https://www.dropbox.com/s/n5c6j3hozbittvr/005_PloverMnemonicVowels.png?raw=1)
 Download [hi-res version](https://www.dropbox.com/s/n5c6j3hozbittvr/005_PloverMnemonicVowels.png?dl=0)
 
-Compound-stroke vowels:
+##Mnemonic Image Keys:
+Consonants:
+**sh**oe
+**z**ebra
+**v**ote
+**j**avelin
+**n**ose
+**th**ought
+**f**eather
+**d**ucky
+gift
+yellowbrickroad
+chop
+machinegun
+bubble
+lion
+pump
+tooth
+yolk
+link
+patch
+curv
+crunch / -lch
+cash
+pawn
+kong
+pump
+ham
+badge (j)
+sock
+redaction (kshun)
+bulge
+lotion (shun)
