@@ -1,6 +1,6 @@
 ##Learning Steno
 Sometimes the first steps of learning stenotype is an especially steep learning curve -- much like learning the alphabet and basic sounds of a new language. This page presents some mnemonic devices to help ease this initial learning process.
-More info on learning steno: http://stenoknight.com/wiki/Practice
+These mnemonics are for use along with a steno tutorial, such as Qwertysteno, LearnPlover, Steno101, etc. These and more are available here: http://stenoknight.com/wiki/Practice
 
 ##Single-stroke consonants and single-stroke vowels
 ![source: qwertysteno.org](https://www.dropbox.com/s/yhlwbrtwsozxbpd/steno-keyboard2.png?raw=1)
