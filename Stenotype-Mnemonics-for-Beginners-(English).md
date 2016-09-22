@@ -55,7 +55,7 @@ moon - AO - identifies homophones spelled "oo" or "oa" <br>
 mitt - EU<br>
 ape-baby - AEU <br>
 rowing-boat - OE <br>
-pea - AE - identifies homophones spelled "ea" instead of "ee" <br>
+pea - AE - identifies homophones spelled "ea" or "ae" <br>
 wheel - AOE <br>
 oil - OEU - often "wildcard" for making funky briefs <br>
 saw - AU <br>
