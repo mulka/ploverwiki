@@ -6,6 +6,7 @@ Plover supports several protocols that are in use by various machines:
 
 * **Stentura serial**: most machines by Stenograph and many others.
 * **Gemini PR serial**: typically any recent machine made by the Neutrino Group, such as the Piper, Revolution, or Infinity series.
+* **ProCAT**: protocol used by all ProCAT machines.
 * **TX Bolt**: an older protocol supported by some machines as a primary or secondary protocol.
 * **Treal**: used only by the Treal from Word Technologies.
 * **Passport**: used only by the Passport Writer from Advantage Software.
@@ -20,6 +21,7 @@ after actually trying it:
 | Product Name                       | Manufacturer       | Protocol/Connection | Comments                |
 | ---------------------------------- | ------------------ | ------------------- | ----------------------- |
 | Elan Cybra Student                 | Stenograph         | TX Bolt (serial)    |                         |
+| Flash, Blaze, Impression, and Xpression | ProCAT        | ProCAT              |                         |
 | Flash Writer                       | ProCAT             | TX Bolt             | Press `Mode` (far right button), click `Setup`, then press the `Emul` button. Display should read `Emulate: Baron` |
 | Gemini2                            | Neutrino Group     | Gemini PR (serial)  |                         |
 | Gemini RT                          | Neutrino Group     | TX Bolt             | Must start a job on screen or in [Infinity2](http://www.infinitytraditional.com/infinity-2/) |
