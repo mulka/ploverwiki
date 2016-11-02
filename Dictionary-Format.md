@@ -5,13 +5,19 @@ This page is under construction. Please refer to [Learn Plover! Appendix: The Di
 - [JSON and RTF/CRE](#json-and-rtfcre)
 - [Sending Symbols](#sending-symbols)
 - [Text Formatting](#text-formatting)
-  * [Prefixes, Infixes, and Suffixes](#prefixes-infixes-and-suffixes)
-  * [Carrying Capitalization](#carrying-capitalization)
+  - [Prefixes, Infixes, and Suffixes](#prefixes-infixes-and-suffixes)
+  - [Capitalizing](#capitalizing)
+    - [Capitalize Next Word](#capitalize-next-word)
+    - [Capitalize Last Word](#capitalize-last-word)
+  - [Carrying Capitalization](#carrying-capitalization)
+  - [Uppercasing (CAPS)](#uppercasing-caps)
+    - [Uppercase Next Word](#uppercase-next-word)
+    - [Uppercase Last Word](#uppercase-last-word)
 - [Commands and Keyboard Shortcuts](#commands-and-keyboard-shortcuts)
 - [Output Modes](#output-modes)
-  * [Reset Command](#reset-command)
-  * [Modes](#modes)
-  * [Custom Modes](#custom-modes)
+  - [Reset Command](#reset-command)
+  - [Modes](#modes)
+  - [Custom Modes](#custom-modes)
 
 ## JSON and RTF/CRE
 
@@ -42,6 +48,24 @@ Strokes can be attached at the beginning and/or end using the "attach" operator.
 - `{in^}` is a prefix, e.g. `influx`.
 - Most custom punctuation entries will take advantage of the attach operator, e.g. `{^—^}` for an emdash.
 
+### Capitalizing
+
+Capitalizing a word means turning the first letter into a capital, e.g. proper nouns and in titles. Usually your dictionary has capitals pre-defined, but there are times when you need to capitalize a word on the go.
+
+#### Capitalize Next Word
+
+- `{-|}`
+
+The next word will have a capitalized first letter. In the default dictionary, we have `"KPA": "{-|}"`, which will capitalize the next word; and `"KPA*": "{^}{-|}"` which omits a space and capitalizes the next word. That last stroke would let you writeLikeThis, which some programmers use (camel case).
+
+Capitalize next word can also be used in name titles, like `Ms. {-|}`.
+
+#### Capitalize Last Word
+
+- `{*-|}`
+
+The last stroke word will have a capitalized first letter. This is useful in case you realize that a word should be capitalized after you've written it. It can also be used in a stroke, like in `{*-|}{^ville}`, which would capitalize the last word and attach to it, which would be useful for town names on the fly, like `Catville`.
+
 ### Carrying Capitalization
 
 - `{~|}` or `{^~|^}` where the attach operator is optional.
@@ -57,6 +81,22 @@ In English, we have punctuation that doesn't get capitalized, but instead the ne
   "PR*EPB": "{^~|)}"
 }
 ```
+
+### Uppercasing (CAPS)
+
+See [Output Modes](#output-modes) for CAPS mode, which acts like CAPS lock on a regular keyboard. Alternatively, you can use a [Command](#commands-and-keyboard-shortcuts) set to `{#Caps_Lock}` to activate the system CAPS lock like you can on your keyboard.
+
+#### Uppercase Next Word
+
+- `{<}`
+
+Output next stroke in capital letters, e.g. `{<}cat` → `CAT`
+
+#### Uppercase Last Word
+
+- '{*<}`
+
+Rewrite last word in capital letters, e.g. `cat{*<}` → `CAT`
 
 ## Commands and Keyboard Shortcuts
 
@@ -77,7 +117,7 @@ You can also use key names, which is needed when you are accessing a symbol key.
 If you want to use a modifier, just use it by name. For convenience, all key names are case insensitive and you can optionally default to the left modifier by dropping the side selector:
 
 --------------------
-| Modifier | Command Key Names | 
+| Modifier | Command Key Names (case-insensitive) | 
 |----------|----------| 
 | Shift | `Shift_L`, `Shift_R`, `shift` | 
 | Control |  `Control_L`, `Control_R`, `control` | 
@@ -85,7 +125,24 @@ If you want to use a modifier, just use it by name. For convenience, all key nam
 | Super | `Super_L`, `Super_R`, `super`, `windows`, `command` | 
 --------------------
 
-To use modifiers, simply use parentheses to delimit where keys are pressed down. Here are some shortcuts in a JSON format:
+To use modifiers, simply use parentheses to delimit where keys are pressed down.
+
+Here are the key names you'll want to use:
+
+--------------------
+| Keys | Command Key Names (case-insensitive) | 
+|----------|----------| 
+| Letters | `a`, `b`, …, `z` |
+| Accented Letters (international layouts) | `udiaeresis`, `eacute`,  |
+| Numbers | `0`, `1`, …, `9` | 
+| Control Keys |  `Escape`, `Tab`, `Caps_Lock`, `space`, `BackSpace`, `Delete`, `Return` | 
+| F-Keys | `F1`, `F2`, …, `F12` | 
+| Common Named Keys | `asciitilde` (~), `asciicircum` (^), `equals`, `minus`, `slash`, `backslash`, `comma`, `colon` |
+--------------------
+
+Consult the code for the [full list of supported keyboard shortcut keys](https://github.com/openstenoproject/plover/blob/master/plover/key_combo.py#L21). Recommend, if you want to send a symbol, just use the character. Only use commands when you need to control which modifiers are hit and for special keys.
+
+Here are some shortcuts in a JSON format:
 
 - `"STPH-G": "{#right}"` — right arrow on the keyboard, for moving the cursor to the right once
 - `"SKWR-G": "{#shift(right)}"` — shift and right arrow on the keyboard, for selecting one character
