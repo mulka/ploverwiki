@@ -94,7 +94,7 @@ Output next stroke in capital letters, e.g. `{<}cat` → `CAT`
 
 #### Uppercase Last Word
 
-- '{*<}`
+- `{*<}`
 
 Rewrite last word in capital letters, e.g. `cat{*<}` → `CAT`
 
