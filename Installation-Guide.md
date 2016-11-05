@@ -31,7 +31,7 @@ Each release has files for all the operating systems we support. You only need t
 
 - Download the `.exe` file from the release page.
 - You can place the file anywhere on your computer. You will run it from the same location every time.
-- Open the file to launch Plover. If it is your first launch, you will need to configure Plover to look for your machine type.
+- Open the file to launch Plover.
 
 ### Mac
 
@@ -50,7 +50,13 @@ Use AUR package [plover](https://aur.archlinux.org/packages/plover/) for stabled
 
 #### Other
 
-You can `pip install` the wheel file. You can `chmod +x` the egg if you have all dependencies installed. Additional instructions for various repos can be found in the [Linux README](https://github.com/openstenoproject/plover/tree/master/linux)
+You need to install Python 2 (with pip support), wxPython, and wmctrl (optional). Once this is done, download the wheel file for the version you want to run and install it like this:
+
+`python2 -m pip install --user plover-3.0.0-py2-none-any.whl`
+
+You can then start Plover with:
+
+`~/.local/bin/plover`
 
 ## Setting up my machine
 
