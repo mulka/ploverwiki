@@ -154,20 +154,17 @@ You can also use key names, which is needed when you are accessing a symbol key.
 
 If you want to use a modifier, just use it by name. For convenience, all key names are case insensitive and you can optionally default to the left modifier by dropping the side selector:
 
---------------------
 | Modifier | Command Key Names (case-insensitive) | 
 |----------|----------| 
 | Shift | `Shift_L`, `Shift_R`, `shift` | 
 | Control |  `Control_L`, `Control_R`, `control` | 
 | Alt | `Alt_L`, `Alt_R`, `alt`, `option` | 
 | Super | `Super_L`, `Super_R`, `super`, `windows`, `command` | 
---------------------
 
 To use modifiers, simply use parentheses to delimit where keys are pressed down.
 
 Here are the key names you'll want to use:
 
---------------------
 | Keys | Command Key Names (case-insensitive) | 
 |----------|----------| 
 | Letters | `a`, `b`, …, `z` |
@@ -176,9 +173,7 @@ Here are the key names you'll want to use:
 | Control Keys |  `Escape`, `Tab`, `Caps_Lock`, `space`, `BackSpace`, `Delete`, `Return`, etc. | 
 | F-Keys | `F1`, `F2`, …, `F12` | 
 | Common Named Keys | `asciitilde` (~), `asciicircum` (^), `equals`, `minus`, `slash`, `backslash`, `comma`, `colon`, etc. |
-| Media Keys | **Common**: `AudioRaiseVolume`, `AudioLowerVolume`, `AudioMute`, `AudioNext`, `AudioPrev`, `AudioStop`, `AudioPlay`, `AudioPause`, `Eject`, **Mac**: `MonBrightnessUp`, `MonBrightnessDown`, `KbdBrightnessUp`, `KbdBrightnessDown`, **Windows**: `Back`, `Forward`, `Refresh`. Note: Linux supports supports any XF86 keyname.
- |
---------------------
+| Media Keys | **Common**: `AudioRaiseVolume`, `AudioLowerVolume`, `AudioMute`, `AudioNext`, `AudioPrev`, `AudioStop`, `AudioPlay`, `AudioPause`, `Eject`, **Mac**: `MonBrightnessUp`, `MonBrightnessDown`, `KbdBrightnessUp`, `KbdBrightnessDown`, **Windows**: `Back`, `Forward`, `Refresh`. Note: Linux supports supports any XF86 keyname. |
 
 Consult the code for the [full list of supported keyboard shortcut keys](https://github.com/openstenoproject/plover/blob/master/plover/key_combo.py#L21). Remember, if you want to send a symbol, just use the character in your translation. Only use commands when you need to control which modifiers are hit and for control keys like Tab and BackSpace.
 
@@ -216,7 +211,6 @@ You can reset the output mode to its default with `{MODE:RESET}`. It is **highly
 
 There are some built-in modes you can use:
 
---------------------
 | Dictionary Syntax | Sample Output | 
 |-----------|---------|
 | `{MODE:CAPS}` | THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG. |
@@ -224,16 +218,13 @@ There are some built-in modes you can use:
 | `{MODE:LOWER}` | the quick brown fox jumps over the lazy dog. |
 | `{MODE:CAMEL}` | theQuickBrownFoxJumpsOverTheLazyDog. |
 | `{MODE:SNAKE}` | The_quick_brown_fox_jumps_over_the_lazy_dog. |
---------------------
 
 ### Custom Modes
 
 You can define your own custom modes with the `SET_SPACE:` operator, which allows you to replace the space that Plover outputs with anything. Plover's snake-mode is the same as `SET_SPACE:_`. Here are some other examples:
 
---------------------
 | Dictionary Syntax | Sample Output | 
 |---------|-----------|
 | `{MODE:SET_SPACE:}` | Thequickbrownfoxjumpsoverthelazydog. |
 | `{MODE:SET_SPACE:-}` | The-quick-brown-fox-jumps-over-the-lazy-dog. | 
 | `{MODE:SET_SPACE:😁}` | The😁quick😁brown😁fox😁jumps😁over😁the😁lazy😁dog. | 
---------------------
