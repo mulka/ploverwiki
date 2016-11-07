@@ -1,0 +1,2 @@
+- [Stenotype Mnemonics for Beginners (English)](https://github.com/openstenoproject/plover/wiki/Stenotype-Mnemonics-for-Beginners-(English))
+- [How to setup and use Plover with a Stentura 400SRT](https://github.com/openstenoproject/plover/wiki/How-to-setup-and-use-Plover-with-a-Stentura-400SRT)
