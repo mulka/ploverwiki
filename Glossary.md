@@ -55,35 +55,35 @@ such as `"SKP": "and"`.
 
 A misstroke is like a "chord typo". It's when you mean to write one chord, but stroke another. Often, dictionaries have misstroke entries that are added when a stenographer frequently misstrokes an entry. For example, take the stroke `TKPWAOD` (meaning `GAOD`) which translates to `good`. Sometimes the stenographer may miss a key, so they could have a misstroke entry `TKPAOD` which would also translate to `good`. Then they are protected from these typos in regular writing. There are many misstroke entries in the default dictionary, and you must try to make sense of results when you look up words, instead of blindly accepting the shortest stroke.
 
-#### RTF/CRE
+### RTF/CRE
 
 Plover can read steno dictionaries in JSON and RTF/CRE format. RTF/CRE stands for
-rich text format with court reporting extensions. It is a standard format that most
+`rich text format with court reporting extensions`. It is a standard format that most
 proprietary steno software can import from and export to. Plover can read RTF/CRE
 natively.
 
-#### Stacking
+### Stacking
 
 When writing stenography, if you accidentally merge two strokes into one, it is called stacking. For example, you might try to write `the rap` with `T-/RAP` but end up with `TRAP → trap` because you stacked the strokes. To avoid stacking, the stenographer must be sure to release all keys in their chord before stroking the next. Sometimes machines are prone to stacking due to bad debouncing or sticking keys.
 
-#### Steno Dictionary
+### Steno Dictionary
 
 Used by Plover or other stenotype software. Contains all the words and
 the strokes that produce those words. While generally these are
 constructed using a [[steno theory|Glossary#steno-theory]], this can be freely modified by the
 stenographer. Dictionaries are a collection of entries, which map strokes to translation.
 
-#### Steno Order
+### Steno Order
 
 The 22 keys on the steno machine has an explicit "order" that gets read out,
 top-to-bottom, left to write. The entire steno layout is defined by `STKPWHRAO*EUFRPBLGTSDZ`.
 
-#### Stroke
+### Stroke
 
 Can refer to a [[chord|Glossary#chord]], or a set of chords that you have for a
 given translation. E.g., "my stroke for `steno-dude` is `STOEUPB/TKAOUD`"
 
-#### Steno Theory
+### Steno Theory
 
 A "system" or way of thinking that determines which steno strokes will
 match to which words. Theories range generally from being based on
@@ -94,11 +94,11 @@ stroke-heavy theory. It is recommended to start learning with Plover theory, and
 you will likely learn what style you like and you can always switch later. Mirabai
 uses the Plover dictionary professionally.
 
-#### Untranslate
+### Untranslate
 
 When writing in stenography, your strokes map to translations. E.g. `KAT → cat`. However, if a stroke is not in your dictionary, the raw form will be outputted instead. This is called an untranslate. For example, if your dictionary doesn't have `KAT`, Plover will simply output `KAT`.
 
-#### Word Boundary
+### Word Boundary
 
 The implicit spacing in between words. Spacing is inserted automatically
 by Plover or other steno software. As words and phrases will often sound
