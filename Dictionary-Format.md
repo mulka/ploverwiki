@@ -171,14 +171,16 @@ Here are the key names you'll want to use:
 | Keys | Command Key Names (case-insensitive) | 
 |----------|----------| 
 | Letters | `a`, `b`, …, `z` |
-| Accented Letters (international layouts) | `udiaeresis`, `eacute`,  |
+| Accented Letters (international layouts) | `udiaeresis`, `eacute`, etc.  |
 | Numbers | `0`, `1`, …, `9` | 
-| Control Keys |  `Escape`, `Tab`, `Caps_Lock`, `space`, `BackSpace`, `Delete`, `Return` | 
+| Control Keys |  `Escape`, `Tab`, `Caps_Lock`, `space`, `BackSpace`, `Delete`, `Return`, etc. | 
 | F-Keys | `F1`, `F2`, …, `F12` | 
-| Common Named Keys | `asciitilde` (~), `asciicircum` (^), `equals`, `minus`, `slash`, `backslash`, `comma`, `colon` |
+| Common Named Keys | `asciitilde` (~), `asciicircum` (^), `equals`, `minus`, `slash`, `backslash`, `comma`, `colon`, etc. |
+| Media Keys | **Common**: `AudioRaiseVolume`, `AudioLowerVolume`, `AudioMute`, `AudioNext`, `AudioPrev`, `AudioStop`, `AudioPlay`, `AudioPause`, `Eject`, **Mac**: `MonBrightnessUp`, `MonBrightnessDown`, `KbdBrightnessUp`, `KbdBrightnessDown`, **Windows**: `Back`, `Forward`, `Refresh`. Note: Linux supports supports any XF86 keyname.
+ |
 --------------------
 
-Consult the code for the [full list of supported keyboard shortcut keys](https://github.com/openstenoproject/plover/blob/master/plover/key_combo.py#L21). Recommend, if you want to send a symbol, just use the character. Only use commands when you need to control which modifiers are hit and for special keys.
+Consult the code for the [full list of supported keyboard shortcut keys](https://github.com/openstenoproject/plover/blob/master/plover/key_combo.py#L21). Remember, if you want to send a symbol, just use the character in your translation. Only use commands when you need to control which modifiers are hit and for control keys like Tab and BackSpace.
 
 Here are some shortcuts in a JSON format:
 
