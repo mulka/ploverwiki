@@ -8,6 +8,7 @@ This glossary will help you with terms that you may come across in the steno com
 - [Dragging](#dragging)
 - [JSON](#json)
 - [RTF/CRE](#rtfcre)
+- [Stacking](#stacking)
 - [Steno Dictionary](#steno-dictionary)
 - [Steno Order](#steno-order)
 - [Stroke](#stroke)
