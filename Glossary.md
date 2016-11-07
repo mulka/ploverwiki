@@ -8,6 +8,7 @@ This glossary will help you with terms that you may come across in the steno com
 - [Dragging](#dragging)
 - [JSON](#json)
 - [RTF/CRE](#rtfcre)
+- [Misstroke](#misstroke)
 - [Stacking](#stacking)
 - [Steno Dictionary](#steno-dictionary)
 - [Steno Order](#steno-order)
@@ -16,7 +17,7 @@ This glossary will help you with terms that you may come across in the steno com
 - [Untranslate](#untranslate)
 - [Word Boundary](#word-boundary)
 
-#### Brief
+### Brief
     
 Also known as the "abbreviation", "short form", or "arbitrary".  Briefs
 are simply non-phonetic mappings of steno outlines to English words or
@@ -30,25 +31,29 @@ Or, as a simple brief:
 
 `FRIMT` (reads: "frimt" and takes only one stroke)
 
-#### Chord
+### Chord
 
 The pressing down of multiple keys at the same time. Contrast with a QWERTY-style typing system which hits only one key at a time.
 
-#### Conflict
+### Conflict
 
 1. traditionally: a conflict-based theory uses one stroke for multiple translations. For example, a non-realtime stenographer could use the same stroke for "bare", "bear", and "bar", which is a conflict that the stenographer would have to manually resolve at a later time. Plover is a realtime-only system and does not support conflict-theories.
 
 2. informal; a.k.a collision: when two dictionaries have the same stroke, the dictionary with the highest priority is favored. For this reason, it is important to understand your dictionary order.
 
-#### Dragging
+### Dragging
 
 Dragging is the term used to describe accidentally dragging another key into your stroke. E.g. if you try to write `-F` but then drag your finger to the left, you might hit `*F` instead.
 
-#### JSON
+### JSON
 
 JSON, in the context of stenography, is a dictionary format which maps steno
 strokes to translations. You will often see strokes expressed in the JSON format,
 such as `"SKP": "and"`.
+
+### Misstroke
+
+A misstroke is like a "chord typo". It's when you mean to write one chord, but stroke another. Often, dictionaries have misstroke entries that are added when a stenographer frequently misstrokes an entry. For example, take the stroke `TKPWAOD` (meaning `GAOD`) which translates to `good`. Sometimes the stenographer may miss a key, so they could have a misstroke entry `TKPAOD` which would also translate to `good`. Then they are protected from these typos in regular writing. There are many misstroke entries in the default dictionary, and you must try to make sense of results when you look up words, instead of blindly accepting the shortest stroke.
 
 #### RTF/CRE
 
