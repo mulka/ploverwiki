@@ -12,3 +12,5 @@
 - [Glossary](https://github.com/openstenoproject/plover/wiki/Glossary)
 
 ### [The Steno Community](https://github.com/openstenoproject/plover/wiki/Links-to-the-Steno-Community)
+
+#### [Other Pages](https://github.com/openstenoproject/plover/wiki/Other-Pages)
