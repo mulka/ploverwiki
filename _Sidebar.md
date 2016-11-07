@@ -1,5 +1,6 @@
 ### [Plover](https://github.com/openstenoproject/plover/wiki)
 
+- [Homepage (external)](http://www.openstenoproject.org/plover/)
 - [Installation Guide](https://github.com/openstenoproject/plover/wiki/Installation-Guide)
 - [Supported Hardware](https://github.com/openstenoproject/plover/wiki/Supported-Hardware)
 - [Dictionary Format](https://github.com/openstenoproject/plover/wiki/Dictionary-Format)
