@@ -5,12 +5,14 @@ This glossary will help you with terms that you may come across in the steno com
 - [Brief](#brief)
 - [Chord](#chord)
 - [Conflict](#conflict)
+- [Dragging](#dragging)
 - [JSON](#json)
 - [RTF/CRE](#rtfcre)
 - [Steno Dictionary](#steno-dictionary)
 - [Steno Order](#steno-order)
 - [Stroke](#stroke)
 - [Steno Theory](#steno-theory)
+- [Untranslate](#untranslate)
 - [Word Boundary](#word-boundary)
 
 #### Brief
@@ -37,6 +39,10 @@ The pressing down of multiple keys at the same time. Contrast with a QWERTY-styl
 
 2. informal; a.k.a collision: when two dictionaries have the same stroke, the dictionary with the highest priority is favored. For this reason, it is important to understand your dictionary order.
 
+#### Dragging
+
+Dragging is the term used to describe accidentally dragging another key into your stroke. E.g. if you try to write `-F` but then drag your finger to the left, you might hit `*F` instead.
+
 #### JSON
 
 JSON, in the context of stenography, is a dictionary format which maps steno
@@ -49,6 +55,10 @@ Plover can read steno dictionaries in JSON and RTF/CRE format. RTF/CRE stands fo
 rich text format with court reporting extensions. It is a standard format that most
 proprietary steno software can import from and export to. Plover can read RTF/CRE
 natively.
+
+#### Stacking
+
+When writing stenography, if you accidentally merge two strokes into one, it is called stacking. For example, you might try to write `the rap` with `T-/RAP` but end up with `TRAP → trap` because you stacked the strokes. To avoid stacking, the stenographer must be sure to release all keys in their chord before stroking the next. Sometimes machines are prone to stacking due to bad debouncing or sticking keys.
 
 #### Steno Dictionary
 
@@ -77,6 +87,10 @@ which is descended from StenEd. It offers a hybrid between a brief-heavy and
 stroke-heavy theory. It is recommended to start learning with Plover theory, and
 you will likely learn what style you like and you can always switch later. Mirabai
 uses the Plover dictionary professionally.
+
+#### Untranslate
+
+When writing in stenography, your strokes map to translations. E.g. `KAT → cat`. However, if a stroke is not in your dictionary, the raw form will be outputted instead. This is called an untranslate. For example, if your dictionary doesn't have `KAT`, Plover will simply output `KAT`.
 
 #### Word Boundary
 
