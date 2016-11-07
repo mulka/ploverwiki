@@ -3,6 +3,7 @@ This page is under construction. Please refer to [Learn Plover! Appendix: The Di
 **Table of Contents**
 
 - [JSON and RTF/CRE](#json-and-rtfcre)
+- [Plover Control Commands](#plover-control-commands)
 - [Sending Symbols](#sending-symbols)
 - [Text Formatting](#text-formatting)
   - [Prefixes, Infixes, and Suffixes](#prefixes-infixes-and-suffixes)
@@ -22,6 +23,43 @@ This page is under construction. Please refer to [Learn Plover! Appendix: The Di
 ## JSON and RTF/CRE
 
 Plover supports two types of dictionaries, **JSON** (the default and recommended format) and **RTF**. RTF/CRE is an import/export format used by proprietary steno software, which means that Plover can work with exported dictionaries from Eclipse, ProCAT, Case CATalyst, and more. There are some caveats with each format, however. Mainly, RTF dictionaries will cause Plover to take longer to start up and won't have Unicode support, while JSON is a Plover-specific format and moving to other steno software will require a conversion to RTF. The Plover JSON format also doesn't have support for stroke metadata, but at the moment Plover doesn't support reading/writing RTF metadata.
+
+## Plover Control Commands
+
+You can control some aspects of Plover with strokes. Strokes provided in the included `commands.json` are shown.
+
+- Add Translation `{PLOVER:ADD_TRANSLATION}`
+
+   Opens a translation window where you can enter a stroke and translation text to create a new dictionary entry. Default stroke: `TKUPT` (think DUPT for "Dictionary UPdaTe")
+
+- Look Up Stroke `{PLOVER:LOOKUP}`
+
+    Open a search dialog that you write a translation into to get a list of entries in your dictionaries. Suggested stroke: `PHR*UP`
+
+- Disable Output `{PLOVER:SUSPEND}`
+
+    Stop translating steno. With a keyboard machine, you will be able to type normally again. Default stroke: `PHRO*F` (think PLOF for "PLover OFf")
+
+- Enable Output `{PLOVER:RESUME}`
+
+    Re-enable Plover's output. You can write this stroke to switch back from your keyboard into steno mode.
+Default stroke: `PHROPB` (think PLON for "PLover ON")
+
+- Toggle Output `{PLOVER:TOGGLE}`
+
+    Toggle between output being enabled and disabled. Default stroke: `PHROLG` (think PLOLG, for PLOver toGGLe)
+
+- Configure `{PLOVER:CONFIGURE}`
+
+    Open and focus the Plover configuration window.
+
+- Focus `{PLOVER:FOCUS}`
+
+    Open and focus the main Plover window.
+
+- Quit `{PLOVER:QUIT}`
+
+    Quit Plover entirely.
 
 ## Sending Symbols
 
