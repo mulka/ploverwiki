@@ -33,14 +33,15 @@ after actually trying it:
 | Protege                            | Stenograph         |                     |                         |
 | Revolution Grand                   | Neutrino Group     | Gemini PR (serial)  |                         |
 | [SOFT/HRUF](https://softhruf.love) | Scott Urueta       | TX Bolt (serial)    | Open source hardware    |
-| [Stenoboard](http://utopen.com)    | Utopen             | NKRO/TX Bolt/Gemini PR | Open source hardware    |
+| [Stenoboard](http://utopen.com)    | Utopen             | NKRO/TX Bolt/Gemini PR | Open source hardware |
+| [Stenomod](https://stenomod.blogspot.com) | Charley Shattuck | TX Bolt        | Open source hardware    |
 | Stentura 400 SRT                   | Stenograph         | Stentura (serial)   | [[Setup Instructions|How-to-setup-and-use-Plover-with-a-Stentura-400SRT]]  |
 | Tréal                              | Word technologies  | Treal (USB)         |                         |
 | Wave                               | Stenograph         |                     |                         |
 
 # Keyboards
 
-If you don't have a steno machine, Plover is best used with a keyboard supporting N-Key Rollover (NKRO).
+If you don't have a steno machine, the next best option is a keyboard that supports N-Key Rollover (NKRO).
 
 ## What's NKRO?
 
