@@ -27,6 +27,9 @@ These are drill sites used by stenographers.
 
 If you want to eventually caption speakers, you will need to be able to take dictation.
 
+- [Steno Arcade](http://store.steampowered.com/app/449000/)
+   Steno Arcade is a project funded by the Open Steno Project, developed by [For All To Play](http://www.foralltoplay.com/). It contains Steno Hero, a game where you write lyrics in time with a singer and get graded on accuracy. You can create custom song files for use in the game by using [wavelyric](http://timothyaveni.com/wavelyric/).
+
 - YouTube
 
    YouTube videos will offer a good start for dictation. You can find [dictations on YouTube](http://www.stenotube.com/category/5/Practice+Dictation), as well as material designed for ESL students, and speeches by your favorite speaker.
