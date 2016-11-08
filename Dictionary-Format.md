@@ -15,6 +15,9 @@ This page is under construction. Please refer to [Learn Plover! Appendix: The Di
     - [Uppercase Next Word](#uppercase-next-word)
     - [Uppercase Last Word](#uppercase-last-word)
 - [Commands and Keyboard Shortcuts](#commands-and-keyboard-shortcuts)
+  - [Modifier Names](#modifier-names)
+  - [Shortcut Key Names](#shortcut-key-names)
+  - [Sample Shortcuts](#sample-shortcuts)
 - [Output Modes](#output-modes)
   - [Reset Command](#reset-command)
   - [Modes](#modes)
@@ -152,6 +155,8 @@ You can also use key names, which is needed when you are accessing a symbol key.
 
 - `{#equals plus}` will send "==" because Plover doesn't send modifiers, but rather just hits the key based on the name. If you want to send symbols, though, don't use commands. Just use the symbol in the translation. Commands should be used for keyboard shortcuts only.
 
+### Modifier Names
+
 If you want to use a modifier, just use it by name. For convenience, all key names are case insensitive and you can optionally default to the left modifier by dropping the side selector:
 
 | Modifier | Command Key Names (case-insensitive) | 
@@ -162,6 +167,8 @@ If you want to use a modifier, just use it by name. For convenience, all key nam
 | Super | `Super_L`, `Super_R`, `super`, `windows`, `command` | 
 
 To use modifiers, simply use parentheses to delimit where keys are pressed down.
+
+### Shortcut Key Names
 
 Here are the key names you'll want to use:
 
@@ -176,6 +183,8 @@ Here are the key names you'll want to use:
 | Media Keys | **Common**: `AudioRaiseVolume`, `AudioLowerVolume`, `AudioMute`, `AudioNext`, `AudioPrev`, `AudioStop`, `AudioPlay`, `AudioPause`, `Eject`, **Mac**: `MonBrightnessUp`, `MonBrightnessDown`, `KbdBrightnessUp`, `KbdBrightnessDown`, **Windows**: `Back`, `Forward`, `Refresh`. Note: Linux supports supports any XF86 keyname. |
 
 Consult the code for the [full list of supported keyboard shortcut keys](https://github.com/openstenoproject/plover/blob/master/plover/key_combo.py#L21). Remember, if you want to send a symbol, just use the character in your translation. Only use commands when you need to control which modifiers are hit and for control keys like Tab and BackSpace.
+
+### Sample Shortcuts
 
 Here are some shortcuts in a JSON format:
 
