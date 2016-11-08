@@ -16,7 +16,8 @@ Some common problems and solutions are recorded here. If you're having a problem
 # macOS
 
 * If you use a keyboard instead of a steno machine, Plover needs [Assistive Device Permissions](https://support.apple.com/en-ca/HT202866).
-* macOS has a feature where holding down a key brings up an accent menu. This can sometimes drop keys when typing quickly, such as `TO/FPLT` producing `t.` instead of `to.`. To disable this, follow [this help article](https://www.tekrevue.com/tip/how-to-disable-the-character-accent-menu-in-os-x-mountain-lion/).
+* macOS has a feature where holding down a key brings up an accent menu. This can sometimes drop keys when typing quickly, such as `TO/FPLT` producing `t.` instead of `to.` To disable this, follow [this help article](https://www.tekrevue.com/tip/how-to-disable-the-character-accent-menu-in-os-x-mountain-lion/).
+* Plover will not work if you are using [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
 
 # Linux
 
