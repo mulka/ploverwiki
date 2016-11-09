@@ -14,6 +14,7 @@ This page is under construction. Please refer to [Learn Plover! Appendix: The Di
   - [Uppercasing (CAPS)](#uppercasing-caps)
     - [Uppercase Next Word](#uppercase-next-word)
     - [Uppercase Last Word](#uppercase-last-word)
+- [Undoable Line Breaks and Tabs](#undoable-line-breaks-and-tabs)
 - [Commands and Keyboard Shortcuts](#commands-and-keyboard-shortcuts)
   - [Modifier Names](#modifier-names)
   - [Shortcut Key Names](#shortcut-key-names)
@@ -138,6 +139,19 @@ Output next stroke in capital letters, e.g. `{<}cat` → `CAT`
 - `{*<}`
 
 Rewrite last word in capital letters, e.g. `cat{*<}` → `CAT`
+
+## Undoable Line Breaks and Tabs
+
+When you use [commands and keyboard shortcuts](#commands-and-keyboard-shortcuts), the asterisk/undo command on Plover will not have any effect. This is a limitation imposed by the fact that most commands will not have a meaningful undo: for example, you wouldn't "undo" a "copy" command. For this reason, `{#return}` and `{#tab}` don't work how many users would expect.
+
+Instead, we must use special characters that can be undone by Plover for new paragraphs and erasable tabs. Specifically: `\n` or `\r` for line breaks, and `\t` for tabs. For example:
+
+- `{^\n^}{-|}`
+
+    This translation would create a line break without spacing and then capitalize the next word, and can be removed with the asterisk key.
+- `{^\t^}`
+
+    This translation presses the tab key without any other spacing and can be undone with the asterisk key.
 
 ## Commands and Keyboard Shortcuts
 
