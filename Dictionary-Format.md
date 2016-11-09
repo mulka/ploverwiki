@@ -1,4 +1,4 @@
-This page is under construction. Please refer to [Learn Plover! Appendix: The Dictionary Format](https://sites.google.com/site/ploverdoc/appendix-the-dictionary-format) for a more complete document. Note that as of Plover 3.1, the Plover Control Commands have been updated and this document is more accurate as to their function.
+This page is under construction. Please refer to [Learn Plover! Appendix: The Dictionary Format](https://sites.google.com/site/ploverdoc/appendix-the-dictionary-format) for a more complete document. Note that as of Plover 3.1, the Commands and Keyboard Shortcuts have been updated and this document is more accurate as to their function.
 
 **Table of Contents**
 
