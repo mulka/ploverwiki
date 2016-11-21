@@ -35,6 +35,8 @@ Each release has files for all the operating systems we support. You only need t
 
 ### Mac
 
+If you have [Homebrew Cask](https://caskroom.github.io/) installed on your system, you can run `brew cask install plover` at the command-line. Otherwise:
+
 - Download the `.dmg` file from the release page.
 - Open the `.dmg`.
 - In the mounted disk, drag the `Plover.app` to your `Applications` folder.
