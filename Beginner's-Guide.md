@@ -1,0 +1,1 @@
+The beginner's guide should point out where to install Plover, what kind of bare-bones hardware options one has, why Plover's default theory is good enough for learning (mainly that motor skills are more important to develop and most of the cores of the theories are common to each other, so switching later is not bad).
