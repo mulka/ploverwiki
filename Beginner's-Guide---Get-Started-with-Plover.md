@@ -6,7 +6,7 @@ The main steps are:
 
 1. Install Plover software.
 1. Connect a compatible keyboard or stenography (steno) machine.
-1. Confirm it's working ("Hello World").
+1. Confirm it's working.
 1. Practice and learn stenography using Plover. 
 
 ## Install Plover
