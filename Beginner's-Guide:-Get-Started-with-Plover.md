@@ -128,9 +128,9 @@ See [Supported protocols](https://github.com/openstenoproject/plover/wiki/Suppor
 
 ## Practice and learn
 
-* Plover has an excellent introductory textbook and website, called [Learn Plover!](https://sites.google.com/site/ploverdoc/home).
+* Start learning stenography for free with [Learn Plover!](https://sites.google.com/site/ploverdoc/home).
 
-* [Steno Jig](https://joshuagrams.github.io/steno-jig/) is a website where you can practice the Learn Plover exercises. You can also practice the 3,000 most common words.  
+* Practice the Learn Plover (and other stenography) exercises with [Steno Jig](https://joshuagrams.github.io/steno-jig/).  
 
 See also [Learning Resources](https://github.com/openstenoproject/plover/wiki/Learning-Stenography) and [the old steno practice page](http://stenoknight.com/wiki/Practice).
 
