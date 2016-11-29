@@ -22,8 +22,6 @@ On OS/X and Mac OS, you will need to enable [Assistive Device Permissions](https
 
 ## Connect a compatible keyboard or stenography machine
 
-You don't need to buy a $3,000 steno machine in order to learn stenography using Plover. 
-
 ###Use a standard keyboard
 
 You can use Plover with a standard keyboard, but there are some important limitations. 
@@ -98,7 +96,7 @@ On a QWERTY keyboard, move your fingers up from the home row so that they rest o
 
 Your fingers should be slightly curled, so you press the keys using the tips of your fingers. 
 
-See:
+See also:
 
 * [Basic Hand Posture on the Steno Machine](https://www.youtube.com/watch?v=YfHNPW6EnHo)
 * [Basic Body Position for Steno Students and Pros](https://www.youtube.com/watch?v=s_zyxgQvNEU)
