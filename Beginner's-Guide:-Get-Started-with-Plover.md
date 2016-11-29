@@ -60,11 +60,13 @@ Most keyboards have the keys in staggered rows, which can make it difficult to p
 
 Various steno enthusiasts are making and selling machines designed for use with Plover:
 
-* [Stenomod](http://stenomod.blogspot.com/)
-* [SOFT/HRUF](https://softhruf.love/)
-* [Stenoboard](http://stenoboard.com/)
+* [Stenomod*](http://stenomod.blogspot.com/)
+* [SOFT/HRUF*](https://softhruf.love/)
+* [Stenoboard*](http://stenoboard.com/)
 
-More information: [Dedicated machines designed for use with Plover](https://github.com/openstenoproject/plover/wiki/Supported-Hardware#dedicated-machines-designed-for-use-with-plover)
+(* = External link)
+
+More information: [Dedicated machines designed for use with Plover].(https://github.com/openstenoproject/plover/wiki/Supported-Hardware#dedicated-machines-designed-for-use-with-plover)
 
 ### Use a professional stenography machine
  
