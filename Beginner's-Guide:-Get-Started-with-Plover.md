@@ -22,13 +22,13 @@ On OS/X and Mac OS, you need to enable [Assistive Device Permissions](https://su
 
 ## Connect a compatible keyboard or stenography machine
 
-###Use a standard keyboard
+###Use a standard QWERTY keyboard
 
 You can use Plover with a standard keyboard, but there are some important limitations. Stenography often requires you to press five or six keys at once, and sometimes as many as 16. Unfortunately, most keyboards only recognise up to six keys at once. When you need to press more than six keys are once, you have to use a technique called "arpeggiating". See ["How it Works" for more information on arpeggiating](http://qwertysteno.com/Basics/HowItWorks.php) .
 
 Note: To write quickly, you'll need a keyboard with N-key rollover (NKRO), a machine designed for use with Plover, or a professional stenography machine. 
 
-### Use an N-key rollover (NKRO) keyboard
+### Use an N-key rollover (NKRO) QWERTY keyboard
 
 An N-key rollover (NKRO) keyboard is specially designed to allow pressing many keys at once. Most computer gaming ("mechanical") keyboards have NKRO.
 
