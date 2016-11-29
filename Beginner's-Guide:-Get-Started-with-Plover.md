@@ -115,7 +115,8 @@ See also:
 
 ### Stenography machine
 
-Plover supports several protocols that are in use by various Stenography machines. To configure Plover to the protocol your machine uses:
+Plover supports several protocols that are in use by various professional stenography machines. To configure Plover to the protocol your machine uses:
+
 1. Run Plover and click the `Enable` radio button.
 1. Click the 'Configure' button on the Plover Dialog screen. The Plover configuration screen appears. 
 1. On the 'Machine' tab, select the protocol your machine uses. 
