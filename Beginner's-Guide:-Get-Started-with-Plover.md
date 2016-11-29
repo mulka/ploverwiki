@@ -142,7 +142,7 @@ See [Supported protocols](https://github.com/openstenoproject/plover/wiki/Suppor
 
 ## Practice and learn
 
-* Start learning stenography for free with [Learn Plover!](https://sites.google.com/site/ploverdoc/home).
+* Start learning stenography for free with [Learn Plover!](https://sites.google.com/site/ploverdoc/home)
 
 * Practice the Learn Plover (and other stenography) exercises with [Steno Jig](https://joshuagrams.github.io/steno-jig/).  
 
