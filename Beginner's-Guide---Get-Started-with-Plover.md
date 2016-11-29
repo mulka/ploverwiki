@@ -25,7 +25,7 @@ On OS/X and Mac OS, you will need to enable [Assistive Device Permissions](https
 ###Use a standard keyboard
 
 You can use Plover with a standard keyboard, but there are some important limitations. 
-Stenography often requires you to press five or six keys at once, and sometimes as many as 16. Unfortunately, most keyboards only recognise up to six keys at once. When you need to press more than six keys are once, you have to use a technique called "arpeggiating". See [How it Works](http://qwertysteno.com/Basics/HowItWorks.php) for more information on arpeggiating.
+Stenography often requires you to press five or six keys at once, and sometimes as many as 16. Unfortunately, most keyboards only recognise up to six keys at once. When you need to press more than six keys are once, you have to use a technique called "arpeggiating". See ["How it Works" for more information on arpeggiating](http://qwertysteno.com/Basics/HowItWorks.php) .
 
 To write quickly, you'll need a keyboard with N-key rollover (NKRO), a machine designed for use with Plover, or a professional stenography machine. Most gaming ("mechanical") keyboards have NKRO.
 
@@ -54,8 +54,11 @@ Keyboards with an "ortholinear" layout have the keys in straight columns. This i
 
 Various steno enthusiasts are making and selling machines designed for use with Plover:
 
-* [StenoMod](http://stenomod.blogspot.com/). This has light keys and a split design. See Ted Morin's [review of the StenoMod](http://www.teds.space/2016/10/stenomod-affordable-steno-machine.html).
-* [SOFT/HRUF](https://softhruf.love/). This has the shape of a stenography machine, but is built using computer keys rather than levers. See Ellis Pratt's [review of the SOFT/HRUF](https://groups.google.com/d/msg/ploversteno/iraOYarRbdg/tlHeagOQGQAJ).
+* [StenoMod](http://stenomod.blogspot.com/). 
+** This has light keys and a split design. 
+** See Ted Morin's [review of the StenoMod](http://www.teds.space/2016/10/stenomod-affordable-steno-machine.html).
+* [SOFT/HRUF](https://softhruf.love/). 
+** This has the shape of a stenography machine, but is built using computer keys rather than levers. See Ellis Pratt's [review of the SOFT/HRUF](https://groups.google.com/d/msg/ploversteno/iraOYarRbdg/tlHeagOQGQAJ).
 * [StenoBoard](http://stenoboard.com/)
 
 ### Use a professional stenography machine
@@ -103,7 +106,13 @@ See also:
 
 ### Stenography machine
 
-1. Run Plover and click the `Enable` radio button. 
+Plover supports several protocols that are in use by various Stenography machines. To configure Plover to the protocol your machine uses:
+1. Run Plover and click the `Enable` radio button.
+1. Click the 'Configure' button on the Plover Dialog screen. The Plover configuration screen appears. 
+1. On the 'Machine' tab, select the protocol your machine uses. 
+1. Click 'Save'.
+
+See [Supported protocols](https://github.com/openstenoproject/plover/wiki/Supported-Hardware#supported-protocols) for more information. 
 
 ## Practice and learn
 
