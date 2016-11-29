@@ -125,6 +125,8 @@ If you have a mechanical keyboard, chances are your keys have a [Cherry MX stem]
 
 Keyboards with an "ortholinear" layout have the keys in straight columns. This is handy for steno, as it makes it easier to press two keys in a column with a single finger. 
 
+The following machines have been confirmed by users to work with Plover after actually trying it:
+
 | Product Name                       | Manufacturer       | Protocol/Connection | Comments                |
 | ---------------------------------- | ------------------ | ------------------- | ----------------------- |
 | [ErgoDox](https://deskthority.net/wiki/ErgoDox)           |   Ergodox      |  USB  |     The ErgoDox is a fairly high-end NKRO keyboard at $200, with an ortholinear layout. It has two separate halves, so you can angle them to suit you. You can order it with the Gateron White keys, which have an extremely light, 35 gram activation force.                    |
@@ -133,7 +135,9 @@ Keyboards with an "ortholinear" layout have the keys in straight columns. This i
 
 # Dedicated machines designed for use with Plover
 
-Various steno enthusiasts are making and selling machines designed for use with Plover:
+Various steno enthusiasts are making and selling machines designed for use with Plover.
+
+The following machines have been confirmed by users to work with Plover after actually trying it:
 
 | Product Name                       | Manufacturer       | Protocol/Connection | Comments                |
 | ---------------------------------- | ------------------ | ------------------- | ----------------------- |
