@@ -53,13 +53,13 @@ Keyboards with an "ortholinear" layout have the keys in straight columns. This i
 
 Various steno enthusiasts are making and selling machines designed for use with Plover:
 
-* [StenoMod](http://stenomod.blogspot.com/). 
+* [StenoMod](http://stenomod.blogspot.com/)
   * This has light keys and a split design. 
   * See Ted Morin's [review of the StenoMod](http://www.teds.space/2016/10/stenomod-affordable-steno-machine.html).
-* [SOFT/HRUF](https://softhruf.love/). 
+* [SOFT/HRUF](https://softhruf.love/)
   * This has the shape of a stenography machine, but is built using computer keys rather than levers. 
   * See Ellis Pratt's [review of the SOFT/HRUF](https://groups.google.com/d/msg/ploversteno/iraOYarRbdg/tlHeagOQGQAJ).
-* [StenoBoard](http://stenoboard.com/).
+* [StenoBoard](http://stenoboard.com/)
 
 ### Use a professional stenography machine
  
