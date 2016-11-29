@@ -4,10 +4,10 @@ This guide explains how to get started with Plover.
 
 The main steps are:
 
-1. Install Plover software.
-1. Connect a compatible keyboard or stenography (steno) machine, or use your standard keyboard.
-1. Confirm it's working.
-1. Practice and learn stenography using Plover. 
+1. [Install Plover software.](#install-plover)
+1. [Connect a compatible keyboard or stenography (steno) machine, or use your standard keyboard.](#connect-a-compatible-keyboard-or-stenography-machine)
+1. [Confirm it's working.](#confirm-its-working)
+1. [Practice and learn stenography using Plover.](#practice-and-learn)
 
 ## Install Plover
 
