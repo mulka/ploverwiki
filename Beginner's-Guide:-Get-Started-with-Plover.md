@@ -69,7 +69,7 @@ See the [[Supported Hardware]] page for a list of supported professional stenogr
 
 * The most common/popular professional stenography machine used with Plover appears to be the Stentura 400 SRT.
 
-## Confirm it's working ("Hello World")
+## Confirm it's working
 
 Initially, Plover is set up to use your computer keyboard as a steno machine. If you have a steno machine, you'll need to configure Plover to look for your machine.
 
@@ -85,7 +85,7 @@ You may like to go into Plover's `Configure > Display` settings and turn on eith
 
 Try out these [sentences that (mostly) only need two keys at once](https://joshuagrams.github.io/steno-jig/two-key).
 
-#### "Hello World"
+#### Write "Hello World"
 
 To write "hello, world" into a text editor with Plover, using a QWERTY keyboard:
 
