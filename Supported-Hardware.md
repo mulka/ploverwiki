@@ -46,7 +46,7 @@ after actually trying it:
 
 # Keyboards
 
-If you don't have a steno machine, the next best option is a keyboard that supports N-Key Rollover (NKRO).
+If you don't have a steno machine, you can use a keyboard that supports N-Key Rollover (NKRO).
 
 ## What's NKRO?
 
@@ -55,11 +55,6 @@ register each key regardless of other keys being pressed. Read the
 [Wikipedia entry about NKRO](http://en.wikipedia.org/wiki/Rollover_(key)#n-key_rollover).
 
 ## How do I know if my keyboard has NKRO?
-
-> **Warning**: Be wary of false advertising; some keyboards are advertised as NKRO or anti-ghosting, but are limited to certain combinations. Check reviews to get confirmation before making a purchase. Some keyboards might only support full-NKRO over a PS/2 connector (the [old-style plug](https://en.wikipedia.org/wiki/PS/2_port#/media/File:Ps-2-ports.jpg).) 
-
-Full NKRO over USB is possible. Many keyboards do it well, and will work with Plover.
-
 A simple test is to open up a text editor and--while holding down both
 shift keys--type each letter on your keyboard. If all keys are typed
 into the text editor, your keyboard probably has NKRO.
@@ -81,6 +76,8 @@ give Plover a try, you can arpeggiate/roll the keyboard chords. More
 info can be found at the bottom of [this post](http://plover.stenoknight.com/2011/02/plover-211-released.html).
 
 ## Known supported keyboards
+
+> **Warning**: Be wary of false advertising; some keyboards are advertised as NKRO or anti-ghosting, but are limited to certain combinations. Check reviews to get confirmation before making a purchase. Some keyboards might only support full-NKRO over a PS/2 connector (the [old-style plug](https://en.wikipedia.org/wiki/PS/2_port#/media/File:Ps-2-ports.jpg).) Full NKRO over USB is possible. Many keyboards do it well, and will work with Plover.
 
 | Product Name                | Manufacturer           | Comments        | Price
 | --------------------------- | ---------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
