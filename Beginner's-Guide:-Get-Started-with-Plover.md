@@ -18,7 +18,13 @@ There are versions of Plover for Windows, OS/X and Mac OS, and Linux.
 
 ### Configuring Plover on OS/X and Mac OS
 
-On OS/X and Mac OS, you need to enable [Assistive Device Permissions](https://support.apple.com/en-ca/HT202866) each time you install Plover (`System Preferences > Security & Privacy > Privacy > Accessibility`). Other "keyboard helper" type applications (like Karabiner Elements) may interfere with Plover. 
+On OS/X and Mac OS, you need to enable [Assistive Device Permissions](https://support.apple.com/en-ca/HT202866) after you have installed Plover, and following any Plover software updates. 
+
+1. Select `System Preferences > Security & Privacy > Privacy > Accessibility`.
+1. Click the lock icon in the lower left corner of the window, and enter an admin account and password when prompted.
+1. In the list of apps, select the checkbox next to Plover. 
+
+Note: Other "keyboard helper" type applications (like Karabiner Elements) may interfere with Plover. 
 
 ## Connect a compatible keyboard or stenography machine
 
