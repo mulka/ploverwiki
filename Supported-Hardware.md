@@ -67,7 +67,7 @@ A simple test is to open up a text editor and--while holding down both
 shift keys--type each letter on your keyboard. If all keys are typed
 into the text editor, your keyboard probably has NKRO.
 
-[This site](http://www.microsoft.com/appliedsciences/content/projects/KeyboardGhostingDemo.aspx)
+[Microsoft's website](http://www.microsoft.com/appliedsciences/content/projects/KeyboardGhostingDemo.aspx)
 provides a web application that lets you test your keyboard's
 capabilities for registering multiple key presses. To test, click where
 it says "click to use", then each key you press lights up green in the
