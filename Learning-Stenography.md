@@ -1,5 +1,7 @@
 Stenography was traditionally taught in schools, and still is today. However, because of Open Steno, there are increasingly self-taught stenographers. Plover has everything you need to teach yourself stenography.
 
+Also see this Wiki's [[Glossary]] to learn some common terminology that comes up in steno materials.
+
 # Learning Resources
 
 ## Tutorial / Textbook / Drills
