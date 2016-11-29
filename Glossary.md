@@ -16,6 +16,7 @@ This glossary will help you with terms that you may come across in the steno com
 - [Steno Theory](#steno-theory)
 - [Untranslate](#untranslate)
 - [Word Boundary](#word-boundary)
+- [Writing](#writing)
 
 ### Brief
     
@@ -118,3 +119,6 @@ Examples (Plover):
 * "on top of"; **`OPB`**/`TOP`/`-F` vs "onto"; **`AUPN`**/`TO`
 * "it is a live (wire)"; `T`/`S`/**`AEU`**/`HREUF` vs "it is alive"; `T`/`S`/**`A`**/`HRAOEUF`
 
+### Writing
+
+Professional stenographers do not like being referred to as "typists" because it normalizes the complex system that stenography is. On a steno machine, you do not "type". Instead, they call it "writing". Some stenographers are more sensitive to this than others. Generally, you "type" on a keyboard, and "write" on a steno machine. Steno machines were traditionally called "stenotypes", but that usage has died out over time.
