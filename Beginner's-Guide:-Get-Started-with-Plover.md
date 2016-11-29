@@ -46,7 +46,7 @@ An N-key rollover (NKRO) keyboard is specially designed to allow pressing many k
 
 Full NKRO over USB is possible. Many keyboards do it well, and will work with Plover. See the [[Supported Hardware]] page for a [list of supported keyboards](https://github.com/openstenoproject/plover/wiki/Supported-Hardware#known-supported-keyboards).
 
-See also [Which type of key switch should I choose?](https://github.com/openstenoproject/plover/wiki/Supported-Hardware#which-type-of-key-switch-should-i-choose)
+See also: [Which type of key switch should I choose?](https://github.com/openstenoproject/plover/wiki/Supported-Hardware#which-type-of-key-switch-should-i-choose)
 
 ### Adapt a keyboard for steno use
 
