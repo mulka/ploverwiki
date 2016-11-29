@@ -3,7 +3,7 @@ This page lists the machine known to work with Plover.
 It lists:
 
 * [Stenotype machines](#stenotype-machines)
-* [NKRO keyboards](#keyboards)
+* [Keyboards with NKRO](#keyboards)
 * [Dedicated machines designed for use with Plover](#dedicated-machines-designed-for-use-with-plover)
 
 # Stenotype Machines
@@ -59,7 +59,15 @@ A simple test is to open up a text editor and--while holding down both
 shift keys--type each letter on your keyboard. If all keys are typed
 into the text editor, your keyboard probably has NKRO.
 
-[Microsoft's website](http://www.microsoft.com/appliedsciences/content/projects/KeyboardGhostingDemo.aspx) provides a web application that lets you test your keyboard's capabilities for registering multiple key presses. To test, click where it says "click to use", then each key you press lights up green in the picture of a keyboard. Press the middle row keys `asdfjkl;` and with a normal keyboard only 6 of the 8 keys will light up green, maybe fewer, but if your keyboard has n-key rollover, all 8 will light up green. Then press other multiple-key combinations such as `yuhj` and see if they all light up green.
+[Microsoft's keyboard ghosting demonstration website](http://www.microsoft.com/appliedsciences/content/projects/KeyboardGhostingDemo.aspx) provides a browser-based application that lets you test your keyboard's capabilities for registering multiple key presses. 
+
+To test your keyboard:
+
+1. Click "**Click To Use**". Each key you press will light up green in the picture of a keyboard. 
+1. Press the middle row keys `asdfjkl;` 
+  * With a normal keyboard only 6 of the 8 keys will light up green (maybe fewer).
+  * If your keyboard has N-key rollover, all 8 keys will light up green. 
+1. Press other multiple-key combinations, such as `yuhj`, and see if they all light up green.
 
 ## What if my keyboard is not capable of NKRO?
 
