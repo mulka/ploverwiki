@@ -145,7 +145,7 @@ See [Supported protocols](https://github.com/openstenoproject/plover/wiki/Suppor
 
 * Practice the Learn Plover (and other stenography) exercises with [Steno Jig](https://joshuagrams.github.io/steno-jig/).
 
-See also [Learning Resources](https://github.com/openstenoproject/plover/wiki/Learning-Stenography) and [the old steno practice page](http://stenoknight.com/wiki/Practice).
+* See also [Learning Resources](https://github.com/openstenoproject/plover/wiki/Learning-Stenography) and [the old steno practice page](http://stenoknight.com/wiki/Practice).
 
 ### Which steno theory should you learn?
 
