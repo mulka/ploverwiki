@@ -32,9 +32,9 @@ Note: To write quickly, you'll need a keyboard with N-key rollover (NKRO), a mac
 
 An N-key rollover (NKRO) keyboard is specially designed to allow pressing many keys at once. Most computer gaming ("mechanical") keyboards have NKRO.
 
-* The [Zalman ZM-K600S](https://www.amazon.com/Zalman-Unlimited-Multi-Key-keyboard-ZM-K600S/dp/B0196J3IPE) is currently the cheapest option in the USA, at $45-$50.
+See the [[Supported Hardware]] page for a list of supported keyboards.
 
-See the [[Supported Hardware]] page for a list of supported keyboards. 
+* The [Zalman ZM-K600S](https://www.amazon.com/Zalman-Unlimited-Multi-Key-keyboard-ZM-K600S/dp/B0196J3IPE) is currently the cheapest option in the USA, at $45-$50.
 
 #### Keytoppers
 
@@ -57,7 +57,8 @@ Various steno enthusiasts are making and selling machines designed for use with 
   * This has light keys and a split design. 
   * See Ted Morin's [review of the StenoMod](http://www.teds.space/2016/10/stenomod-affordable-steno-machine.html).
 * [SOFT/HRUF](https://softhruf.love/). 
-  * This has the shape of a stenography machine, but is built using computer keys rather than levers. See Ellis Pratt's [review of the SOFT/HRUF](https://groups.google.com/d/msg/ploversteno/iraOYarRbdg/tlHeagOQGQAJ).
+  * This has the shape of a stenography machine, but is built using computer keys rather than levers. 
+  * See Ellis Pratt's [review of the SOFT/HRUF](https://groups.google.com/d/msg/ploversteno/iraOYarRbdg/tlHeagOQGQAJ).
 * [StenoBoard](http://stenoboard.com/).
 
 ### Use a professional stenography machine
