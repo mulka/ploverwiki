@@ -2,7 +2,7 @@ This page lists the machine known to work with Plover.
 
 It lists:
 
-* Stenotype Machines
+* Stenotype machines
 * Keyboards
 * Dedicated machines designed for use with Plover
 
