@@ -53,7 +53,7 @@ You can buy laser-cut keytoppers from the [Plover Store](http://plover.deco-craf
 Keyboards with an "ortholinear" layout have the keys in straight columns. This is handy for steno, as it makes it easier to press two keys in a column with a single finger. 
 
 * The [Ergodox](https://ergodox-ez.com/) is a fairly high-end NKRO keyboard at $200, with an ortholinear layout. It has two separate halves, so you can angle them to suit you. You can order it with the Gateron White keys, which have a light, 35 gram activation force.
-* The [Planck](http://olkb.com/planck/) is a NRKO keyboard with an ortholinear layout. It is 60% smaller than a standard keyboard.
+* The [Planck](http://olkb.com/planck/) is a NRKO keyboard with an ortholinear layout. It is 40% smaller than a standard keyboard.
 
 ### Use a machine designed for use with Plover
 
