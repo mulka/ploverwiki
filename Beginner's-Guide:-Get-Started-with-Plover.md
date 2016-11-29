@@ -40,9 +40,7 @@ You can use Plover with a standard keyboard, but there are some important limita
 
 An N-key rollover (NKRO) keyboard is specially designed to allow pressing many keys at once. Some gaming or mechanical keyboards have NKRO. Be wary of false advertising; some keyboards are advertised as NKRO or anti-ghosting, but are limited to certain combinations. Check reviews to get confirmation before making a purchase. Note, also, that some keyboards might only support full-NKRO over a PS/2 connector (the [old-style plug](https://en.wikipedia.org/wiki/PS/2_port#/media/File:Ps-2-ports.jpg).) Full NKRO over USB *is* possible and many keyboards do it well, and will work with Plover.
 
-See the [[Supported Hardware]] page for a list of supported keyboards.
-
-* The [Zalman ZM-K600S](https://www.amazon.com/Zalman-Unlimited-Multi-Key-keyboard-ZM-K600S/dp/B0196J3IPE) is currently the cheapest option in the USA, at $45-$50.
+See the [[Supported Hardware]] page for a [list of supported keyboards](https://github.com/openstenoproject/plover/wiki/Supported-Hardware#known-supported-keyboards).
 
 #### Switch type
 
