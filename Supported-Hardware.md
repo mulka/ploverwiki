@@ -40,9 +40,6 @@ after actually trying it:
 | Passport Touch                     | Advantage Software | USB, Bluetooth | While in "Emulation Mode": Stentura over Bluetooth or TX Bolt over USB ﻿ |
 | Protege                            | Stenograph         |                     |                         |
 | Revolution Grand                   | Neutrino Group     | Gemini PR (serial)  |                         |
-| [SOFT/HRUF](https://softhruf.love) | Scott Urueta       | TX Bolt (serial)    | Open source hardware    |
-| [Stenoboard](http://utopen.com)    | Utopen             | NKRO/TX Bolt/Gemini PR | Open source hardware |
-| [Stenomod](https://stenomod.blogspot.com) | Charley Shattuck | TX Bolt        | Open source hardware    |
 | Stentura 400 SRT                   | Stenograph         | Stentura (serial)   | [[Setup Instructions|How-to-setup-and-use-Plover-with-a-Stentura-400SRT]]  |
 | Tréal                              | Word technologies  | Treal (USB)         |                         |
 | Wave                               | Stenograph         |                     |                         |
@@ -137,17 +134,9 @@ Keyboards with an "ortholinear" layout have the keys in straight columns. This i
 
 Various steno enthusiasts are making and selling machines designed for use with Plover:
 
-* [Stenomod](http://stenomod.blogspot.com/)
-  * This has light keys and a split design.
-  * It is built and sold by Charley Shattuck, in California.
-  * See Ted Morin's [review of the StenoMod](http://www.teds.space/2016/10/stenomod-affordable-steno-machine.html).
-  * The name is supposed to hint at how the machine is "modular" and adaptable. It is very barebones so it is easy to take apart and customize.
-* [SOFT/HRUF](https://softhruf.love/)
-  * This has the shape of a stenography machine, but is built using computer keys rather than levers.
-  * It is built and sold by Scott Urueta, in Miami.
-  * See Ellis Pratt's [review of the SOFT/HRUF and Stenomod](https://groups.google.com/d/msg/ploversteno/iraOYarRbdg/tlHeagOQGQAJ).
-  * The name is the steno representation for, and is pronounced as, "soft love".
-* [Stenoboard](http://stenoboard.com/)
-  * The first open source steno machine on the market, released in 2014.
-  * It is sold and built by Caruso Emanuele, in Italy.
-  * The Stenoboard's keys actuate like mouse-clicks instead of a keyboard or lever-machine.
+| Product Name                       | Manufacturer       | Protocol/Connection | Comments                |
+| ---------------------------------- | ------------------ | ------------------- | ----------------------- |
+| [SOFT/HRUF](https://softhruf.love) | Scott Urueta       | TX Bolt (serial)    | Open source hardware. This has the shape of a stenography machine, but is built using computer keys rather than levers. It is built and sold by Scott Urueta, in Miami. See Ellis Pratt's [review of the SOFT/HRUF and Stenomod]. The name is the steno representation for, and is pronounced as, "soft love".  |
+| [Stenoboard](http://utopen.com)    | Utopen             | NKRO/TX Bolt/Gemini PR | Open source hardware.   * The first open source steno machine on the market, released in 2014. It is sold and built by Caruso Emanuele, in Italy. The Stenoboard's keys actuate like mouse-clicks instead of a keyboard or lever-machine. |
+| [Stenomod](https://stenomod.blogspot.com) | Charley Shattuck | TX Bolt        | Open source hardware. This has light keys and a split design. See Ted Morin's [review of the StenoMod](http://www.teds.space/2016/10/stenomod-affordable-steno-machine.html). The name is supposed to hint at how the machine is "modular" and adaptable. It is very barebones so it is easy to take apart and customize. |
+
