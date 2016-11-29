@@ -87,15 +87,20 @@ You can practice sentences that (mostly) only need two keys at once, on the [Ste
 
 #### Write "Hello World"
 
-To write "hello, world" into a text editor with Plover, using a QWERTY keyboard:
+To write "Hello, world." into a text editor with Plover, using a QWERTY keyboard:
 
 1. Run Plover and click the `Enable` radio button.
 1. Open a text editor.
 1. Simultaneously press R, N, and O (left index finger on 'R', right thumb on 'N', and right ring finger on 'O'). 
+  * 'Hel' appears.
 1. Simultaneously press R, F, and V (left index finger between 'R' and 'F', and left thumb on 'V')
+  * 'lo' (_Hello_) appears. 
 1. Simultaneously press J, K, L, and ; (right index finger on 'J', right middle finger on 'K', right ring finger on 'L', and right little (pinky) finger on ';')
+  * ',' (_Hello,_) appears.
 1. Simultaneously press D, V, J, O, and [ (left middle finger on 'D', left thumb on 'V', right index finger on 'J', right ring finger on 'O', and right little (pinky) finger on '[')
-1. Simultaneously press U, I, O, and P (right index finger on 'U', right middle finger on 'I', right ring finger on 'O', right little (pinky) finger on 'P')
+  * 'world' (_Hello, world_) appears.
+1. Simultaneously press U, I, O, and P (right index finger on 'U', right middle finger on 'I', right ring finger on 'O', right little (pinky) finger on 'P').
+  * '.' (_Hello, world._)appears.
 
 #### Use the correct body posture and finger placement
 
