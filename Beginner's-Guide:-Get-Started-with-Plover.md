@@ -66,7 +66,7 @@ Various steno enthusiasts are making and selling machines designed for use with 
 
 (* = External link)
 
-More information: [Dedicated machines designed for use with Plover].(https://github.com/openstenoproject/plover/wiki/Supported-Hardware#dedicated-machines-designed-for-use-with-plover)
+More information: [Dedicated machines designed for use with Plover](https://github.com/openstenoproject/plover/wiki/Supported-Hardware#dedicated-machines-designed-for-use-with-plover).
 
 ### Use a professional stenography machine
  
