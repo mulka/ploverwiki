@@ -18,7 +18,7 @@ There are versions of Plover for Windows, Mac, and Linux.
 
 ### Configuring Plover on macOS
 
-`Note: Plover 3.1.0 only supports macOS 10.10+. Plover 3.0.0 only supports macOS 10.9+. Older versions must use Plover 2.5.8`
+> **Note**: Plover 3.1.0 only supports macOS 10.10+. Plover 3.0.0 only supports macOS 10.9+. Older versions must use Plover 2.5.8
 
 On macOS, you need to enable [Assistive Device Permissions](https://support.apple.com/en-ca/HT202866) after you have installed Plover, and following any Plover software updates. 
 
@@ -26,15 +26,15 @@ On macOS, you need to enable [Assistive Device Permissions](https://support.appl
 1. Click the lock icon in the lower left corner of the window, and enter an admin account and password when prompted.
 1. In the list of apps, select the checkbox next to Plover. 
 
-Note: Other "keyboard helper"-type applications (e.g. Karabiner Elements and text expanders) may interfere with Plover.
+> **Note**: Other "keyboard helper"-type applications (e.g. Karabiner Elements and text expanders) may interfere with Plover.
 
 ## Connect a compatible keyboard or stenography machine
 
 ### Use a standard QWERTY keyboard
 
-You can use Plover with a standard keyboard, but there are some important limitations. Stenography often requires you to press five or six keys at once, and sometimes as many as 16. Unfortunately, most keyboards only recognize up to six keys at once. When you need to press more than six keys are once, you have to use a technique called "arpeggiating". See ["How it Works" for more information on arpeggiating](http://qwertysteno.com/Basics/HowItWorks.php) .
+You can use Plover with a standard keyboard, but there are some important limitations. Stenography often requires you to press five or six keys at once, and sometimes as many as 16. Unfortunately, most keyboards only recognize up to six keys at once. When you need to press more than six keys at once, you have to use a technique called "arpeggiating". See ["How it Works" for more information on arpeggiating](http://qwertysteno.com/Basics/HowItWorks.php) .
 
-`Note: To write quickly, you'll need a keyboard with N-key rollover (NKRO), a machine designed for use with Plover, or a professional stenography machine.`
+> **Note**: To write quickly, you'll need a keyboard with N-key rollover (NKRO), a machine designed for use with Plover, or a professional stenography machine.
 
 ### Use an N-key rollover (NKRO) QWERTY keyboard
 
