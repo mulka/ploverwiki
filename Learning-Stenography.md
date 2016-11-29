@@ -49,3 +49,6 @@ Sites not made for steno are not ideal for use with Plover, but they offer good 
 - [10 Fast Fingers](https://10fastfingers.com/typing-test/english)
 
     Short test of most common words.
+- [Typeonline](http://www.typeonline.co.uk/copypractice.php)
+
+Copy practice.
