@@ -71,7 +71,7 @@ See the [[Supported Hardware]] page for a list of supported professional stenogr
 
 ## Confirm it's working
 
-Initially, Plover is set up to use your computer keyboard as a steno machine. If you have a steno machine, you'll need to configure Plover to look for your machine.
+Initially, Plover is set up to use your computer keyboard as a steno machine. If you have a professional stenography  machine or the StenoMod, you'll need to configure Plover to look for your machine.
 
 ### Keyboard
 
