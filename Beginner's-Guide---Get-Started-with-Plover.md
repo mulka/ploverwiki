@@ -64,19 +64,48 @@ Various steno enthusiasts are making and selling machines designed for use with 
  
 Some professional stenography machines are compatible with Plover. You can find used steno machines on eBay at reasonable prices. The most common/popular of these seems to be the Stentura 400 SRT.
 
-See [[Supported Hardware]] 
+See the [[Supported Hardware]] page for a list of supported professional stenography machines. 
 
 ## Confirm it's working ("Hello World")
+
+### Keyboard
 
 By default, Plover will use your keyboard as its input device. 
 
 1. Run Plover and click the `Enable` radio button. 
-1. Move your fingers up from the home row so that they rest on the cracks between the keys, and move your thumbs up so they rest on the cracks between `C`/`V` and `N`/`M`. 
-1. Try out these [sentences that (mostly) only need two keys at once](https://joshuagrams.github.io/steno-jig/two-key). 
-
+ 
 You may like to go into Plover's `Configure > Display` settings and turn on either the stroke display or the suggestions window.
 
-### Practice and learn
+#### Practice sentences
+
+Try out these [sentences that (mostly) only need two keys at once](https://joshuagrams.github.io/steno-jig/two-key).
+
+#### "Hello World"
+
+To write "hello, world" into a text editor with Plover, using a QWERTY keyboard:
+
+1. Run Plover and click the `Enable` radio button.
+1. Simultaneously press R, N, and O (left index finger on 'R', right thumb on 'N', and right ring finger on 'O'). 
+1. Simultaneously press R, F, and V (left index finger between 'R' and 'F', and left thumb on 'V')
+1. Simultaneously press J, K, L, and ; (right index finger on 'J', right middle finger on 'K', right ring finger on 'L', and right little (pinky) finger on ';')
+1. Simultaneously press D, V, J, O, and [ (left middle finger on 'D', left thumb on 'V', right index finger on 'J', right ring finger on 'O', and right little (pinky) finger on '[')
+1. Simultaneously press U, I, O, and P (right index finger on 'U', right middle finger on 'I', right ring finger on 'O', right little (pinky) finger on 'P')
+
+#### Use the correct body posture and finger placement
+
+On a QWERTY keyboard, move your fingers up from the home row so that they rest on the cracks between the keys, and move your thumbs up so they rest on the cracks between `C`/`V` and `N`/`M`. 
+
+Your fingers should be slightly curled, so you press the keys using the tips of your fingers. 
+
+See:
+[Basic Hand Posture on the Steno Machine](https://www.youtube.com/watch?v=YfHNPW6EnHo)
+[Basic Body Position for Steno Students and Pros](https://www.youtube.com/watch?v=s_zyxgQvNEU)
+
+### Stenography machine
+
+1. Run Plover and click the `Enable` radio button. 
+
+## Practice and learn
 
 * Plover has an excellent introductory textbook and website, called [Learn Plover!](https://sites.google.com/site/ploverdoc/home).
 
