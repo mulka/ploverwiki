@@ -77,18 +77,18 @@ Various steno enthusiasts are making and selling machines designed for use with 
 
 * [Stenomod](http://stenomod.blogspot.com/)
   * This has light keys and a split design.
-  * It is built and sold by Charley Shattuck out of California.
+  * It is built and sold by Charley Shattuck, from California.
   * See Ted Morin's [review of the StenoMod](http://www.teds.space/2016/10/stenomod-affordable-steno-machine.html).
   * The name is supposed to hint at how the machine is "modular" and adaptable. It is very barebones so it is easy to take apart and customize.
 * [SOFT/HRUF](https://softhruf.love/)
   * This has the shape of a stenography machine, but is built using computer keys rather than levers.
-  * It is built and sold by Scott Urueta out of Miami.
+  * It is built and sold by Scott Urueta, from Miami.
   * See Ellis Pratt's [review of the SOFT/HRUF and Stenomod](https://groups.google.com/d/msg/ploversteno/iraOYarRbdg/tlHeagOQGQAJ).
   * The name is the steno representation for, and is pronounced as, "soft love".
 * [Stenoboard](http://stenoboard.com/)
   * The first open source steno machine on the market, released in 2014.
-  * It is sold and built by Caruso Emanuele out of Italy.
-  * The Stenoboard's keys actuate like mouse-clicks instead of a keyboard or lever-machine, which unfortunately makes it unsuitable for extended periods of writing.
+  * It is sold and built by Caruso Emanuele, from Italy.
+  * The Stenoboard's keys actuate like mouse-clicks instead of a keyboard or lever-machine.
 
 ### Use a professional stenography machine
  
