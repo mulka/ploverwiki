@@ -63,8 +63,9 @@ into the text editor, your keyboard probably has NKRO.
 
 To test your keyboard:
 
+1. Open your wb browser and go to [Microsoft's keyboard ghosting demonstration website](http://www.microsoft.com/appliedsciences/content/projects/KeyboardGhostingDemo.aspx).
 1. Click "**Click To Use**". Each key you press will light up green in the picture of a keyboard. 
-1. Press the middle row keys `asdfjkl;` 
+1. Press the middle row keys `asdfjkl;`.
   * With a normal keyboard only 6 of the 8 keys will light up green (maybe fewer).
   * If your keyboard has N-key rollover, all 8 keys will light up green. 
 1. Press other multiple-key combinations, such as `yuhj`, and see if they all light up green.
