@@ -63,9 +63,11 @@ Various steno enthusiasts are making and selling machines designed for use with 
 
 ### Use a professional stenography machine
  
-Some professional stenography machines are compatible with Plover. You can find used steno machines on eBay at reasonable prices. The most common/popular of these seems to be the Stentura 400 SRT.
+Some professional stenography machines are compatible with Plover. You can find used steno machines on eBay at reasonable prices. 
 
 See the [[Supported Hardware]] page for a list of supported professional stenography machines. 
+
+* The most common/popular professional stenography machine used with Plover appears to be the Stentura 400 SRT.
 
 ## Confirm it's working ("Hello World")
 
