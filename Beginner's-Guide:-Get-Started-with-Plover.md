@@ -153,4 +153,4 @@ All English language steno theories are derived from the original Stenotype theo
 
 We recommend you start with Plover's StenEd-based theory, and the dictionary that is supplied with the Plover software. After 6 months, you'll have a better understanding of stenography, and you could then start experimenting with different theories. Everyone ends up adapting them and forming a personal style anyway. So you don't need to worry about the different steno theories until you hit 100 WPM or so.
 
-It's not recommended to spend money on a theory before you know if you'll even like it.
+We don't recommend spending money on a theory before you're certain you like stenography.
