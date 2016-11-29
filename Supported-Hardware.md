@@ -3,7 +3,7 @@ This page lists the machine known to work with Plover.
 It lists:
 
 * [Stenotype machines](#stenotype-machines)
-* [Keyboards](#keyboards)
+* [NKRO Keyboards](#keyboards)
 * [Dedicated machines designed for use with Plover](#dedicated-machines-designed-for-use-with-plover)
 
 # Stenotype Machines
