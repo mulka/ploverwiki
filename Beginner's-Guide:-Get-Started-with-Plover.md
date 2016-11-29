@@ -83,7 +83,7 @@ You may like to go into Plover's `Configure > Display` settings and turn on eith
 
 #### Practice sentences
 
-Try out these [sentences that (mostly) only need two keys at once](https://joshuagrams.github.io/steno-jig/two-key).
+You can practice sentences that (mostly) only need two keys at once, on the [StenoJig](https://joshuagrams.github.io/steno-jig/two-key) website.
 
 #### Write "Hello World"
 
