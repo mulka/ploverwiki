@@ -112,12 +112,28 @@ To write "Hello, world." into a text editor with Plover, using a QWERTY keyboard
 
 #### Use the correct body posture and finger placement
 
-On a QWERTY keyboard, move your fingers up from the home row so that they rest on the cracks between the keys, and move your thumbs up so they rest on the cracks between `C`/`V` and `N`/`M`. 
-
 Your fingers should be slightly curled, so you press the keys using the tips of your fingers. 
+
+On a QWERTY keyboard, you move your hands half an inch up so that your left thumb is resting on the cracks between the `C` and `V` keys and your right thumb is resting between the `N` and `M` keys. The rest should fall into place. 
+
+`QWER   TY   UIOP[`
+
+`ASDF   GH   JKL;`
+
+`CV   NM`
+
+maps to:
+
+`STPH`  `**`   `FPLTD`
+
+`SKWR   **   RBGSZ`
+
+`AO   EU`
+
 
 See also:
 
+* [Qwerty to Steno Key Map](http://plover.stenoknight.com/2010/10/qwerty-to-steno-key-map.html)
 * [Basic Hand Posture on the Steno Machine](https://www.youtube.com/watch?v=YfHNPW6EnHo)
 * [Basic Body Position for Steno Students and Pros](https://www.youtube.com/watch?v=s_zyxgQvNEU)
 
