@@ -69,6 +69,8 @@ See the [[Supported Hardware]] page for a list of supported professional stenogr
 
 ## Confirm it's working ("Hello World")
 
+Initially, Plover is set up to use your computer keyboard as a steno machine. If you have a steno machine, you'll need to configure Plover to look for your machine.
+
 ### Keyboard
 
 By default, Plover will use your keyboard as its input device. 
