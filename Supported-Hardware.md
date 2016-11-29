@@ -2,9 +2,9 @@ This page lists the machine known to work with Plover.
 
 It lists:
 
-* Stenotype machines
-* Keyboards
-* Dedicated machines designed for use with Plover
+* [Stenotype machines](#Stenotype-Machines)
+* [Keyboards](#Keyboards)
+* [Dedicated machines designed for use with Plover](#Dedicated-machines-designed-for-use-with-Plover)
 
 # Stenotype Machines
 
@@ -59,21 +59,11 @@ A simple test is to open up a text editor and--while holding down both
 shift keys--type each letter on your keyboard. If all keys are typed
 into the text editor, your keyboard probably has NKRO.
 
-[Microsoft's website](http://www.microsoft.com/appliedsciences/content/projects/KeyboardGhostingDemo.aspx)
-provides a web application that lets you test your keyboard's
-capabilities for registering multiple key presses. To test, click where
-it says "click to use", then each key you press lights up green in the
-picture of a keyboard. Press the middle row keys asdfjkl; and with a
-normal keyboard only 6 of the 8 keys will light up green, maybe fewer,
-but if your keyboard has n-key rollover, all 8 will light up green. Then
-press other multiple-key combinations such as yuhj and see if they all
-light up green.
+[Microsoft's website](http://www.microsoft.com/appliedsciences/content/projects/KeyboardGhostingDemo.aspx) provides a web application that lets you test your keyboard's capabilities for registering multiple key presses. To test, click where it says "click to use", then each key you press lights up green in the picture of a keyboard. Press the middle row keys `asdfjkl;` and with a normal keyboard only 6 of the 8 keys will light up green, maybe fewer, but if your keyboard has n-key rollover, all 8 will light up green. Then press other multiple-key combinations such as `yuhj` and see if they all light up green.
 
 ## What if my keyboard is not capable of NKRO?
 
-If you don't have a keyboard that's capable of NKRO, but still want to
-give Plover a try, you can arpeggiate/roll the keyboard chords. More
-info can be found at the bottom of [this post](http://plover.stenoknight.com/2011/02/plover-211-released.html).
+If you don't have a keyboard that's capable of NKRO, but still want to give Plover a try, you can arpeggiate/roll the keyboard chords. More info can be found at the bottom of [this post](http://plover.stenoknight.com/2011/02/plover-211-released.html).
 
 ## Known supported keyboards
 
@@ -141,7 +131,7 @@ The following machines have been confirmed by users to work with Plover after ac
 
 | Product Name                       | Manufacturer       | Protocol/Connection | Comments                |
 | ---------------------------------- | ------------------ | ------------------- | ----------------------- |
-| [SOFT/HRUF](https://softhruf.love) | Scott Urueta       | TX Bolt (serial)    | Open source hardware. This has the shape of a stenography machine, but is built using computer keys rather than levers. It is built and sold by Scott Urueta, in Miami. See Ellis Pratt's [review of the SOFT/HRUF and Stenomod]. The name is the steno representation for, and is pronounced as, "soft love".  |
-| [Stenoboard](http://utopen.com)    | Utopen             | NKRO/TX Bolt/Gemini PR | Open source hardware.   * The first open source steno machine on the market, released in 2014. It is sold and built by Caruso Emanuele, in Italy. The Stenoboard's keys actuate like mouse-clicks instead of a keyboard or lever-machine. |
+| [SOFT/HRUF](https://softhruf.love) | Scott Urueta       | TX Bolt (serial)    | Open source hardware. This has the shape of a stenography machine, but is built using computer keys rather than levers. It is built and sold by Scott Urueta, in Miami. The name is the steno representation for, and is pronounced as, "soft love".  |
+| [Stenoboard](http://utopen.com)    | Utopen             | NKRO/TX Bolt/Gemini PR | Open source hardware. The first open source steno machine on the market, released in 2014. It is sold and built by Caruso Emanuele, in Italy. The Stenoboard's keys actuate like mouse-clicks instead of a keyboard or lever-machine. |
 | [Stenomod](https://stenomod.blogspot.com) | Charley Shattuck | TX Bolt        | Open source hardware. This has light keys and a split design. See Ted Morin's [review of the StenoMod](http://www.teds.space/2016/10/stenomod-affordable-steno-machine.html). The name is supposed to hint at how the machine is "modular" and adaptable. It is very barebones so it is easy to take apart and customize. |
 
