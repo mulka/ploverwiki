@@ -126,9 +126,11 @@ If you have a mechanical keyboard, chances are your keys have a [Cherry MX stem]
 
 Keyboards with an "ortholinear" layout have the keys in straight columns. This is handy for steno, as it makes it easier to press two keys in a column with a single finger. 
 
-* The [ErgoDox](https://deskthority.net/wiki/ErgoDox) is a fairly high-end NKRO keyboard at $200, with an ortholinear layout. It has two separate halves, so you can angle them to suit you. You can order it with the Gateron White keys, which have an extremely light, 35 gram activation force.
-* The [Planck](http://olkb.com/planck/) is a NKRO keyboard with an ortholinear layout. It is 40% smaller than a standard keyboard.
-* The [Prenoic](http://olkb.com/preonic/) is also a NKRO keyboard with an ortholinear layout. It is 60% smaller than a standard keyboard.
+| Product Name                       | Manufacturer       | Protocol/Connection | Comments                |
+| ---------------------------------- | ------------------ | ------------------- | ----------------------- |
+| [ErgoDox](https://deskthority.net/wiki/ErgoDox)           |   DOX      |  USB  |     The ErgoDox is a fairly high-end NKRO keyboard at $200, with an ortholinear layout. It has two separate halves, so you can angle them to suit you. You can order it with the Gateron White keys, which have an extremely light, 35 gram activation force.                    |
+| [Planck](http://olkb.com/planck/) | OLKB | USB | The Planck is a NKRO keyboard with an ortholinear layout. It is 40% smaller than a standard keyboard.|
+|[Prenoic](http://olkb.com/preonic/)| OLKB | USB | The Preonic is a NKRO keyboard with an ortholinear layout. It is 60% smaller than a standard keyboard. |
 
 # Dedicated machines designed for use with Plover
 
