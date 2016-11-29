@@ -2,6 +2,7 @@
 
 - [Homepage (external)](http://www.openstenoproject.org/plover/)
 - [Installation Guide](https://github.com/openstenoproject/plover/wiki/Installation-Guide)
+- [Beginner's Guide: Get Started with Plover](https://github.com/openstenoproject/plover/wiki/Beginner's-Guide:-Get-Started-with-Plover)
 - [Supported Hardware](https://github.com/openstenoproject/plover/wiki/Supported-Hardware)
 - [Dictionary Format](https://github.com/openstenoproject/plover/wiki/Dictionary-Format)
 - [Troubleshooting Issues](https://github.com/openstenoproject/plover/wiki/Troubleshooting-FAQ)
