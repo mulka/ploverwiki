@@ -46,9 +46,7 @@ An N-key rollover (NKRO) keyboard is specially designed to allow pressing many k
 
 Full NKRO over USB is possible. Many keyboards do it well, and will work with Plover. See the [[Supported Hardware]] page for a [list of supported keyboards](https://github.com/openstenoproject/plover/wiki/Supported-Hardware#known-supported-keyboards).
 
-##### Which type of key switch should I choose?
-
-Stenography works best when the keyboard takes little force to depress keys. The lighter, the better. Ideally, the switch will be linear, it should lack any clicks or bumps. The lighter the force, the better, for steno. In the Cherry MX line, the best switch is Red, at 45 cN actuation. For Gaterons, the best switch for steno is Clear/White (different names, same switch), at only 35 cN actuation.
+See also [Which type of key switch should I choose?](https://github.com/openstenoproject/plover/wiki/Supported-Hardware#which-type-of-key-switch-should-i-choose)
 
 #### Keytoppers
 
