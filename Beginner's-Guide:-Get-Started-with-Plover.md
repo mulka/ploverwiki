@@ -55,7 +55,8 @@ Most keyboards have the keys in staggered rows, which can make it difficult to p
 
 * [Keytoppers](https://github.com/openstenoproject/plover/wiki/Supported-Hardware#keytoppers)
 * [Keycaps](https://github.com/openstenoproject/plover/wiki/Supported-Hardware#keycaps)
-* [A keyboard with an ortholinear layout](https://github.com/openstenoproject/plover/wiki/Supported-Hardware#nkro-keyboards-with-an-ortholinear-layout)
+
+You can also use [a keyboard with an ortholinear layout](https://github.com/openstenoproject/plover/wiki/Supported-Hardware#nkro-keyboards-with-an-ortholinear-layout).
 
 ### Use a machine designed for use with Plover
 
