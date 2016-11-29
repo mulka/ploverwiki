@@ -112,7 +112,7 @@ To write "Hello, world." into a text editor with Plover, using a QWERTY keyboard
 
 #### Use the correct body posture and finger placement
 
-Your fingers should be slightly curled, so you press the keys using the tips of your fingers. 
+Your fingers should be curled slightly, so you press the keys using the tips of your fingers. 
 
 <img src="http://stenoknight.com/plover/stenqwerty.png" width="450">
 
