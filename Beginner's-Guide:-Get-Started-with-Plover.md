@@ -42,11 +42,9 @@ An N-key rollover (NKRO) keyboard is specially designed to allow pressing many k
 
 #### Which NKRO keyboard should I get?
 
-See the [[Supported Hardware]] page for a [list of supported keyboards](https://github.com/openstenoproject/plover/wiki/Supported-Hardware#known-supported-keyboards).
-
 > **Warning**: Be wary of false advertising; some keyboards are advertised as NKRO or anti-ghosting, but are limited to certain combinations. Check reviews to get confirmation before making a purchase. Some keyboards might only support full-NKRO over a PS/2 connector (the [old-style plug](https://en.wikipedia.org/wiki/PS/2_port#/media/File:Ps-2-ports.jpg).) 
 
-Full NKRO over USB is possible. Many keyboards do it well, and will work with Plover.
+Full NKRO over USB is possible. Many keyboards do it well, and will work with Plover. See the [[Supported Hardware]] page for a [list of supported keyboards](https://github.com/openstenoproject/plover/wiki/Supported-Hardware#known-supported-keyboards).
 
 ##### Which type of key switch should I choose?
 
