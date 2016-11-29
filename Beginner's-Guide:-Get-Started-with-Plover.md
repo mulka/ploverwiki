@@ -24,14 +24,13 @@ On OS/X and Mac OS, you need to enable [Assistive Device Permissions](https://su
 
 ###Use a standard keyboard
 
-You can use Plover with a standard keyboard, but there are some important limitations. 
-Stenography often requires you to press five or six keys at once, and sometimes as many as 16. Unfortunately, most keyboards only recognise up to six keys at once. When you need to press more than six keys are once, you have to use a technique called "arpeggiating". See ["How it Works" for more information on arpeggiating](http://qwertysteno.com/Basics/HowItWorks.php) .
+You can use Plover with a standard keyboard, but there are some important limitations. Stenography often requires you to press five or six keys at once, and sometimes as many as 16. Unfortunately, most keyboards only recognise up to six keys at once. When you need to press more than six keys are once, you have to use a technique called "arpeggiating". See ["How it Works" for more information on arpeggiating](http://qwertysteno.com/Basics/HowItWorks.php) .
 
-To write quickly, you'll need a keyboard with N-key rollover (NKRO), a machine designed for use with Plover, or a professional stenography machine. Most gaming ("mechanical") keyboards have NKRO.
+Note: To write quickly, you'll need a keyboard with N-key rollover (NKRO), a machine designed for use with Plover, or a professional stenography machine. 
 
 ### Use an N-key rollover (NKRO) keyboard
 
-An N-key rollover (NKRO) keyboard is specially designed to allow pressing many keys at once. 
+An N-key rollover (NKRO) keyboard is specially designed to allow pressing many keys at once. Most computer gaming ("mechanical") keyboards have NKRO.
 
 * The [Zalman ZM-K600S](https://www.amazon.com/Zalman-Unlimited-Multi-Key-keyboard-ZM-K600S/dp/B0196J3IPE) is currently the cheapest option in the USA, at $45-$50.
 
@@ -55,11 +54,11 @@ Keyboards with an "ortholinear" layout have the keys in straight columns. This i
 Various steno enthusiasts are making and selling machines designed for use with Plover:
 
 * [StenoMod](http://stenomod.blogspot.com/). 
-** This has light keys and a split design. 
-** See Ted Morin's [review of the StenoMod](http://www.teds.space/2016/10/stenomod-affordable-steno-machine.html).
+  * This has light keys and a split design. 
+  * See Ted Morin's [review of the StenoMod](http://www.teds.space/2016/10/stenomod-affordable-steno-machine.html).
 * [SOFT/HRUF](https://softhruf.love/). 
-** This has the shape of a stenography machine, but is built using computer keys rather than levers. See Ellis Pratt's [review of the SOFT/HRUF](https://groups.google.com/d/msg/ploversteno/iraOYarRbdg/tlHeagOQGQAJ).
-* [StenoBoard](http://stenoboard.com/)
+  * This has the shape of a stenography machine, but is built using computer keys rather than levers. See Ellis Pratt's [review of the SOFT/HRUF](https://groups.google.com/d/msg/ploversteno/iraOYarRbdg/tlHeagOQGQAJ).
+* [StenoBoard](http://stenoboard.com/).
 
 ### Use a professional stenography machine
  
