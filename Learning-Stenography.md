@@ -51,4 +51,4 @@ Sites not made for steno are not ideal for use with Plover, but they offer good 
     Short test of most common words.
 - [Typeonline](http://www.typeonline.co.uk/copypractice.php)
 
-Copy practice.
+    Copy practice.
