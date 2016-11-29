@@ -1,3 +1,11 @@
+This page lists the machine known to work with Plover.
+
+It lists:
+
+* Stenotype Machines
+* Keyboards
+* Dedicated machines designed for use with Plover
+
 # Stenotype Machines
 
 ## Supported protocols
@@ -88,3 +96,25 @@ info can be found at the bottom of [this post](http://plover.stenoknight.com/201
 | Vengeance K65               | Corsair                | NKRO over USB   | [$90](http://www.corsair.com/en/gaming-peripherals/gaming-keyboards/vengeance-k65-compact-mechanical-gaming-keyboard.html)
 | ZM-K600S                    | Zalman                 | NKRO over USB   | [$40](http://www.amazon.com/Zalman-Unlimited-Multi-Key-keyboard-ZM-K600S/dp/B0196J3IPE)
 
+### Which type of key switch should I choose?
+
+Stenography works best when the keyboard takes little force to depress keys. The lighter, the better. Ideally, the switch will be linear, it should lack any clicks or bumps. The lighter the force, the better, for steno. In the Cherry MX line, the best switch is Red, at 45 cN actuation. For Gaterons, the best switch for steno is Clear/White (different names, same switch), at only 35 cN actuation.
+
+# Dedicated machines designed for use with Plover
+
+Various steno enthusiasts are making and selling machines designed for use with Plover:
+
+* [Stenomod](http://stenomod.blogspot.com/)
+  * This has light keys and a split design.
+  * It is built and sold by Charley Shattuck, in California.
+  * See Ted Morin's [review of the StenoMod](http://www.teds.space/2016/10/stenomod-affordable-steno-machine.html).
+  * The name is supposed to hint at how the machine is "modular" and adaptable. It is very barebones so it is easy to take apart and customize.
+* [SOFT/HRUF](https://softhruf.love/)
+  * This has the shape of a stenography machine, but is built using computer keys rather than levers.
+  * It is built and sold by Scott Urueta, in Miami.
+  * See Ellis Pratt's [review of the SOFT/HRUF and Stenomod](https://groups.google.com/d/msg/ploversteno/iraOYarRbdg/tlHeagOQGQAJ).
+  * The name is the steno representation for, and is pronounced as, "soft love".
+* [Stenoboard](http://stenoboard.com/)
+  * The first open source steno machine on the market, released in 2014.
+  * It is sold and built by Caruso Emanuele, in Italy.
+  * The Stenoboard's keys actuate like mouse-clicks instead of a keyboard or lever-machine.
