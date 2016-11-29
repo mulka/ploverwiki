@@ -79,6 +79,8 @@ info can be found at the bottom of [this post](http://plover.stenoknight.com/201
 
 > **Warning**: Be wary of false advertising; some keyboards are advertised as NKRO or anti-ghosting, but are limited to certain combinations. Check reviews to get confirmation before making a purchase. Some keyboards might only support full-NKRO over a PS/2 connector (the [old-style plug](https://en.wikipedia.org/wiki/PS/2_port#/media/File:Ps-2-ports.jpg).) Full NKRO over USB is possible. Many keyboards do it well, and will work with Plover.
 
+The following machines have been confirmed by users to work with Plover after actually trying it:
+
 | Product Name                | Manufacturer           | Comments        | Price
 | --------------------------- | ---------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Apex m-800                  | SteelSeries            | NKRO over USB   | [$199](https://steelseries.com/gaming-keyboards/apex-m800)
