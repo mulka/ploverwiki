@@ -30,7 +30,7 @@ Note: To write quickly, you'll need a keyboard with N-key rollover (NKRO), a mac
 
 ### Use an N-key rollover (NKRO) QWERTY keyboard
 
-An N-key rollover (NKRO) keyboard is specially designed to allow pressing many keys at once. Most computer gaming ("mechanical") keyboards have NKRO.
+An N-key rollover (NKRO) keyboard is specially designed to allow pressing many keys at once. Most computer gaming ("mechanical") keyboards have NKRO.  
 
 See the [[Supported Hardware]] page for a list of supported keyboards.
 
