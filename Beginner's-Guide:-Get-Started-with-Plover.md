@@ -132,7 +132,7 @@ See [Supported protocols](https://github.com/openstenoproject/plover/wiki/Suppor
 
 * [Steno Jig](https://joshuagrams.github.io/steno-jig/) is a website where you can practice the Learn Plover exercises. You can also practice the 3,000 most common words.  
 
-See also [[Learning Resources]] and [the old steno practice page](http://stenoknight.com/wiki/Practice).
+See also [Learning Resources](https://github.com/openstenoproject/plover/wiki/Learning-Stenography) and [the old steno practice page](http://stenoknight.com/wiki/Practice).
 
 ###Which steno theory should you learn?
 
