@@ -77,7 +77,8 @@ Initially, Plover is set up to use your computer keyboard as a steno machine. If
 
 By default, Plover will use your keyboard as its input device. 
 
-1. Run Plover and click the `Enable` radio button. 
+1. Run Plover.
+1. Click the **Enable** radio button. 
  
 You may like to go into Plover's `Configure > Display` settings and turn on either the stroke display or the suggestions window.
 
@@ -89,7 +90,8 @@ You can practice sentences that (mostly) only need two keys at once, on the [Ste
 
 To write "Hello, world." into a text editor with Plover, using a QWERTY keyboard:
 
-1. Run Plover and click the `Enable` radio button.
+1. Run Plover. 
+1. Click the **Enable** radio button.
 1. Open a text editor.
 1. Simultaneously press `R`, `N`, and `O` (left index finger on `R`, right thumb on `N`, and right ring finger on `O`). 
   * `Hel` appears.
@@ -117,10 +119,10 @@ See also:
 
 Plover supports several protocols that are in use by various professional stenography machines. To configure Plover to the protocol your machine uses:
 
-1. Run Plover and click the `Enable` radio button.
-1. Click the 'Configure' button on the Plover Dialog screen. The Plover configuration screen appears. 
-1. On the 'Machine' tab, select the protocol your machine uses. 
-1. Click 'Save'.
+1. Run Plover and click the **Enable** radio button.
+1. Click the **Configure** button on the Plover Dialog screen. The Plover configuration screen appears. 
+1. On the **Machine** tab, select the protocol your machine uses. 
+1. Click **Save**.
 
 See [Supported protocols](https://github.com/openstenoproject/plover/wiki/Supported-Hardware#supported-protocols) for more information. 
 
