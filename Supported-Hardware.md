@@ -128,7 +128,7 @@ Keyboards with an "ortholinear" layout have the keys in straight columns. This i
 
 | Product Name                       | Manufacturer       | Protocol/Connection | Comments                |
 | ---------------------------------- | ------------------ | ------------------- | ----------------------- |
-| [ErgoDox](https://deskthority.net/wiki/ErgoDox)           |   DOX      |  USB  |     The ErgoDox is a fairly high-end NKRO keyboard at $200, with an ortholinear layout. It has two separate halves, so you can angle them to suit you. You can order it with the Gateron White keys, which have an extremely light, 35 gram activation force.                    |
+| [ErgoDox](https://deskthority.net/wiki/ErgoDox)           |   Ergodox      |  USB  |     The ErgoDox is a fairly high-end NKRO keyboard at $200, with an ortholinear layout. It has two separate halves, so you can angle them to suit you. You can order it with the Gateron White keys, which have an extremely light, 35 gram activation force.                    |
 | [Planck](http://olkb.com/planck/) | OLKB | USB | The Planck is a NKRO keyboard with an ortholinear layout. It is 40% smaller than a standard keyboard.|
 |[Prenoic](http://olkb.com/preonic/)| OLKB | USB | The Preonic is a NKRO keyboard with an ortholinear layout. It is 60% smaller than a standard keyboard. |
 
