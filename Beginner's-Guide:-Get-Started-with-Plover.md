@@ -38,11 +38,17 @@ You can use Plover with a standard keyboard, but there are some important limita
 
 ### Use an N-key rollover (NKRO) QWERTY keyboard
 
-An N-key rollover (NKRO) keyboard is specially designed to allow pressing many keys at once. Some gaming or mechanical keyboards have NKRO. Be wary of false advertising; some keyboards are advertised as NKRO or anti-ghosting, but are limited to certain combinations. Check reviews to get confirmation before making a purchase. Note, also, that some keyboards might only support full-NKRO over a PS/2 connector (the [old-style plug](https://en.wikipedia.org/wiki/PS/2_port#/media/File:Ps-2-ports.jpg).) Full NKRO over USB *is* possible and many keyboards do it well, and will work with Plover.
+An N-key rollover (NKRO) keyboard is specially designed to allow pressing many keys at once. Some gaming or mechanical keyboards have NKRO. 
+
+#### Which NKRO keyboard should I get?
 
 See the [[Supported Hardware]] page for a [list of supported keyboards](https://github.com/openstenoproject/plover/wiki/Supported-Hardware#known-supported-keyboards).
 
-#### Switch type
+> **Warning**: Be wary of false advertising; some keyboards are advertised as NKRO or anti-ghosting, but are limited to certain combinations. Check reviews to get confirmation before making a purchase. Some keyboards might only support full-NKRO over a PS/2 connector (the [old-style plug](https://en.wikipedia.org/wiki/PS/2_port#/media/File:Ps-2-ports.jpg).) 
+
+Full NKRO over USB is possible. Many keyboards do it well, and will work with Plover.
+
+##### Which type of key switch should I choose?
 
 Stenography works best when the keyboard takes little force to depress keys. The lighter, the better. Ideally, the switch will be linear, it should lack any clicks or bumps. The lighter the force, the better, for steno. In the Cherry MX line, the best switch is Red, at 45 cN actuation. For Gaterons, the best switch for steno is Clear/White (different names, same switch), at only 35 cN actuation.
 
