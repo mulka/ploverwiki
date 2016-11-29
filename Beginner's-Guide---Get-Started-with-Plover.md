@@ -85,6 +85,7 @@ Try out these [sentences that (mostly) only need two keys at once](https://joshu
 To write "hello, world" into a text editor with Plover, using a QWERTY keyboard:
 
 1. Run Plover and click the `Enable` radio button.
+1. Open a text editor.
 1. Simultaneously press R, N, and O (left index finger on 'R', right thumb on 'N', and right ring finger on 'O'). 
 1. Simultaneously press R, F, and V (left index finger between 'R' and 'F', and left thumb on 'V')
 1. Simultaneously press J, K, L, and ; (right index finger on 'J', right middle finger on 'K', right ring finger on 'L', and right little (pinky) finger on ';')
