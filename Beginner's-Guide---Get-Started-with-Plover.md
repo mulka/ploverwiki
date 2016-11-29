@@ -99,8 +99,9 @@ On a QWERTY keyboard, move your fingers up from the home row so that they rest o
 Your fingers should be slightly curled, so you press the keys using the tips of your fingers. 
 
 See:
-[Basic Hand Posture on the Steno Machine](https://www.youtube.com/watch?v=YfHNPW6EnHo)
-[Basic Body Position for Steno Students and Pros](https://www.youtube.com/watch?v=s_zyxgQvNEU)
+
+* [Basic Hand Posture on the Steno Machine](https://www.youtube.com/watch?v=YfHNPW6EnHo)
+* [Basic Body Position for Steno Students and Pros](https://www.youtube.com/watch?v=s_zyxgQvNEU)
 
 ### Stenography machine
 
