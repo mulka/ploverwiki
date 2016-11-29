@@ -114,23 +114,15 @@ To write "Hello, world." into a text editor with Plover, using a QWERTY keyboard
 
 Your fingers should be slightly curled, so you press the keys using the tips of your fingers. 
 
-<img src="http://stenoknight.com/plover/stenqwerty.png" width="400">
+<img src="http://stenoknight.com/plover/stenqwerty.png" width="450">
 
 On a QWERTY keyboard, you move your hands half an inch up so that your left thumb is resting on the cracks between the `C` and `V` keys and your right thumb is resting between the `N` and `M` keys. The rest should fall into place. 
 
-`QWER   TY   UIOP[`
-
-`ASDF   GH   JKL;`
-
-`CV   NM`
-
-maps to:
-
-`STPH`  `**`   `FPLTD`
-
-`SKWR   **   RBGSZ`
-
-`AO   EU`
+| QWERTY layout|Maps to steno layout |  
+|:---:|:---:|
+|`QWER   TY   UIOP[`|`STPH  **   FPLTD`|
+|`ASDF   GH   JKL;`|`SKWR   **   RBGSZ`|
+|`CV   NM`|`AO   EU`| 
 
 See also:
 
