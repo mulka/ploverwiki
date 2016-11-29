@@ -52,12 +52,20 @@ Most keyboards have the keys in staggered rows, which can make it difficult to p
 
 You can buy laser-cut keytoppers from the [Plover Store](http://plover.deco-craft.com/). You can also make your own keytoppers out of plastic or even coins.
 
+#### Keycaps
+
+If you have a mechanical keyboard, chances are your keys have a [Cherry MX stem](https://deskthority.net/wiki/Cherry_MX) and will work with custom keycaps. Keys that have little space between them are good for steno because then you can hit two neighboring keys with one finger (which is frequently necessary).
+
+- The [G20 keycap set](http://pimpmykeyboard.com/g20-blank-keycap-sets/) from Signature Plastics is a great set for steno, and will fit on an ErgoDox or other mechanical keyboard. The keys have a direction, so for optimal comfort, you should angle the top row of steno (`STPH...`) down, so that they are close to the bottom row (`SKWR...`)
+- You can 3D-print a [steno-friendly keycap](https://github.com/morinted/stenomod_case).
+
 #### NKRO keyboards with an ortholinear layout
 
 Keyboards with an "ortholinear" layout have the keys in straight columns. This is handy for steno, as it makes it easier to press two keys in a column with a single finger. 
 
 * The [ErgoDox](https://deskthority.net/wiki/ErgoDox) is a fairly high-end NKRO keyboard at $200, with an ortholinear layout. It has two separate halves, so you can angle them to suit you. You can order it with the Gateron White keys, which have an extremely light, 35 gram activation force.
-* The [Planck](http://olkb.com/planck/) is a NRKO keyboard with an ortholinear layout. It is 40% smaller than a standard keyboard.
+* The [Planck](http://olkb.com/planck/) is a NKRO keyboard with an ortholinear layout. It is 40% smaller than a standard keyboard.
+* The [Prenoic](http://olkb.com/preonic/) is also an NKRO keyboard with an ortholinear layout.
 
 ### Use a machine designed for use with Plover
 
