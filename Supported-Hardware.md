@@ -104,20 +104,28 @@ info can be found at the bottom of [this post](http://plover.stenoknight.com/201
 
 Stenography works best when the keyboard takes little force to depress keys. The lighter, the better. Ideally, the switch will be linear, it should lack any clicks or bumps. The lighter the force, the better, for steno. In the Cherry MX line, the best switch is Red, at 45 cN actuation. For Gaterons, the best switch for steno is Clear/White (different names, same switch), at only 35 cN actuation.
 
-## Keytoppers
+## Adapt a keyboard for steno use
 
-Most keyboards have the keys in staggered rows, which can make it difficult to press two keys in a column with a single finger. To solve this problem, you can use keytoppers, which are in the shape of the keys on a steno machine, and stick them on top of the relevant keys on the keyboard.  
+Most keyboards have the keys in staggered rows, which can make it difficult to press two keys in a column with a single finger. To adapt a keyboard for steno use, you can use:
+
+* Keytoppers
+* Keycaps
+* A keyboard with an ortholinear layout
+
+### Keytoppers
+
+To solve this problem, you can use keytoppers, which are in the shape of the keys on a steno machine, and stick them on top of the relevant keys on the keyboard.  
 
 You can buy laser-cut keytoppers from the [Plover Store](http://plover.deco-craft.com/). You can also make your own keytoppers out of plastic or even coins.
 
-## Keycaps
+### Keycaps
 
 If you have a mechanical keyboard, chances are your keys have a [Cherry MX stem](https://deskthority.net/wiki/Cherry_MX) and will work with custom keycaps. Keys that have little space between them are good for steno because then you can hit two neighboring keys with one finger (which is frequently necessary).
 
 - The [G20 keycap set](http://pimpmykeyboard.com/g20-blank-keycap-sets/) from Signature Plastics is a great set for steno, and will fit on an ErgoDox or other mechanical keyboard. The keys have a direction, so for optimal comfort, you should angle the top row of steno (`STPH...`) down, so that they are close to the bottom row (`SKWR...`)
 - You can 3D-print a [steno-friendly keycap](https://github.com/morinted/stenomod_case).
 
-## NKRO keyboards with an ortholinear layout
+### NKRO keyboards with an ortholinear layout
 
 Keyboards with an "ortholinear" layout have the keys in straight columns. This is handy for steno, as it makes it easier to press two keys in a column with a single finger. 
 
