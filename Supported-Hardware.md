@@ -130,7 +130,7 @@ The following machines have been confirmed by users to work with Plover after ac
 | ---------------------------------- | ------------------ | ------------------- | ----------------------- |
 | [ErgoDox](https://deskthority.net/wiki/ErgoDox)           |   Ergodox      |  USB  |     The ErgoDox is a fairly high-end NKRO keyboard at $200, with an ortholinear layout. It has two separate halves, so you can angle them to suit you. You can order it with the Gateron White keys, which have an extremely light, 35 gram activation force.                    |
 | [Planck](http://olkb.com/planck/) | OLKB | USB | The Planck is a NKRO keyboard with an ortholinear layout. It is 40% the size of a standard keyboard.|
-|[Preonic](http://olkb.com/preonic/)| OLKB | USB | The Preonic is a NKRO keyboard with an ortholinear layout. It is 60% the size of a standard keyboard. |
+|[Preonic](http://olkb.com/preonic/)| OLKB | USB | The Preonic is a NKRO keyboard with an ortholinear layout. It is 50% the size of a standard keyboard. |
 
 # Dedicated machines designed for use with Plover
 
