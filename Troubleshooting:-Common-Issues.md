@@ -6,6 +6,8 @@ Also, please make sure to check the [Plover bug tracker](https://github.com/open
 
 > **Note**: Initially, Plover is set up to use your computer keyboard as a steno machine. If you have a steno machine, you'll need to configure Plover to look for your machine. See the [Supported Hardware page](https://github.com/openstenoproject/plover/wiki/Supported-Hardware) for configuration instructions specific to your machine.
 
+If you know your machine has been configured correctly, and Plover doesn't recognize your keyboard or steno machine:
+
 1. Confirm your keyboard or steno machine is plugged into your computer. 
 1. On the Plover control panel, check if it states the machine is connected or disconnected. 
   1. Press the Reconnect button (to the right of "connected" or "disconnected"). 
