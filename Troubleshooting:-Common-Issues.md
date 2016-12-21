@@ -55,4 +55,6 @@ Have a look inside to see which keyboard commands Plover can do.
 
 * Older versions of IBus (prior to 1.5.11) don't handle the very fast simulated key presses of Plover. If this issue affects you, make sure you disable IBus or upgrade it.
 
+## Linux dynamic keyboard layout switching is not working
+
 * Plover does not handle dynamic keyboard layout switching: see [bug #298](https://github.com/openstenoproject/plover/issues/298)
