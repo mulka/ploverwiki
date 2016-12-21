@@ -17,9 +17,9 @@ If you know your machine has been configured correctly, and Plover doesn't recog
 By default, Plover ships with three dictionaries: `main.json`, `commands.json` and `user.json`. This can be a source of confusion to new users. 
 
 ## Dictionary priority
-If two dictionaries contain the same steno strokes, Plover will use the one in the dictionary that has the highest priority. The dictionaries in the dictionary list are prioritised from the bottom up. By default, the `user.json` dictionary is placed at the bottom of the dictionary list and has the highest priority. 
+If two dictionaries contain the same steno strokes, Plover will use the one in the dictionary that has the highest priority. The dictionaries in the dictionary list are prioritised from the bottom up. 
 
-If you want new strokes to go to different dictionary (for example, you have your own dictionary already), make sure that dictionary is at the bottom of the list.
+By default, the `user.json` dictionary is placed at the bottom of the dictionary list and has the highest priority. If you want new strokes to go to different dictionary (for example, you have your own dictionary already), make sure that dictionary is at the bottom of the list.
 
 ## If you have your own dictionary already
 
