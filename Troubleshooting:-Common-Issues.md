@@ -2,7 +2,7 @@ Some common problems and solutions are recorded here. If you're having a problem
 
 Also, please make sure to check the [bug tracker](https://github.com/openstenoproject/plover/issues) for known reported issues.
 
-# Dictionaries
+# Dictionary issues
 
 By default, Plover ships with three dictionaries: `main.json`, `commands.json` and `user.json`. This can be a source of confusion to new users. 
 
@@ -35,15 +35,23 @@ Have a look inside to see which keyboard commands Plover can do.
 
 # Windows
 
-* Make sure to disable AutoKey if you're getting strange behavior with Plover
+## Unrecognized keystrokes and other strange behavior
+
+* Make sure to disable AutoKey if you're getting strange behavior with Plover.
 
 # macOS
 
+## Plover does not run (macOS)
+
 * If you use a keyboard instead of a steno machine, Plover needs [Assistive Device Permissions](https://support.apple.com/en-ca/HT202866).
-* macOS has a feature where holding down a key brings up an accent menu. This can sometimes drop keys when typing quickly, such as `TO/FPLT` producing `t.` instead of `to.` To disable this, follow [this help article](https://www.tekrevue.com/tip/how-to-disable-the-character-accent-menu-in-os-x-mountain-lion/).
 * Plover will not work if you are using [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
 
+## Unrecognized keystrokes
+* macOS has a feature where holding down a key brings up an accent menu. This can sometimes drop keys when typing quickly, such as `TO/FPLT` producing `t.` instead of `to.` To disable this, follow [this help article](https://www.tekrevue.com/tip/how-to-disable-the-character-accent-menu-in-os-x-mountain-lion/).
+
 # Linux
+
+## Unrecognized keystrokes
 
 * Older versions of IBus (prior to 1.5.11) don't handle the very fast simulated key presses of Plover. If this issue affects you, make sure you disable IBus or upgrade it.
 
