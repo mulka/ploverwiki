@@ -6,29 +6,32 @@ Also, please make sure to check the [bug tracker](https://github.com/openstenopr
 
 By default, Plover ships with three dictionaries: `main.json`, `commands.json` and `user.json`. This can be a source of confusion to new users. 
 
-## main.json
-
-`main.json` is the core default dictionary. It is based on Mirabai Knight's own personal dictionary, which follows a StenEd-style thoery. It contains over 140,000 entries and is adequate for anyone learning stenography. Mirabai uses this dictionary professionally for her realtime work.
-
-## commands.json
-`commands.json` contains some keyboard shortcuts and Plover-specific utilities. For example, the stroke to add a new translation: `TKUPT`. It also contains arrow key movements, copy and paste, and more. 
-
-Have a look inside to see which keyboard commands Plover can do.
-
-## user.json
-
-`user.json` is a blank dictionary. It has the highest priority - it is the first dictionary Plover will use. When you define new strokes, they will get added to this dictionary. This means you can see which strokes you've defined yourself, instead of trying to locate them inside the default dictionaries.
-
 ## Dictionary priority
 The dictionaries in the dictionary list are prioritised from the bottom up. By default, the `user.json` dictionary is placed at the bottom of the dictionary list and has the highest priority. If you wanted new strokes to go to different dictionary (for example, you have your own dictionary already), make sure this dictionary is at the bottom of the list.
 
 ## If you have your own dictionary already
 
-If you have your own dictionary already, you'll probably want to remove `main` and `custom` and add your own dictionary. This includes existing stenographers and users of another theory (Magnum, Phoenix). 
+If you have your own dictionary already, you'll probably want to remove `main.json` and `custom.json` and add your own dictionary. This includes existing stenographers and users of another theory (Magnum, Phoenix). 
 
 We do not recommend you remove the `commands.json` dictionary from the dictionary list. This is because Plover has some concepts that users of other steno software will not be familiar with initially. 
 
 Make sure your theory dictionary is at the bottom of the list if you want new strokes to go to it.
+
+## About the dictionaries
+
+### main.json
+
+`main.json` is the core default dictionary. It is based on Mirabai Knight's own personal dictionary, which follows a StenEd-style thoery. It contains over 140,000 entries and is adequate for anyone learning stenography. Mirabai uses this dictionary professionally for her realtime work.
+
+### commands.json
+`commands.json` contains some keyboard shortcuts and Plover-specific utilities. For example, the stroke to add a new translation: `TKUPT`. It also contains arrow key movements, copy and paste, and more. 
+
+Have a look inside to see which keyboard commands Plover can do.
+
+### user.json
+
+`user.json` is a blank dictionary. It has the highest priority - it is the first dictionary Plover will use. When you define new strokes, they will get added to this dictionary. This means you can see which strokes you've defined yourself, instead of trying to locate them inside the default dictionaries.
+
 
 # Windows
 
