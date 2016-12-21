@@ -29,20 +29,20 @@ Each release has files for all the operating systems we support. You only need t
 
 ### Windows
 
-- Download the `.exe` file from the release page.
-- You can place the file anywhere on your computer. You will run it from the same location every time.
-- Open the file to launch Plover.
+1. Download the `.exe` file from the release page.
+  * You can place the file anywhere on your computer. You will run it from the same location every time.
+1. Open the file to launch Plover.
 
 ### Mac
 
 If you have [Homebrew Cask](https://caskroom.github.io/) installed on your system, you can run `brew cask install plover` at the command-line. Otherwise:
 
-- Download the `.dmg` file from the release page.
-- Open the `.dmg`.
-- In the mounted disk, drag the `Plover.app` to your `Applications` folder.
-- Open `System Preferences > Security & Privacy > Privacy > Accessibility`.
-- Click the "+" Button, and go to your applications and select `Plover.app`.
-- Plover is set up! Simply run Plover like you would any other application.
+1. Download the `.dmg` file from the release page.
+1. Open the `.dmg`.
+1. In the mounted disk, drag the `Plover.app` to your `Applications` folder.
+1. Open `System Preferences > Security & Privacy > Privacy > Accessibility`.
+1. Click the "+" Button, and go to your applications and select `Plover.app`.
+Plover is set up! You can run Plover like you would any other application.
 
 ### Linux
 
@@ -52,7 +52,11 @@ Use AUR package [plover](https://aur.archlinux.org/packages/plover/) for stabled
 
 #### Other
 
-You need to install Python 2 (with pip support), wxPython, and wmctrl (optional). Once this is done, download the wheel file for the version you want to run and install it like this:
+- You need to install Python 2 (with pip support), wxPython, and wmctrl (optional). 
+Once this is done:
+
+1. Download the wheel file for the version you want to run. 
+1. Install it using this command:
 
 `python2 -m pip install --user plover-3.0.0-py2-none-any.whl`
 
