@@ -7,7 +7,7 @@ Also, please make sure to check the [bug tracker](https://github.com/openstenopr
 By default, Plover ships with three dictionaries: `main.json`, `commands.json` and `user.json`. This can be a source of confusion to new users. 
 
 ## Dictionary priority
-The dictionaries in the dictionary list are prioritised from the bottom up. By default, the `user.json` dictionary is placed at the bottom of the dictionary list and has the highest priority. If you wanted new strokes to go to different dictionary (for example, you have your own dictionary already), make sure this dictionary is at the bottom of the list.
+The dictionaries in the dictionary list are prioritised from the bottom up. By default, the `user.json` dictionary is placed at the bottom of the dictionary list and has the highest priority. If you want new strokes to go to different dictionary (for example, you have your own dictionary already), make sure that dictionary is at the bottom of the list.
 
 ## If you have your own dictionary already
 
