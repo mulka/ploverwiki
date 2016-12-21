@@ -38,10 +38,11 @@ Each release has files for all the operating systems we support. You only need t
 If you have [Homebrew Cask](https://caskroom.github.io/) installed on your system, you can run `brew cask install plover` at the command-line. Otherwise:
 
 1. Download the `.dmg` file from the release page.
-1. Open the `.dmg`.
+1. Open the `.dmg` file.
 1. In the mounted disk, drag the `Plover.app` to your `Applications` folder.
 1. Open `System Preferences > Security & Privacy > Privacy > Accessibility`.
 1. Click the "+" Button, and go to your applications and select `Plover.app`.
+
 Plover is set up! You can run Plover like you would any other application.
 
 ### Linux
