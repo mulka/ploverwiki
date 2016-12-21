@@ -5,7 +5,7 @@
 - [Supported Hardware](https://github.com/openstenoproject/plover/wiki/Supported-Hardware)
 - [Get Started with Plover](https://github.com/openstenoproject/plover/wiki/Beginner's-Guide:-Get-Started-with-Plover)
 - [Dictionary Format](https://github.com/openstenoproject/plover/wiki/Dictionary-Format)
-- [Troubleshooting Issues](https://github.com/openstenoproject/plover/wiki/Troubleshooting-FAQ)
+- [Troubleshooting Issues](https://github.com/openstenoproject/plover/wiki/Troubleshooting:-Common-Issues)
 
 ### Stenography
 
