@@ -59,10 +59,10 @@ Have a look inside to see which keyboard commands Plover can do.
 
 * Plover does not handle dynamic keyboard layout switching: see [bug #298](https://github.com/openstenoproject/plover/issues/298)
 
-# Plover does not recognize up my machine
+# Plover does not recognize my USB keyboard or steno machine
 
-[[Note]] Initially, Plover is set up to use your computer keyboard as a steno machine. If you have a steno machine, you'll need to configure Plover to look for your machine. See the Supported Hardware page for configuration instructions specific to your machine.
+> **Note**: Initially, Plover is set up to use your computer keyboard as a steno machine. If you have a steno machine, you'll need to configure Plover to look for your machine. See the [Supported Hardware page](https://github.com/openstenoproject/plover/wiki/Supported-Hardware) for configuration instructions specific to your machine.
 
-1. Check your keyboard or steno machine is plugged into your computer. 
+1. Confirm your keyboard or steno machine is plugged into your computer. 
 1. On the Plover control panel, check if it states the machine is connected or disconnected. 
-  1. Press the reconnect button (to the right of "connected" or "disconnected"). 
+  1. Press the Reconnect button (to the right of "connected" or "disconnected"). 
