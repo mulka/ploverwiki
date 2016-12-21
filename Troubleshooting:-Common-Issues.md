@@ -1,6 +1,6 @@
 Some common problems and solutions are recorded here. If you're having a problem with Plover, see if it is described here along with a solution. 
 
-Also, please make sure to check the [bug tracker](https://github.com/openstenoproject/plover/issues) for known reported issues.
+Also, please make sure to check the [Plover bug tracker](https://github.com/openstenoproject/plover/issues) for known reported issues.
 
 # Plover does not recognize my USB keyboard or steno machine
 
@@ -45,7 +45,7 @@ Have a look inside to see which keyboard commands Plover can do.
 
 ## Unrecognized keystrokes and other strange behavior
 
-* Make sure to disable AutoKey if you're getting strange behavior with Plover.
+* Disable AutoKey if you're getting strange behavior with Plover.
 
 # macOS
 
@@ -55,7 +55,7 @@ Have a look inside to see which keyboard commands Plover can do.
 * Plover will not work if you are using [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
 
 ## Unrecognized keystrokes
-* macOS has a feature where holding down a key brings up an accent menu. This can sometimes drop keys when typing quickly, such as `TO/FPLT` producing `t.` instead of `to.` To disable this, follow [this help article](https://www.tekrevue.com/tip/how-to-disable-the-character-accent-menu-in-os-x-mountain-lion/).
+* macOS has a feature where holding down a key brings up an accent menu. This can sometimes drop keys when typing quickly, such as `TO/FPLT` producing `t.` instead of `to.` To disable this, follow the instructions in this article: ["How to Disable the Character Accent Menu in OS X Mountain Lion"](https://www.tekrevue.com/tip/how-to-disable-the-character-accent-menu-in-os-x-mountain-lion/).
 
 # Linux
 
