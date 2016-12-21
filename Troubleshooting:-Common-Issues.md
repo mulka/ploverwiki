@@ -1,4 +1,6 @@
-Some common problems and solutions are recorded here. If you're having a problem with Plover then please see if it is described here along with a solution. Make sure to check the [bug tracker](https://github.com/openstenoproject/plover/issues) for known reported issues.
+Some common problems and solutions are recorded here. If you're having a problem with Plover, see if it is described here along with a solution. 
+
+Also, please make sure to check the [bug tracker](https://github.com/openstenoproject/plover/issues) for known reported issues.
 
 # Dictionaries
 
