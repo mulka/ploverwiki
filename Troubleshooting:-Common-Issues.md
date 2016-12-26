@@ -10,7 +10,8 @@ If you know your machine has been configured correctly, and Plover doesn't recog
 
 1. Confirm your keyboard or steno machine is plugged into your computer. 
 1. On the Plover control panel, check if it states the machine is connected or disconnected. 
-  * If it states the machine is disconnected, press the Reconnect button (this is to the right of "connected" or "disconnected" message).  
+  * If it states the machine is disconnected, press the Reconnect button (this is to the right of "connected" or "disconnected" message). 
+1. If Plover still doesn't recognize your machine, try closing and relaunching Plover.   
 
 # Dictionary issues
 
