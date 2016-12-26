@@ -42,7 +42,7 @@ Have a look inside to see which keyboard commands Plover can do.
 
 ### user.json
 
-`user.json` is a blank dictionary. It has the highest priority - it is the first dictionary Plover will use. When you define new strokes, they will get added to this dictionary. This means you can see which strokes you've defined yourself, instead of trying to locate them inside the default dictionaries.
+`user.json` is a blank dictionary. By default, the `user.json` dictionary is at the bottom of the dictionary list and has the highest priority - it is the first dictionary Plover will use. When you define new strokes, they will get added to this dictionary. This means you can see which strokes you've defined yourself, instead of trying to locate them inside the default dictionaries.
 
 
 # Windows
