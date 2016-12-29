@@ -1,4 +1,4 @@
-This guide explains how to get started with Plover. Plover is free-of-charge software, and the learning resources listed below are also available free-of-charge.
+This guide explains how to get started with Plover. Plover is free-of-charge stenography software, and the learning resources listed below are also available free-of-charge.
 
 ## Overview
 
