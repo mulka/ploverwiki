@@ -9,6 +9,8 @@ The main steps are:
 1. [Confirm it's working.](#confirm-its-working)
 1. [Practice and learn stenography using Plover.](#practice-and-learn)
 
+> **Note**: Plover is free-of-charge software, and the learning resources listed below are free-of-charge. In order to write quickly, you might need to purchase suitable hardware (see below). 
+
 ## Install Plover
 
 There are versions of Plover for Windows, Mac, and Linux. 
