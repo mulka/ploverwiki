@@ -27,13 +27,13 @@ What version do you get? You have a couple of options, depending on your needs.
 
 Each release has files for all the operating systems we support. You only need to grab the files that are relevant to your OS.
 
-### Windows
+### Install Plover on Windows
 
 1. Download the `.exe` file from the release page.
   * You can place the file anywhere on your computer. You will run it from the same location every time.
 1. Open the file to launch Plover.
 
-### Mac
+### Install Plover on MacOS
 
 If you have [Homebrew Cask](https://caskroom.github.io/) installed on your system, you can run `brew cask install plover` at the command-line. Otherwise:
 
@@ -45,13 +45,13 @@ If you have [Homebrew Cask](https://caskroom.github.io/) installed on your syste
 
 Plover is set up! You can run Plover like you would any other application.
 
-### Linux
+### Install Plover on Linux
 
-#### Arch Linux distribution
+#### Install Plover on Arch Linux distribution
 
 Use AUR package [plover](https://aur.archlinux.org/packages/plover/) for stabled and [plover-git](https://aur.archlinux.org/packages/plover-git/) for the current `master`.
 
-#### Other Linux distributions 
+#### Install Plover on other Linux distributions 
 
 Before you start, you must have installed Python 2 (with pip support), wxPython, and wmctrl (optional). 
 
