@@ -64,7 +64,7 @@ Then, do the following:
 
 `python2 -m pip install --user plover-3.0.0-py2-none-any.whl`
 
-> **Note**: Replace `plover-3.0.0-py2-none-any.whl` with the filename for the current downloadable file. 
+> **Note**: Replace `plover-3.0.0-py2-none-any.whl` with the filename for the current downloadable whl file on the [release page](https://github.com/openstenoproject/plover/releases). 
 
 You can then start Plover with:
 
