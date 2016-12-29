@@ -1,4 +1,4 @@
-This guide explains how to get started with Plover.
+This guide explains how to get started with Plover. Plover is free-of-charge software, and the learning resources listed below are also available free-of-charge.
 
 ## Overview
 
@@ -8,8 +8,6 @@ The main steps are:
 1. [Connect a compatible keyboard or stenography (steno) machine, or use your standard keyboard.](#connect-a-compatible-keyboard-or-stenography-machine)
 1. [Confirm it's working.](#confirm-its-working)
 1. [Practice and learn stenography using Plover.](#practice-and-learn)
-
-> **Note**: Plover is free-of-charge software, and the learning resources listed below are free-of-charge. In order to write quickly, you might need to purchase suitable hardware (see below). 
 
 ## Install Plover
 
