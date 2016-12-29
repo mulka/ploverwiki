@@ -47,11 +47,11 @@ Plover is set up! You can run Plover like you would any other application.
 
 ### Linux
 
-#### Arch
+#### Arch Linux distribution
 
 Use AUR package [plover](https://aur.archlinux.org/packages/plover/) for stabled and [plover-git](https://aur.archlinux.org/packages/plover-git/) for the current `master`.
 
-#### Other
+#### Other Linux distributions 
 
 You need to install Python 2 (with pip support), wxPython, and wmctrl (optional). 
 
