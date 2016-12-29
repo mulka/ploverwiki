@@ -62,6 +62,8 @@ Once this is done:
 
 `python2 -m pip install --user plover-3.0.0-py2-none-any.whl`
 
+>>Note: Replace `plover-3.0.0-py2-none-any.whl` with the filename for the current downloadable file. 
+
 You can then start Plover with:
 
 `~/.local/bin/plover`
