@@ -55,9 +55,9 @@ Use AUR package [plover](https://aur.archlinux.org/packages/plover/) for stabled
 
 Before you start, you must have installed Python 2 (with pip support), wxPython, and wmctrl (optional). 
 
-For example, `sudo apt-get install wmctrl`
+For example, `sudo apt-get install wmctrl`.
 
-Then do the following:
+Then, do the following:
 
 1. Download the wheel file for the version you want to run. 
 1. Install it using this command:
