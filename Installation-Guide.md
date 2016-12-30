@@ -53,6 +53,7 @@ Use AUR package [plover](https://aur.archlinux.org/packages/plover/) for stabled
 
 #### Install Plover on other Linux distributions 
 
+##### Prerequisites
 Before you start, you must have installed Python 2 (with pip support), wxPython, and wmctrl (optional). 
 
 For example:
@@ -66,7 +67,9 @@ For example:
 
 `pip install --user Downloads/setuptools-32.3.1-py2.py3-none-any.whl`
 
-Then, do the following:
+#####Installation
+
+To install:
 
 1. Download the wheel file for the version you want to run. 
 1. Install it using this command:
