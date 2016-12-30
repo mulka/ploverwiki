@@ -78,6 +78,8 @@ To install:
 
 > **Note**: Replace `plover-3.0.0-py2-none-any.whl` with the filename for the current downloadable whl file on the [release page](https://github.com/openstenoproject/plover/releases). 
 
+#### Opening Plover in Linux
+
 You can then start Plover with:
 
 `~/.local/bin/plover`
