@@ -1,6 +1,6 @@
 # Plover
 
-Plover (rhymes with "hover") is a free, open source stenography engine. It allows individuals who learn stenography to write into any program at speeds of over 200 words per minute.
+Plover (rhymes with "lover") is a free, open source stenography engine. It allows individuals who learn stenography to write into any program at speeds of over 200 words per minute.
 
 Plover runs on Windows, macOS, and Linux.
 
