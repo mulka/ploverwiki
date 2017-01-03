@@ -1,6 +1,6 @@
 Here are some ideas for strokes in briefs that you can consider incorporating into your personal dictionary.
 
-<img src="http://stenoknight.com/plover/stenqwerty.png" width="450">
+<img src="http://qwertysteno.com/Images/steno-keyboard1.gif">
 
 # `-FR` for -m
 
