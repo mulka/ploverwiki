@@ -17,6 +17,7 @@ This comes from Magnum steno. There are some entries in the default dictionary t
 
 * `SPWEPBLGT` for "intelligent".
 * `SPWRABGT` for "interact".
+* `SPWER` for "enter".
 * `SPWAOEURL` for "entirely".
 
 # `SKP-` for ex-
