@@ -47,7 +47,7 @@ Plover is set up! You can run Plover like you would any other application.
 
 ### Install Plover on Linux
 
-> **Note**: Plover can be downloaded in .egg, tar.gz, .deb and .whl (wheel) Linux formats. You can also install Plover using an AUR package.
+> **Note**: Plover can be downloaded in .deb, .egg, tar.gz, and .whl (wheel) Linux formats. You can also install Plover using an AUR package.
 
 #### Install Plover on Arch Linux distribution
 
