@@ -100,7 +100,7 @@ do – but much, much faster.
 
 ### Why learn steno? And how?
 
-I've broken the answer to the first question into six parts:
+Mirabai Knight has broken the answer to the first question into six parts:
 
 1. [How to Speak With Your Fingers](http://stenoknight.com/SpeakFingers.html): for people who
 can't use their voice to speak but want to communicate in real-time using
