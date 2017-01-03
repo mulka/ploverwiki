@@ -1,5 +1,5 @@
 This FAQ is for general users who are new to steno. If you're a steno
-professional, read the [[FAQ for Stenographers]]. For troubleshooting, see the dedicated [[Troubleshooting FAQ]].
+professional, read the [[FAQ for Stenographers]]. For troubleshooting, see [[Troubleshooting: Common Issues]].
 
 **Table of Contents**
 
