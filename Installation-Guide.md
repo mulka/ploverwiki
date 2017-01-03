@@ -4,9 +4,9 @@
 - [Installation](#installation)
   - [Windows](#windows)
   - [Mac](#mac)
-  - [Linux](#linux)
-    - [Arch](#arch)
-    - [Other](#other)
+  - [Linux](#install-plover-on-linux)
+    - [Arch](#install-plover-on-arch-linux-distribution)
+    - [Other](#install-plover-on-other-linux-distributions)
 - [Setting up my machine](#setting-up-my-machine)
 
 ## Select a version
