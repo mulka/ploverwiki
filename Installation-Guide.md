@@ -47,11 +47,13 @@ Plover is set up! You can run Plover like you would any other application.
 
 ### Install Plover on Linux
 
+> **Note**: Plover can be downloaded in .egg, tar.gz, .deb and .whl (wheel) Linux formats. You can also install Plover using an AUR package.
+
 #### Install Plover on Arch Linux distribution
 
 Use AUR package [plover](https://aur.archlinux.org/packages/plover/) for stabled and [plover-git](https://aur.archlinux.org/packages/plover-git/) for the current `master`.
 
-#### Install Plover on other Linux distributions 
+#### Install Plover on other Linux distributions
 
 ##### Prerequisites
 Before you start, you must have installed Python 2 (with pip support), wxPython, and wmctrl (optional). 
@@ -68,6 +70,8 @@ For example:
 `pip install --user Downloads/setuptools-32.3.1-py2.py3-none-any.whl`
 
 #####Installation
+
+We recommend you install the .whl format. 
 
 To install:
 
