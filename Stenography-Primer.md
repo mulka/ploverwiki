@@ -136,7 +136,11 @@ Plover lacks arbitrarily stackable metakeys. You can explicitly define a metakey
 
 #### Transcript management and workflow
 
-Plover is not intended to be a complete transcript management solution. It does not have features such as document approval and delivery workflow, document encryption, or file management.
+Plover is not court reporting (CAT) software, and there are no plans to make it into CAT replacement software. It has no transcript preparation utilities of any kind. For example: document approval and delivery workflow, document encryption, or file management.
+
+For more information, see:
+
+[Is Plover going to put CAT software companies out of business?](https://github.com/openstenoproject/plover/wiki/FAQ-for-Stenographers#is-plover-going-to-put-cat-software-companies-out-of-business)
 
 ### Who's responsible for Plover's development?
 
