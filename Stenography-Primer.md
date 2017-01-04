@@ -7,6 +7,7 @@ professional, read the [[FAQ for Stenographers]].
 - [What is stenography?](#what-is-stenography)
 - [How does it work?](#how-does-it-work)
 - [Why learn steno? And how?](#why-learn-steno-and-how)
+- [Why isn't steno more popular than QWERTY?](#why-isnt-steno-more-popular-than-qwerty)
 - [How is Plover different from commercial steno programs?](#how-is-plover-different-from-commercial-steno-programs)
 - [What does Plover look like in action?](#what-does-plover-look-like-in-action)
 - [Why was Plover written?](#why-was-plover-written)
@@ -93,6 +94,15 @@ with a minimum of dorkitude.
 people who want to provide live verbatim transcription professionally.
 
 For learning, the best resource is [Learn Plover!](https://sites.google.com/site/ploverdoc/home) by Zack Brown.
+
+### Why isn't steno more popular than QWERTY?
+
+There are a number of possible reasons:
+
+1. Stenography was copyrighted for many many decades, which limited the amount of competition in the marketplace.
+1. The vendors decided to focus on high value products in market sectors where organizations would be willing to pay higher prices. 
+1. It takes longer to learn how to write with steno than it does learning how to type. 
+1. Plover software, and suitable low cost hardware, didn't exist until recently.
 
 ### How is Plover different from commercial steno programs?
 
