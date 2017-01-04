@@ -3,11 +3,14 @@ professional, read [[Plover and Professional Stenography]].
 
 **Table of Contents**
 
-- [What is Plover?](#what-is-plover)
+Stenography:
 - [What is stenography?](#what-is-stenography)
 - [How does it work?](#how-does-it-work)
 - [Why learn steno? And how?](#why-learn-steno-and-how)
 - [Why isn't steno more popular than QWERTY?](#why-isnt-steno-more-popular-than-qwerty)
+
+Plover:
+- [What is Plover?](#what-is-plover)
 - [How is Plover different from commercial steno programs?](#how-is-plover-different-from-commercial-steno-programs)
 - [What does Plover look like in action?](#what-does-plover-look-like-in-action)
 - [Why was Plover written?](#why-was-plover-written)
@@ -15,16 +18,12 @@ professional, read [[Plover and Professional Stenography]].
 - [What can Plover do right now?](#what-can-plover-do-right-now)
 - [What Plover cannot do right now](#what-plover-cannot-do-right-now)
 - [Non-English languages] (#non-english-languages)
+- [Is an NKRO keyboard as fast as a steno machine?](#is-an-nkro-keyboard-as-fast-as-a-steno-machine)
+- [How many people currently use Plover?](#how-many-people-currently-use-plover)
 - [Who's responsible for Plover's development?](#whos-responsible-for-plovers-development)
 - [Why "Plover"?](#why-plover)
 - [Does the Plover Project accept donations?](#does-the-plover-project-accept-donations)
 
-### What is Plover?
-
-Plover is the world's first free, open-source stenography program. It is a small Python application that you run in the background. It acts as a translator to read steno movements and then emulate keystrokes, so the programs you use can't tell that you are using steno.
-
-Plover is available on Windows, Mac and Linux. Plover. To download, see the
-[Releases](https://github.com/openstenoproject/plover/releases) page.
 
 ### What is stenography?
 
@@ -107,6 +106,15 @@ There are a number of possible reasons:
 1. It takes longer to learn how to write with steno than it does learning how to type. 
 1. Plover software, and suitable low cost hardware, didn't exist until recently.
 
+---
+
+### What is Plover?
+
+Plover is the world's first free, open-source stenography program. It is a small Python application that you run in the background. It acts as a translator to read steno movements and then emulate keystrokes, so the programs you use can't tell that you are using steno.
+
+Plover is available on Windows, Mac and Linux. Plover. To download, see the
+[Releases](https://github.com/openstenoproject/plover/releases) page.
+
 ### How is Plover different from commercial steno programs?
 
 Well, first off, it's free. Free to distribute, free to modify. No dongles, no upgrade fees, no constraints. That's already a $4,000 difference. 
@@ -165,6 +173,16 @@ For more information, see:
 The Plover software is currently designed for the English steno keyboard layout, but it is possible to customize the steno layout. Some unofficial work has been done by users on creating French and German versions, by forking the software from the repository to create versions for other language layouts. 
 
 There has also been other work on developing steno dictionaries for other languages (for example, Spanish), which could be used while retaining the English steno keyboard layout.
+
+### Is an NKRO keyboard as fast as a steno machine?
+
+No. It's definitely clunkier and squishier than a genuine lever-based steno machine, and a certain amount of accuracy and speed is necessarily sacrificed because of that. It's also somewhat more fatiguing, because it requires more force to press the keys and their travel depth is deeper than most modern steno machines. However, it's perfectly possible for a trained stenographer to reach speeds of 220 WPM or higher using something like a Sidewinder X4, especially if they have the optional laser-cut steno keytoppers ([$20 from the Plover store](http://plover.deco-craft.com/shop/view_product/Laser_Cut_Steno_Keys_Kit?n=2910988)):
+
+![Black key toppers from the Plover store, stacked in columns](http://plover.deco-craft.com/spcimages/2162178/8148158/1/1/CCCCCC/prod.jpg?b=10934258&v=1457964486)
+
+### How many people currently use Plover?
+
+Hard to say, since people are free to download and distribute the software as much as they want without asking permission. However, the [Plover Google Group](http://groups.google.com/group/ploversteno) currently has 578 members.
 
 ### Who's responsible for Plover's development?
 
