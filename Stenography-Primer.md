@@ -13,6 +13,7 @@ professional, read the [[FAQ for Stenographers]].
 - [What hardware is needed to use Plover?](#what-hardware-is-needed-to-use-plover)
 - [What can Plover do right now?](#what-can-plover-do-right-now)
 - [What Plover cannot do right now](#what-plover-cannot-do-right-now)
+- [Non-English languages] (#non-english-languages)
 - [Who's responsible for Plover's development?](#whos-responsible-for-plovers-development)
 - [Why "Plover"?](#why-plover)
 - [Does the Plover Project accept donations?](#does-the-plover-project-accept-donations)
@@ -141,6 +142,12 @@ Plover is not court reporting (CAT) software, and there are no plans to make it 
 For more information, see:
 
 [Is Plover going to put CAT software companies out of business?](https://github.com/openstenoproject/plover/wiki/FAQ-for-Stenographers#is-plover-going-to-put-cat-software-companies-out-of-business)
+
+### Non-English languages
+
+The Plover software is currently designed for the English steno keyboard layout, but it is possible to customize the steno layout. Some unofficial work has been done by users on creating French and German versions, by forking the software from the repository to create versions for other language layouts. 
+
+There has also been other work on developing steno dictionaries for other languages (for example, Spanish), which could be used while retaining the English steno keyboard layout.
 
 ### Who's responsible for Plover's development?
 
