@@ -99,7 +99,7 @@ For learning, the best resource is [Learn Plover!](https://sites.google.com/site
 
 There are a number of possible reasons:
 
-1. Stenography was copyrighted for many many decades, which limited the amount of competition in the marketplace.
+1. Stenography was copyrighted for many decades, which limited the amount of competition in the marketplace.
 1. The vendors decided to focus on high value products in market sectors where organizations would be willing to pay higher prices. 
 1. It takes longer to learn how to write with steno than it does learning how to type. 
 1. Plover software, and suitable low cost hardware, didn't exist until recently.
