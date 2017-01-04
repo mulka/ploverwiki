@@ -119,7 +119,7 @@ Here is a video of Ted Morin using Plover to write some simple JavaScript code:
 
 [![Coding in Stenography, Quick Demo](https://i.ytimg.com/vi/RBBiri3CD6w/hqdefault.jpg)](https://www.youtube.com/watch?v=RBBiri3CD6w)
 
-Here is a demonstration of Plover with a Qwerty Keyboard. It shows the keys pressed along with their resulting output. See [her blog post](http://plover.stenoknight.com/2011/10/split-screen-demonstration.html)
+Here is a demonstration of Plover with a Qwerty Keyboard. It shows the keys pressed along with their resulting output. See [Mirabai's blog post](http://plover.stenoknight.com/2011/10/split-screen-demonstration.html)
 
 [![Demonstration of Plover with Qwerty Keyboard](https://img.youtube.com/vi/JXQQzW99cAI/0.jpg)](https://www.youtube.com/watch?v=JXQQzW99cAI)
 
