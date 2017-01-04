@@ -166,7 +166,7 @@ Plover is not court reporting (CAT) software, and there are no plans to make it 
 
 For more information, see:
 
-[Is Plover going to put CAT software companies out of business?](https://github.com/openstenoproject/plover/wiki/FAQ-for-Stenographers#is-plover-going-to-put-cat-software-companies-out-of-business)
+[Is Plover going to put CAT software companies out of business?](https://github.com/openstenoproject/plover/wiki/Plover-and-Professional-Stenography#is-plover-going-to-put-cat-software-companies-out-of-business)
 
 ### Non-English languages
 
