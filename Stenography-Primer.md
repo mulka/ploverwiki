@@ -115,6 +115,10 @@ To the developer's knowledge, it's also the only steno software that works on a 
 
 ### What does Plover look like in action?
 
+Here is a video of Ted Morin using Plover to write some simple Python code:
+
+[![Coding in Stenography, Quick Demo](https://i.ytimg.com/vi/RBBiri3CD6w/hqdefault.jpg)](https://www.youtube.com/watch?v=RBBiri3CD6w)
+
 Here's a video of Mirabai kicking someone's butt in [TypeRacer](http://play.typeracer.com/), an online typing game that lets
 people race against each other by hammering out random snippets of text at high velocities:
 
