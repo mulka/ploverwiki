@@ -115,9 +115,13 @@ To the developer's knowledge, it's also the only steno software that works on a 
 
 ### What does Plover look like in action?
 
-Here is a video of Ted Morin using Plover to write some simple Python code:
+Here is a video of Ted Morin using Plover to write some simple JavaScript code:
 
 [![Coding in Stenography, Quick Demo](https://i.ytimg.com/vi/RBBiri3CD6w/hqdefault.jpg)](https://www.youtube.com/watch?v=RBBiri3CD6w)
+
+Here is a demonstration of Plover with a Qwerty Keyboard. It shows the keys pressed along with their resulting output. See [her blog post](http://plover.stenoknight.com/2011/10/split-screen-demonstration.html)
+
+[![Demonstration of Plover with Qwerty Keyboard](https://img.youtube.com/vi/JXQQzW99cAI/0.jpg)](https://www.youtube.com/watch?v=JXQQzW99cAI)
 
 Here's a video of Mirabai kicking someone's butt in [TypeRacer](http://play.typeracer.com/), an online typing game that lets
 people race against each other by hammering out random snippets of text at high velocities:
@@ -127,10 +131,6 @@ people race against each other by hammering out random snippets of text at high 
 And here's a demonstration of Plover with eSpeak, a free text-to-speech engine, which can be a way to talk at a normal conversational pace by people who don't use their voices to speak, as discussed in [How to Speak With your Fingers](http://stenoknight.com/SpeakFingers.html).
 
 [![Realtime Text to Speech with Plover](https://img.youtube.com/vi/K3MYFT6VZk8/0.jpg)](https://www.youtube.com/watch?v=K3MYFT6VZk8)
-
-This is Mirabai's demonstration. It shows the keys pressed along with their resulting output. Read more about it [from her blog post](http://plover.stenoknight.com/2011/10/split-screen-demonstration.html)
-
-[![Demonstration of Plover with Qwerty Keyboard](https://img.youtube.com/vi/JXQQzW99cAI/0.jpg)](https://www.youtube.com/watch?v=JXQQzW99cAI)
 
 ### Why was Plover written?
 
