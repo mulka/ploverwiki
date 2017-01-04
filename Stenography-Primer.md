@@ -21,8 +21,9 @@ professional, read the [[FAQ for Stenographers]].
 
 ### What is Plover?
 
-Plover is the world's first free, open-source stenography program. It is
-available on Windows, Mac and Linux. See the
+Plover is the world's first free, open-source stenography program. It is a small Python application that you run in the background. It acts as a translator to read steno movements and then emulate keystrokes, so the programs you use can't tell that you are using steno.
+
+Plover is available on Windows, Mac and Linux. Plover. To download, see the
 [Releases](https://github.com/openstenoproject/plover/releases) page.
 
 ### What is stenography?
@@ -51,6 +52,8 @@ In the first semester of steno school, nearly all students learn to exceed 100 w
 
 #### The main difference between typing and stenography
 
+[![QWERTY versus Stenography on Steno Arcade](https://i.ytimg.com/vi/UtQzTUEuPWo/hqdefault.jpg)](https://youtu.be/UtQzTUEuPWo?t=8s)
+
 ##### Typing is (usually) data entry with single fingers
 
 Most likely, you are using a qwerty or dvorak keyboard layout to type everything out character by character. If you ever practiced piano, it might be helpful to liken them to certain piano pieces common in a pianist's repertoire. The "typewriter-style" systems (qwerty, dvorak, etc.) are like Chopin's Fantasie Impromptu:
@@ -61,9 +64,9 @@ Notice how this piece—like typing—is mainly runs of single fingers. When you
 
 ##### Stenography is chorded data entry, using multiple fingers
 
-However, Plover—and other steno systems—use keyboard "chords" to type syllables, words, or entire phrases.
+However, Plover, and other steno systems, use keyboard "chords" to type syllables, words, or entire phrases. You press keys, and lift off, rather than pressing down individual keys one after the other. 
 
-> When your fingers are in position, press them all down together, and release them. Out comes the word 'tap'! You've just tapped your first word in steno! Notice that it doesn't really matter that all the keys go down absolutely simultaneously. The only thing Plover cares about is that there's one moment in time when all three keys are down together.
+> "When your fingers are in position, press them all down together, and release them. Out comes the word 'tap'! You've just tapped your first word in steno! Notice that it doesn't really matter that all the keys go down absolutely simultaneously. The only thing Plover cares about is that there's one moment in time when all three keys are down together."
 
 (From [Learn Plover!](https://sites.google.com/site/ploverdoc/lesson-1-fingers-and-keys))
 
