@@ -42,7 +42,7 @@ This makes steno the fastest and most accurate text entry method currently avail
 | Professional Stenographer | 225-300 wpm |
 |Steno World Record | 360 wpm |
 
- In the first semester of steno school, nearly all students learn to exceed 100 words per minute. By comparison, top qwerty typists can do 120 WPM, top Dvorak typists around 140 WPM, and voice writers dictating to voice recognition software around 180 WPM. But experienced stenographers can enter text at up to 300 words per minute (the world record is actually 360, but that's an outlier). Conceivably, with practice, amateur steno users could reach 160-200 words per minute.
+In the first semester of steno school, nearly all students learn to exceed 100 words per minute. By comparison, top qwerty typists can do 120 WPM, top Dvorak typists around 140 WPM, and voice writers dictating to voice recognition software around 180 WPM. But experienced stenographers can enter text at up to 300 words per minute (the world record is actually 360, but that's an outlier). Conceivably, with practice, amateur steno users could reach 160-200 words per minute.
 
 ### How does it work?
 
@@ -56,7 +56,13 @@ Most likely, you are using a qwerty or dvorak keyboard layout to type everything
 
 Notice how this piece—like typing—is mainly runs of single fingers. When you learn and practice this piece, you often do many finger exercises to strengthen certain fingers to increase your speed. 
 
-##### Stenography is mostly data entry with multiple fingers
+##### Stenography is chorded data entry, using multiple fingers
+
+> When your fingers are in position, press them all down together, and release them. Out comes the word 'tap'! You've just tapped your first word in steno! Notice that it doesn't really matter that all the keys go down absolutely simultaneously. The only thing Plover cares about is that there's one moment in time when all three keys are down together.
+
+(From [Learn Plover!](https://sites.google.com/site/ploverdoc/lesson-1-fingers-and-keys))
+
+Plover - and all steno systems - express words primarily as groups of sounds rather than groups of letters of the alphabet.
 
 "Steno-style" systems (NYCI, StenoEd, Phoenix, etc.) are like Rachmaninoff's Prelude in G Minor:
 
