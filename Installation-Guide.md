@@ -11,7 +11,7 @@
 
 ## Select a version
 
-What version do you get? You have a couple of options, depending on your needs.
+Unsure which version to download? You have a couple of options, depending on your needs.
 
 - [**Stable**](https://github.com/openstenoproject/plover/releases/latest)
 
