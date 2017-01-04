@@ -12,6 +12,7 @@ professional, read the [[FAQ for Stenographers]].
 - [Why was Plover written?](#why-was-plover-written)
 - [What hardware is needed to use Plover?](#what-hardware-is-needed-to-use-plover)
 - [What can Plover do right now?](#what-can-plover-do-right-now)
+- [What can't Plover do right now](#What-can't-Plover-do-right-now)
 - [Who's responsible for Plover's development?](#whos-responsible-for-plovers-development)
 - [Why "Plover"?](#why-plover)
 - [Does the Plover Project accept donations?](#does-the-plover-project-accept-donations)
@@ -126,6 +127,16 @@ See the [[supported hardware|Supported Hardware]] page.
 ### What can Plover do right now?
 
 Plover can write properly capitalized and punctuated text into any window as if it were an ordinary keyboard. It can send command strokes such as Enter or Escape, giving it complete equivalence to the Qwerty keyboard. It's also a robust and convenient text entry system, suitable for writing, coding, chatting, and kicking people's butts at online typing games.
+
+### What can't Plover do right now
+
+####Sticky Metakeys
+
+Plover lacks arbitrarily stackable metakeys. You can explicitly define a metakey+key combination in the dictionary (and there is a dictionary for general shortcuts), but you can't map a stroke to, say, `Control` and then be able to simulate holding it down while choosing another key in realtime to be activated along with it.
+
+#### Transcript management and workflow
+
+Plover is not intended to be a complete transcript management solution. It does not have features such as document approval and delivery workflow, or document encryption.
 
 ### Who's responsible for Plover's development?
 
