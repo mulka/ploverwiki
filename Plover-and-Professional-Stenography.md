@@ -3,7 +3,6 @@
 - [Why does Plover exist?](#why-does-plover-exist)
 - [Why does steno need amateurs?](#why-does-steno-need-amateurs)
 - [What is Steno Arcade?](#what-is-steno-arcade)
-- [Free steno drilling tools](#free-steno-drilling-tools)
 - [Is Steno Arcade going to put steno schools out of business?](#is-steno-arcade-going-to-put-steno-schools-out-of-business)
 - [Is Plover going to put CAT software companies out of business?](#is-plover-going-to-put-cat-software-companies-out-of-business)
 - [What are some features in Plover not commonly found in most CAT software?](#what-are-some-features-in-plover-not-commonly-found-in-most-cat-software)
@@ -34,17 +33,7 @@ Without a steady supply of amateurs to hold the ranks, it's difficult for profes
 
 [Steno Arcade](http://store.steampowered.com/app/449000/) is a suite of arcade games designed to teach and drill steno fundamentals in an immersive, addictive, responsive, and interactive way. 
  
-### Free steno drilling tools
-
-Several free steno drilling tools are available, such as:
-
-* [Steno Jig](https://joshuagrams.github.io/steno-jig/)
-* [StenoTutor](https://github.com/caru/StenoTutor)
-* [Steno Practice](http://www.chiark.greenend.org.uk/~tthurman/practice.html)
-* [StenoTyper](http://stenoknight.com/plover/stenotyper/test3.html)
-* [Fly](https://launchpad.net/flyploverfly)
-
-### Is Steno Arcade going to put steno schools out of business?
+#### Is Steno Arcade going to put steno schools out of business?
 
 Very unlikely. There will always be a place for high-speed dictation and one-on-one interaction between steno professionals and students. Steno Arcade will be directed at people who want to use steno non-professionally, aren't sure whether steno is for them, or who want to try it out a bit before committing to making it a definite career goal. 
 
