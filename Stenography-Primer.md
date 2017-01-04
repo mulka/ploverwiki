@@ -25,7 +25,7 @@ available on Windows, Mac and Linux. See the
 
 ### What is stenography?
 
-Stenography is a form of shorthand typing done on a special machine. It was invented in early 1900s.
+Stenography is a form of shorthand typing, usually done on a special machine (although with Plover, you can use computer keyboard that has [n-key rollover](https://en.wikipedia.org/wiki/Rollover_(key))). It was invented in early 1900s.
 
 Real-time machine stenography is a code translation system that lets users enter words and syllables by pressing multiple keys simultaneously in a chord, which is then instantly translated into English text. 
 
