@@ -50,13 +50,15 @@ In the first semester of steno school, nearly all students learn to exceed 100 w
 
 ##### Typing is (usually) data entry with single fingers
 
-Most likely, you are using a qwerty or dvorak keyboard layout to type everything out character by character. However, Plover—and other steno systems—use keyboard "chords" to type syllables, words, or entire phrases. If you ever practiced piano, it might be helpful to liken them to certain piano pieces common in a pianist's repertoire. The "typewriter-style" systems (qwerty, dvorak, etc.) are like Chopin's Fantasie Impromptu:
+Most likely, you are using a qwerty or dvorak keyboard layout to type everything out character by character. If you ever practiced piano, it might be helpful to liken them to certain piano pieces common in a pianist's repertoire. The "typewriter-style" systems (qwerty, dvorak, etc.) are like Chopin's Fantasie Impromptu:
 
 [![Yundi Li - Chopin "Fantasie" Impromptu, Op. 66](https://img.youtube.com/vi/tvm2ZsRv3C8/0.jpg)](https://www.youtube.com/watch?v=tvm2ZsRv3C8)
 
 Notice how this piece—like typing—is mainly runs of single fingers. When you learn and practice this piece, you often do many finger exercises to strengthen certain fingers to increase your speed. 
 
 ##### Stenography is chorded data entry, using multiple fingers
+
+However, Plover—and other steno systems—use keyboard "chords" to type syllables, words, or entire phrases.
 
 > When your fingers are in position, press them all down together, and release them. Out comes the word 'tap'! You've just tapped your first word in steno! Notice that it doesn't really matter that all the keys go down absolutely simultaneously. The only thing Plover cares about is that there's one moment in time when all three keys are down together.
 
