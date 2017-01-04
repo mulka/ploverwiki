@@ -25,7 +25,7 @@ Unsure which version to download? You have a few options, depending on your need
 
 ## Installation
 
-Each release has files for all the operating systems we support. You only need to grab the files that are relevant to your OS.
+Each release has files for all the operating systems we support. You only need the files that are relevant to your operating system.
 
 ### Install Plover on Windows
 
