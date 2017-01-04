@@ -136,7 +136,7 @@ Plover lacks arbitrarily stackable metakeys. You can explicitly define a metakey
 
 #### Transcript management and workflow
 
-Plover is not intended to be a complete transcript management solution. It does not have features such as document approval and delivery workflow, or document encryption.
+Plover is not intended to be a complete transcript management solution. It does not have features such as document approval and delivery workflow, document encryption, or file management.
 
 ### Who's responsible for Plover's development?
 
