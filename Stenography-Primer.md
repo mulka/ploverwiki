@@ -12,7 +12,7 @@ professional, read the [[FAQ for Stenographers]].
 - [Why was Plover written?](#why-was-plover-written)
 - [What hardware is needed to use Plover?](#what-hardware-is-needed-to-use-plover)
 - [What can Plover do right now?](#what-can-plover-do-right-now)
-- [What Plover cannot do right now](#What-Plover-cannot-do-right-now)
+- [What Plover cannot do right now](#what-plover-cannot-do-right-now)
 - [Who's responsible for Plover's development?](#whos-responsible-for-plovers-development)
 - [Why "Plover"?](#why-plover)
 - [Does the Plover Project accept donations?](#does-the-plover-project-accept-donations)
