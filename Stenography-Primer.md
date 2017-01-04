@@ -46,71 +46,42 @@ This makes steno the fastest and most accurate text entry method currently avail
 
 ### How does it work?
 
-See the [comparison
-table](Comparison_between_QWERTY_and_Steno "wikilink") between qwerty
-(or dvorak, etc) and steno for more details.
+#### The main difference between typing and stenography
 
-Most likely, you are using a qwerty or dvorak keyboard layout to type
-everything out character by character. However, Plover—and other steno
-systems—use keyboard "chords" to type syllables, words, or entire
-phrases. If you ever practiced piano, it might be helpful to liken them
-to certain piano pieces common in a pianist's repertoire. The
-"typewriter-style" systems (qwerty, dvorak, etc.) are like Chopin's
-Fantasie Impromptu:
+> **Note**: See the [comparison
+table](Comparison_between_QWERTY_and_Steno "wikilink") between qwerty (or dvorak, etc) and steno for more details.
+
+##### Typing is (usually) data entry with single fingers
+
+Most likely, you are using a qwerty or dvorak keyboard layout to type everything out character by character. However, Plover—and other steno systems—use keyboard "chords" to type syllables, words, or entire phrases. If you ever practiced piano, it might be helpful to liken them to certain piano pieces common in a pianist's repertoire. The "typewriter-style" systems (qwerty, dvorak, etc.) are like Chopin's Fantasie Impromptu:
 
 [![Yundi Li - Chopin "Fantasie" Impromptu, Op. 66](https://img.youtube.com/vi/tvm2ZsRv3C8/0.jpg)](https://www.youtube.com/watch?v=tvm2ZsRv3C8)
 
-Notice how this piece—like typing—is mainly runs of single fingers. When
-you learn and practice this piece, you often do many finger exercises to
-strengthen certain fingers to increase your speed. However,
-"steno-style" systems (NYCI, StenoEd, Phoenix, etc.) are like
-Rachmaninoff's Prelude in G Minor:
+Notice how this piece—like typing—is mainly runs of single fingers. When you learn and practice this piece, you often do many finger exercises to strengthen certain fingers to increase your speed. 
+
+##### Stenography is mostly data entry with multiple fingers
+
+"Steno-style" systems (NYCI, StenoEd, Phoenix, etc.) are like Rachmaninoff's Prelude in G Minor:
 
 [![Rachmaninoff Prelude in g minor op. 23 #5](https://img.youtube.com/vi/4QB7ugJnHgs/0.jpg)](https://www.youtube.com/watch?v=4QB7ugJnHgs)
 
-Unlike the Chopin, this piece is almost entirely chorded. When learning
-a piece like this, you learn how to block your chords. So your approach
-to learning steno may be completely different than learning a different
-keyboard layout, since it's a completely different system. Explore this
-site if you wish to learn more about "Rach-style" keyboard computer
-entry.
+Unlike the Chopin, this piece is almost entirely chorded. When learning a piece like this, you learn how to block your chords. So your approach to learning steno may be completely different than learning a different keyboard layout, since it's a completely different system. 
 
 ### Why was Plover written?
 
-A professional stenographer, forced to buy proprietary (and DRM-riddled)
-steno software for $4,000 plus an annual $700 upgrade fee after
-shelling out for a $3,000 steno machine, looked around and saw that
-most of the people who made their living and their free time putting
-text up on a screen were crawling along at around 60 words per minute
-because they were using qwerty instead of steno. She realized that the
-only way to spread the wonders of high speed efficient text entry to the
-geeks, hackers, writers, and internet addicts who desperately needed it
-was to make the software free and the hardware cost less than $60. She
-found a Python programmer who was also a hardware maven, and they both
+A professional stenographer, forced to buy proprietary (and DRM-riddled) steno software for $4,000 plus an annual $700 upgrade fee after shelling out for a $3,000 steno machine, looked around and saw that most of the people who made their living and their free time putting text up on a screen were crawling along at around 60 words per minute
+because they were using qwerty instead of steno. She realized that the only way to spread the wonders of high speed efficient text entry to the geeks, hackers, writers, and internet addicts who desperately needed it was to make the software free and the hardware cost less than $60. She found a Python programmer who was also a hardware maven, and they both
 got down to work. Eleven months later, Plover was ready for prime time.
 
 ### Why "Plover"?
 
-The short answer is that it's a two-syllable, six-letter word that can
-be written in a single stroke on a steno machine. The longer answer is
-[here](http://plover.stenoknight.com/2010/03/why-plover.html).
+The short answer is that it's a two-syllable, six-letter word that can be written in a single stroke on a steno machine. The longer answer is [here](http://plover.stenoknight.com/2010/03/why-plover.html).
 
 ### How is Plover different from commercial steno programs?
 
-Well, first off, it's free. Free to distribute, free to modify. No
-dongles, no upgrade fees, no constraints. That's already a $4,000
-difference. To the developer's knowledge, it's also the only steno
-software that works on a buffer-based system rather than a timer-based
-system, and that has direct access to the OS rather than filtering
-everything into a steno-specific word processor. This means it's
-lightweight, powerful, and doesn't require a 1.5-second wait time
-between when a stroke is entered and when the translation appears in an
-external program. In Plover, the translation appears instantly, and the
-software isn't cluttered up with file managers, printer handlers, and
-other court-reporting flimflam that an amateur stenographer will never
-use. Instead, it's a direct conduit between the steno keyboard and the
-OS. Plover, as of version 2.1, can do everything a qwerty keyboard can
-do – but much, much faster.
+Well, first off, it's free. Free to distribute, free to modify. No dongles, no upgrade fees, no constraints. That's already a $4,000 difference. 
+
+To the developer's knowledge, it's also the only steno software that works on a buffer-based system rather than a timer-based system, and that has direct access to the OS rather than filtering everything into a steno-specific word processor. This means it's lightweight, powerful, and doesn't require a 1.5-second wait time between when a stroke is entered and when the translation appears in an external program. In Plover, the translation appears instantly, and the software isn't cluttered up with file managers, printer handlers, and other court-reporting flimflam that an amateur stenographer will never use. Instead, it's a direct conduit between the steno keyboard and the OS. Plover can do everything a qwerty keyboard can do – but much, much faster.
 
 ### Why learn steno? And how?
 
@@ -138,46 +109,29 @@ See the [[supported hardware|Supported Hardware]] page.
 
 ### What can Plover do right now?
 
-Plover can write properly capitalized and punctuated text into any
-window as if it were an ordinary keyboard. It can send command strokes
-such as Enter or Escape, giving it complete equivalence to the Qwerty
-keyboard. It's also a robust and convenient text entry system, suitable
-for writing, coding, chatting, and kicking people's butts at online
-typing games.
+Plover can write properly capitalized and punctuated text into any window as if it were an ordinary keyboard. It can send command strokes such as Enter or Escape, giving it complete equivalence to the Qwerty keyboard. It's also a robust and convenient text entry system, suitable for writing, coding, chatting, and kicking people's butts at online typing games.
 
 ### What does Plover look like in action?
 
-Here's a video of me kicking someone's butt in
-[TypeRacer](http://play.typeracer.com/), an online typing game that lets
-people race against each other by hammering out random snippets of text
-at high velocities:
+Here's a video of Mirabai kicking someone's butt in [TypeRacer](http://play.typeracer.com/), an online typing game that lets
+people race against each other by hammering out random snippets of text at high velocities:
 
 [![Plover Wins the Race!](https://img.youtube.com/vi/jkUyg_uoidY/0.jpg)](https://www.youtube.com/watch?v=jkUyg_uoidY)
 
-And here's a demonstration of Plover with eSpeak, a free text-to-speech
-engine, which can be a way to talk at a normal conversational pace by
-people who don't use their voices to speak, as discussed in [How to
-Speak With your Fingers](http://stenoknight.com/SpeakFingers.html).
+And here's a demonstration of Plover with eSpeak, a free text-to-speech engine, which can be a way to talk at a normal conversational pace by people who don't use their voices to speak, as discussed in [How to Speak With your Fingers](http://stenoknight.com/SpeakFingers.html).
 
 [![Realtime Text to Speech with Plover](https://img.youtube.com/vi/K3MYFT6VZk8/0.jpg)](https://www.youtube.com/watch?v=K3MYFT6VZk8)
 
-This is Mirabai's demonstration. It shows the keys pressed along with
-their resulting output. Read more about it [from her blog
-post](http://plover.stenoknight.com/2011/10/split-screen-demonstration.html)
+This is Mirabai's demonstration. It shows the keys pressed along with their resulting output. Read more about it [from her blog post](http://plover.stenoknight.com/2011/10/split-screen-demonstration.html)
 
 [![Demonstration of Plover with Qwerty Keyboard](https://img.youtube.com/vi/JXQQzW99cAI/0.jpg)](https://www.youtube.com/watch?v=JXQQzW99cAI)
 
 ### Who's responsible for Plover's development?
 
-Plover was originally created by [Mirabai
-Knight](http://www.blogger.com/profile/16494847224950297255) and [Joshua
-Harlan Lifton](http://launchpad.net/~joshua-harlan-lifton), and is the
-software arm of [The Open Steno Project](http://openstenoproject.org/),
-an umbrella organization for open source steno tools. The current lead
-developer is Theodore Morin.
+Plover was originally created by [Mirabai Knight](http://www.blogger.com/profile/16494847224950297255) and [Joshua
+Harlan Lifton](http://launchpad.net/~joshua-harlan-lifton), and is the software arm of [The Open Steno Project](http://openstenoproject.org/), an umbrella organization for open source steno tools. The current lead developer is Theodore (Ted) Morin.
 
 ### Does the Plover Project accept donations?
 
-Absolutely. Contributions of money, code, testing, documentation,
-publicity, or TypeRacer cannon fodder are [gratefully
+Absolutely. Contributions of money, code, testing, documentation, publicity, or TypeRacer cannon fodder are [gratefully
 accepted](http://stenoknight.com/plover/donatepage.html).
