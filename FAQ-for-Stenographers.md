@@ -3,6 +3,7 @@
 - [Why does Plover exist?](#why-does-plover-exist)
 - [Why does steno need amateurs?](#why-does-steno-need-amateurs)
 - [What is Steno Arcade?](#what-is-steno-arcade)
+- [Free steno drilling tools](#free-steno-drilling-tools)
 - [Is Steno Arcade going to put steno schools out of business?](#is-steno-arcade-going-to-put-steno-schools-out-of-business)
 - [Is Plover going to put CAT software companies out of business?](#is-plover-going-to-put-cat-software-companies-out-of-business)
 - [What are some features in Plover not commonly found in most CAT software?](#what-are-some-features-in-plover-not-commonly-found-in-most-cat-software)
@@ -35,6 +36,8 @@ Without a steady supply of amateurs to hold the ranks, it's difficult for profes
 
 [Steno Arcade](http://store.steampowered.com/app/449000/) is a suite of arcade games designed to teach and drill steno fundamentals in an immersive, addictive, responsive, and interactive way. 
  
+### Free steno drilling tools
+
 Several free steno drilling tools are available, such as:
 
 * [Steno Jig](https://joshuagrams.github.io/steno-jig/)
@@ -58,7 +61,8 @@ Definitely not. Plover is not court reporting software. It has no transcript pre
 1. Plover's main purpose is to replace the qwerty keyboard with a steno keyboard. Unlike other CAT systems, it does not have a text entry window; it's a pure conduit straight to the operating system. Anything you can do with a qwerty keyboard can be done with Plover, and you can use it with the word processor or text editor of your choice. 
 1. Plover runs on Windows, Mac, and Linux. 
 1. Its length-based buffer, as opposed to the time-based buffer used in most CAT software, ensures instant
-delivery of text with no buffer flushing or time delay. Its dictionary is text-based, so you can search through and edit it using any text editor. Updating the dictionary from the writer is smooth and seamless.
+delivery of text with no buffer flushing or time delay. 
+1. Its dictionary is text-based, so you can search through and edit it using any text editor. Updating the dictionary from the writer is smooth and seamless.
 1. And, of course, its biggest feature: It's 100% free and open source. You can download it, keep it on a USB key, and have it to hand as a backup in case something happens to your CAT software. You can distribute it to interested friends and potential steno students. You can run it on as many computers as you like, with absolutely no restrictions. And, if you
 know how to program in Python, you can modify it and change it to your heart's delight.
 
