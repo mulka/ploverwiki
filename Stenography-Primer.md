@@ -6,14 +6,14 @@ professional, read the [[FAQ for Stenographers]]. For troubleshooting, see [[Tro
 - [What is Plover?](#what-is-plover)
 - [What is stenography?](#what-is-stenography)
 - [How does it work?](#how-does-it-work)
-- [Why was Plover written?](#why-was-plover-written)
-- [Why "Plover"?](#why-plover)
-- [How is Plover different from commercial steno programs?](#how-is-plover-different-from-commercial-steno-programs)
 - [Why learn steno? And how?](#why-learn-steno-and-how)
+- [How is Plover different from commercial steno programs?](#how-is-plover-different-from-commercial-steno-programs)
+- [What does Plover look like in action?](#what-does-plover-look-like-in-action)
+- [Why was Plover written?](#why-was-plover-written)
 - [What hardware is needed to use Plover?](#what-hardware-is-needed-to-use-plover)
 - [What can Plover do right now?](#what-can-plover-do-right-now)
-- [What does Plover look like in action?](#what-does-plover-look-like-in-action)
 - [Who's responsible for Plover's development?](#whos-responsible-for-plovers-development)
+- [Why "Plover"?](#why-plover)
 - [Does the Plover Project accept donations?](#does-the-plover-project-accept-donations)
 
 ### What is Plover?
@@ -72,22 +72,6 @@ Plover - and all steno systems - express words primarily as groups of sounds rat
 
 Unlike the Chopin, this piece is almost entirely chorded. When learning a piece like this, you learn how to block your chords. So your approach to learning steno may be completely different than learning a different keyboard layout, since it's a completely different system. 
 
-### Why was Plover written?
-
-A professional stenographer, forced to buy proprietary (and DRM-riddled) steno software for $4,000 plus an annual $700 upgrade fee after shelling out for a $3,000 steno machine, looked around and saw that most of the people who made their living and their free time putting text up on a screen were crawling along at around 60 words per minute
-because they were using qwerty instead of steno. She realized that the only way to spread the wonders of high speed efficient text entry to the geeks, hackers, writers, and internet addicts who desperately needed it was to make the software free and the hardware cost less than $60. She found a Python programmer who was also a hardware maven, and they both
-got down to work. Eleven months later, Plover was ready for prime time.
-
-### Why "Plover"?
-
-The short answer is that it's a two-syllable, six-letter word that can be written in a single stroke on a steno machine. The longer answer is [here](http://plover.stenoknight.com/2010/03/why-plover.html).
-
-### How is Plover different from commercial steno programs?
-
-Well, first off, it's free. Free to distribute, free to modify. No dongles, no upgrade fees, no constraints. That's already a $4,000 difference. 
-
-To the developer's knowledge, it's also the only steno software that works on a buffer-based system rather than a timer-based system, and that has direct access to the OS rather than filtering everything into a steno-specific word processor. This means it's lightweight, powerful, and doesn't require a 1.5-second wait time between when a stroke is entered and when the translation appears in an external program. In Plover, the translation appears instantly, and the software isn't cluttered up with file managers, printer handlers, and other court-reporting flimflam that an amateur stenographer will never use. Instead, it's a direct conduit between the steno keyboard and the OS. Plover can do everything a qwerty keyboard can do – but much, much faster.
-
 ### Why learn steno? And how?
 
 Mirabai Knight has broken the answer to the first question into six parts:
@@ -108,13 +92,11 @@ people who want to provide live verbatim transcription professionally.
 
 For learning, the best resource is [Learn Plover!](https://sites.google.com/site/ploverdoc/home) by Zack Brown.
 
-### What hardware is needed to use Plover?
+### How is Plover different from commercial steno programs?
 
-See the [[supported hardware|Supported Hardware]] page.
+Well, first off, it's free. Free to distribute, free to modify. No dongles, no upgrade fees, no constraints. That's already a $4,000 difference. 
 
-### What can Plover do right now?
-
-Plover can write properly capitalized and punctuated text into any window as if it were an ordinary keyboard. It can send command strokes such as Enter or Escape, giving it complete equivalence to the Qwerty keyboard. It's also a robust and convenient text entry system, suitable for writing, coding, chatting, and kicking people's butts at online typing games.
+To the developer's knowledge, it's also the only steno software that works on a buffer-based system rather than a timer-based system, and that has direct access to the OS rather than filtering everything into a steno-specific word processor. This means it's lightweight, powerful, and doesn't require a 1.5-second wait time between when a stroke is entered and when the translation appears in an external program. In Plover, the translation appears instantly, and the software isn't cluttered up with file managers, printer handlers, and other court-reporting flimflam that an amateur stenographer will never use. Instead, it's a direct conduit between the steno keyboard and the OS. Plover can do everything a qwerty keyboard can do – but much, much faster.
 
 ### What does Plover look like in action?
 
@@ -131,10 +113,28 @@ This is Mirabai's demonstration. It shows the keys pressed along with their resu
 
 [![Demonstration of Plover with Qwerty Keyboard](https://img.youtube.com/vi/JXQQzW99cAI/0.jpg)](https://www.youtube.com/watch?v=JXQQzW99cAI)
 
+### Why was Plover written?
+
+A professional stenographer, forced to buy proprietary (and DRM-riddled) steno software for $4,000 plus an annual $700 upgrade fee after shelling out for a $3,000 steno machine, looked around and saw that most of the people who made their living and their free time putting text up on a screen were crawling along at around 60 words per minute
+because they were using qwerty instead of steno. She realized that the only way to spread the wonders of high speed efficient text entry to the geeks, hackers, writers, and internet addicts who desperately needed it was to make the software free and the hardware cost less than $60. She found a Python programmer who was also a hardware maven, and they both
+got down to work. Eleven months later, Plover was ready for prime time.
+
+### What hardware is needed to use Plover?
+
+See the [[supported hardware|Supported Hardware]] page.
+
+### What can Plover do right now?
+
+Plover can write properly capitalized and punctuated text into any window as if it were an ordinary keyboard. It can send command strokes such as Enter or Escape, giving it complete equivalence to the Qwerty keyboard. It's also a robust and convenient text entry system, suitable for writing, coding, chatting, and kicking people's butts at online typing games.
+
 ### Who's responsible for Plover's development?
 
 Plover was originally created by [Mirabai Knight](http://www.blogger.com/profile/16494847224950297255) and [Joshua
 Harlan Lifton](http://launchpad.net/~joshua-harlan-lifton), and is the software arm of [The Open Steno Project](http://openstenoproject.org/), an umbrella organization for open source steno tools. The current lead developer is Theodore (Ted) Morin.
+
+### Why "Plover"?
+
+The short answer is that it's a two-syllable, six-letter word that can be written in a single stroke on a steno machine. The longer answer is [here](http://plover.stenoknight.com/2010/03/why-plover.html).
 
 ### Does the Plover Project accept donations?
 
