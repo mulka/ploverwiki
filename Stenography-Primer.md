@@ -48,9 +48,6 @@ This makes steno the fastest and most accurate text entry method currently avail
 
 #### The main difference between typing and stenography
 
-> **Note**: See the [comparison
-table](Comparison_between_QWERTY_and_Steno "wikilink") between qwerty (or dvorak, etc) and steno for more details.
-
 ##### Typing is (usually) data entry with single fingers
 
 Most likely, you are using a qwerty or dvorak keyboard layout to type everything out character by character. However, Plover—and other steno systems—use keyboard "chords" to type syllables, words, or entire phrases. If you ever practiced piano, it might be helpful to liken them to certain piano pieces common in a pianist's repertoire. The "typewriter-style" systems (qwerty, dvorak, etc.) are like Chopin's Fantasie Impromptu:
