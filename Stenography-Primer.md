@@ -1,5 +1,5 @@
 This page is for general users who are new to steno. If you're a steno
-professional, read the [[FAQ for Stenographers]]. 
+professional, read [[Plover and Professional Stenography]]. 
 
 **Table of Contents**
 
