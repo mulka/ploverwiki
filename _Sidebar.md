@@ -10,7 +10,7 @@
 ### Stenography
 
 - [Stenography Primer](https://github.com/openstenoproject/plover/wiki/Stenography-Primer)
-- [FAQ for Stenographers](https://github.com/openstenoproject/plover/wiki/FAQ-for-Stenographers)
+- [Plover and Professional Stenography](https://github.com/openstenoproject/plover/wiki/Plover-and-Professional-Stenography)
 - [Glossary](https://github.com/openstenoproject/plover/wiki/Glossary)
 - [Learning Resources](https://github.com/openstenoproject/plover/wiki/Learning-Stenography)
 - [Brief Ideas](https://github.com/openstenoproject/plover/wiki/Brief-Ideas)
