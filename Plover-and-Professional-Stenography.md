@@ -26,7 +26,7 @@ So Plover has a double-pronged approach:
 
 ### Why does steno need amateurs?
 
-In most skill-based fields -- music, photography, athletics, and computer programming, to name a few -- a healthy pool of amateurs makes it possible for professionals to exist. People cultivate an interest, buy some cheap equipment, take a few classes, discover that they love the work, hone their skills with thousands of hours of practice, and eventually a very dedicated and talented few are able to become good enough to make a living at what they love. The rest do it without compensation, just for their own pleasure and enjoyment. This is the natural ecosystem of any difficult skill: A wide base of dabblers and dilettantes at the bottom, and a small number of world class hotshots at the top. 
+In most skill-based fields - music, photography, athletics, and computer programming, to name a few - a healthy pool of amateurs makes it possible for professionals to exist. People cultivate an interest, buy some cheap equipment, take a few classes, discover that they love the work, hone their skills with thousands of hours of practice, and eventually a very dedicated and talented few are able to become good enough to make a living at what they love. The rest do it without compensation, just for their own pleasure and enjoyment. This is the natural ecosystem of any difficult skill: A wide base of dabblers and dilettantes at the bottom, and a small number of world class hotshots at the top. 
 
 Without a steady supply of amateurs to hold the ranks, it's difficult for professionals to exist. Many legendary musicians started out with a $50 guitar and a tattered songbook. If every guitar cost $5,000 and the only way to learn how to play it was at a conservatory, how many potentially great guitarists would never even get within strumming range? Plover reduces the $1,500+ initial startup cost of steno to around $70, which means vastly more people can give it a try and see if it might be for them.
 
@@ -66,6 +66,7 @@ delivery of text with no buffer flushing or time delay.
 1. And, of course, its biggest feature: It's 100% free and open source. You can download it, keep it on a USB key, and have it to hand as a backup in case something happens to your CAT software. You can distribute it to interested friends and potential steno students. You can run it on as many computers as you like, with absolutely no restrictions. And, if you
 know how to program in Python, you can modify it and change it to your heart's delight.
 
+Plover Dictionary Update Demo:
 [![Plover Dictionary Update Demo](https://img.youtube.com/vi/eSU5JlVXT1A/0.jpg)](https://www.youtube.com/watch?v=eSU5JlVXT1A)
 
 ### Which steno machines are compatible with Plover?
