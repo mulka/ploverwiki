@@ -75,16 +75,6 @@ See the [[supported hardware|Supported Hardware]] page. In summary, Plover suppo
 
 This lets users try out stenography without needing to purchase a steno machine!
 
-### Is an NKRO keyboard as fast as a steno machine?
-
-No. It's definitely clunkier and squishier than a genuine lever-based steno machine, and a certain amount of accuracy and speed is necessarily sacrificed because of that. It's also somewhat more fatiguing, because it requires more force to press the keys and their travel depth is deeper than most modern steno machines. However, it's perfectly possible for a trained stenographer to reach speeds of 220 WPM or higher using something like a Sidewinder X4, especially if they have the optional laser-cut steno keytoppers ([$20 from the Plover store](http://plover.deco-craft.com/shop/view_product/Laser_Cut_Steno_Keys_Kit?n=2910988)):
-
-![Black key toppers from the Plover store, stacked in columns](http://plover.deco-craft.com/spcimages/2162178/8148158/1/1/CCCCCC/prod.jpg?b=10934258&v=1457964486)
-
-### How many people currently use Plover?
-
-Hard to say, since people are free to download and distribute the software as much as they want without asking permission. However, the [Plover Google Group](http://groups.google.com/group/ploversteno) currently has 578 members.
-
 ### What theory is Plover's default dictionary based on?
 
 It's basically Mirabai Knight's personal dictionary, which is a mix of New York Career Institute theory and Sten Ed, with several thousand tweaks, briefs, and additions of her own. Plover works with dictionaries in rtf/cre format, exportable from just about any CAT software.
