@@ -9,7 +9,7 @@ Stenography:
 - [Why learn steno? And how?](#why-learn-steno-and-how)
 - [Why isn't steno more popular than QWERTY?](#why-isnt-steno-more-popular-than-qwerty)
 
-Plover:
+Plover and stenography:
 - [What is Plover?](#what-is-plover)
 - [How is Plover different from commercial steno programs?](#how-is-plover-different-from-commercial-steno-programs)
 - [What does Plover look like in action?](#what-does-plover-look-like-in-action)
