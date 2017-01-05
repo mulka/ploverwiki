@@ -1,4 +1,4 @@
-This page is for general users who are new to steno. If you're a steno
+> Note: This page is for general users who are new to steno. If you're a steno
 professional, read [[Plover and Professional Stenography]]. 
 
 **Table of Contents**
@@ -27,7 +27,7 @@ Plover:
 
 ### What is stenography?
 
-Stenography is a form of shorthand typing, usually done on a special machine (although with Plover, you can use computer keyboard that has [n-key rollover](https://en.wikipedia.org/wiki/Rollover_(key))). It was invented in early 1900s.
+Stenography is a form of shorthand typing, usually done on a special machine (although with Plover, you can use computer keyboard that has [n-key rollover](https://en.wikipedia.org/wiki/Rollover_(key))). It was invented in the early 1900s.
 
 Real-time machine stenography is a code translation system that lets users enter words and syllables by pressing multiple keys simultaneously in a chord, which is then instantly translated into English text. 
 
