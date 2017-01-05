@@ -152,7 +152,7 @@ See the [[supported hardware|Supported Hardware]] page.
 
 ### What can Plover do right now?
 
-Plover can write properly capitalized and punctuated text into any window as if it were an ordinary keyboard. It can send command strokes such as Enter or Escape, giving it complete equivalence to the Qwerty keyboard. It's also a robust and convenient text entry system, suitable for writing, coding, chatting, and kicking people's butts at online typing games.
+Plover can write properly capitalized and punctuated text into any window as if it were an ordinary keyboard. It can send command strokes such as `Enter` or `Escape`, giving it complete equivalence to the Qwerty keyboard. It's also a robust and convenient text entry system, suitable for writing, coding, chatting, and kicking people's butts at online typing games.
 
 ### What Plover cannot do right now
 
