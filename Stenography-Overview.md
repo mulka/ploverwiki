@@ -9,7 +9,7 @@ Stenography:
 - [Why learn steno? And how?](#why-learn-steno-and-how)
 - [Why isn't steno more popular than QWERTY?](#why-isnt-steno-more-popular-than-qwerty)
 
-Plover and stenography:
+Plover open source stenography software:
 - [What is Plover?](#what-is-plover)
 - [How is Plover different from commercial steno programs?](#how-is-plover-different-from-commercial-steno-programs)
 - [What does Plover look like in action?](#what-does-plover-look-like-in-action)
@@ -172,7 +172,7 @@ For more information, see:
 
 The Plover software is currently designed for the English steno keyboard layout, but it is possible to customize the steno layout. Some unofficial work has been done by users on creating French and German versions, by forking the software from the repository to create versions for other language layouts. 
 
-There has also been other work on developing steno dictionaries for other languages (for example, Spanish), which could be used while retaining the English steno keyboard layout.
+There has also been some work on developing steno dictionaries for other languages (for example, Spanish), which could be used while retaining the English steno keyboard layout.
 
 ### Is an NKRO keyboard as fast as a steno machine?
 
