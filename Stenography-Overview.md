@@ -61,11 +61,6 @@ Most likely, you are using a qwerty or dvorak keyboard layout to type everything
 
 Notice how this piece—like typing—is mainly runs of single fingers. When you learn and practice this piece, you often do many finger exercises to strengthen certain fingers to increase your speed. 
 
-Below is a video of typing at 163 words per minute. Typing at that speed requires your fingers to move very quickly. Remember, 160 WPM is 40 words per minute below the speed of normal speech, and 65 words per minute below the speed of a professional stenographer:
-
-[![Typing at 163 Words Per Minute](https://i.ytimg.com/vi/dZXxTU_Os4A/hqdefault.jpg)]
-(https://youtu.be/4GDusA21cEA?t=22s)
-
 ##### Stenography is chorded data entry, using multiple fingers
 
 However, Plover, and other steno systems, use keyboard "chords" to type syllables, words, or entire phrases. You press keys, and lift off, rather than pressing down individual keys one after the other. 
