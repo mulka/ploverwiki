@@ -172,6 +172,6 @@ Behind the scenes, Benoit Pierre performs major refactoring work to allow Plover
 
 ### The future - 2017 and onwards
 
-Don't worry, Plover development continues. Benoit Pierre is working on support for other layouts and chording systems, user plugins, different GUIs (including a QT version), and Python 3.
+Don't worry, Plover development continues. You can see the [issues and feature requests on GitHub](https://github.com/openstenoproject/plover/issues), join in the developer discussions by joining the [Plover #devtalk forum](https://discordapp.com/channels/136953735426473984/144999734254370816), and/or watch out for news published on the blog. 
 
-You can see the [issues and feature requests on GitHub](https://github.com/openstenoproject/plover/issues), join in the developer discussions by joining the [Plover #devtalk forum](https://discordapp.com/channels/136953735426473984/144999734254370816), and/or watch out for news published on the blog. 
+Coming soon - Support for other layouts and chording systems, user plugins, and different GUIs.
