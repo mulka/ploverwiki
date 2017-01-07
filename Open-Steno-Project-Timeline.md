@@ -4,7 +4,7 @@ The [Open Steno Project](www.opensteno.org) has a lot of different goals and pro
 
 > Backstory
 
-[Mirabai Knight](https://stenoknight.com/) attended the New York Career Institute to learn stenography at 225 words per minute.
+[Mirabai Knight](https://stenoknight.com/) attends the New York Career Institute to learn stenography at 225 words per minute.
 
 ### 2007
 
