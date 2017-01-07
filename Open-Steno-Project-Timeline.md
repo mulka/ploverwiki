@@ -163,3 +163,7 @@ Charley Shattuck starts to sell his customizable steno machine, the [Stenomod](h
 Plover version 3.1.0 is released.
 
 Behind the scenes, Benoit Pierre performs major refactoring work to allow Plover to support other layouts and chording systems, user plugins, different GUIs (including a QT version), and Python 3. The project license is updated from GPLv2 to GPLv2+.
+
+### The future - 2017 and onwards
+
+Don't worry, Plover development continues. You can see the roadmap and join in the developer discussions by joining the [Plover devtalk forum](https://discordapp.com/channels/136953735426473984/144999734254370816). You can also track the [Plover project on GitHub](https://github.com/openstenoproject/plover).
