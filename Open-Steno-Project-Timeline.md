@@ -158,6 +158,8 @@ Charley Shattuck starts to sell his customizable steno machine, the [Stenomod](h
 
 ### October 2016
 
+> Education
+
 Josh Grams introduces JavaScript-based drilling website [Steno Jig](https://joshuagrams.github.io/steno-jig/).
 
 ### November 2016
