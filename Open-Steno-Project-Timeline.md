@@ -10,7 +10,7 @@ The [Open Steno Project](www.opensteno.org) has a lot of different goals and pro
 
 > Backstory
 
-Mirabai creates a dictionary builder, named Bozzy, with help from her brother William. It's a program that reads from a word list and creates a dictionary using raw steno input. It required the use of CAT software set to send keys to the computer instead of a transcript.
+Mirabai creates a dictionary builder, named Bozzy, with help from her brother William. It's a program that reads from a word list and creates a dictionary using raw steno input. It requires the use of CAT software set to send keys to the computer instead of a transcript.
 
 ### 2008
 
