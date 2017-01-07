@@ -156,6 +156,10 @@ Plover version 3.0.0 is released, featuring new training tools, a UI rearrangeme
 
 Charley Shattuck starts to sell his customizable steno machine, the [Stenomod](https://stenomod.blogspot.ca/). The Stenomod comes on a deck of wood for desk and lap use, but can be detached and used in split configuration.
 
+### October 2016
+
+Josh Grams introduces JavaScript-based drilling website [Steno Jig](https://joshuagrams.github.io/steno-jig/).
+
 ### November 2016
 
 > Plover
