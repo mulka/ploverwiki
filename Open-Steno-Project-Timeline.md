@@ -24,7 +24,7 @@ Mirabai starts to learn python and breaks down technical challenges that will ne
 
 > Plover
 
-Mirabai meets [Joshua Lifton](https://www.crunchbase.com/person/joshua-lifton#/entity), via an ad Mirabai posted in her apartment building looking for a Python tutor. Joshua becomes the lead Plover developer, funded by Mirabai and donations to the project.
+Mirabai meets [Joshua Lifton](https://www.crunchbase.com/person/joshua-lifton#/entity), via an ad Mirabai posted in her shared-workspace building elevator looking for a Python tutor. Joshua becomes the lead Plover developer, funded by Mirabai and donations to the project.
 
 Plover is developed on Ubuntu and is Linux-only.
 
