@@ -38,7 +38,7 @@ Mirabai begins writing her Steno 101 series.
 
 > Plover
 
-First public release of Plover (version 2.0) Plover is Linux only and supports only the Gemini PR machine protocol, as well as regular NKRO keyboard input.
+First public release of Plover (version 2.0) Plover is Linux-only and supports only the Gemini PR machine protocol, as well as regular NKRO keyboard input.
 
 ### December 2010
 
