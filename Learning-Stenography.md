@@ -2,7 +2,16 @@ Stenography was traditionally taught in schools, and still is today. However, be
 
 Also see this Wiki's [[Glossary]] to learn some common terminology that comes up in steno materials.
 
-# Learning Resources
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Tutorial / Textbook / Drills](#tutorial--textbook--drills)
+- [Dictation](#dictation)
+- [Other Typing Sites](#other-typing-sites)
+- [Materials to Print](#materials-to-print)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Tutorial / Textbook / Drills
 
@@ -54,3 +63,10 @@ Sites not made for steno are not ideal for use with Plover, but they offer good 
 - [Typeonline](http://www.typeonline.co.uk/copypractice.php)
 
     Copy practice.
+
+## Materials to Print
+
+When starting to learn the steno layout, you might be using a QWERTY keyboard and you'll need to map between them. It's helpful to have a chart printed in case you get lost.
+
+- [A QWERTY to steno chart showing just the QWERTY keys next to their steno counterparts](https://lh3.googleusercontent.com/-w2QPSfUjHo8/V18o1J9cZNI/AAAAAAAAA-s/qPYSz2XkJhoLARsznLA_rMAq26i_G6oPgCLcB/s1600/US.png)
+- [A QWERTY to steno chart which is just a standard keyboard, with another set of letters in a different color to show the steno keys](http://i.imgur.com/qIh1iJ0.png)
