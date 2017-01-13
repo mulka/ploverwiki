@@ -172,7 +172,7 @@ For more information, see:
 
 The Plover software is currently designed for the English steno keyboard layout, but it is possible to customize the steno layout. Some unofficial work has been done by users on creating French, German and [Portuguese](http://openstenoblog.blogspot.co.uk/2015/04/my-experience-in-open-source.html) versions, by forking the software from the repository to create versions for other language layouts. 
 
-There has also been some work on developing steno dictionaries for other languages (for example, [Portuguese](http://openstenoblog.blogspot.co.uk/2015/04/my-experience-in-open-source.html) and Spanish), which could be used while retaining the English steno keyboard layout.
+There has been some work on developing free-of-charge steno dictionaries for other languages (for example, [Portuguese](http://openstenoblog.blogspot.co.uk/2015/04/my-experience-in-open-source.html) and Spanish), which could be used while retaining the English steno keyboard layout.
 
 ### Is an NKRO keyboard as fast as a steno machine?
 
