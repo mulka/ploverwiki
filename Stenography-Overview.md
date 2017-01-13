@@ -184,7 +184,7 @@ However, it's perfectly possible for a trained stenographer to reach speeds of 2
 
 ![Black key toppers from the Plover store, stacked in columns](http://plover.deco-craft.com/spcimages/2162178/8148158/1/1/CCCCCC/prod.jpg?b=10934258&v=1457964486)
 
-Various steno enthusiasts are making and selling machines designed for use with Plover. These typically use keys that require less actuation force than the keys found on a qwerty keyboard, and they have the steno "22 key" layout. They are more expensive than an NKRO keyboard, but cheaper than a professional steno machine. See [Dedicated machines designed for use with Plover](https://github.com/openstenoproject/plover/wiki/Supported-Hardware#dedicated-machines-designed-for-use-with-plover).
+Various steno enthusiasts are making and selling machines designed for use with Plover. These typically use keys that require less actuation force than the keys found on a qwerty keyboard, and they have the steno "22 key" ortholinear layout. They usually cost more than an NKRO qwerty keyboard and less than a professional steno machine. See [Dedicated machines designed for use with Plover](https://github.com/openstenoproject/plover/wiki/Supported-Hardware#dedicated-machines-designed-for-use-with-plover).
 
 ![StenoMod](https://1.bp.blogspot.com/-XbFnlV5BcHk/WBIhP5aTvGI/AAAAAAAAPWM/Zv2Khmi0zx0_4JewTu0O8nkdfoTXLXSMACLcB/s400/holding_out_of_box.jpg)
 
