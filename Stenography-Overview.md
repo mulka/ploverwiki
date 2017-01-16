@@ -170,7 +170,7 @@ For more information, see:
 
 ### Non-English languages
 
-The Plover software is currently designed for the English steno keyboard layout, but it is possible to customize the steno layout. Some unofficial work has been done by users on creating [French](https://github.com/azizyemloul/plover-france), German and [Portuguese](http://openstenoblog.blogspot.co.uk/2015/04/my-experience-in-open-source.html) versions, by forking the software from the repository to create versions for other language layouts. 
+The Plover software is currently designed for the English steno keyboard layout, but it is possible to customize the steno layout. Some unofficial work has been done by users on creating [French](https://github.com/azizyemloul/plover-france), [German](https://groups.google.com/forum/#!searchin/ploversteno/Spreading$20Open$20Steno$20Project$20and$20Plover$20in$20Germany%7Csort:relevance/ploversteno/MYNlSMD68Qc/S8YqgzytCAAJ) and [Portuguese](http://openstenoblog.blogspot.co.uk/2015/04/my-experience-in-open-source.html) versions, by forking the software from the repository to create versions for other language layouts. 
 
 There has been some work on developing free-of-charge steno dictionaries for other languages (for example, [French](https://github.com/azizyemloul/plover-france-dict), [Portuguese](http://openstenoblog.blogspot.co.uk/2015/04/my-experience-in-open-source.html) and Spanish), which could be used while retaining the English steno keyboard layout. 
 
