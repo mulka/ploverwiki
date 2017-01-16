@@ -47,9 +47,7 @@ You need to define new strokes in your dictionary with these ideas.
 
 ### `SKP-` for ex-
 
-The default dictionary uses a combination of `KP-` and `S-` to make the leading ex- sound (such as `KPEUT` for "exit" for `SPHRAEUPB` for "explain"). The rules for which one to use [depend on the consonant following the ex-](ex-rules). If you don't like this, you can use `SKP-` for a leading ex-:
-
-  [ex-rules]: https://www.dropbox.com/s/fa7fch2eocubrde/Philadelphia%20Clinic.pdf?dl=0
+The default dictionary uses a combination of `KP-` and `S-` to make the leading ex- sound (such as `KPEUT` for "exit" for `SPHRAEUPB` for "explain"). The rules for which one to use [depend on the consonant following the ex-](https://www.dropbox.com/s/fa7fch2eocubrde/Philadelphia%20Clinic.pdf?dl=0). If you don't like this, you can use `SKP-` for a leading ex-:
 
 * `SKPRAGT` for "extract".
 * `SKPERPBL` for "external".
