@@ -4,6 +4,8 @@ Learn Plover! is a great introduction to Plover's theory and has everything you 
 
 ## In the Main Dictionary
 
+You can start using these patterns today!
+
 ### `SPW-` for int- and ent-
 
 This comes from Magnum steno. There are some entries in the default dictionary that use `SPW-`, although it's not documented in [Learn Plover]. Examples:
@@ -40,6 +42,8 @@ A note: for some of these words, a tense u sound (`AOUFP`) is used for -ture ins
 * `FRA*FP` or `FRAOUFP` for "fracture"
 
 ## Non-Plover Theory Ideas
+
+You need to define new strokes in your dictionary with these ideas.
 
 ### `SKP-` for ex-
 
