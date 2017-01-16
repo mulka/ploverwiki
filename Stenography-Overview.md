@@ -172,7 +172,7 @@ For more information, see:
 
 The Plover software is currently designed for the English steno keyboard layout, but it is possible to customize the steno layout. Some unofficial work has been done by users on creating [French](https://github.com/azizyemloul/plover-france), [German](https://groups.google.com/d/msg/ploversteno/MYNlSMD68Qc/Byyw9T8ZCQAJ) and [Portuguese](http://openstenoblog.blogspot.co.uk/2015/04/my-experience-in-open-source.html) versions, by forking the software from the repository to create versions for other language layouts. 
 
-There has been some work on developing free-of-charge steno dictionaries for other languages (for example, [French](https://github.com/azizyemloul/plover-france-dict), German [1](https://groups.google.com/d/msg/ploversteno/MYNlSMD68Qc/Byyw9T8ZCQAJ) [2](http://stanographer.com/steno-hell-german/),  [Portuguese](http://openstenoblog.blogspot.co.uk/2015/04/my-experience-in-open-source.html) and Spanish), which could be used while retaining the English steno keyboard layout. 
+There has been some work on developing free-of-charge steno dictionaries for other languages (for example, [French](https://github.com/azizyemloul/plover-france-dict), German ([1](https://groups.google.com/d/msg/ploversteno/MYNlSMD68Qc/Byyw9T8ZCQAJ) and [2](http://stanographer.com/steno-hell-german/)),  [Portuguese](http://openstenoblog.blogspot.co.uk/2015/04/my-experience-in-open-source.html) and Spanish), which could be used while retaining the English steno keyboard layout. 
 
 Plover can also work with exported dictionaries from commercial stenography applications such as Eclipse, ProCAT and Case CATalyst. See the [Dictionary format](https://github.com/openstenoproject/plover/wiki/Dictionary-Format) page for more information.
 
