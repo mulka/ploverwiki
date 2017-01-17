@@ -14,6 +14,9 @@ This page is under construction. Please refer to [Learn Plover! Appendix: The Di
   - [Uppercasing (CAPS)](#uppercasing-caps)
     - [Uppercase Next Word](#uppercase-next-word)
     - [Uppercase Last Word](#uppercase-last-word)
+  - [Lowercasing](#lowercasing)
+    - [Lowercase Next Word](#lowercase-next-word)
+    - [Lowercase Last Word](#lowercase-last-word)
 - [Undoable Line Breaks and Tabs](#undoable-line-breaks-and-tabs)
 - [Commands and Keyboard Shortcuts](#commands-and-keyboard-shortcuts)
   - [Modifier Names](#modifier-names)
@@ -139,6 +142,20 @@ Output next stroke in capital letters, e.g. `{<}cat` → `CAT`
 - `{*<}`
 
 Rewrite last word in capital letters, e.g. `cat{*<}` → `CAT`
+
+### Lowercasing
+
+#### Lowercase Next Word
+
+- `{>}`
+
+Forces the next letter to be lowercase, e.g. `{>}Plover` → `plover`
+
+#### Lowercase Last Word
+
+- `{*>}`
+
+Rewrite the last word to start with a lowercase letter, e.g. `Plover{*<}` → `plover`
 
 ## Undoable Line Breaks and Tabs
 
