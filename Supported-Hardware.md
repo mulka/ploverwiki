@@ -128,7 +128,7 @@ The following machines have been confirmed by users to work with Plover after ac
 
 | Product Name                       | Manufacturer       | Protocol/Connection | Comments                |
 | ---------------------------------- | ------------------ | ------------------- | ----------------------- |
-| [ErgoDox](https://deskthority.net/wiki/ErgoDox)           |   Ergodox      |  USB  |     The ErgoDox is a fairly high-end NKRO keyboard at $200, with an ortholinear layout. It has two separate halves, so you can angle them to suit you. You can order it with the Gateron White keys, which have an extremely light, 35 gram activation force.                    |
+| [ErgoDox](https://deskthority.net/wiki/ErgoDox)           |   ErgodoxEZ, Massdrop, FalbaTech, others |  USB  |     The ErgoDox is a fairly high-end NKRO keyboard at $200, with an ortholinear layout. It has two separate halves, so you can angle them to suit you. You can order it with the Gateron White keys, which have an extremely light, 35 gram activation force.                    |
 | [Planck](http://olkb.com/planck/) | OLKB | USB | The Planck is a NKRO keyboard with an ortholinear layout. It is 40% the size of a standard keyboard.|
 |[Preonic](http://olkb.com/preonic/)| OLKB | USB | The Preonic is a NKRO keyboard with an ortholinear layout. It is 50% the size of a standard keyboard. |
 
@@ -141,6 +141,6 @@ The following machines have been confirmed by users to work with Plover after ac
 | Product Name                       | Manufacturer       | Protocol/Connection | Comments                |
 | ---------------------------------- | ------------------ | ------------------- | ----------------------- |
 | [SOFT/HRUF](https://softhruf.love) | Scott Urueta       | TX Bolt (serial)    | Open source hardware. This has the shape of a stenography machine, but is built using computer keys rather than levers. The name is the steno representation for, and is pronounced as, "soft love".  |
-| [Stenoboard](http://utopen.com)    | Utopen             | NKRO/TX Bolt/Gemini PR | Open source hardware. The first open source steno machine on the market, released in 2014. The Stenoboard's keys actuate like mouse-clicks instead of a keyboard or lever-machine. |
+| [Stenoboard](http://utopen.com)    | Utopen (Emanuele Caruso) | NKRO/TX Bolt/Gemini PR | Open source hardware. The first open source steno machine on the market, released in 2014. The Stenoboard's keys actuate like mouse-clicks instead of a keyboard or lever-machine. |
 | [Stenomod](https://stenomod.blogspot.com) | Charley Shattuck | TX Bolt        | Open source hardware. This has light keys and a split design. See Ted Morin's [review of the StenoMod](http://www.teds.space/2016/10/stenomod-affordable-steno-machine.html). The name is supposed to hint at how the machine is "modular" and adaptable. It is very barebones so it is easy to take apart and customize. |
 
