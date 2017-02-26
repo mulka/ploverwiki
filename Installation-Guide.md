@@ -6,6 +6,7 @@
   - [Mac](#mac)
   - [Linux](#install-plover-on-linux)
     - [Arch](#install-plover-on-arch-linux-distribution)
+    - [Ubuntu](#install-plover-on-ubuntu-linux-distribution)
     - [Other](#install-plover-on-other-linux-distributions)
 - [Setting up my machine](#setting-up-my-machine)
 
@@ -52,6 +53,10 @@ Plover can be downloaded in .deb, .egg, tar.gz, and .whl (wheel) Linux formats. 
 #### Install Plover on Arch Linux distribution
 
 Use AUR package [plover](https://aur.archlinux.org/packages/plover/) for stabled and [plover-git](https://aur.archlinux.org/packages/plover-git/) for the current `master`.
+
+#### Install Plover on Ubuntu Linux distribution
+
+Plover is available as a PPA on Launchpad. See [ppa:benoit.pierre/plover](https://launchpad.net/~benoit.pierre/+archive/ubuntu/plover)
 
 #### Install Plover on other Linux distributions
 
