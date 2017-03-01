@@ -178,7 +178,7 @@ Instead, we must use special characters that can be undone by Plover for new par
 
 - `{*+}`
 
-    A stroke mapping to this command will send the last stroke entered. A common stroke to map to repeat-last is the bare number bar (`"#": "{*+}"`, causing `KAT/#/#` to behave like `KAT/KAT/KAT`. Repeat last stroke is very useful for keys that you repeat, like when moving around text in a document.
+    A stroke mapping to this command will send the last stroke entered. A common stroke to map to repeat-last is the bare number bar; `"#": "{*+}"`; causing `KAT/#/#` to behave like `KAT/KAT/KAT`. Repeat last stroke is very useful for keys that you repeat, like when moving around text in a document.
 
 ## Keyboard Shortcuts
 
