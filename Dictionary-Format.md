@@ -18,7 +18,9 @@ This page is under construction. Please refer to [Learn Plover! Appendix: The Di
     - [Lowercase Next Word](#lowercase-next-word)
     - [Lowercase Last Word](#lowercase-last-word)
 - [Undoable Line Breaks and Tabs](#undoable-line-breaks-and-tabs)
-- [Commands and Keyboard Shortcuts](#commands-and-keyboard-shortcuts)
+- [Commands](#commands)
+  - [Repeat Last Stroke](#repeat-last-stroke)
+- [Keyboard Shortcuts](#keyboard-shortcuts)
   - [Modifier Names](#modifier-names)
   - [Shortcut Key Names](#shortcut-key-names)
   - [Sample Shortcuts](#sample-shortcuts)
@@ -170,7 +172,15 @@ Instead, we must use special characters that can be undone by Plover for new par
 
     This translation presses the tab key without any other spacing and can be undone with the asterisk key.
 
-## Commands and Keyboard Shortcuts
+## Commands
+
+### Repeat Last Stroke
+
+- `{*+}`
+
+    A stroke mapping to this command will send the last stroke entered. A common stroke to map to repeat-last is the bare number bar (`"#": "{*+}"`, causing `KAT/#/#` to behave like `KAT/KAT/KAT`. Repeat last stroke is very useful for keys that you repeat, like when moving around text in a document.
+
+## Keyboard Shortcuts
 
 Most Plover strokes are just text and formatting operators. Plover handles standard strokes really well, which allows it to handle "undoing" with the asterisk key, as well as automatically handling case and spacing. However, Plover's text and formatting strokes can't send arbitrary key strokes, like sending keyboard shortcuts.
 
