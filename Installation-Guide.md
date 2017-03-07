@@ -22,7 +22,7 @@ Unsure which version to download? You have a few options, depending on your need
     If you are adventurous and want access to the latest and greatest features and developments, check out [the weekly releases](https://github.com/openstenoproject/plover/releases).
 - **Source**
 
-    If you are a developer and want to build from source, there are OS-specific guides for [Windows](https://github.com/openstenoproject/plover/tree/master/windows), [Linux](https://github.com/openstenoproject/plover/tree/master/linux), and [macOS](https://github.com/openstenoproject/plover/tree/master/osx). Follow those guides to get your environments setup and run or build the source.
+    If you are a developer and want to build from source, there are OS-specific guides for [Windows](https://github.com/openstenoproject/plover/tree/master/windows), [Linux](https://github.com/openstenoproject/plover/tree/master/linux), and [Mac](https://github.com/openstenoproject/plover/tree/master/osx). Follow those guides to get your environments setup and run or build the source.
 
 ## Installation
 
@@ -34,7 +34,7 @@ Each release has files for all the operating systems we support. You only need t
   * You can place the file anywhere on your computer. You will run it from the same location every time.
 1. Open the file to launch Plover.
 
-### Install Plover on MacOS
+### Install Plover on Mac
 
 If you have [Homebrew Cask](https://caskroom.github.io/) installed on your system, you can run `brew cask install plover` at the command-line. Otherwise:
 
