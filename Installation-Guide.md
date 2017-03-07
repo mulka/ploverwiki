@@ -2,8 +2,8 @@
 
 - [Select a version](#select-a-version)
 - [Installation](#installation)
-  - [Windows](#windows)
-  - [Mac](#mac)
+  - [Windows](#install-plover-on-windows)
+  - [Mac](#install-plover-on-mac)
   - [Linux](#install-plover-on-linux)
     - [Arch](#install-plover-on-arch-linux-distribution)
     - [Ubuntu](#install-plover-on-ubuntu-linux-distribution)
