@@ -180,6 +180,24 @@ Instead, we must use special characters that can be undone by Plover for new par
 
     A stroke mapping to this command will send the last stroke entered. A common stroke to map to repeat-last is the bare number bar; `"#": "{*+}"`; causing `KAT/#/#` to behave like `KAT/KAT/KAT`. Repeat last stroke is very useful for keys that you repeat, like when moving around text in a document.
 
+### Toggle asterisk
+
+- `{*}`
+
+    A stroke mapping to this command will toggle the asterisk key on the last stroke entered. For example if you had this stroke in your dictionary as Number Bar + Asterisk, `"#*": "{*}"`, when you write `KAT/#*` it will behave as if you wrote `KA*T`. Toggle asterisk is useful for when you notice that you should've included an asterisk in your last stroke. For example you wanted to write the name "Mark" but you wrote "mark" the noun/verb. At this point you can use Toggle asterisk to correct it instead of having to erase the word and re-stroke including the asterisk.
+
+### Retrospectively Add Space
+
+- `{*?}`
+
+    A stroke mapping to this command will add a space between your last stroke and the one before that, splitting apart the two strokes. For example, if your dictionary contained `PER` as "Perfect", `SWAEUGS` as "Situation" and `PER/SWAEUGS` as "Persuasion". If you meant to write "Perfect situation" but saw your output was "Persuasion", you could force these two strokes to be split apart by using this stroke. Therefore your output would be changed from "Persuasion" to "Perfect situation".
+
+### Retrospectively Delete Space
+
+- `{*!}`
+
+    A stroke mapping to this command will delete the space between your last stroke and the one before that. If you wrote "Basket ball" but wanted it to be "Basketball", you could force these strokes together by using this stroke. Plover will go back and remove the space before your last stroke; therefore your output would become "Basketball".
+
 ## Keyboard Shortcuts
 
 Most Plover strokes are just text and formatting operators. Plover handles standard strokes really well, which allows it to handle "undoing" with the asterisk key, as well as automatically handling case and spacing. However, Plover's text and formatting strokes can't send arbitrary key strokes, like sending keyboard shortcuts.
