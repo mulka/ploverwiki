@@ -55,10 +55,19 @@ register each key regardless of other keys being pressed. Read the
 [Wikipedia entry about NKRO](http://en.wikipedia.org/wiki/Rollover_(key)#n-key_rollover).
 
 ## How do I know if my keyboard has NKRO?
-A simple test is to open up a text editor and--while holding down both
-shift keys--type each letter on your keyboard. If all keys are typed
-into the text editor, your keyboard probably has NKRO.
 
+### Simple test
+To test your keyboard for NKRO capability:
+
+1. Open up a text editor.
+2. Hold down both shift keys.
+3. Type each letter on your keyboard. 
+
+> **Note**: You must hold down both shift keys while you type each letter on your keyboard.
+
+If all keys are typed into the text editor, your keyboard probably has NKRO.
+
+### Microsoft's keyboard ghosting demonstration website test
 [Microsoft's keyboard ghosting demonstration website](http://www.microsoft.com/appliedsciences/content/projects/KeyboardGhostingDemo.aspx) provides a browser-based application that lets you test your keyboard's capabilities for registering multiple key presses. 
 
 To test your keyboard:
