@@ -109,9 +109,13 @@ Most keyboards have the keys in staggered rows, which can make it difficult to p
 
 ### Keytoppers
 
-To solve this problem, you can use keytoppers, which are in the shape of the keys on a steno machine, and stick them on top of the relevant keys on the keyboard.  
+QWERTY was designed to make it difficult to press multiple keys at once. To solve this problem, you can use keytoppers to modify the layout of the keyboard.
 
-You can buy laser-cut keytoppers from the [Plover Store](http://plover.deco-craft.com/). You can also make your own keytoppers out of plastic or even coins.
+#### Laser-cut keytoppers
+Laser-cut keytoppers are in the shape of the keys on a steno machine, and stick them on top of the relevant keys on the keyboard. You can buy laser-cut keytoppers from the [Plover Store](http://plover.deco-craft.com/). You can also make your own keytoppers out of plastic or even coins.
+
+#### StenoToppers
+[StenoToppers[(https://cemrajc.github.io/stenotoppers/) is a 3D printed keycap set to optimize a mechanical keyboard for stenography. It aligns the rows, raises the keys, and reduces the keycap tapering, slant and gap. If you have access to a 3D printer, then you should be able to download the 3d model (.stl) files and print them for negligible cost. Otherwise, you will need to use a 3D printing service.
 
 ### Keycaps
 
