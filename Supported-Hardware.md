@@ -128,7 +128,7 @@ If you have a mechanical keyboard, it is likely your keys have a [Cherry MX stem
 - The [G20 keycap set](http://pimpmykeyboard.com/g20-blank-keycap-sets/) from Signature Plastics is a great set for steno, and will fit on an ErgoDox or other mechanical keyboard. The keys have a direction, so for optimal comfort, you should angle the top row of steno (`STPH...`) down, so that they are close to the bottom row (`SKWR...`)
 - You can 3D-print a [steno-friendly keycap](https://github.com/morinted/stenomod_case).
 
-Keys that have little space between them are good for steno because then you can hit two neighboring keys with one finger (which is frequently necessary).
+Keys that have little space between them are good for steno, because then you can hit two neighboring keys with one finger (which is frequently necessary).
 
 ### NKRO keyboards with an ortholinear layout
 
