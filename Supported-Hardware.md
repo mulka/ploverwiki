@@ -114,7 +114,8 @@ Most keyboards have the keys in staggered rows, which can make it difficult to p
 
 * Keytoppers
 * Keycaps
-* A keyboard with an ortholinear layout
+
+You can also use a keyboard with an ortholinear layout.
 
 ### Keytoppers
 
