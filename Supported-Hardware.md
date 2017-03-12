@@ -122,7 +122,7 @@ Laser-cut keytoppers are in the shape of the keys on a steno machine, and stick 
  
 ### Keycaps
 
-If you have a mechanical keyboard, it is likely your keys have a [Cherry MX stem](https://deskthority.net/wiki/Cherry_MX) and will work with custom keycaps. You can replace the existing keycaps on your keyboard with different keycaps that  optimize a mechanical keyboard for stenography.
+If you have a mechanical keyboard, it is likely your keys have a [Cherry MX stem](https://deskthority.net/wiki/Cherry_MX) and will work with custom keycaps. You can replace the existing keycaps on your keyboard with different keycaps, to improve the layout for stenoing.
 
 - [StenoToppers](https://cemrajc.github.io/stenotoppers/) is a 3D printed keycap set designed by Jason Cemra. It aligns the rows, raises the keys, and reduces the keycap tapering, slant and gap. A pre-release version of the the 3d model (.stl) files is available on Github. If you have access to a 3D printer, you can download .stl files and print them for a negligible cost. Otherwise, you would need to use a 3D printing service.
 - The [G20 keycap set](http://pimpmykeyboard.com/g20-blank-keycap-sets/) from Signature Plastics is a great set for steno, and will fit on an ErgoDox or other mechanical keyboard. The keys have a direction, so for optimal comfort, you should angle the top row of steno (`STPH...`) down, so that they are close to the bottom row (`SKWR...`)
