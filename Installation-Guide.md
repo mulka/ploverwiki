@@ -26,13 +26,17 @@ Unsure which version to download? You have a few options, depending on your need
 
 ## Installation
 
-Each release has files for all the operating systems we support. You only need the files that are relevant to your operating system.
+Each release has files for all the operating systems we support. You only need the files that are relevant to your operating system
+
+--------------------
 
 ### Install Plover on Windows
 
 1. Download the `.exe` file from the release page.
   * You can place the file anywhere on your computer. You will run it from the same location every time.
 1. Open the file to launch Plover.
+
+--------------------
 
 ### Install Plover on Mac
 
@@ -46,17 +50,25 @@ If you have [Homebrew Cask](https://caskroom.github.io/) installed on your syste
 
 Plover is set up! You can run Plover like you would any other application.
 
+--------------------
+
 ### Install Plover on Linux
 
 Plover can be downloaded in .deb, .egg, tar.gz, and .whl (wheel) Linux formats. You can also install Plover using an AUR package.
+
+--------------------
 
 #### Install Plover on Arch Linux distribution
 
 Use AUR package [plover](https://aur.archlinux.org/packages/plover/) for stabled and [plover-git](https://aur.archlinux.org/packages/plover-git/) for the current `master`.
 
+--------------------
+
 #### Install Plover on Ubuntu Linux distribution
 
 Plover is available as a PPA on Launchpad. See [ppa:benoit.pierre/plover](https://launchpad.net/~benoit.pierre/+archive/ubuntu/plover)
+
+--------------------
 
 #### Install Plover on other Linux distributions
 
@@ -74,7 +86,7 @@ For example:
 
 `pip install --user Downloads/setuptools-32.3.1-py2.py3-none-any.whl`
 
-#####Installation
+##### Installation
 
 We recommend you install the .whl format. 
 
@@ -87,11 +99,15 @@ To install:
 
 > **Note**: Replace `plover-3.0.0-py2-none-any.whl` with the filename for the current downloadable whl file on the [release page](https://github.com/openstenoproject/plover/releases). 
 
+--------------------
+
 #### Opening Plover in Linux
 
 You can then start Plover with:
 
 `~/.local/bin/plover`
+
+--------------------
 
 ## Setting up my machine
 
