@@ -65,7 +65,9 @@ natively.
 
 ### Stacking
 
-When writing stenography, if you accidentally merge two strokes into one, it is called stacking. For example, you might try to write `the rap` with `T-/RAP` but end up with `TRAP → trap` because you stacked the strokes. To avoid stacking, the stenographer must be sure to release all keys in their chord before stroking the next. Sometimes machines are prone to stacking due to bad debouncing or sticking keys.
+When writing stenography, if you accidentally merge two strokes into one, it is called stacking. For example, you might try to write `is okay` with `S-/OBG` but end up with `SOBG → sock` because you stacked the strokes. To avoid stacking, the stenographer must be sure to release all keys in their chord before stroking the next. Sometimes machines are prone to stacking due to bad debouncing or sticking keys.
+
+You might notice strokes in Plover's default dictionary that map to, for example, `"T-S": "{^s it}"`. These were entered to fix stacking issues on Mirabai's old steno machine, but aren't relevant for most users and can safely be overwritten.
 
 ### Steno Dictionary
 
