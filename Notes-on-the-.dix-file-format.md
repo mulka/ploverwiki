@@ -1,5 +1,3 @@
-(This page will be a work in progress for a couple of days; I'm tidying my notes and putting them here. Also, I have discovered a mistake in my workings, so some of this information may be out of date. I'm working on updating it. -- Marn)
-
 These are my observations on the format of Eclipse .dix files, from dissecting a few specimens. The shortest two of these specimens, "oneentry" and "severalentries", are provided at the end of this page.
 
 At a minimum, a .dix file must contain three things: a record structure, the steno strokes, and the English text. It may also contain a header and so on; Eclipse keeps track of a lot of other information.
@@ -30,18 +28,73 @@ However, the value of the 4-byte big-endian word at 0x10 increases as the size o
 * 0xf13d1 for stephen
 * 0xb541d1 for MKK
 
-What can it be? It's not a line count. It isn't a pointer into the file-- even in severalentries it would point beyond the end.
+What can it be? It's not a line count. It isn't a pointer into the file-- even in severalentries it would point beyond the end. Perhaps it's an edit count, for deciding which version of a dictionary is newer?
 
+# A record structure
 
+This ought to be the simplest part to find, and yet it's still opaque.
 
+oneentry is 188 bytes long. If there's no header beyond the magic number, we have the single record being 172 bytes long. This is improbable, and argues for the existence of a header.
 
-## A record structure
+If the records are stored straight, as in the RTF, then oneentry contains 1 entry and severalentries contains 15 entries.
+
+However, perhaps the records are stored as a tree for fast searching. If we have one node for every stroke, with branching according to the next stroke, then oneentry contains 4 entries and severalentries contains 22.
+
+If so, each record would have to have:
+ - optional text which would be printed here
+ - a list of following nodes, each with an offset
+ - and a list terminator.
+
+It's also possible that the nodes branch only when there's multiple options. In that case, oneentry contains 1 entry and severalentries contains 17 entries.
+
+None of these hypotheses match observed behaviour in the file.
+
+## The 0000ff structure
+
+A glance at any .dix other than oneentry shows several occurrences of "0000ff..." or similar. They look like record separators, which would explain why they're not in oneentry. But if we take these to be record separators, we generally end up with about a quarter of the number of records we'd need.
+
+The byte after "0000ff..." appears to be a bitmask. It's drawn from a restricted set. These are the values in MKK.dix, and their counts:
+
+      4051 02
+       631 0a
+     10397 22
+       440 2a
+      2105 32
+      8072 42
+       406 4a
+       233 52
+       434 72
+      5614 82
+         1 84
+        20 8a
+      2663 a2
+        63 aa
+       538 b2
+      9901 c2
+       462 ca
+         1 d1
+        99 d2
+       270 f2
+
+So the second nibble is almost always 2 (0010) or a (1010), with 2 being far more likely. The two singleton outliers have 1 (0001) and 4 (1000). But let's ignore those for now. (The rest of their values may well be interesting.)
+
+The most common values for the first nibble are: 0 (0000), 2 (0010), 4 (0100), 8 (1000), a (1010), c (1100). Oddly 6 (0110) and e (1110) are missing; this seems to show that the middle bits can't both be set.
 
 ## Steno strokes
 
-Bear in mind 
+Bear in mind that Eclipse supports palantype etc, so the format would need to be flexible.
+
+Both oneentry and severalentries begin with a steno stroke containing only one key. (Assuming, for severalentries, that the entries are in the same order as the RTF.) There's no obvious place in the file where this happens.
 
 ## The English text 
+
+The English text must be encoded in there somewhere. That should be far more predictable than the steno.
+
+There's no visible ASCII-encoded text in the file.
+
+Possibly it's using some kind of compression system? Anything involving sliding trees etc would be overkill for such short phrases, and would be rather difficult to update without rewriting the entire file.
+
+Maybe it uses fewer bits than 8 for each character. Encoding of capital letters might involve shift characters, and so on, so I looked for the text "ritish" given 5, 6, or 7 bits for a character, and given "a"=0 up to the maximum possible. I found nothing.
 
 # Specimen files
 Thanks to Mirabai for providing these. You can find the files at http://chiark.greenend.org.uk/~tthurman/plover/dix/ .
