@@ -1,7 +1,7 @@
 (This page will be a work in progress for a couple of days; I'm tidying my notes and putting them here.)
 
 # Specimen files
-Thanks to Mirabai for providing these.
+Thanks to Mirabai for providing these. You can find the files at http://chiark.greenend.org.uk/~tthurman/plover/dix/ .
 
 ## oneentry.dix
 
