@@ -2,6 +2,12 @@ These are my observations on the format of Eclipse .dix files, from dissecting a
 
 At a minimum, a .dix file must contain three things: a record structure, the steno strokes, and the English text. It may also contain a header and so on; Eclipse keeps track of a lot of other information.
 
+# Clues
+
+Some clues may be gleaned from what we know from the header:
+ - These files were saved by version 4.0 of Eclipse. If there's backwards compatibility (we don't know whether there is), then we should expect to find vestigial structures.
+ - The files are clearly designed to be handled with DOS software. This might also have implications.
+
 # Header
 
 ## Magic number
@@ -29,6 +35,8 @@ However, the value of the 4-byte big-endian word at 0x10 increases as the size o
 * 0xb541d1 for MKK
 
 What can it be? It's not a line count. It isn't a pointer into the file-- even in severalentries it would point beyond the end. Perhaps it's an edit count, for deciding which version of a dictionary is newer?
+
+Another weirdness here is that the number's stored big-endian. If the format was originally designed for DOS, we'd expect x86 conventions, and that would dictate the use of little-endian numbers.
 
 # A record structure
 
