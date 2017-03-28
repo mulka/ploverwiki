@@ -1,62 +1,74 @@
-(This page will be a work in progress for a couple of days; I'm tidying my notes and putting them here.)
+(This page will be a work in progress for a couple of days; I'm tidying my notes and putting them here. Also, I have discovered a mistake in my workings, so some of this information may be out of date. I'm working on updating it. -- Marn)
+
+These are my observations on the format of Eclipse .dix files, from dissecting a few specimens. The shortest two of these specimens, "oneentry" and "severalentries", are provided at the end of this page.
+
+# Magic number
+
+In all cases the magic number is sixteen bytes:
+
+    000000 45 63 6c 20 34 2e 30 20 64 69 63 74 2e 0d 0a 1a
+
+which spells "Ecl 4.0 dict." + CR LF ^Z
+
+The CR/LF pair shows this is a DOS-based format. Similarly the ^Z is an MS-DOS convention: if the user attempts to show the file using the "type" command, the display will stop at that character.
 
 # Specimen files
 Thanks to Mirabai for providing these. You can find the files at http://chiark.greenend.org.uk/~tthurman/plover/dix/ .
 
 ## oneentry.dix
 
-    000000 206c6345 20302e34 74636964 1a0a0d2e
-    000010 000000bf 8d4dda78 30820b5d caff8518
-    000020 9a5f7bcb 26d84ca9 7d174659 4dae8e21
-    000030 c66c0e57 7dfec236 038baef3 ce70f387
-    000040 1af4f9a1 558d23e0 5ab866a3 b7520886
-    000050 93f4a763 0bf7a8a1 a35d6082 b51866bb
-    000060 8447a864 1db2d39c 9dcadbd4 b095389a
-    000070 4d38cdf5 24a61c48 f4313842 5187c233
-    000080 492c9246 cce11ac9 8cc7a3d0 517cb538
-    000090 9556f5c3 545286a2 cdaa1c05 b0343665
-    0000a0 7aee3a9c 4e518509 ea8e1ed9 a5f31a6e
-    0000b0 9034e381 3fdf7f5e 6837bbb2
+    000000 45 63 6c 20 34 2e 30 20 64 69 63 74 2e 0d 0a 1a
+    000010 bf 00 00 00 78 da 4d 8d 5d 0b 82 30 18 85 ff ca
+    000020 cb 7b 5f 9a a9 4c d8 26 59 46 17 7d 21 8e ae 4d
+    000030 57 0e 6c c6 36 c2 fe 7d f3 ae 8b 03 87 f3 70 ce
+    000040 a1 f9 f4 1a e0 23 8d 55 a3 66 b8 5a 86 08 52 b7
+    000050 63 a7 f4 93 a1 a8 f7 0b 82 60 5d a3 bb 66 18 b5
+    000060 64 a8 47 84 9c d3 b2 1d d4 db ca 9d 9a 38 95 b0
+    000070 f5 cd 38 4d 48 1c a6 24 42 38 31 f4 33 c2 87 51
+    000080 46 92 2c 49 c9 1a e1 cc d0 a3 c7 8c 38 b5 7c 51
+    000090 c3 f5 56 95 a2 86 52 54 05 1c aa cd 65 36 34 b0
+    0000a0 9c 3a ee 7a 09 85 51 4e d9 1e 8e ea 6e 1a f3 a5
+    0000b0 81 e3 34 90 5e 7f df 3f b2 bb 37 68
 
 Which contains one entry:
 
     {\*\cxs -T/PWREUT/EURB/HRAOEURB}the British Library
 
-
 ## severalentries.dix
 
-    000000 206c6345 20302e34 74636964 1a0a0d2e
-    000010 0000056d cd6cda78 30c10f5f afe18714
-    000020 59ee7272 493b47f7 85c6115b ae34d930
-    000030 4c964ac5 df6c3a2b 888dccde 9c5ef3bb
-    000040 cd27c7e7 be8782a5 811ad2b9 682090fe
-    000050 6945b473 6ed502ce 5c118831 a1c5307d
-    000060 340b46b2 79226116 abcaac72 91b2f3d3
-    000070 fbacc35c 8e28e88c c2190b08 efc0cbba
-    000080 5d6531ce 465277aa 08921a03 40302361
-    000090 28240938 760a93b9 39552cab a259f6ac
-    0000a0 af24e7b8 50ef6b65 b5d3ecdc f725abdc
-    0000b0 f215fff4 c498c3c1 48c051e3 fabffb8f
-    0000c0 134d3f76 ecbfccb5 bd75bdf3 000002fc
-    0000d0 34c2ffff fb9b02d9 a01b2621 1a1c1c18
-    0000e0 b2350014 a8b4b8b4 3079af00 1a589a97
-    0000f0 c143021a 5452e202 b51c82f3 919ffd90
-    000100 90aa9658 86a99c48 41408626 0b812c4b
-    000110 b715d532 000000a9 22ffff00 1e01efd7
-    000120 700d30c0 37383242 a14f3135 f7089f38
-    000130 18103562 868740fb 22ba382a 625793c7
-    000140 51317aa5 69666041 61646268 602d8962
-    000150 a2911c43 9814b53f 3233939c e640f313
-    000160 00000002 28a2ffff 40824210 214dcb09
-    000170 c9c91fc4 994525c5 c92e20c0 a6d9ca27
-    000180 06866616 6086c606 8d914de3 0808528f
-    000190 07727577 ce1e1eb9 a94955a1 eca099d9
-    0001a0 81db8a48 c4c4c3f9 1a00cccc 26664638
-    0001b0 008b7066 ff000000 e45a02ff 7abc7082
-    0001c0 e261850a 03eae0a2 6a4a6b73 c6e50e4e
-    0001d0 58b2c105 116a4a4a 460b8c15 06d8af36
-    0001e0 ff000000 182523ff 2d2c2c8d 2d8ccccc
-    0001f0 09986521 385ac9aa 548faa5c 8a000252
+    000000 45 63 6c 20 34 2e 30 20 64 69 63 74 2e 0d 0a 1a
+    000010 6d 05 00 00 78 da 6c cd 5f 0f c1 30 14 87 e1 af
+    000020 72 72 ee 59 f7 47 3b 49 5b 11 c6 85 30 d9 34 ae
+    000030 c5 4a 96 4c 2b 3a 6c df de cc 8d 88 bb f3 5e 9c
+    000040 e7 c7 27 cd a5 82 87 be b9 d2 1a 81 fe 90 20 68
+    000050 73 b4 45 69 ce 02 d5 6e 31 88 11 5c 7d 30 c5 a1
+    000060 b2 46 0b 34 16 61 22 79 72 ac ca ab d3 f3 b2 91
+    000070 5c c3 ac fb 8c e8 28 8e 08 0b 19 c2 ba cb c0 ef
+    000080 ce 31 65 5d aa 77 52 46 03 1a 92 08 61 23 30 40
+    000090 38 09 24 28 b9 93 0a 76 ab 2c 55 39 ac f6 59 a2
+    0000a0 b8 e7 24 af 65 6b ef 50 dc ec d3 b5 dc ab 25 f7
+    0000b0 f4 ff 15 f2 c1 c3 98 c4 e3 51 c0 48 8f fb bf fa
+    0000c0 76 3f 4d 13 b5 cc bf ec f3 bd 75 bd fc 02 00 00
+    0000d0 ff ff c2 34 d9 02 9b fb 21 26 1b a0 18 1c 1c 1a
+    0000e0 14 00 35 b2 b4 b8 b4 a8 00 af 79 30 97 9a 58 1a
+    0000f0 1a 02 43 c1 02 e2 52 54 f3 82 1c b5 90 fd 9f 91
+    000100 58 96 aa 90 48 9c a9 86 26 86 40 41 4b 2c 81 0b
+    000110 32 d5 15 b7 a9 00 00 00 00 ff ff 22 d7 ef 01 1e
+    000120 c0 30 0d 70 42 32 38 37 35 31 4f a1 38 9f 08 f7
+    000130 62 35 10 18 fb 40 87 86 2a 38 ba 22 c7 93 57 62
+    000140 a5 7a 31 51 41 60 66 69 68 62 64 61 62 89 2d 60
+    000150 43 1c 91 a2 3f b5 14 98 9c 93 33 32 13 f3 40 e6
+    000160 02 00 00 00 ff ff a2 28 10 42 82 40 09 cb 4d 21
+    000170 c4 1f c9 c9 c5 25 45 99 c0 20 2e c9 27 ca d9 a6
+    000180 16 66 86 06 06 c6 86 60 e3 4d 91 8d 8f 52 08 08
+    000190 77 75 72 07 b9 1e 1e ce a1 55 49 a9 d9 99 a0 ec
+    0001a0 48 8a db 81 f9 c3 c4 c4 cc cc 00 1a 38 46 66 26
+    0001b0 66 70 8b 00 00 00 00 ff ff 02 5a e4 82 70 bc 7a
+    0001c0 0a 85 61 e2 a2 e0 ea 03 73 6b 4a 6a 4e 0e e5 c6
+    0001d0 05 c1 b2 58 4a 4a 6a 11 15 8c 0b 46 36 af d8 06
+    0001e0 00 00 00 ff ff 23 25 18 8d 2c 2c 2d cc cc 8c 2d
+    0001f0 21 65 98 09 aa c9 5a 38 5c aa 8f 54 52 02 00 8a
+    000200 ac 5a 68
 
 Which contains 16 entries:
 
