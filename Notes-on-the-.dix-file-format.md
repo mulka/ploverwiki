@@ -36,22 +36,26 @@ This ought to be the simplest part to find, and yet it's still opaque.
 
 oneentry is 188 bytes long. If there's no header beyond the magic number, we have the single record being 172 bytes long. This is improbable, and argues for the existence of a header.
 
-If the records are stored straight, as in the RTF, then oneentry contains 1 entry and severalentries contains 15 entries.
+## How many records?
 
-However, perhaps the records are stored as a tree for fast searching. If we have one node for every stroke, with branching according to the next stroke, then oneentry contains 4 entries and severalentries contains 22.
+If we knew the number of records in a file, then we could begin to figure out the structure.
+
+If the strokes are stored straight, as in the RTF, then oneentry contains 1 record and severalentries contains 15 records.
+
+However, perhaps the records are stored as a tree for fast searching. If we have one node (==one record) for every stroke, with branching according to the next stroke, then oneentry contains 4 records and severalentries contains 22 records.
 
 If so, each record would have to have:
  - optional text which would be printed here
  - a list of following nodes, each with an offset
  - and a list terminator.
 
-It's also possible that the nodes branch only when there's multiple options. In that case, oneentry contains 1 entry and severalentries contains 17 entries.
+It's also possible that the nodes branch only when there's multiple options. In that case, oneentry contains 1 record and severalentries contains 17 records.
 
 None of these hypotheses match observed behaviour in the file.
 
-## The 0000ff structure
+## The meaning of 0000ff
 
-A glance at any .dix other than oneentry shows several occurrences of "0000ff..." or similar. They look like record separators, which would explain why they're not in oneentry. But if we take these to be record separators, we generally end up with about a quarter of the number of records we'd need.
+A glance at any .dix, other than oneentry, shows several occurrences of "0000ff..." or similar. They look like record separators, which would explain why they're not in oneentry. But if we take them to be record separators, we generally end up with about a quarter of the number of records we'd need. For example, severalentries would contain 6 records; in fact it contains 15.
 
 The byte after "0000ff..." appears to be a bitmask. It's drawn from a restricted set. These are the values in MKK.dix, and their counts:
 
@@ -98,6 +102,11 @@ Maybe it uses fewer bits than 8 for each character. Encoding of capital letters 
 
 # Specimen files
 Thanks to Mirabai for providing these. You can find the files at http://chiark.greenend.org.uk/~tthurman/plover/dix/ .
+
+I could upload the Python scripts mentioned above which:
+ - split the files at 0000ff...
+ - search for "ritish" at varying numbers of bits per character
+if anyone's interested.
 
 ## oneentry.dix
 
@@ -154,7 +163,7 @@ Which contains one entry:
     0001f0 21 65 98 09 aa c9 5a 38 5c aa 8f 54 52 02 00 8a
     000200 ac 5a 68
 
-Which contains 16 entries:
+Which contains 15 entries:
 
     {\*\cxs U/TKROUS/KWREU}you drowsy
     {\*\cxs U/TKPWAOEUGS}you guys
