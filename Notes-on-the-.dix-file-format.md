@@ -2,15 +2,46 @@
 
 These are my observations on the format of Eclipse .dix files, from dissecting a few specimens. The shortest two of these specimens, "oneentry" and "severalentries", are provided at the end of this page.
 
-# Magic number
+At a minimum, a .dix file must contain three things: a record structure, the steno strokes, and the English text. It may also contain a header and so on; Eclipse keeps track of a lot of other information.
 
-In all cases the magic number is sixteen bytes:
+# Header
+
+## Magic number
+
+In all cases the magic number, at the start of the file, is these sixteen bytes:
 
     000000 45 63 6c 20 34 2e 30 20 64 69 63 74 2e 0d 0a 1a
 
 which spells "Ecl 4.0 dict." + CR LF ^Z
 
 The CR/LF pair shows this is a DOS-based format. Similarly the ^Z is an MS-DOS convention: if the user attempts to show the file using the "type" command, the display will stop at that character.
+
+## The word at 0x10
+
+I've been working on the assumption that there's no header other than the magic number, because last year Mirabai posted a .dix file with zero entries containing only the magic number. However, that may have been corrupted.
+
+If there wasn't a header, the first record would begin at 0x10. None of my ideas about the beginning of a record look like the word at 0x10.
+
+However, the value of the 4-byte big-endian word at 0x10 increases as the size of the file increases:
+
+* 0xbf (decimal 191) for oneentry
+* 0x56d (decimal 1389) for severalentries
+* 0x27245 for candeo
+* 0xf13d1 for stephen
+* 0xb541d1 for MKK
+
+What can it be? It's not a line count. It isn't a pointer into the file-- even in severalentries it would point beyond the end.
+
+
+
+
+## A record structure
+
+## Steno strokes
+
+Bear in mind 
+
+## The English text 
 
 # Specimen files
 Thanks to Mirabai for providing these. You can find the files at http://chiark.greenend.org.uk/~tthurman/plover/dix/ .
