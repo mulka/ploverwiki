@@ -102,6 +102,7 @@ The following machines have been confirmed by users to work with Plover after ac
 | Das Keyboard 4 Ultimate     | Das Keyboard           | NKRO over USB   | [$169](http://shop.daskeyboard.com/products/das-keyboard-4-ultimate/)
 | Ultimate Hacking Keyboard   | Ultimate Gadget Labs   | NKRO over USB   | [$250](https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard)
 | Vengeance K65               | Corsair                | NKRO over USB   | [$90](http://www.corsair.com/en/gaming-peripherals/gaming-keyboards/vengeance-k65-compact-mechanical-gaming-keyboard.html)
+| I-500 Victop (compact: 87 keys)     | Eastern times tech | NKRO over USB   | [27 GBP](https://www.amazon.co.uk/Water-Resistant-VicTop-Mechanical-Waterproof-Anti-ghosting/dp/B01DBYNVSY/)
 | ZM-K600S                    | Zalman                 | NKRO over USB   | [$40](http://www.amazon.com/Zalman-Unlimited-Multi-Key-keyboard-ZM-K600S/dp/B0196J3IPE)
 
 ### Which type of key switch should I choose?
