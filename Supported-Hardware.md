@@ -93,7 +93,7 @@ The following machines have been confirmed by users to work with Plover after ac
 | --------------------------- | ---------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Apex m-800                  | SteelSeries            | NKRO over USB   | [$199](https://steelseries.com/gaming-keyboards/apex-m800)
 | CM Storm Quickfire TK       | Cooler Master          | NKRO over USB   | [$85](http://www.amazon.com/CM-Storm-QuickFire-TK-Mechanical/dp/B00A378L4C/)
-| Francium Pro                  | Deck            | NKRO over USB when in "lightning" NKRO mode (Fn+F10); works on Windows and Linux but NKRO said not to work on Macs  | [$94](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=690)
+| Francium Pro                  | Deck            | NKRO over USB when in "lightning" mode (Fn + F10). Full NKRO works on Windows and Linux, but is rumored NOT to work on Macs (you'd be stuck with 6KRO).  | [$94](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=690)
 | Noppoo Choc                 | Noppoo                 | NKRO over USB   | [$95](http://www.amazon.com/Noppoo-84-Technology-Mechanical-Keyboard/dp/B0091Q34EI/ref=sr_1_1?s=pc&ie=UTF8&qid=1458020924&sr=1-1-spons&keywords=noppoo+choc+mini&psc=1)
 | Ergo Pro                    | Matias                 | NKRO over USB   | [$200](http://matias.ca/ergopro/pc/)
 | Ergodox                     | Ergodox                | NKRO over USB   | [$295](https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard)
