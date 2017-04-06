@@ -17,7 +17,7 @@ Plover open source stenography software:
 - [What hardware is needed to use Plover?](#what-hardware-is-needed-to-use-plover)
 - [What can Plover do right now?](#what-can-plover-do-right-now)
 - [What Plover cannot do right now](#what-plover-cannot-do-right-now)
-- [Non-English languages] (#non-english-languages)
+- [Non-English languages](#non-english-languages)
 - [Is an NKRO keyboard as fast as a steno machine?](#is-an-nkro-keyboard-as-fast-as-a-steno-machine)
 - [How many people currently use Plover?](#how-many-people-currently-use-plover)
 - [Who's responsible for Plover's development?](#whos-responsible-for-plovers-development)
