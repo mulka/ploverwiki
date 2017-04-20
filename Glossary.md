@@ -16,6 +16,7 @@ This glossary will help you with terms that you may come across in the steno com
 - [Steno Theory](#steno-theory)
 - [Untranslate](#untranslate)
 - [Word Boundary](#word-boundary)
+- [Write Out](#write-out)
 - [Writing](#writing)
 
 ### Brief
@@ -120,6 +121,10 @@ Examples (Plover):
 * "in here"; **`TPH`**/`HAOER` vs "insect"; **`EUPB`**/`SEBGT`
 * "on top of"; **`OPB`**/`TOP`/`-F` vs "onto"; **`AUPN`**/`TO`
 * "it is a live (wire)"; `T`/`S`/**`AEU`**/`HREUF` vs "it is alive"; `T`/`S`/**`A`**/`HRAOEUF`
+
+### Write Out
+
+The opposite of a [brief](#brief) is writing out the word according to your theory. In Plover, this would refer to the fact that you are sounding a word out, rather than using its brief. E.g. writing out `O/PEUPB/KWROPB` instead of using the brief `P-PB` for the word "opinion".
 
 ### Writing
 
