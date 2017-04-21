@@ -39,36 +39,36 @@ You can control some aspects of Plover with strokes. Strokes provided in the inc
 
 - Add Translation `{PLOVER:ADD_TRANSLATION}`
 
-   Opens a translation window where you can enter a stroke and translation text to create a new dictionary entry. Default stroke: `TKUPT` (think DUPT for "Dictionary UPdaTe")
+   Opens a translation window where you can enter a stroke and translation text to create a new dictionary entry. **Default stroke:** `TKUPT` (think DUPT for "Dictionary UPdaTe")
 
 - Look Up Stroke `{PLOVER:LOOKUP}`
 
-    Open a search dialog that you write a translation into to get a list of entries in your dictionaries. Suggested stroke: `PHR*UP`
+    Open a search dialog that you write a translation into to get a list of entries in your dictionaries. **Suggested stroke:** `PHR*UP`
 
 - Disable Output `{PLOVER:SUSPEND}`
 
-    Stop translating steno. With a keyboard machine, you will be able to type normally again. Default stroke: `PHRO*F` (think PLOF for "PLover OFf")
+    Stop translating steno. With a keyboard machine, you will be able to type normally again. **Default stroke:** `PHRO*F` (think PLOF for "PLover OFf")
 
 - Enable Output `{PLOVER:RESUME}`
 
     Re-enable Plover's output. You can write this stroke to switch back from your keyboard into steno mode.
-Default stroke: `PHROPB` (think PLON for "PLover ON")
+**Default stroke:** `PHROPB` (think PLON for "PLover ON")
 
 - Toggle Output `{PLOVER:TOGGLE}`
 
-    Toggle between output being enabled and disabled. Default stroke: `PHROLG` (think PLOLG, for PLOver toGGLe)
+    Toggle between output being enabled and disabled. **Default stroke:** `PHROLG` (think PLOLG, for PLOver toGGLe)
 
 - Configure `{PLOVER:CONFIGURE}`
 
-    Open and focus the Plover configuration window.
+    Open and focus the Plover configuration window. **Suggested stroke**: `PHROFG` (think PLOFG, for PLOver conFiG)
 
 - Focus `{PLOVER:FOCUS}`
 
-    Open and focus the main Plover window.
+    Open and focus the main Plover window. **Suggested Stroke:** `PHROFBGS` (think PLOFKS, for PLOver focus)
 
 - Quit `{PLOVER:QUIT}`
 
-    Quit Plover entirely.
+    Quit Plover entirely. **Suggested stroke:** `PHROBGT` (think PLOKT, for PLOver **qu**i**t**)
 
 ## Sending Symbols
 
@@ -107,11 +107,18 @@ The next word will have a capitalized first letter. In the default dictionary, w
 
 Capitalize next word can also be used in name titles, like `Ms. {-|}`.
 
+**Default strokes:**
+
+- `KPA`: `{-|}` (think "cap")
+- `KPA*`: `{^}{-|}` (also suppresses space)
+
 #### Capitalize Last Word
 
 - `{*-|}`
 
 The last stroke word will have a capitalized first letter. This is useful in case you realize that a word should be capitalized after you've written it. It can also be used in a stroke, like in `{*-|}{^ville}`, which would capitalize the last word and attach to it, which would be useful for town names on the fly, like `Catville`.
+
+**Suggested stroke:** `KA*PD`
 
 ### Carrying Capitalization
 
@@ -133,17 +140,23 @@ In English, we have punctuation that doesn't get capitalized, but instead the ne
 
 See [Output Modes](#output-modes) for CAPS mode, which acts like CAPS lock on a regular keyboard. Alternatively, you can use a [Command](#commands-and-keyboard-shortcuts) set to `{#Caps_Lock}` to activate the system CAPS lock like you can on your keyboard.
 
+**Suggested stroke:** `"KA*PS": "{MODE:CAPS}"`
+
 #### Uppercase Next Word
 
 - `{<}`
 
 Output next stroke in capital letters, e.g. `{<}cat` → `CAT`
 
+**Suggested stroke:** `KPA*L` (cap all)
+
 #### Uppercase Last Word
 
 - `{*<}`
 
 Rewrite last word in capital letters, e.g. `cat{*<}` → `CAT`
+
+**Suggested stroke:** `*UPD`
 
 ### Lowercasing
 
@@ -153,11 +166,15 @@ Rewrite last word in capital letters, e.g. `cat{*<}` → `CAT`
 
 Forces the next letter to be lowercase, e.g. `{>}Plover` → `plover`
 
+**Suggested stroke:** `HRO*ER` (lower)
+
 #### Lowercase Last Word
 
 - `{*>}`
 
 Rewrite the last word to start with a lowercase letter, e.g. `Plover{*<}` → `plover`
+
+**Suggested stroke:** `HRO*ERD` (lowered)
 
 ## Undoable Line Breaks and Tabs
 
@@ -180,11 +197,15 @@ Instead, we must use special characters that can be undone by Plover for new par
 
     A stroke mapping to this command will send the last stroke entered. A common stroke to map to repeat-last is the bare number bar; `"#": "{*+}"`; causing `KAT/#/#` to behave like `KAT/KAT/KAT`. Repeat last stroke is very useful for keys that you repeat, like when moving around text in a document.
 
+**Suggested stroke:** `#`
+
 ### Toggle asterisk
 
 - `{*}`
 
     A stroke mapping to this command will toggle the asterisk key on the last stroke entered. For example if you had this stroke in your dictionary as Number Bar + Asterisk, `"#*": "{*}"`, when you write `KAT/#*` it will behave as if you wrote `KA*T`. Toggle asterisk is useful for when you notice that you should've included an asterisk in your last stroke. For example you wanted to write the name "Mark" but you wrote "mark" the noun/verb. At this point you can use Toggle asterisk to correct it instead of having to erase the word and re-stroke including the asterisk.
+
+**Suggested stroke:** `#*`
 
 ### Retrospectively Add Space
 
@@ -192,11 +213,15 @@ Instead, we must use special characters that can be undone by Plover for new par
 
     A stroke mapping to this command will add a space between your last stroke and the one before that, splitting apart the two strokes. For example, if your dictionary contained `PER` as "Perfect", `SWAEUGS` as "Situation" and `PER/SWAEUGS` as "Persuasion". If you meant to write "Perfect situation" but saw your output was "Persuasion", you could force these two strokes to be split apart by using this stroke. Therefore your output would be changed from "Persuasion" to "Perfect situation".
 
+**Suggested stroke:** `AFPS` (add space)
+
 ### Retrospectively Delete Space
 
 - `{*!}`
 
     A stroke mapping to this command will delete the space between your last stroke and the one before that. If you wrote "Basket ball" but wanted it to be "Basketball", you could force these strokes together by using this stroke. Plover will go back and remove the space before your last stroke; therefore your output would become "Basketball".
+
+**Suggested stroke:** `TK-FPS` (**d**elete space)
 
 ## Keyboard Shortcuts
 
