@@ -176,6 +176,14 @@ Rewrite the last word to start with a lowercase letter, e.g. `Plover{*<}` → `p
 
 **Suggested stroke:** `HRO*ERD` (lowered)
 
+### Canceling formatting of next word
+
+In order to cancel formatting of the next word use empty definition.
+
+- `{}`
+
+Using `{}` in front of a arrow key commands, as in `{}{#Left}`, is useful if the arrow key commands are used to move cursor to edit text. Canceling formatting actions for cursor movement prevents Plover for instance capitalizing words in middle of a sentence if cursor is moved back when the last stroke, such as `{.}`, includes action to capitalize next word.
+
 ## Undoable Line Breaks and Tabs
 
 When you use [commands and keyboard shortcuts](#commands-and-keyboard-shortcuts), the asterisk/undo command on Plover will not have any effect. This is a limitation imposed by the fact that most commands will not have a meaningful undo: for example, you wouldn't "undo" a "copy" command. For this reason, `{#return}` and `{#tab}` don't work how many users would expect.
