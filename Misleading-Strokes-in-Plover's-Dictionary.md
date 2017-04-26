@@ -8,7 +8,7 @@ The recommended stroke for "and" is `SKP` which is arbitrarily chosen as it is c
 
 In Plover's theory, it is recommended to use `KAUPB` to start words beginning with con, and `KOPB` should only be used for the word "con". However, when you look up a con word in Plover, it will only return misstrokes that contain the `KOPB` stroke because the prefix doesn't require a dictionary entry.
 
-For example, use `KAUPB/TAEUPB`, not `KOPB/TAEUPB`.
+For example, use `KAUPB/KER`, not `KOPB/KER` for conquer.
 
 Other words are not easy to write phonetically because they are to be briefed, such as `T-PB → continue`.
 
