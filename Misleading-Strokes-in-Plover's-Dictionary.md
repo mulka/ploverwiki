@@ -2,7 +2,7 @@ There are some misstroke entries in the Plover dictionary that are very nice (an
 
 ### And
 
-The recommended stroke for "and" is `SKP` which is arbitrarily chosen as it is comfortable and there is little chance of a word boundary issue. There are some other strokes in the dictionary but they are only to serve as a phonetic alternative under pressure, as "and" is a common word ender.
+The recommended stroke for "and" is `SKP` which is arbitrarily chosen as it is comfortable and there is little chance of a word boundary issue. There are some other strokes in the dictionary but they are only to serve as a phonetic alternative under pressure, as "and" is a common word ending.
 
 ### Hyphen (-)
 
