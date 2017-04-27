@@ -368,7 +368,7 @@ The left-hand `K-` only, useful for phrases. `K-B` (can be).
 
 ### 88. first
 
-`TPEUFRT`. In this word, the -F and -R have been reserved, and -F is used as S.
+`TPEUFRT`. In this word, the -F and -R have been reversed, and -F is used as S.
 
 ### 89. well
 
