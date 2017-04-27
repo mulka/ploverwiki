@@ -17,7 +17,7 @@ The most common word in the English language is reserved to just one key, right-
 
 ### 2. be
 
-Right-hand `-B`. The "B" key in Plover just happens to be the "be" key. How convenient! Writing out "be" phonetically like `PWE` is the word part "be^", like in "beware" or "belated".
+Right-hand `-B`. The "B" key in Plover just happens to be the "be" key. How convenient! Writing out "be" like `PWE` is the word part "be^", like in "beware" or "belated". And the phonetic `PWAOE` is "bee"!
 
 ### 3. to
 
