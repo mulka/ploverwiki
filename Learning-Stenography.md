@@ -33,6 +33,10 @@ These sites aim to teach you steno, from the layout to the terminology to the st
 
     A lovely visual approach to learning the keyboard and basic chords, using a standard QWERTY keyboard, by JR, Jay Liu, and Myrntillae Nash.
 
+- [Top 100 Words in Plover's Dictionary](https://github.com/openstenoproject/plover/wiki/Top-100-English-Words-in-Plover's-Dictionary)
+
+    Just a small tutorial covering the top 100 English words according to Wikipedia. Many of them are briefs and this text gives some insight as to why these strokes are the way they are.
+
 ## Dictation
 
 If you want to eventually caption speakers, you will need to be able to take dictation.
