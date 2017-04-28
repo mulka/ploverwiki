@@ -42,7 +42,7 @@ Right-hand `-F`. Simple one key stroke, and frees up `OF` to be used for "off".
 
 ### 8. that
 
-`THA`. We drop the ending T to bring this stroke into the left hand for use at the beginning of phrases. Examples: `THAR` for "that are", `THAT` for "that the".
+`THA`. We drop the ending T to bring this stroke into the left hand for use at the beginning of phrases. Examples: `THAR` for "that are", `THAS` for "that is".
 
 ### 9. have
 
@@ -140,7 +140,7 @@ Advanced: Also present as a right-hand only shortcut as `-BZ`, such as `THEBZ` f
 
 ### 31. or
 
-`OR`. The phonetic version is given instead to "ore" (`OER`).
+`OR`. The phonetic version is given instead to "other" (`OER`).
 
 ### 32. an
 
