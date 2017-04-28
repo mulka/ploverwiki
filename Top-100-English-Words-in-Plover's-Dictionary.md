@@ -168,7 +168,7 @@ Advanced: Also present as a right-hand only shortcut as `-BZ`, such as `THEBZ` f
 
 ### 38. there
 
-`THR-`. This brief is used to avoid conflict with `THER` for "they're".
+`THR-`. This brief is used to avoid conflict with `THER` for "they're" and `THAEUR` for "their".
 
 ### 39. their
 
