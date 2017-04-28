@@ -1,6 +1,6 @@
 # Top 100 Words in Plover's Dictionary
 
-What they are and why they are like that
+What they are and why they are like that.
 
 ## Introduction
 
@@ -60,7 +60,7 @@ Left-hand `T-`, easy to hit and on the left hand for beginning phrases such as `
 
 ### 12. for
 
-`TP-R` (F-R). Drops the vowel to save effort for such a common word.
+`TP-R` (F-R). Drops the vowel to save effort for such a common word. If you want to use "for^" the prefix, then use `FAUR`. For example, forgone is `FAUR/TKPWOPB`.
 
 ### 13. not
 
