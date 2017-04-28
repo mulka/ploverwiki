@@ -148,7 +148,7 @@ Advanced: Also present as a right-hand only shortcut as `-BZ`, such as `THEBZ` f
 
 ### 33. will
 
-`HR-`, left-hand L. Useful for phrases, such as `HR-B` for "will be" and `HRU` for "will be".
+`HR-`, left-hand L. Useful for phrases, such as `HR-B` for "will be" and `HRU` for "will you".
 
 ### 34. my
 
