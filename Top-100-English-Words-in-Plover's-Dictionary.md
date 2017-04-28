@@ -416,4 +416,4 @@ The left-hand `K-` only, useful for phrases. `K-B` (can be).
 
 ### 100. us
 
-`US` (spelling)
+`US`
