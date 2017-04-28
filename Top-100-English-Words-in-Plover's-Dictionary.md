@@ -344,7 +344,7 @@ The left-hand `K-` only, useful for phrases. `K-B` (can be).
 
 ### 82. after
 
-`AFT`. To use as a prefix, use `AFR`, such as `AFR/TAEUFT` for "aftertaste".
+`AF`. `AFT` is a misstroke entry which you could consider remapping to "aft" or "after the". To use as a prefix, use `AFR`, such as `AFR/TAEUFT` for "aftertaste".
 
 ### 83. use
 
