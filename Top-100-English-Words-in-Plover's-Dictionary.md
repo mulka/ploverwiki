@@ -114,7 +114,7 @@ Also works in phrases: `TH-FS` for "this was"
 
 ### 25. from
 
-`TPR-` (`F-R`). Similar to "for" (`TP-R`), but instead of dropping just the vowel, we drop the ending -M sound as well. This opens up "from" to phrases, like in `TPRUS` for "from us" and `TPR-T` for "from the" and `TPREUPHT` for "from time to time".
+`TPR-` (`FR-`). Similar to "for" (`TP-R`), but instead of dropping just the vowel, we drop the ending -M sound as well. This opens up "from" to phrases, like in `TPRUS` for "from us" and `TPR-T` for "from the" and `TPREUPLT` for "from time to time".
 
 ### 26. they
 
@@ -368,7 +368,7 @@ The left-hand `K-` only, useful for phrases. `K-B` (can be).
 
 ### 88. first
 
-`TPEUFRT`. In this word, the -F and -R have been reversed, and -F is used as S.
+`TPEURS`. This brief drops the "t" sound for comfort.
 
 ### 89. well
 
