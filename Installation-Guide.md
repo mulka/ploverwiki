@@ -54,58 +54,31 @@ Plover is set up! You can run Plover like you would any other application.
 
 ### Install Plover on Linux
 
-Plover can be downloaded in .deb, .egg, tar.gz, and .whl (wheel) Linux formats. You can also install Plover using an AUR package.
-
 --------------------
 
 #### Install Plover on Arch Linux distribution
 
-Use AUR package [plover](https://aur.archlinux.org/packages/plover/) for stabled and [plover-git](https://aur.archlinux.org/packages/plover-git/) for the current `master`.
+Two AUR packages are provided:
+1. [plover](https://aur.archlinux.org/packages/plover/) for the latest stable release
+2. and [plover-git](https://aur.archlinux.org/packages/plover-git/) for the current `master`
 
 --------------------
 
 #### Install Plover on Ubuntu Linux distribution
 
-Plover is available as a PPA on Launchpad. See [ppa:benoit.pierre/plover](https://launchpad.net/~benoit.pierre/+archive/ubuntu/plover)
+Stable releases can be installed from a dedicated PPA, see [ppa:benoit.pierre/plover](https://launchpad.net/~benoit.pierre/+archive/ubuntu/plover) for instructions.
+
+For weeklies, follow the directions for installing Plover on other Linux distributions.
 
 --------------------
 
 #### Install Plover on other Linux distributions
 
-##### Prerequisites
-Before you start, you must have installed Python 2 (with pip support), wxPython, and wmctrl (optional). 
+An [AppImage](http://appimage.org/) is provided: it includes all the necessary dependencies and should run on most x86 64-bits distributions. To use it:
 
-For example:
-
-`sudo apt-get install wmctrl`
-
-`sudo apt-get install python-dev  # for python2.x installs`
-
-You may also need to install the latest version of the Python setuptools wheel file ([download](https://pypi.python.org/packages/69/19/b1dff551058ce79d88b1e3688f1c735590d7ddf44d10681512133b35019f/setuptools-32.3.1-py2.py3-none-any.whl#md5=9fe4e32f20a9b13c206c1bdc4c9feaf4)).
-For example:
-
-`pip install --user Downloads/setuptools-32.3.1-py2.py3-none-any.whl`
-
-##### Installation
-
-We recommend you install the .whl format. 
-
-To install:
-
-1. Download the wheel file for the version you want to run. 
-1. Install it using this command:
-
-`python2 -m pip install --user plover-3.0.0-py2-none-any.whl`
-
-> **Note**: Replace `plover-3.0.0-py2-none-any.whl` with the filename for the current downloadable whl file on the [release page](https://github.com/openstenoproject/plover/releases). 
-
---------------------
-
-#### Opening Plover in Linux
-
-You can then start Plover with:
-
-`~/.local/bin/plover`
+- download it
+- [make it executable](https://askubuntu.com/a/835051)
+- launch it like a standard executable
 
 --------------------
 
