@@ -77,7 +77,7 @@ For weeklies, follow the directions for installing Plover on other Linux distrib
 An [AppImage](http://appimage.org/) is provided: it includes all the necessary dependencies and should run on most x86 64-bits distributions. To use it:
 
 - download it
-- [make it executable](https://askubuntu.com/a/835051)
+- [make it executable](http://discourse.appimage.org/t/how-to-make-an-appimage-executable/80)
 - launch it like a standard executable
 
 --------------------
