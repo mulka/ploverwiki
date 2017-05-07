@@ -12,7 +12,7 @@ Various steno enthusiasts are making and selling machines designed for use with 
 
 The following machines have been confirmed by users to work with Plover after actually trying it:
 
-| Product Name                       | Manufacturer       | Comments                |
+| Product Name                       | Manufacturer       | About                   |
 | ---------------------------------- | ------------------ | ----------------------- |
 | [Stenomod](https://stenomod.blogspot.com) | Charley Shattuck | Open source hardware. This has light keys and a split design. See Ted Morin's [review of the StenoMod](http://www.teds.space/2016/10/stenomod-affordable-steno-machine.html). The name is supposed to hint at how the machine is "modular" and adaptable. It is very barebones so it is easy to take apart and customize. <br /> ![Stenomod](https://2.bp.blogspot.com/-n7j50BDdjAg/WJECk94jwCI/AAAAAAAAAI4/2E-G1dgflccCltPFN9FEPI4QtMW62ttCQCK4B/s400/20170131_131923.jpg) |
 | [SOFT/HRUF](https://softhruf.love) | Scott Urueta       | Open source hardware. This has the shape of a stenography machine, but is built using computer keys rather than levers. The name is the steno representation for, and is pronounced as, "soft love". <br /> ![SOFT/HRUF](http://i.imgur.com/zbbjfSG.jpg) |
