@@ -123,12 +123,16 @@ You can also use a keyboard with an ortholinear layout.
 ### Keytoppers
 
 Laser-cut keytoppers are in the shape of the keys on a steno machine, and stick them on top of the relevant keys on the keyboard. You can buy laser-cut keytoppers from the [Plover Store](http://plover.deco-craft.com/). You can also make your own keytoppers out of plastic or even coins.
+
+![Laser-cut keytoppers sitting in a pile](http://i.imgur.com/cjWDy2J.jpg)
  
 ### Keycaps
 
 If you have a mechanical keyboard, it is likely your keys have a [Cherry MX stem](https://deskthority.net/wiki/Cherry_MX) and will work with custom keycaps. You can replace the existing keycaps on your keyboard with different keycaps, to improve the layout for stenoing.
 
 - [StenoToppers](https://cemrajc.github.io/stenotoppers/) is a 3D printed keycap set designed by Jason Cemra. It aligns the rows, raises the keys, and reduces the keycap tapering, slant and gap. A pre-release version of the the 3d model (.stl) files is available on Github. If you have access to a 3D printer, you can download .stl files and print them for a negligible cost. Otherwise, you would need to use a 3D printing service.
+    
+    ![StenoToppers](http://i.imgur.com/1vmaAZz.png)
 - The [G20 keycap set](http://pimpmykeyboard.com/g20-blank-keycap-sets/) from Signature Plastics is a great set for steno, and will fit on an ErgoDox or other mechanical keyboard. The keys have a direction, so for optimal comfort, you should angle the top row of steno (`STPH...`) down, so that they are close to the bottom row (`SKWR...`)
 - You can 3D-print a [steno-friendly keycap](https://github.com/morinted/stenomod_case).
 
@@ -154,7 +158,7 @@ The following machines have been confirmed by users to work with Plover after ac
 
 | Product Name                       | Manufacturer       | Protocol/Connection | Comments                |
 | ---------------------------------- | ------------------ | ------------------- | ----------------------- |
-| [SOFT/HRUF](https://softhruf.love) | Scott Urueta       | TX Bolt (serial)    | Open source hardware. This has the shape of a stenography machine, but is built using computer keys rather than levers. The name is the steno representation for, and is pronounced as, "soft love".  |
+| [SOFT/HRUF](https://softhruf.love) | Scott Urueta       | TX Bolt (serial)    | Open source hardware. This has the shape of a stenography machine, but is built using computer keys rather than levers. The name is the steno representation for, and is pronounced as, "soft love". ![SOFT/HRUF](http://i.imgur.com/zbbjfSG.jpg) |
 | [Stenoboard](http://utopen.com)    | Utopen (Emanuele Caruso) | NKRO/TX Bolt/Gemini PR | Open source hardware. The first open source steno machine on the market, released in 2014. The Stenoboard's keys actuate like mouse-clicks instead of a keyboard or lever-machine. |
-| [Stenomod](https://stenomod.blogspot.com) | Charley Shattuck | TX Bolt        | Open source hardware. This has light keys and a split design. See Ted Morin's [review of the StenoMod](http://www.teds.space/2016/10/stenomod-affordable-steno-machine.html). The name is supposed to hint at how the machine is "modular" and adaptable. It is very barebones so it is easy to take apart and customize. |
+| [Stenomod](https://stenomod.blogspot.com) | Charley Shattuck | TX Bolt        | Open source hardware. This has light keys and a split design. See Ted Morin's [review of the StenoMod](http://www.teds.space/2016/10/stenomod-affordable-steno-machine.html). The name is supposed to hint at how the machine is "modular" and adaptable. It is very barebones so it is easy to take apart and customize. ![Stenomod](https://2.bp.blogspot.com/-n7j50BDdjAg/WJECk94jwCI/AAAAAAAAAI4/2E-G1dgflccCltPFN9FEPI4QtMW62ttCQCK4B/s400/20170131_131923.jpg) |
 
