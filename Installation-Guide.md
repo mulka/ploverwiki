@@ -50,6 +50,8 @@ If you have [Homebrew Cask](https://caskroom.github.io/) installed on your syste
 
 Plover is set up! You can run Plover like you would any other application.
 
+> **Note**: Other "keyboard helper"-type applications (e.g. Karabiner Elements and text expanders) may interfere with Plover.
+
 --------------------
 
 ### Install Plover on Linux
