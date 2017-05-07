@@ -1,38 +1,26 @@
-This guide explains how to get started with Plover. Plover is free-of-charge stenography software, and the learning resources listed below are also available free-of-charge.
+This guide explains how to **get started with Plover**. Plover is free stenography software. All the learning resources listed below are free-of-charge.
 
 ## Overview
 
 The main steps are:
 
 1. [Install Plover software.](#install-plover)
-1. [Connect a compatible keyboard or stenography (steno) machine, or use your standard keyboard.](#connect-a-compatible-keyboard-or-stenography-machine)
+1. [Connect a compatible keyboard or stenography (steno) machine.](#connect-a-compatible-keyboard-or-stenography-machine)
 1. [Confirm it's working.](#confirm-its-working)
 1. [Practice and learn stenography using Plover.](#practice-and-learn)
 
 ## Install Plover
 
-There are versions of Plover for Windows, Mac, and Linux. 
+Plover works on **Windows, Mac, and Linux**. 
 
 * Download and install the [latest release](https://github.com/openstenoproject/plover/releases/latest). 
 * See the [installation guide](https://github.com/openstenoproject/plover/wiki/Installation-Guide#installation) for more information.
-
-### Configuring Plover on macOS
-
-> **Note**: Plover 3.1.0 only supports macOS 10.10+. Plover 3.0.0 only supports macOS 10.9+. Older versions must use Plover 2.5.8
-
-On macOS, you need to enable [Assistive Device Permissions](https://support.apple.com/en-ca/HT202866) after you have installed Plover, and following any Plover software updates. 
-
-1. Select `System Preferences > Security & Privacy > Privacy > Accessibility`.
-1. Click the lock icon in the lower left corner of the window, and enter an admin account and password when prompted.
-1. In the list of apps, select the checkbox next to Plover. 
-
-> **Note**: Other "keyboard helper"-type applications (e.g. Karabiner Elements and text expanders) may interfere with Plover.
 
 ## Connect a compatible keyboard or stenography machine
 
 ### Use a standard QWERTY keyboard
 
-You can use Plover with a standard keyboard, but there are some important limitations. Stenography often requires you to press five or six keys at once, and sometimes as many as 16. Unfortunately, most keyboards only recognize up to six keys at once. When you need to press more than six keys at once, you have to use a technique called "arpeggiating". See ["How it Works" for more information on arpeggiating](http://qwertysteno.com/Basics/HowItWorks.php) .
+You can use Plover with a **standard keyboard**, but there are some **important limitations**. Stenography often requires you to **press 5 or 6 keys at once**, and sometimes as many as 16. Unfortunately, most keyboards **only recognize up to 1-6 keys at once**. When you need to press more than 6 keys at once, you have to use a technique called "arpeggiating". See ["How it Works" for more information on arpeggiating](http://qwertysteno.com/Basics/HowItWorks.php).
 
 > **Note**: To write quickly, you'll need a keyboard with N-key rollover (NKRO), a machine designed for use with Plover, or a professional stenography machine.
 
