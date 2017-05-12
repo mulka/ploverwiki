@@ -33,7 +33,9 @@ Other words are not easy to write phonetically because they are to be briefed. F
 
 The best practice for "-":
 
-* `H-PB`, which is `H-N` for hyphen. ✓ 
+* `H-PB` ✓ 
+
+Why `H-PB`? The reason is that `H-PB` is `H-N` in pseudo-steno, which short for hyphen.
 
 There are a set of misstrokes that use `H-B` instead. These are OK to use.
 
