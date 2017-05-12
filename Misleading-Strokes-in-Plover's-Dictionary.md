@@ -1,15 +1,19 @@
-There are some misstroke entries in the Plover dictionary that are very nice (and short) but may cause issues later on. For example, with word boundaries.
+There are some misstroke entries in the Plover dictionary that are very nice (and short) but may cause issues later on. For example, with word boundaries. The theory used in Plover's dictionary applies some best practices for stroking certain words. 
 
 ### What is a word boundary, and why is it an issue?
 (text)
 
 ### And
 
-The recommended stroke for "and" is `SKP`. This was chosen arbitrarily, because it is comfortable and there is little chance of a word boundary issue. "and" is a common word ending, so stenographers find it easy to remember to stroke `SKP`. 
+The best practice for "and":
+
+* Use `SKP`✓ 
+
+This was chosen arbitrarily, because it is comfortable and there is little chance of a word boundary issue. "and" is a common word ending, so stenographers find it easy to remember to stroke `SKP`. 
 
 There are some other strokes in the dictionary for "and". However, they are only to serve as a phonetic alternative when you are writing under pressure, and you can't remember `SKP`.  
 
-### Con- word
+### Con- words
 
 In Plover's theory, the best practice for con- words is: 
 
@@ -27,13 +31,18 @@ Other words are not easy to write phonetically because they are to be briefed. F
 
 ### Hyphen (-)
 
-Mirabai strokes `H-PB`, which is `H-N` for hyphen. There are a set of misstrokes that use `H-B` instead. These are OK to use.
+The best practice for "-":
+
+* `H-PB`, which is `H-N` for hyphen. 
+
+There are a set of misstrokes that use `H-B` instead. These are OK to use.
 
 ### Was
 
-The best practice for "was" is:
+The best practice for "was":
 
-`WAS` or `WAZ`. 
+* `WAS` or 
+* `WAZ`. 
 
 The default dictionary has `WA → was`, which is most of the time all right. However it can conflict in some cases. For example: `WA/TKPWOPB → wagon (not "was gone")` and `WA/TPHA/SA → wanna sa (not "was NASA")`.
 
