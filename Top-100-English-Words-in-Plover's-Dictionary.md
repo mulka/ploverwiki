@@ -74,9 +74,7 @@ This is the left-hand `V`. The phonetic version of this would be `HA*F` which is
 
 ### 10. I
 
-`EU` 
-
-`I`
+`EU` (`I`)
 
 This is a nonphonetic stroke to give space for "eye". It's easy to hit and fits in some phrases, such as `SKPEU` for "and I". Note that, in some cases, you will use the `AOEU` cluster for I, such as in "I'll" (`AOEUL`) and "I'm" (`AOEUPL`) because the shorter versions are used for other things, in this case "ill" and the word beginning "im^".
 
@@ -188,7 +186,9 @@ Advanced: Also present as a right-hand only shortcut as `-BZ`, such as `THEBZ` f
 
 ### 31. or
 
-`OR`. The phonetic version is given instead to "other" (`OER`).
+`OR`. 
+
+The phonetic version is given instead to "other" (`OER`).
 
 ### 32. an
 
@@ -196,11 +196,15 @@ Advanced: Also present as a right-hand only shortcut as `-BZ`, such as `THEBZ` f
 
 ### 33. will
 
-`HR-`, left-hand L. Useful for phrases, such as `HR-B` for "will be" and `HRU` for "will you".
+`HR-` 
+
+Left-hand L. Useful for phrases, such as `HR-B` for "will be" and `HRU` for "will you".
 
 ### 34. my
 
-`PHEU` or `PHAOEU`. We break phonetic convention to offer an easier to hit stroke.
+`PHEU` or `PHAOEU`. 
+
+We break phonetic convention to offer an easier to hit stroke.
 
 ### 35. one
 
@@ -208,23 +212,33 @@ Advanced: Also present as a right-hand only shortcut as `-BZ`, such as `THEBZ` f
 
 ### 36. all
 
-`AUL` (phonetic). This vowel is common in the Plover dictionary, such as in `WAUL` (wall) and `PWAUL` (ball).
+`AUL` (phonetic). 
+
+This vowel is common in the Plover dictionary, such as in `WAUL` (wall) and `PWAUL` (ball).
 
 ### 37. would
 
-`WO`. Left-hand-only brief is useful for phrases: `WOB` for "would be" and `WOU` for "would you".
+`WO`. 
+
+Left-hand-only brief is useful for phrases: `WOB` for "would be" and `WOU` for "would you".
 
 ### 38. there
 
-`THR-`. This brief is used to avoid conflict with `THER` for "they're" and `THAEUR` for "their".
+`THR-` 
+
+This brief is used to avoid conflict with `THER` for "they're" and `THAEUR` for "their".
 
 ### 39. their
 
-`THAEUR` (phonetic). The homophone "they're" is stroked with `THER` which is the brief `THE` for "they" with `-R` added on.
+`THAEUR` (phonetic). 
+
+The homophone "they're" is stroked with `THER` which is the brief `THE` for "they" with `-R` added on.
 
 ### 40. what
 
-`WHA`. Similar to `THA` for "that", `WHAT` is "what the".
+`WHA`
+
+Similar to `THA` for "that", `WHAT` is "what the".
 
 ### 41. so
 
@@ -232,23 +246,33 @@ Advanced: Also present as a right-hand only shortcut as `-BZ`, such as `THEBZ` f
 
 ### 42. up
 
-`UP`. Use `AUP` for the word beginning "up^" like `AUP/WARDS` for "upwards".
+`UP`
+
+Use `AUP` for the word beginning "up^" like `AUP/WARDS` for "upwards".
 
 ### 43. out
 
-`OUT`. Use `AOUT` for the word beginning "out^" like `AOUT/SPOEBG/*EN` for "outspoken" or `AOUT/RAEUPBLG` for "outrage".
+`OUT` 
+
+Use `AOUT` for the word beginning "out^" like `AOUT/SPOEBG/*EN` for "outspoken" or `AOUT/RAEUPBLG` for "outrage".
 
 ### 44. if
 
-`TP-`. The bare left F is used for "if". Good as a phrase beginner, such as `TP-T` for "if the". Same pattern as "it" and "in".
+`TP-` 
+
+The bare left F is used for "if". Good as a phrase beginner, such as `TP-T` for "if the". Same pattern as "it" and "in".
 
 ### 45. about
 
-`PW-`. The left-hand B is used for "about" as a convenient brief. Some theories do this word differently. One nice benefit of being on the left side is, of course, phrases: `PW-T` for "about the".
+`PW-`
+
+The left-hand B is used for "about" as a convenient brief. Some theories do this word differently. One nice benefit of being on the left side is, of course, phrases: `PW-T` for "about the".
 
 ### 46. who
 
-`WHO` (spelling). We can't use `HAOU` (hue) or `HAO` (hoo).
+`WHO` (spelling). 
+
+We can't use `HAOU` (hue) or `HAO` (hoo).
 
 ### 47. get
 
@@ -264,7 +288,9 @@ Advanced: Also present as a right-hand only shortcut as `-BZ`, such as `THEBZ` f
 
 ### 50. me
 
-`PHE` (spelling), `PHAOE` (phonetic). As with many of these common words, being less strict on the vowel gives your fingers a potential break.
+`PHE` (spelling), `PHAOE` (phonetic). 
+
+As with many of these common words, being less strict on the vowel gives your fingers a potential break.
 
 ### 51. when
 
@@ -288,11 +314,15 @@ The left-hand `K-` only, useful for phrases. `K-B` (can be).
 
 ### 56. no
 
-`TPHO` (spelling). The phonetic version is saved for "know".
+`TPHO` (spelling). 
+
+The phonetic version is saved for "know".
 
 ### 57. just
 
-`SKWRUFT`. Remember that `-F` is sometimes used for S.
+`SKWRUFT` 
+
+Remember that `-F` is sometimes used for S.
 
 ### 58. him
 
@@ -308,11 +338,15 @@ The left-hand `K-` only, useful for phrases. `K-B` (can be).
 
 ### 61. people
 
-`PAOEPL`. In this case `-PL` is used for the "pl" sound instead of `-M`.
+`PAOEPL`
+
+In this case `-PL` is used for the "pl" sound instead of `-M`.
 
 ### 62. into
 
-`TPHAO`. `TPH-` is "in", and `AO` is sometimes used for `oo` which sounds liked the vowel in "into". Can't use `TPHAOU` as it is being used by "knew".
+`TPHAO`
+
+`TPH-` is "in", and `AO` is sometimes used for `oo` which sounds liked the vowel in "into". Can't use `TPHAOU` as it is being used by "knew".
 
 ### 63. year
 
@@ -320,7 +354,9 @@ The left-hand `K-` only, useful for phrases. `K-B` (can be).
 
 ### 64. your
 
-`KWROUR` (spelling). Don't use `KWRUR` as that's the word ending `^ur` like in `KHROES/KWRUR` (closure).
+`KWROUR` (spelling). 
+
+Don't use `KWRUR` as that's the word ending `^ur` like in `KHROES/KWRUR` (closure).
 
 ### 65. good
 
@@ -328,11 +364,15 @@ The left-hand `K-` only, useful for phrases. `K-B` (can be).
 
 ### 66. some
 
-`SOPL`. As a word beginning, `S-` and `SPH-` are used: for example, `SPH-PB` for "someone" and `S-G` for "something".
+`SOPL`
+
+As a word beginning, `S-` and `SPH-` are used: for example, `SPH-PB` for "someone" and `S-G` for "something".
 
 ### 67. could
 
-`KO`. Brief like `WO` for "would".
+`KO`
+
+Brief like `WO` for "would".
 
 ### 68. them
 
@@ -344,7 +384,9 @@ The left-hand `K-` only, useful for phrases. `K-B` (can be).
 
 ### 70. other
 
-`OER`. Shows up as a word part, like in `TPHOER` for "another".
+`OER`
+
+Shows up as a word part, like in `TPHOER` for "another".
 
 ### 71. than
 
@@ -364,7 +406,9 @@ The left-hand `K-` only, useful for phrases. `K-B` (can be).
 
 ### 75. only
 
-`OEPBL`. In Plover's dictionary, `E` is often added to strokes to make them end with an "ee" sound. `OEPBL` can be thought of as "onl/ee". Lots of briefs use this, such as `KRAER` for "contrary" and `TPAEPL` for "family".
+`OEPBL`
+
+In Plover's dictionary, `E` is often added to strokes to make them end with an "ee" sound. `OEPBL` can be thought of as "onl/ee". Lots of briefs use this, such as `KRAER` for "contrary" and `TPAEPL` for "family".
 
 ### 76. come
 
@@ -372,11 +416,15 @@ The left-hand `K-` only, useful for phrases. `K-B` (can be).
 
 ### 77. its
 
-`EUTS`. `T-S` is used for "it's".
+`EUTS`
+
+`T-S` is used for "it's".
 
 ### 78. over
 
-`OEFR`. Emphasizing the tense-O sound to contrast with `OFR` for "offer". To use as a prefix, use `AUFR`, such as `AUFR/TKOPB` for "overdone".
+`OEFR` 
+
+Emphasizing the tense-O sound to contrast with `OFR` for "offer". To use as a prefix, use `AUFR`, such as `AUFR/TKOPB` for "overdone".
 
 ### 79. think
 
@@ -392,7 +440,9 @@ The left-hand `K-` only, useful for phrases. `K-B` (can be).
 
 ### 82. after
 
-`AF`. `AFT` is a misstroke entry which you could consider remapping to "aft" or "after the". To use as a prefix, use `AFR`, such as `AFR/TAEUFT` for "aftertaste".
+`AF`
+
+`AFT` is a misstroke entry which you could consider remapping to "aft" or "after the". To use as a prefix, use `AFR`, such as `AFR/TAEUFT` for "aftertaste".
 
 ### 83. use
 
@@ -416,7 +466,9 @@ The left-hand `K-` only, useful for phrases. `K-B` (can be).
 
 ### 88. first
 
-`TPEURS`. This brief drops the "t" sound for comfort.
+`TPEURS` 
+
+This brief drops the "t" sound for comfort.
 
 ### 89. well
 
@@ -428,11 +480,15 @@ The left-hand `K-` only, useful for phrases. `K-B` (can be).
 
 ### 91. even
 
-`AOEPB` or `AOEFPB`. Dropping the -F makes this stroke easier to hit.
+`AOEPB` or `AOEFPB` 
+
+Dropping the -F makes this stroke easier to hit.
 
 ### 92. new
 
-`TPHU`. Briefed to avoid conflict with `TPHAOEU` for "knew".
+`TPHU`
+
+Briefed to avoid conflict with `TPHAOEU` for "knew".
 
 ### 93. want
 
@@ -448,11 +504,15 @@ The left-hand `K-` only, useful for phrases. `K-B` (can be).
 
 ### 96. these
 
-`THEZ` (brief) or `THAOES`/`THAOEZ` (phonetic). The brief is much easier to hit.
+`THEZ` (brief) or `THAOES`/`THAOEZ` (phonetic). 
+
+The brief is much easier to hit.
 
 ### 97. give
 
-`TKPWEUF`. No need for an asterisk, which is often the case with common words in the Plover dictionary.
+`TKPWEUF`
+
+No need for an asterisk, which is often the case with common words in the Plover dictionary.
 
 ### 98. day
 
@@ -460,7 +520,9 @@ The left-hand `K-` only, useful for phrases. `K-B` (can be).
 
 ### 99. most
 
-`PHOFT`, `PHOEFT`, `PHO*ES`, or `PHO*S`. Go with the option you like most.
+`PHOFT`, `PHOEFT`, `PHO*ES`, or `PHO*S`. 
+
+Go with the option you like most.
 
 ### 100. us
 
