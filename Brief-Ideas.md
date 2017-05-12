@@ -1,4 +1,4 @@
-Learn Plover! is a great introduction to Plover's theory and has everything you need to get started writing in steno. However, there are some patterns across Plover's dictionary which are not documented there. This document aims to show some of the hidden patterns, as well as suggest some others that you can consider incorporating into your personal dictionary.
+Learn Plover! is a great introduction to Plover's theory and has everything you need to get started writing in steno. However, there are some patterns across Plover's dictionary which are not documented there. This document aims to show some of the hidden patterns. It also suggests some others that you can consider using in your personal dictionary.
 
 <img src="http://qwertysteno.com/Images/steno-keyboard1.gif">
 
@@ -19,18 +19,18 @@ This comes from Magnum steno. There are some entries in the default dictionary t
 
 ### `-FRP` for -mp
 
-Usually, Plover theory (and Mirabai) uses `*PL` for the -mp sound in the end of a syllable. It can be difficult to add sounds after it. One can instead use `-FRP` to avoid conflicts and add `-B`, `-L` after -mp.
+Usually, Plover theory (and Mirabai) uses `*PL` for the -mp sound in the end of a syllable. It can be difficult to add sounds after it. Instead, you can use `-FRP` to avoid conflicts and add `-B`, `-L` after -mp.
 
 Common uses of this are to add -mpl or -mbl to the end of a stroke:
 
-* `AFRP` for "amp" and `AFRPL` for "ample", reduces conflicts with "apple" and "am".
+* `AFRP` for "amp" and `AFRPL` for "ample". This reduces conflicts with "apple" and "am".
 * `EUFRP` for "imp"
 
 ### `-FP` and `-AOUFP` for -ture
 
-`-FP` is used for the -ch sound in words like "catch". The default dictionary also includes many briefs where it is used for the -ture suffix, such as in "nature" which can be stroked as `TPHAEUFP` (naich).
+`-FP` is used for the -ch sound in words like "catch". The default dictionary also includes many briefs where it is used for the -ture suffix. for example: "nature", which can be stroked as `TPHAEUFP` (naich).
 
-A note: for some of these words, a tense u sound (`AOUFP`) is used for -ture instead of just the `-FP`
+A note: For some of these words, a tense u sound (`AOUFP`) is used for -ture instead of just the `-FP`:
 
 * `TPHAEUFP` for "nature"
 * `KRAOEFP` for "creature"
@@ -43,17 +43,25 @@ A note: for some of these words, a tense u sound (`AOUFP`) is used for -ture ins
 
 ## Non-Plover Theory Ideas
 
-You need to define new strokes in your dictionary with these ideas.
+You will need to define new strokes in your dictionary with these ideas.
 
 ### `SKP-` for ex-
 
-The default dictionary uses a combination of `KP-` and `S-` to make the leading ex- sound (such as `KPEUT` for "exit" for `SPHRAEUPB` for "explain"). The rules for which one to use [depend on the consonant following the ex-](https://www.dropbox.com/s/fa7fch2eocubrde/Philadelphia%20Clinic.pdf?dl=0). If you don't like this, you can use `SKP-` for a leading ex-:
+The default dictionary uses a combination of `KP-` and `S-` to make the leading ex- sound. For example: `KPEUT` for "exit" for `SPHRAEUPB` for "explain". 
+
+The rules for which one to use [depend on the consonant following the ex-](https://www.dropbox.com/s/fa7fch2eocubrde/Philadelphia%20Clinic.pdf?dl=0). If you don't like this, you can use `SKP-` for a leading ex-:
 
 * `SKPRAGT` for "extract".
 * `SKPERPBL` for "external".
 * `SKPHRAEUPB` for "explain".
 
-Note that the leading `SKP-` is also used for some phrase briefs starting with "and" in the default dictionary, such as `SKPEBG` for "and he can" and `SKPALS` for "and also". If this is a problem for you, you can also try `SK*` instead of `SKP-`.
+Note: The leading `SKP-` is also used for some phrase briefs starting with "and" in the default dictionary. 
+For example:
+
+* `SKPEBG` for "and he can"
+* `SKPALS` for "and also". 
+
+If this is a problem for you, you can also try `SK*` instead of `SKP-`.
 
 ### `KPW-` for im- and em-
 
@@ -63,6 +71,10 @@ Examples:
 
 ### `-FR` for -m
 
-Above it's shown that `-FRP` can be used in the default dictionary for -mp. This idea extends that one by suggesting that you can use `-FR` for -m when `-PL` causes an issue, for example with "camel".
+Above it's shown that `-FRP` can be used in the default dictionary for -mp. This stroke extends that idea:
+ 
+If `-PL` causes an issue (for example: "camel"), use `-FR`.
+
+For example:
 
 * `KAFRL` for "camel"
