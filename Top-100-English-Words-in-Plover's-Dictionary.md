@@ -1,8 +1,10 @@
 # Top 100 Words in Plover's Dictionary
 
-What they are and why they are like that.
+What they are, and why they are stroked like that.
 
 ## Introduction
+
+Fun fact: The top 100 words in the English language make up about 50% of all written material.
 
 When learning steno theory, you might be confused by the fact that many common words are not written out phonetically. There are many reasons that this is the case, but it boils down to:
 
@@ -13,54 +15,82 @@ When learning steno theory, you might be confused by the fact that many common w
 
 ### 1. the
 
-The most common word in the English language is reserved to just one key, right-hand `-T`. The right hand position makes it easy to combo as the second word in many combination phrases, for example `SKP-T` for "and the".
+`-T`
+
+The most common word in the English language is reserved to just one key, right-hand `-T`. The right hand position makes it easy to create two word strokes. For example: `SKP-T` for "and the".
 
 ### 2. be
 
-Right-hand `-B`. The "B" key in Plover just happens to be the "be" key. How convenient! Writing out "be" like `PWE` is the word part "be^", like in "beware" or "belated". And the phonetic `PWAOE` is "bee"!
+`-B`
+
+Right-hand `-B`. The "B" key in Plover just happens to be the "be" key. How convenient! Writing out "be" like `PWE` is the word part "be^". For example: "beware" or "belated". And the phonetic `PWAOE` is "bee"!
 
 ### 3. to
 
-Written out by spelling, `TO`. Easy to hit and free of conflicts. Warning: `O` for "to" in the default dictionary is a misstroke and is not free from word boundaries.
+`TO`
+
+Written out by spelling, `TO`. This is easy to hit and free of conflicts. 
+
+Warning: `O` for "to" in the default dictionary is a misstroke. It is not free from word boundaries.
 
 ### 4. of
 
-Right-hand `-F`. Simple one key stroke, and frees up `OF` to be used for "off".
+`-F`
+
+Right-hand `-F`. This is a simple one key stroke, and it frees up `OF` to be used for "off".
 
 ### 5. and
 
-`SKP-`. An easy to hit stroke with only the left hand, making it a good candidate for starting phrases, like `SKPU` for "and you".
+`SKP-`
+
+`SKP-`. This is ann easy to hit stroke with only the left hand. This makes it a good candidate for starting phrases, like `SKPU` for "and you".
 
 ### 6. a
 
-`AEU`. Rather than just `A`, which is used as a prefix for words like "affix" or "arrive". The tense A sound is used to avoid conflicts. In some theories, these strokes are mixed, and you could likely safely swap them if you wanted.
+`AEU` 
+
+`A` is used as a prefix for words like "affix" or "arrive". The tense A sound is used to avoid conflicts. In some theories, these strokes are mixed, and you could swap them safely, if you wanted.
 
 ### 7. in
 
-`TPH` is just the left-hand `N`. This combination frees up `EUPB` to be used for the "in^" prefix like in 
+`TPH`
+
+`TPH` is just the left-hand `N`. This combination frees up `EUPB` to be used for the "in^" prefix, like in 
 "indoors". Also good for phrases, such as `TPH-T` for "in the".
 
 ### 8. that
 
-`THA`. We drop the ending T to bring this stroke into the left hand for use at the beginning of phrases. Examples: `THAR` for "that are", `THAS` for "that is".
+`THA` 
+
+We drop the ending T to bring this stroke into the left hand for use at the beginning of phrases. Examples: `THAR` for "that are", `THAS` for "that is".
 
 ### 9. have
 
-`SR-`; left-hand `V`. The phonetic version of this would be `HA*F` which is much harder to stroke for such a common word, and the left-hand makes right-hand phrase parts feel more natural, like `SR-T` for "have the".
+`SR-`
+
+This is the left-hand `V`. The phonetic version of this would be `HA*F` which is much harder to stroke for such a common word, and the left-hand makes right-hand phrase parts feel more natural, like `SR-T` for "have the".
 
 `HAF` and `HA*F` get mapped to "half" and "1/2" in the default dictionary, respectively.
 
 ### 10. I
 
-`EU`; the `I` chord. This is a nonphonetic stroke to give space for "eye". It's easy to hit and fits in some phrases, such as `SKPEU` for "and I". Note that, in some cases, you will use the `AOEU` cluster for I, such as in "I'll" (`AOEUL`) and "I'm" (`AOEUPL`) because the shorter versions are used for other things, in this case "ill" and the word beginning "im^".
+`EU` 
+
+`I`
+
+This is a nonphonetic stroke to give space for "eye". It's easy to hit and fits in some phrases, such as `SKPEU` for "and I". Note that, in some cases, you will use the `AOEU` cluster for I, such as in "I'll" (`AOEUL`) and "I'm" (`AOEUPL`) because the shorter versions are used for other things, in this case "ill" and the word beginning "im^".
 
 ### 11. it
 
-Left-hand `T-`, easy to hit and on the left hand for beginning phrases such as `TWAS` for "it was". Same pattern as for "in" and "if".
+`T-` 
+
+This is easy to hit and on the left hand for beginning phrases such as `TWAS` for "it was". Same pattern as for "in" and "if".
 
 ### 12. for
 
-`TP-R` (F-R). Drops the vowel to save effort for such a common word. If you want to use "for^" the prefix, then use `FAUR`. For example, forgone is `FAUR/TKPWOPB`.
+`TP-R` (F-R). 
+
+This drops the vowel to save effort for such a common word. If you want to use "for^" the prefix, then use `FAUR`. For example, forgone is `FAUR/TKPWOPB`.
 
 ### 13. not
 
@@ -72,23 +102,31 @@ Left-hand `T-`, easy to hit and on the left hand for beginning phrases such as `
 
 ### 15. with
 
-`W-`. Another easy to use single key stroke that can begin phrases like `WOUR` for "with our" and `W-T` for "with the".
+`W-`
+
+This is another easy to use single key stroke that can begin phrases like `WOUR` for "with our" and `W-T` for "with the".
 
 ### 16. he
 
-`HE`, stroke given by spelling. Recommended over the `E`-only version for most cases, but depending on the phrase or word you might need `E` (`SKPE`: and he), `HE` (`HEBGD`: he could), and `HAOE` (`HAO*EL`: he'll)
+`HE` 
+
+Th is recommended over the `E`-only version for most cases, but depending on the phrase or word you might need `E` (`SKPE`: and he), `HE` (`HEBGD`: he could), and `HAOE` (`HAO*EL`: he'll)
 
 ### 17. as
 
-`AS` (spelling) or `AZ` (phonetic)
+`AS` (spelling) or `AZ` (phonetic).
 
 ### 18. you
 
-`U`. The `U` key is used for "you". Can be used in phrases such as `SKPU` for "and you".
+`U`
+
+The `U` key is used for "you". Can be used in phrases such as `SKPU` for "and you".
 
 ### 19. do
 
-`TKO` (spelling). Don't drop the vowel, because `TK-` alone is used for "did".
+`TKO` (spelling). 
+
+Don't drop the vowel, because `TK-` alone is used for "did".
 
 ### 20. at
 
@@ -96,13 +134,17 @@ Left-hand `T-`, easy to hit and on the left hand for beginning phrases such as `
 
 ### 21. this
 
-`TH`. "This" is a special case, as it's basically set to `TH` for convenience and to open up the opportunity for several other briefs. For example, `THEU` is used for "think", and `THEUS` follows as "thinks".
+`TH`
+
+"This" is a special case, as it's basically set to `TH` for convenience and to open up the opportunity for several other briefs. For example, `THEU` is used for "think", and `THEUS` follows as "thinks".
 
 Also works in phrases: `TH-FS` for "this was"
 
 ### 22. but
 
-`PWUT` or `PWU`. Mirabai uses `PWUT` as "but" and that is okay, but you can safely remap `PWUT` to "but the" if you want to use `PWU` as "but" exclusively.
+`PWUT` or `PWU`. 
+
+Mirabai uses `PWUT` as "but" and that is okay, but you can safely remap `PWUT` to "but the" if you want to use `PWU` as "but" exclusively.
 
 ### 23. his
 
@@ -110,15 +152,21 @@ Also works in phrases: `TH-FS` for "this was"
 
 ### 24. by
 
-`PWEU`. Nonphonetic mapping to make room for `PWAOEU`: "buy". Add an asterisk to "by" and get the word beginning "bi^", add an asterisk to "buy" and get "bye".
+`PWEU`
+
+This is a non-phonetic mapping to make room for `PWAOEU`: "buy". Add an asterisk to "by" and get the word beginning "bi^", add an asterisk to "buy" and get "bye".
 
 ### 25. from
 
-`TPR-` (`FR-`). Similar to "for" (`TP-R`), but instead of dropping just the vowel, we drop the ending -M sound as well. This opens up "from" to phrases, like in `TPRUS` for "from us" and `TPR-T` for "from the" and `TPREUPLT` for "from time to time".
+`TPR-` (`FR-`). 
+
+This is similar to "for" (`TP-R`), but instead of dropping just the vowel, we drop the ending -M sound as well. This opens up "from" to phrases, like in `TPRUS` for "from us" and `TPR-T` for "from the" and `TPREUPLT` for "from time to time".
 
 ### 26. they
 
-`THE`. Since "the" is stroked with just `-T`, we can place "they" in this stroke. It's important not to use `THAEU` to avoid potential conflict when we get to "they're" and "their".
+`THE`
+
+Since "the" is stroked with just `-T`, we can place "they" in this stroke. It's important not to use `THAEU` to avoid potential conflict when we get to "they're" and "their".
 
 ### 27. we
 
