@@ -1,4 +1,4 @@
-Learn Plover! is a great introduction to Plover's theory and has everything you need to get started writing in steno. However, there are some patterns across Plover's dictionary which are not documented there. This document aims to show some of the hidden patterns. It also suggests some others that you can consider using in your personal dictionary.
+[Learn Plover!](https://sites.google.com/site/ploverdoc/home) is a great introduction to Plover's theory and has everything you need to get started writing in steno. However, there are some patterns across Plover's dictionary which are not documented there. This document aims to show some of the hidden patterns. It also suggests some others that you can consider using in your personal dictionary.
 
 <img src="http://qwertysteno.com/Images/steno-keyboard1.gif">
 
