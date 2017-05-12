@@ -76,7 +76,7 @@ This is the left-hand `V`. The phonetic version of this would be `HA*F` which is
 
 `EU` (`I`)
 
-This is a nonphonetic stroke to give space for "eye". It's easy to hit and fits in some phrases, such as `SKPEU` for "and I". Note that, in some cases, you will use the `AOEU` cluster for I, such as in "I'll" (`AOEUL`) and "I'm" (`AOEUPL`) because the shorter versions are used for other things, in this case "ill" and the word beginning "im^".
+This is a non-phonetic stroke to give space for "eye". It's easy to hit and fits in some phrases, such as `SKPEU` for "and I". Note that, in some cases, you will use the `AOEU` cluster for I, such as in "I'll" (`AOEUL`) and "I'm" (`AOEUPL`) because the shorter versions are used for other things, in this case "ill" and the word beginning "im^".
 
 ### 11. it
 
