@@ -1,4 +1,4 @@
-There are some misstroke entries in the Plover dictionary that are very nice (and short) but may cause issues later on. For example, with word boundaries. The theory used in Plover's dictionary applies some best practices for stroking certain words. 
+The theory used in Plover's dictionary applies some best practices for stroking certain words. There are some misstroke entries in the Plover dictionary that are very nice (and short), but may cause issues later on. For example, with word boundaries. 
 
 ### What is a word boundary, and why is it an issue?
 (text)
