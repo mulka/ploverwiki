@@ -43,7 +43,7 @@ Right-hand `-F`. This is a simple one key stroke, and it frees up `OF` to be use
 
 `SKP-`
 
-`SKP-`. This is ann easy to hit stroke with only the left hand. This makes it a good candidate for starting phrases, like `SKPU` for "and you".
+`SKP-`. This is an easy to hit stroke with only the left hand. This makes it a good candidate for starting phrases, like `SKPU` for "and you".
 
 ### 6. a
 
