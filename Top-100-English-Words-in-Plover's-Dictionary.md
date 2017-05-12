@@ -17,7 +17,7 @@ When learning steno theory, you might be confused by the fact that many common w
 
 `-T`
 
-The most common word in the English language is reserved to just one key, right-hand `-T`. The right hand position makes it easy to create two word strokes. For example: `SKP-T` for "and the".
+The most common word in the English language is reserved to just one key, right-hand `-T`. The right hand position makes it easy to have a single stroke for some of the most common two-word phrases. For example: `SKP-T` for "and the".
 
 ### 2. be
 
