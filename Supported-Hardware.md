@@ -59,8 +59,8 @@ after actually trying it:
 # Keyboards
 
 If you don't have a steno machine, you can use a keyboard that supports N-Key Rollover (NKRO).
-![](http://www.zalman.com/DataFile/product/B_0001_%EB%A0%88%EC%9D%B4%EC%96%B4%204.jpg)
 
+<img src="http://www.zalman.com/DataFile/product/B_0001_%EB%A0%88%EC%9D%B4%EC%96%B4%204.jpg" width="200"/>
 
 ## What's NKRO?
 
