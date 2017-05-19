@@ -4,7 +4,7 @@ It lists:
 
 * [Dedicated machines designed for use with Plover](#dedicated-machines-designed-for-use-with-plover)
 * [Stenotype machines](#stenotype-machines)
-* [Computer Keyboards with NKRO](#keyboards)
+* [Computer keyboards with NKRO](#keyboards)
 
 # Dedicated machines designed for use with Plover
 
