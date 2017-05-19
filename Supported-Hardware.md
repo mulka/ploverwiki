@@ -20,6 +20,8 @@ The following machines have been confirmed by users to work with Plover after ac
 
 # Stenotype Machines
 
+<img src="http://www.stenograph.com/product/image/large/45009_wave.jpg" width="300"/>
+
 ## Supported protocols
 
 Plover supports several protocols that are in use by various machines:
@@ -60,7 +62,7 @@ after actually trying it:
 
 If you don't have a steno machine, you can use a keyboard that supports N-Key Rollover (NKRO).
 
-<img src="http://www.zalman.com/DataFile/product/B_0001_%EB%A0%88%EC%9D%B4%EC%96%B4%204.jpg" width="200"/>
+<img src="http://www.zalman.com/DataFile/product/B_0001_%EB%A0%88%EC%9D%B4%EC%96%B4%204.jpg" width="300"/>
 
 ## What's NKRO?
 
