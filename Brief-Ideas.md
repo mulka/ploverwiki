@@ -30,6 +30,9 @@ Common uses of this are to add -mpl or -mbl to the end of a stroke:
 * `EUFRP` for "imp"
 
 ### `-FP` and `-AOUFP` for -ture
+<img src="https://images.discordapp.net/.eJwNxEsOhCAMANC7sB_K11APMGuvQJCgiVpC68p495m3eI-6x6FmtYl0ngHWnQuNVbPQyK3qRtSOmvvOutAJWSSX7ayXMFg_YfTJYDCYjHPBgLcR_T-LwaYUcXLw-S66X029P3evIJM.quQ3BjFFrW-Wn79vtoHMSe2U594">
+
+<img src="https://images.discordapp.net/.eJwNxEsOhCAMANC7sB_K11APMGuvQJCgiVpC68p495m3eI-6x6FmtYl0ngHWnQuNVbPQyK3qRtSOmvvOutAJWSSX7ayXMFg_YfTJYDCYjHPBgLcR_T-LwaYUcXLw-S66X029P3evIJM.quQ3BjFFrW-Wn79vtoHMSe2U594">
 
 `-FP` is used for the -ch sound in words like "catch". The default dictionary also includes many briefs where it is used for the -ture suffix. for example: "nature", which can be stroked as `TPHAEUFP` (naich).
 
@@ -49,6 +52,7 @@ A note: For some of these words, a tense u sound (`AOUFP`) is used for -ture ins
 You will need to define new strokes in your dictionary with these ideas.
 
 ### `SKP-` for ex-
+<img src="https://images.discordapp.net/eyJ1cmwiOiJodHRwczovL2Rpc2NvcmQuc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9hdHRhY2htZW50cy8xMzY5NTM4MDk0MDk4MDIyNDAvMzE1OTMzNjAwMzUwNjAxMjM3L1NLUC0ucG5nIn0.XnB7R4DxhVOeSpgr6mNIje2YCdE">
 
 The default dictionary uses a combination of `KP-` and `S-` to make the leading ex- sound. For example: `KPEUT` for "exit" for `SPHRAEUPB` for "explain". 
 
@@ -67,6 +71,7 @@ For example:
 If this is a problem for you, you can also try `SK*` instead of `SKP-`.
 
 ### `KPW-` for im- and em-
+<img src="https://images.discordapp.net/eyJ1cmwiOiJodHRwczovL2Rpc2NvcmQuc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9hdHRhY2htZW50cy8xMzY5NTM4MDk0MDk4MDIyNDAvMzE1OTMzODA5ODQzMzcyMDMzL0tQVy0ucG5nIn0.V7JbEqDmCU4LLvjgKmaQG351A7s">
 
 Examples:
 
