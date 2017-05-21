@@ -78,6 +78,7 @@ Examples:
 * `KPWRES` for "impress".
 
 ### `-FR` for -m
+<img src="https://images.discordapp.net/.eJwtyEEOhCAMAMC_cF_aikj0AfsAf0CAoIlaQuvJ7N_34hznMXc_zGI21SYLQN4lcc9WlHusxVbmepTYdrGJT4iqMW1nuVTAkZ_diBOS9y6QH-gtmhAdIoZhDvD5rrZd1fz-dDIgcg.eRrlLVQMtQVEDI0MRpiLtfXMmMc">
 
 Above it's shown that `-FRP` can be used in the default dictionary for -mp. This stroke extends that idea:
  
