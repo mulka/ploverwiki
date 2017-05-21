@@ -32,7 +32,7 @@ Common uses of this are to add -mpl or -mbl to the end of a stroke:
 ### `-FP` and `-AOUFP` for -ture
 <img src="https://images.discordapp.net/.eJwNxEsOhCAMANC7sB_K11APMGuvQJCgiVpC68p495m3eI-6x6FmtYl0ngHWnQuNVbPQyK3qRtSOmvvOutAJWSSX7ayXMFg_YfTJYDCYjHPBgLcR_T-LwaYUcXLw-S66X029P3evIJM.quQ3BjFFrW-Wn79vtoHMSe2U594">
 
-<img src="https://images.discordapp.net/.eJwNxEsOhCAMANC7sB_K11APMGuvQJCgiVpC68p495m3eI-6x6FmtYl0ngHWnQuNVbPQyK3qRtSOmvvOutAJWSSX7ayXMFg_YfTJYDCYjHPBgLcR_T-LwaYUcXLw-S66X029P3evIJM.quQ3BjFFrW-Wn79vtoHMSe2U594">
+<img src="https://images.discordapp.net/eyJ1cmwiOiJodHRwczovL2Rpc2NvcmQuc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9hdHRhY2htZW50cy8zMTU5MzQwNjAxNTUzNzE1MjEvMzE1OTM0NTY0MTE3OTA1NDEwL0FPLVVGUC5wbmcifQ.eOkuTdrVDh49idcRD_ztb5ZBN3c">
 
 `-FP` is used for the -ch sound in words like "catch". The default dictionary also includes many briefs where it is used for the -ture suffix. for example: "nature", which can be stroked as `TPHAEUFP` (naich).
 
