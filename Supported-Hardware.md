@@ -64,7 +64,7 @@ If you don't have a steno machine, you can use a keyboard that supports N-Key Ro
 
 <img src="http://www.zalman.com/DataFile/product/B_0001_%EB%A0%88%EC%9D%B4%EC%96%B4%204.jpg" width="300"/>
 
-<img src="http://1.bp.blogspot.com/-l-AR_JZMqGY/VFAVUMEbqdI/AAAAAAAAMeo/XYZYAKJ-tZs/s1600/IMG_20140929_171646.jpg" width="300"/>
+<img src="http://plover.deco-craft.com/spcimages/9315492/8148158/1/1/CCCCCC/prod.jpg?b=10934258&v=1464318888" width="300"/>
 
 ## What's NKRO?
 
