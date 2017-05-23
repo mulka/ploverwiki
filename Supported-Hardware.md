@@ -64,8 +64,6 @@ If you don't have a steno machine, you can use a keyboard that supports N-Key Ro
 
 <img src="http://www.zalman.com/DataFile/product/B_0001_%EB%A0%88%EC%9D%B4%EC%96%B4%204.jpg" width="300"/>
 
-<img src="http://plover.deco-craft.com/spcimages/9315492/8148158/1/1/CCCCCC/prod.jpg?b=10934258&v=1464318888" width="300"/>
-
 ## What's NKRO?
 
 This is a feature that certain keyboards have that let the keyboards
@@ -130,6 +128,8 @@ The following machines have been confirmed by users to work with Plover after ac
 Stenography works best when the keyboard takes little force to depress keys. The lighter, the better. Ideally, the switch will be linear, it should lack any clicks or bumps. The lighter the force, the better, for steno. In the Cherry MX line, the best switch is Red, at 45 cN actuation. For Gaterons, the best switch for steno is Clear/White (different names, same switch), at only 35 cN actuation.
 
 ## Adapt a keyboard for steno use
+
+<img src="http://plover.deco-craft.com/spcimages/9315492/8148158/1/1/CCCCCC/prod.jpg?b=10934258&v=1464318888" width="300"/>
 
 Most keyboards have the keys in staggered rows, which can make it difficult to press two keys in a column with a single finger. To adapt a keyboard for steno use, you can use:
 
