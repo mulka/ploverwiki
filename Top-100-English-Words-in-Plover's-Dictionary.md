@@ -8,7 +8,7 @@ Fun fact: The top 100 words in the English language make up about 50% of all wri
 
 When learning steno theory, you might be confused by the fact that many common words are not written out phonetically. There are many reasons that this is the case, but it boils down to:
 
-- Avoiding word boundary errors
+- Avoiding [word boundary errors](https://github.com/openstenoproject/plover/wiki/Glossary#word-boundary)
 - Ease of stroking
 
 ## The List
