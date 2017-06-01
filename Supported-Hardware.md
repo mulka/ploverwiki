@@ -129,7 +129,7 @@ Stenography works best when the keyboard takes little force to depress keys. The
 
 ## Adapt a keyboard for steno use
 
-![](https://c1.staticflickr.com/5/4275/34180678004_620d53fa8b_n.jpg)
+![](https://c1.staticflickr.com/5/4202/34180678224_98d3e26f1f_n.jpg)
 
 Most keyboards have the keys in staggered rows, which can make it difficult to press two keys in a column with a single finger. To adapt a keyboard for steno use, you can use:
 
