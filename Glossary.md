@@ -120,7 +120,7 @@ Examples (Plover):
 
 * "in here"; **`TPH`**/`HAOER` vs "insect"; **`EUPB`**/`SEBGT`
 * "on top of"; **`OPB`**/`TOP`/`-F` vs "onto"; **`AUPN`**/`TO`
-* "it is a live (wire)"; `T`/`S`/**`AEU`**/`HREUF` vs "it is alive"; `T`/`S`/**`A`**/`HRAOEUF`
+* "it is a live (wire)"; `T`/`S`/**`AEU`**/`HREUF` vs "it is alive"; `T`/`S`/**`A`**/`HREUF`
 
 ### Write Out
 
