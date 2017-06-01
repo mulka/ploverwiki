@@ -129,7 +129,7 @@ Stenography works best when the keyboard takes little force to depress keys. The
 
 ## Adapt a keyboard for steno use
 
-<img src="http://plover.deco-craft.com/spcimages/9315492/8148158/1/1/CCCCCC/prod.jpg?b=10934258&v=1464318888" width="300"/>
+![](https://c1.staticflickr.com/5/4275/34180678004_620d53fa8b_n.jpg)
 
 Most keyboards have the keys in staggered rows, which can make it difficult to press two keys in a column with a single finger. To adapt a keyboard for steno use, you can use:
 
@@ -151,8 +151,6 @@ If you have a mechanical keyboard, it is likely your keys have a [Cherry MX stem
 - [StenoToppers](https://cemrajc.github.io/stenotoppers/) is a 3D printed keycap set designed by Jason Cemra. It aligns the rows, raises the keys, and reduces the keycap tapering, slant and gap. A pre-release version of the the 3d model (.stl) files is available on Github. If you have access to a 3D printer, you can download .stl files and print them for a negligible cost. Otherwise, you would need to use a 3D printing service.
     
     ![StenoToppers](http://i.imgur.com/1vmaAZz.png)
-
-![](https://c1.staticflickr.com/5/4275/34180678004_620d53fa8b_n.jpg)
 
 - The [G20 keycap set](http://pimpmykeyboard.com/g20-blank-keycap-sets/) from Signature Plastics is a great set for steno, and will fit on an ErgoDox or other mechanical keyboard. The keys have a direction, so for optimal comfort, you should angle the top row of steno (`STPH...`) down, so that they are close to the bottom row (`SKWR...`)
 - You can 3D-print a [steno-friendly keycap](https://github.com/morinted/stenomod_case).
