@@ -17,6 +17,7 @@ This page is under construction. Please refer to [Learn Plover! Appendix: The Di
   - [Lowercasing](#lowercasing)
     - [Lowercase Next Word](#lowercase-next-word)
     - [Lowercase Last Word](#lowercase-last-word)
+  - [Canceling Formatting of Next Word](#canceling-formatting-of-next-word)
 - [Undoable Line Breaks and Tabs](#undoable-line-breaks-and-tabs)
 - [Commands](#commands)
   - [Repeat Last Stroke](#repeat-last-stroke)
@@ -24,6 +25,7 @@ This page is under construction. Please refer to [Learn Plover! Appendix: The Di
   - [Modifier Names](#modifier-names)
   - [Shortcut Key Names](#shortcut-key-names)
   - [Sample Shortcuts](#sample-shortcuts)
+  - ["Do Nothing" Translation](#do-nothing-translation)
 - [Output Modes](#output-modes)
   - [Reset Command](#reset-command)
   - [Modes](#modes)
@@ -176,13 +178,15 @@ Rewrite the last word to start with a lowercase letter, e.g. `Plover{*<}` → `p
 
 **Suggested stroke:** `HRO*ERD` (lowered)
 
-### Canceling formatting of next word
+### Canceling Formatting of Next Word
 
-In order to cancel formatting of the next word use empty definition.
+In order to cancel formatting of the next word, use the empty meta tag as your definition:
 
 - `{}`
 
-Using `{}` in front of a arrow key commands, as in `{}{#Left}`, is useful if the arrow key commands are used to move cursor to edit text. Canceling formatting actions for cursor movement prevents Plover for instance capitalizing words in middle of a sentence if cursor is moved back when the last stroke, such as `{.}`, includes action to capitalize next word.
+Using `{}` in front of a arrow key commands, as in `{}{#Left}`, is useful if the arrow key commands are used to move cursor to edit text. Canceling formatting actions for cursor movement prevents Plover from, for instance, capitalizing words in middle of a sentence if cursor is moved back when the last stroke, such as `{.}`, includes action to capitalize next word.
+
+See also the ["do nothing" translation](#do-nothing-translation)
 
 ## Undoable Line Breaks and Tabs
 
@@ -291,6 +295,14 @@ These next strokes are not particularly useful, but show you what you can do wit
 - `"SKPH-Z": "{#control(z shift(z))"` — program-dependent, but possibly "undo/redo". Notice how the first z has only the control operator, and the second has both the control and the shift operator.
 
 Note that above, adding capitals will not affect the output. Commands are case insensitive. `{#control(z shift(z))` is the same as `"{#CONTROL_L(Z SHIFT(Z))}"`
+
+### "Do Nothing" Translation
+
+If you want a stroke that effectively does nothing, like a null or canceled stroke, which doesn't affect formatting, doesn't output anything, and cannot be "undone" with the asterisk key, you can use the keyboard shortcut syntax. A stroke mapped to `{#}` will effectively do nothing but show up in your logs.
+
+- `{#}` an effective "null" stroke.
+
+See also [Canceling Formatting of Next Word](#canceling-formatting-of-next-word)
 
 ## Output Modes
 
