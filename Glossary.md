@@ -92,7 +92,7 @@ given translation. E.g., "my stroke for `steno-dude` is `STOEUPB/TKAOUD`"
 A "system" or way of thinking that determines which steno strokes will
 match to which words. Theories range generally from being based on
 spelling ("brief-heavy") to being based on the sound of the word ("stroke-heavy").
-The dictionary included with Plover uses a theory based on is based on NYCI theory
+The dictionary included with Plover uses a theory based on "NYCI theory",
 which is descended from StenEd. It offers a hybrid between a brief-heavy and
 stroke-heavy theory. It is recommended to start learning with Plover theory, and
 you will likely learn what style you like and you can always switch later. Mirabai
