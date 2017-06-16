@@ -43,7 +43,7 @@ after actually trying it:
 | Product Name                       | Manufacturer       | Protocol/Connection | Comments                |
 | ---------------------------------- | ------------------ | ------------------- | ----------------------- |
 | Elan Cybra Student                 | Stenograph         | TX Bolt (serial)    |                         |
-| Flash, Blaze, Impression, and Xpression | ProCAT        | ProCAT              | (For Blaze and other Windows CE-based writers) USB does not work well, requires Microsoft abandonware called "Windows Mobile Device Center", company not forthcoming with support or even drivers if you don't have a contract |
+| Flash, Blaze, Impression, and Xpression | ProCAT        | ProCAT (serial, *maybe*)             | (For Blaze and other Windows CE-based writers) USB cannot be used with Plover, it is only to transfer files created on the Blaze to your PC or CAT software. USB does not work on Windows 10, only Windows XP (with ActiveSync), and Windows Vista/7/8 with WMDC.exe (Windows Mobile Device Center). Both are abandonware. You need an RJ11 (male) to DB9 (female) to use this writer. |
 | Flash Writer                       | ProCAT             | TX Bolt             | Press `Mode` (far right button), click `Setup`, then press the `Emul` button. Display should read `Emulate: Baron` |
 | Gemini2                            | Neutrino Group     | Gemini PR (serial)  |                         |
 | Gemini RT                          | Neutrino Group     | TX Bolt             | Must start a job on screen or in [Infinity2](http://www.infinitytraditional.com/infinity-2/) |
