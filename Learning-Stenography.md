@@ -54,6 +54,20 @@ If you want to eventually caption speakers, you will need to be able to take dic
 
    CRH has some free dictation posts. Especially useful is the [Magic Drill](http://courtreportinghelp.com/2016/01/02/magic-drills-free-audio-speed-drills/), for beginners and experts alike.
 
+## Flashcard decks
+
+There are two decks available:
+
+- Steno3000 An [Anki](http://ankisrs.net/) flash card deck has been created to help review the the 3000 most common English words as a flash card deck. Going through these basic flash cards is one way to become familiar with which strokes correspond to which sounds or letters, and to briefs in general. Eventually, this can help learners memorize the most basic and common English words.
+
+    The deck is entirely based off the Dictionary included in Plover 2.1.1. It is divided up into levels from 1 to 15, starting at the most common words. On each card, on the front is the common word. Anki gives you a field where you can use Plover to type in the word that you see. Press Enter (or in steno, R-R) and Anki will show you all the briefs that produce the word, starting from the most abbreviated. From there, you can report back to Anki how difficult it was to recall the brief. Anki will schedule the next time that word is shown to you, accordingly.
+
+    The deck also includes briefs for phrases (where each word in the phrase is one of the most common 3000 words).
+
+    The Steno3000 Anki deck can be downloaded [here](http://stenoknight.com/w/images/Steno3000.anki)
+
+- An Anki deck with the complete Plover dictionary as flash cards is available [here](https://ankiweb.net/shared/info/1639515972)
+
 ## Other Typing Sites
 
 Sites not made for steno are not ideal for use with Plover, but they offer good quality practice material for the intermediate stenographer, or to judge your skills with a metric.
