@@ -21,13 +21,15 @@ These sites aim to teach you steno, from the layout to the terminology to the st
 
     Learn Plover! is a free online textbook by Zack Brown, based on his steno tutoring sessions with Mirabai Knight. It offers a step-by-step introduction to Plover for beginners, with practice material at the end of every chapter. The accompanying exercises are available online in several places, notably:
 
-    * [Steno Jig](https://joshuagrams.github.io/steno-jig/learn-plover): Nice stroke hints and lookahead display, but only has the lessons that are written into Learn Plover (the first four chapters), plus drills for [common words](https://joshuagrams.github.io/steno-jig/form) and [random sentences with numbers](https://joshuagrams.github.io/steno-jig/numbers).
+    * [Steno Jig](https://joshuagrams.github.io/steno-jig/) has [Learn Plover! drills](https://joshuagrams.github.io/steno-jig/learn-plover.html) with stroke hints and lookahead display.
 
-    * [Di's Plover, Learn!](http://didoesdigital.com/plover/learn/) Has user-contributed lessons for the later chapters where Learn Plover doesn't provide exercises, plus some additional lessons of its own, including a large collection of fairy tales. Requires Adobe Flash or Google Chrome.
+    * [Di's Plover, Learn!](http://didoesdigital.com/plover/learn/) has user-contributed lessons for the later chapters where Learn Plover doesn't provide exercises, plus some additional lessons of its own, including a large collection of fairy tales. Requires Adobe Flash or Google Chrome.
 
 - [Qwerty Steno](http://qwertysteno.com/Home/)
 
     Qwerty Steno is a fantastic resource which has a tutorial on steno theory written by Mike Neale of the Open Steno community.
+
+- [Steno Jig](https://joshuagrams.github.io/steno-jig/) has a wide variety of words, sentences, etc that you can practice with optional stroke suggestions. There are several beginner drills, and a large set of vocabulary words, and sentence practice drills that you can work through to gradually learn the top 8,000 most used words.
 
 - [Plover Dojo](http://ploverdojo.appspot.com/)
 
