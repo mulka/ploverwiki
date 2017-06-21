@@ -66,9 +66,8 @@ If you don't have a steno machine, you can use a keyboard that supports N-Key Ro
 
 ## What's NKRO?
 
-This is a feature that certain keyboards have that let the keyboards
-register each key regardless of other keys being pressed. Read the
-[Wikipedia entry about NKRO](http://en.wikipedia.org/wiki/Rollover_(key)#n-key_rollover).
+This is a feature of some keyboards that means that you can press as many keys as you want simultaniously, and they will all register. Typical keyboards stop working correctly when you press somewhere between 4 and 7 keys at once.
+For more information, see the [Wikipedia entry about NKRO](http://en.wikipedia.org/wiki/Rollover_(key)#n-key_rollover).
 
 ## How do I know if my keyboard has NKRO?
 
