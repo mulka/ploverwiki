@@ -79,6 +79,8 @@ For weeklies, follow the directions for installing Plover on other Linux distrib
 An [AppImage](http://appimage.org/) is provided: it includes all the necessary dependencies and should run on most x86 64-bits distributions. To use it:
 
 - download it
+- add the user to the group "dialout"
+- after adding the group, logout and login again for the change to take effect
 - [make it executable](http://discourse.appimage.org/t/how-to-make-an-appimage-executable/80)
 - launch it like a standard executable
 
