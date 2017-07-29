@@ -20,7 +20,7 @@ Plover works on **Windows, Mac, and Linux**.
 
 ### Use a standard QWERTY keyboard
 
-You can use Plover with a **standard keyboard**, but there are some **important limitations**. Stenography often requires you to **press 5 or 6 keys at once**, and sometimes as many as 16. Unfortunately, most keyboards **only recognize up to 1-6 keys at once**. When you need to press more than 6 keys at once, you have to use a technique called "arpeggiating". See ["How it Works" for more information on arpeggiating](http://qwertysteno.com/Basics/HowItWorks.php).
+**You can use Plover with a standard computer keyboard, but there are some important limitations.** Stenography often requires you to press 5 or 6 keys at once, and sometimes as many as 16. Unfortunately, most keyboards only recognize up to 1-6 keys at once. When you need to press more than 6 keys at once, you have to use a technique called "arpeggiating". See ["How it Works" for more information on arpeggiating](http://qwertysteno.com/Basics/HowItWorks.php).
 
 > **Note**: To write quickly, you'll need a keyboard with N-key rollover (NKRO), a machine designed for use with Plover, or a professional stenography machine.
 
