@@ -5,72 +5,41 @@ Plover comes with a free 140,000 word steno dictionary. You can add other dictio
 
 You'll find many free, open source steno dictionaries at the [Stenodict](http://www.openstenoproject.org/stenodict/) website. 
 
-Dictionaries
-
-Arrows
-by Ted Morin
-Symbolic arrows → → made easy
-Cross Platform Movement
-by Ted Morin
-Movement and selection across Mac, Windows, and Linux
-Di’s Mac Movement
-by Di
-Extensive Mac movement and selection
-Di’s Vim Commands
-by Di
-Vim and steno were made for each other
-Emoji
-by Ted Morin
-Complete Emoji dictionary 😃
-General Command Line
-by Di
-Briefs and entries for terminal users
-Left Hand Modifier Keys
-by Achim Siebert
-Left-hand keyboard shortcuts in only two strokes
-Left-side Mac Movement
-by Achim Siebert
-Left movement shortcuts with selection for Mac
-Markdown
-by Ted Morin
-Best markup language meets best text entry system
-Pokémon
-by Ted Morin
-First 151 Pokémon written with Plover theory
-Spectacle
-by Ted Morin
-Window management with Spectacle, the free application for OS X
-UK Spellings
-by Ted Morin
-Replace US spellings in Plover's default dictionary
-Unspaced Punctuation
-by Di
-Punctuation with all the spaces suppressed
-Vim Captioning
-by Mirabai
-Useful realtime captioning commands for Vim
+| Language                           | Author | Description | 
+| ---------------------------------- | ------------------ | ------------------ | 
+|Arrows | Ted Morin | Symbolic arrows → → made easy |
+| Cross Platform Movement |Ted Morin | Movement and selection across Mac, Windows, and Linux |
+| Di’s Mac Movement| Di | Extensive Mac movement and selection |
+| Di’s Vim Commands | Di | Vim and steno were made for each other |
+| Emoji | Ted Morin | Complete Emoji dictionary 😃 |
+|General Command Line| Di | Briefs and entries for terminal users |
+| Left Hand Modifier Keys | Achim Siebert | Left-hand keyboard shortcuts in only two strokes |
+Left-side Mac Movement | Achim Siebert |Left movement shortcuts with selection for Mac |
+| Markdown | Ted Morin| Best markup language meets best text entry system |
+| Pokémon| Ted Morin | First 151 Pokémon written with Plover theory |
+|Spectacle | by Ted Morin | Window management with Spectacle, the free application for OS X |
+| UK Spellings| Ted Morin | Replace US spellings in Plover's default dictionary |
+| Unspaced Punctuation| Di| Punctuation with all the spaces suppressed |
+| Vim Captioning| Mirabai Knight| Useful realtime captioning commands for Vim |
 
 ## Stanley's Steno Dictionaries
 
 Stanley Sakai's repository on GitHub - [Stanley's Steno Dictionaries](https://github.com/stanographer/steno-dictionaries)
 
-* braille.json
-A starter dictionary for steno-based Braille input.
-* smalldict.json
-Starter dictionary Mirabai gave Stan as a template (not actively updated or used).
-* stan-italiano.json
-Dictionary started when doing an Italian class. Not very developed.
-* stanespanol.json
-Main Spanish steno dictionary.
-* stanmain.json
-His main English dictionary.
-* stanplover.json
-Additional entries to correct formatting errors caused by RTF -> JSON conversion.
+| Language                      | Description       | 
+| ---------------------------------- | ------------------ | 
+| braille.json | A starter dictionary for steno-based Braille input. |
+|smalldict.json | Starter dictionary Mirabai gave Stan as a template (not actively updated or used). |
+| stan-italiano.json | Dictionary started when doing an Italian class. Not very developed. |
+| stanespanol.json | Main Spanish steno dictionary. |
+| stanmain.json | His main English dictionary. |
+| stanplover.json |Additional entries to correct formatting errors caused by RTF -> JSON conversion. |
 
 ## Non-English languages
 
-|| Language || Author ||
-| [Italian] (https://github.com/stanographer/steno-dictionaries/blob/master/stan-italiano.json) | Stanley Sakai |
+| Language                      | Author       | 
+| ---------------------------------- | ------------------ | 
+| [Italian](https://github.com/stanographer/steno-dictionaries/blob/master/stan-italiano.json) | Stanley Sakai |
 | [Spanish](https://github.com/stanographer/steno-dictionaries/blob/master/stanespanol.json) |Stanley Sakai|
 | [French](https://github.com/azizyemloul/plover-france-dict) | Aziz Yemloul |
 
