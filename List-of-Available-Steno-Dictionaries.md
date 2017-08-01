@@ -1,5 +1,5 @@
 
-Plover comes with a free 140,000 word steno dictionary. You can add other dictionaries to Plover, for foreign languages, specialist terminologies, special projects etc. In addition to creating your own personal dictionaries, you can download free, open source steno dictionaries developed by others. 
+Plover comes with a free 140,000 word steno dictionary. You can add other dictionaries to Plover, for foreign languages, specialist terminologies, special projects etc. In addition to creating your own personal dictionaries, you can download free, open source steno dictionaries that have been developed by others. 
 
 ## Stenodict
 
@@ -69,14 +69,12 @@ Additional entries to correct formatting errors caused by RTF -> JSON conversion
 
 ## Non-English languages
 
-The Plover software is currently designed for the English steno keyboard layout, but it is possible to customize the steno layout. Some unofficial work has been done by users on creating foreign language versions. Some of these could be used  could be used while retaining the English steno keyboard layout.
-
 || Language || Author ||
 | [Italian] (https://github.com/stanographer/steno-dictionaries/blob/master/stan-italiano.json) | Stanley Sakai |
-| [Spanish](https://github.com/stanographer/steno-dictionaries/blob/master/stanespanol.json) |(Stanley Sakai)|
-| [French](https://github.com/azizyemloul/plover-france-dict) |  |
-| [German](https://groups.google.com/d/msg/ploversteno/MYNlSMD68Qc/Byyw9T8ZCQAJ) |  |
-| [Portuguese](http://openstenoblog.blogspot.co.uk/2015/04/my-experience-in-open-source.html) | |
+| [Spanish](https://github.com/stanographer/steno-dictionaries/blob/master/stanespanol.json) |Stanley Sakai|
+| [French](https://github.com/azizyemloul/plover-france-dict) | Aziz Yemloul |
+
+>> Note: The Plover software is currently designed for the English steno keyboard layout, but it is possible to customize the steno layout. Some unofficial work has been done by users on creating foreign language versions. 
 
 ## Commercial stenography dictionaries
 
