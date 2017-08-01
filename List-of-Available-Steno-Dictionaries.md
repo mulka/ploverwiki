@@ -1,5 +1,7 @@
 
-Plover comes with a free 140,000 word steno dictionary. You can add other dictionaries to Plover, for foreign languages, specialist terminologies, special projects etc. In addition to creating your own personal dictionaries, you can download free, open source steno dictionaries that have been developed by others. 
+Plover comes with a free 140,000 word steno dictionary. You can add other dictionaries to Plover, for foreign languages, specialist terminologies, special projects etc. 
+
+In addition to creating your own personal dictionaries, you can download free, open source steno dictionaries that have been developed by others. You'll find links to many of these below.
 
 ## Stenodict
 
@@ -22,7 +24,7 @@ Left-side Mac Movement | Achim Siebert |Left movement shortcuts with selection f
 | Unspaced Punctuation| Di| Punctuation with all the spaces suppressed |
 | Vim Captioning| Mirabai Knight| Useful realtime captioning commands for Vim |
 
-## Stanley's Steno Dictionaries
+## Stanley Sakai's Steno dictionaries
 
 Stanley Sakai's repository on GitHub - [Stanley's Steno Dictionaries](https://github.com/stanographer/steno-dictionaries)
 
@@ -35,7 +37,7 @@ Stanley Sakai's repository on GitHub - [Stanley's Steno Dictionaries](https://gi
 | stanmain.json | His main English dictionary. |
 | stanplover.json |Additional entries to correct formatting errors caused by RTF -> JSON conversion. |
 
-## Non-English languages
+## Dictionaries for non-English languages
 
 | Language                      | Author       | 
 | ---------------------------------- | ------------------ | 
@@ -43,7 +45,7 @@ Stanley Sakai's repository on GitHub - [Stanley's Steno Dictionaries](https://gi
 | [Spanish](https://github.com/stanographer/steno-dictionaries/blob/master/stanespanol.json) |Stanley Sakai|
 | [French](https://github.com/azizyemloul/plover-france-dict) | Aziz Yemloul |
 
->> Note: The Plover software is currently designed for the English steno keyboard layout, but it is possible to customize the steno layout. Some unofficial work has been done by users on creating foreign language versions. 
+>> Note: The Plover software is currently designed for the English steno keyboard layout, but it is possible to customize the steno layout. Some unofficial work has been done by users on creating versions of Plover with foreign language layouts. 
 
 ## Commercial stenography dictionaries
 
