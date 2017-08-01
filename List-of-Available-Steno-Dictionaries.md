@@ -17,7 +17,7 @@ You'll find many free, open source steno dictionaries at the [Stenodict](http://
 Left-side Mac Movement | Achim Siebert |Left movement shortcuts with selection for Mac |
 | Markdown | Ted Morin| Best markup language meets best text entry system |
 | Pokémon| Ted Morin | First 151 Pokémon written with Plover theory |
-|Spectacle | by Ted Morin | Window management with Spectacle, the free application for OS X |
+|Spectacle | Ted Morin | Window management with Spectacle, the free application for OS X |
 | UK Spellings| Ted Morin | Replace US spellings in Plover's default dictionary |
 | Unspaced Punctuation| Di| Punctuation with all the spaces suppressed |
 | Vim Captioning| Mirabai Knight| Useful realtime captioning commands for Vim |
