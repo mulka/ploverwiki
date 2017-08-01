@@ -15,6 +15,7 @@
 - [Glossary](https://github.com/openstenoproject/plover/wiki/Glossary)
 - [Learning Resources](https://github.com/openstenoproject/plover/wiki/Learning-Stenography)
 - [Brief Ideas](https://github.com/openstenoproject/plover/wiki/Brief-Ideas)
+- [List of Available Steno Dictionaries](https://github.com/openstenoproject/plover/wiki/List-of-Available-Steno-Dictionaries)
 
 ### [The Steno Community](https://github.com/openstenoproject/plover/wiki/Links-to-the-Steno-Community)
 
