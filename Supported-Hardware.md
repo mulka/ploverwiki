@@ -124,7 +124,9 @@ The following machines have been confirmed by users to work with Plover after ac
 
 ### Which type of key switch should I choose?
 
-Stenography works best when the keyboard takes little force to depress keys. The lighter, the better. Ideally, the switch will be linear, it should lack any clicks or bumps. The lighter the force, the better, for steno. In the Cherry MX line, the best switch is Red, at 45 cN actuation. For Gaterons, the best switch for steno is Clear/White (different names, same switch), at only 35 cN actuation.
+Stenography works best when you need little force to depress the keys. The lighter, the better. Ideally, the switch will be linear; this means, it should lack any clicks or bumps. The lighter the force, the better. 
+
+In the Cherry MX line, the best switch is Red, at 45 cN actuation. For Gaterons, the best switch for steno is Clear/White (different names, same switch), at only 35 cN actuation.
 
 ## Adapt a keyboard for steno use
 
@@ -139,7 +141,7 @@ You can also use a keyboard with an ortholinear layout.
 
 ### Keytoppers
 
-Laser-cut keytoppers are in the shape of the keys on a steno machine, and stick them on top of the relevant keys on the keyboard. You can buy laser-cut keytoppers from the [Plover Store](http://plover.deco-craft.com/). You can also make your own keytoppers out of plastic or even coins.
+Laser-cut keytoppers are in the shape of the keys on a steno machine. You stick them on top of the relevant keys on the keyboard. You can buy laser-cut keytoppers from the [Plover Store](http://plover.deco-craft.com/). You can also make your own keytoppers out of plastic or even coins.
 
 ![Laser-cut keytoppers sitting in a pile](http://i.imgur.com/cjWDy2J.jpg)
  
