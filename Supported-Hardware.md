@@ -124,7 +124,7 @@ The following machines have been confirmed by users to work with Plover after ac
 
 ### Which type of key switch should I choose?
 
-Stenography works best when you need little force to depress the keys. The lighter, the better. Ideally, the switch will be linear; this means, it should lack any clicks or bumps. The lighter the force, the better. 
+Stenography works best when you need little force to depress the keys. The lighter, the better. Ideally, the switch will be linear; this means, it should lack any clicks or bumps. 
 
 In the Cherry MX line, the best switch is Red, at 45 cN actuation. For Gaterons, the best switch for steno is Clear/White (different names, same switch), at only 35 cN actuation.
 
