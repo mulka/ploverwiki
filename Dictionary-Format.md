@@ -81,38 +81,21 @@ There are some limitations with each format:
 
 You can control some aspects of Plover with [strokes](#strokes-and-dictionaries). Plover's default dictionary (`commands.json`) contains these commands:
 
-- Add Translation `{PLOVER:ADD_TRANSLATION}`
+| Command name | Command | Default Stroke | Description |
+|----------|----------| ----------| ----------| 
+| Add Translation | `{PLOVER:ADD_TRANSLATION}` | TKUPT` (think DUPT for "Dictionary UPdaTe") | Opens a translation window where you can enter a stroke and translation text to create a new dictionary entry. |
+| Disable Output | `{PLOVER:SUSPEND}` | `PHRO*F` (think PLOF for "PLover OFf") | Stop translating steno. With a keyboard machine, you will be able to type normally again. |
+| Enable Output | `{PLOVER:RESUME}` | `PHROPB` (think PLON for "PLover ON") | Re-enable Plover's output. You can write this stroke to switch back from your keyboard into steno mode. |
+| Toggle Output | `{PLOVER:TOGGLE}` | `PHROLG` (think PLOLG, for PLOver toGGLe) | Toggle between output being enabled and disabled. |
 
-   Opens a translation window where you can enter a stroke and translation text to create a new dictionary entry. **Default stroke:** `TKUPT` (think DUPT for "Dictionary UPdaTe")
 
-- Look Up Stroke `{PLOVER:LOOKUP}`
+| Command name| Command | _Suggested_ Stroke | Description |
+|----------|----------| ----------| ----------| 
+| Look Up Stroke | `{PLOVER:LOOKUP}` | `PHR*UP` | Open a search dialog that you write a translation into to get a list of entries in your dictionaries. |
+| Configure | `{PLOVER:CONFIGURE}` | `PHROFG` (think PLOFG, for PLOver conFiG) | Open and focus the Plover configuration window. |
+| Focus | `{PLOVER:FOCUS}` | `PHROFBGS` (think PLOFKS, for PLOver focus) | Open and focus the main Plover window. |
+| Quit | `{PLOVER:QUIT}` | `PHROBGT` (think PLOKT, for PLOver **qu**i**t**) | Quit Plover entirely. |
 
-    Open a search dialog that you write a translation into to get a list of entries in your dictionaries. **Suggested stroke:** `PHR*UP`
-
-- Disable Output `{PLOVER:SUSPEND}`
-
-    Stop translating steno. With a keyboard machine, you will be able to type normally again. **Default stroke:** `PHRO*F` (think PLOF for "PLover OFf")
-
-- Enable Output `{PLOVER:RESUME}`
-
-    Re-enable Plover's output. You can write this stroke to switch back from your keyboard into steno mode.
-**Default stroke:** `PHROPB` (think PLON for "PLover ON")
-
-- Toggle Output `{PLOVER:TOGGLE}`
-
-    Toggle between output being enabled and disabled. **Default stroke:** `PHROLG` (think PLOLG, for PLOver toGGLe)
-
-- Configure `{PLOVER:CONFIGURE}`
-
-    Open and focus the Plover configuration window. **Suggested stroke**: `PHROFG` (think PLOFG, for PLOver conFiG)
-
-- Focus `{PLOVER:FOCUS}`
-
-    Open and focus the main Plover window. **Suggested Stroke:** `PHROFBGS` (think PLOFKS, for PLOver focus)
-
-- Quit `{PLOVER:QUIT}`
-
-    Quit Plover entirely. **Suggested stroke:** `PHROBGT` (think PLOKT, for PLOver **qu**i**t**)
 
 ## Sending Symbols
 
