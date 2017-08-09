@@ -363,13 +363,13 @@ Here is a summary of the suggested commands you can cut and paste into your dict
 {
 "TK-FPS":"{*!}",
 "KA*PD":"{*-|}",
-"KA*PS": "{MODE:CAPS}"
+"KA*PS":"{MODE:CAPS}",
 "KPA*L":"{<}",
-"*UPD":"{*<}".
+"*UPD":"{*<}",
 "HRO*ER":"{>}",
 "HRO*ERD":"{*>}",
-"#": "{*+}",
-"#*": "{*}",
+"#":"{*+}",
+"#*":"{*}",
 "AFPS":"{*?}",
 "TK-FPS":"{*!}"
 }
