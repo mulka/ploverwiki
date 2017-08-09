@@ -45,7 +45,7 @@ RTF/CRE is an import/export format used by proprietary steno software. This mean
 There are some limitatons with each format:
 
 - RTF dictionaries will cause Plover to take longer to start up and won't have Unicode support. 
-- The JSON format that Plover uses is not used supported by other steno applications. If you want to move or copy your Plover JSON formatted dictionary to another steno software application, you will require to convert it to RTF. 
+- The JSON format that Plover uses is not used or supported by other steno applications. If you want to move or copy your Plover JSON formatted dictionary to another steno software application, you will require to convert it to RTF. 
 - The Plover JSON format doesn't have support for stroke metadata, but at the moment Plover doesn't support reading/writing of RTF metadata.
 
 ## Plover Control Commands
