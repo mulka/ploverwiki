@@ -406,12 +406,7 @@ Here is a summary of the suggested commands you can cut and paste into your dict
 "PHR*UP":"{PLOVER:LOOKUP}",
 "PHROFG":"{PLOVER:CONFIGURE}",
 "PHROFBGS":"{PLOVER:FOCUS}",
-"PHROBGT":"{PLOVER:QUIT}"
-}
-```
-
-```json
-{
+"PHROBGT":"{PLOVER:QUIT}",
 "TK-FPS":"{*!}",
 "KA*PD":"{*-|}",
 "KA*PS":"{MODE:CAPS}",
