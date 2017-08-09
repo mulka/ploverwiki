@@ -2,6 +2,7 @@
 
 **Table of Contents**
 
+- [Strokes and Dictionaries](#strokes-and-dictionaries)
 - [JSON and RTF/CRE](#json-and-rtfcre)
 - [Plover Control Commands](#plover-control-commands)
 - [Sending Symbols](#sending-symbols)
@@ -32,6 +33,14 @@
   - [Custom Modes](#custom-modes)
 - [Summary of suggested commands you can cut and paste into your dictionary](#summary-of-suggested-commands-you-can-cut-and-paste-into-your-dictionary)
 
+## Strokes and Dictionaries 
+If you are new to stenography:
+
+- A _stroke_ is a group of keyboard keys that are pressed simultaneously to produce output. As soon as all keys on the keyboard are released, the steno machine sends out that entire chord of key presses as a stroke. 
+- Plover converts that input into English words and phrases on the screen, by using _dictionaries_. 
+- The dictionaries map a stroke (or a combination of strokes) to an English word or phrase, number, punctuation symbol, emoji, software command, or a meta command for controlling spacing and capitalization.
+- Every stenographer creates their own customized dictionary to supplement or amend the default dictionary that comes with a steno application, such as Plover. 
+
 ## JSON and RTF/CRE
 
 Plover supports two types of dictionaries:
@@ -50,7 +59,7 @@ There are some limitations with each format:
 
 ## Plover Control Commands
 
-You can control some aspects of Plover with strokes. Strokes provided in the included `commands.json` are shown.
+You can control some aspects of Plover with [strokes](#strokes-and-dictionaries). Plover's default dictionary (`commands.json`) contains these commands:
 
 - Add Translation `{PLOVER:ADD_TRANSLATION}`
 
@@ -375,5 +384,3 @@ Here is a summary of the suggested commands you can cut and paste into your dict
 }
 ```
 > **Note:** You do not need a comma after the final entry in your dictionary.
-
-
