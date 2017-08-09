@@ -367,9 +367,10 @@ However, there's nothing stopping you from building in output modes into your st
 
 You can reset the output mode to its default with `{MODE:RESET}`. 
 
-> **Important**: We recommended you have a reset output mode command, so that you can always reset Plover's output mode. This is in case you change it by accident. For example: `"R-R": "{^~|\n^}{MODE:RESET}"` and `"TPEFBG": "{#escape}{MODE:RESET}"`
+> **Important**: We recommended you have a reset output mode command, so that you can always reset Plover's output mode. This is in case you change it by accident. 
 
 - `{MODE:RESET}`: Reset the case and space character. We recommended this for getting out of any custom output mode.
+    For example: `"R-R": "{^~|\n^}{MODE:RESET}"` and `"TPEFBG": "{#escape}{MODE:RESET}"`
 - `{MODE:RESET_CASE}`: Exit caps, lower, or title case.
 - `{MODE:RESET_SPACE}`: Use spaces as normal.
 
