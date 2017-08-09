@@ -1,4 +1,4 @@
->>Note: We haven't finished writing this page. You will currently find a more complete list of keyboard commands at [Learn Plover! Appendix: The Dictionary Format](https://sites.google.com/site/ploverdoc/appendix-the-dictionary-format). Warning: _Learn Plover!_ describes the commands and keyboard shortcuts for Plover 3.0 and earlier. This page describes the commands and keyboard shortcuts in Plover 3.1 and later. This means this page has a more accurate description of those functions. 
+> **Note:** We haven't finished writing this page. You will currently find a more complete list of keyboard commands at [Learn Plover! Appendix: The Dictionary Format](https://sites.google.com/site/ploverdoc/appendix-the-dictionary-format). Warning: _Learn Plover!_ describes the commands and keyboard shortcuts for Plover 3.0 and earlier. This page describes the commands and keyboard shortcuts in Plover 3.1 and later. This means this page has a more accurate description of those functions. 
 
 **Table of Contents**
 
@@ -36,16 +36,16 @@
 
 Plover supports two types of dictionaries:
 - **JSON** (the default and recommended format), and 
-- **RTF**. 
+- **RTF/CRE**. 
 
 RTF/CRE is an import/export format used by proprietary steno software. This means Plover can work with exported dictionaries from Eclipse, ProCAT, Case CATalyst, and other steno software applications. 
 
 ### Limitations
 
-There are some limitatons with each format:
+There are some limitations with each format:
 
 - RTF dictionaries will cause Plover to take longer to start up and won't have Unicode support. 
-- The JSON format that Plover uses is not used or supported by other steno applications. If you want to move or copy your Plover JSON formatted dictionary to another steno software application, you will require to convert it to RTF. 
+- The JSON format that Plover uses is not used or supported by other steno applications. If you want to move or copy your Plover JSON formatted dictionary to another steno software application, you will need to convert it to RTF. 
 - The Plover JSON format doesn't have support for stroke metadata, but at the moment Plover doesn't support reading/writing of RTF metadata.
 
 ## Plover Control Commands
@@ -374,6 +374,6 @@ Here is a summary of the suggested commands you can cut and paste into your dict
 "TK-FPS":"{*!}"
 }
 ```
->>Note: You do not need a comma after the final entry in your dictionary.
+> **Note:** You do not need a comma after the final entry in your dictionary.
 
 
