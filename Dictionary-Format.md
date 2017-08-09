@@ -47,7 +47,7 @@ If you are new to stenography:
 Plover comes supplied with three dictionaries: 
 
 - `main.json`. This contains the default dictionary.
-- `commands.json`. This contains commands.
+- `commands.json`. This contains [Plover Control Commands](#plover-control-commands).
 - `user.json`. This is available for your personal customizations.
 
 You can add extra dictionaries to Plover, as well.
