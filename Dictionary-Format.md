@@ -55,7 +55,7 @@ There are some limitations with each format:
 
 - RTF dictionaries will cause Plover to take longer to start up and won't have Unicode support. 
 - The JSON format that Plover uses is not used or supported by other steno applications. If you want to move or copy your Plover JSON formatted dictionary to another steno software application, you will need to convert it to RTF. 
-- The Plover JSON format doesn't have support for stroke metadata, but at the moment Plover doesn't support reading/writing of RTF metadata.
+- The Plover JSON format doesn't have support for stroke metadata. At the moment, Plover doesn't support reading/writing of RTF metadata.
 
 ## Plover Control Commands
 
@@ -96,7 +96,7 @@ You can control some aspects of Plover with [strokes](#strokes-and-dictionaries)
 
 ## Sending Symbols
 
-Since Plover 3.0.0, users can write full Unicode. You can use symbols in your JSON dictionary, or paste them into the "Add Translation" dialog (or into the dictionary manager). You can get symbols from a character insert panel in your operating system if you have one, or you can copy and paste symbols from another application, such as a web browser.
+Since Plover 3.0.0, users can write full Unicode. You can use symbols in your JSON dictionary, or paste them into the "Add Translation" dialog (or into the dictionary manager). You can get symbols from a character insert panel in your operating system (if you have one), or you can copy and paste symbols from another application, such as a web browser.
 
 ```json
 {
