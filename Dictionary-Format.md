@@ -412,7 +412,7 @@ Here are some other examples:
 
 ### Summary of suggested commands you can cut and paste into your dictionary
 
-Here is a summary of the suggested commands you can cut and paste into your dictionary:
+Here is a summary of the suggested commands you can cut and paste into your personal dictionary:
 
 ```json
 {
@@ -433,4 +433,4 @@ Here is a summary of the suggested commands you can cut and paste into your dict
 "TK-FPS":"{*!}"
 }
 ```
-> **Note:** You do not need a comma after the final entry in your dictionary.
+> **Note:** You do not need a comma after the final entry in your personal dictionary.
