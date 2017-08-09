@@ -50,7 +50,9 @@ Plover comes supplied with three dictionaries:
 - `commands.json`. This contains [Plover Control Commands](#plover-control-commands).
 - `user.json`. This is available for your personal customizations. `user.json` is a blank dictionary. By default, the `user.json` dictionary is at the bottom of the dictionary list and has the highest priority - it is the first dictionary Plover will use. When you define new strokes, they will get added to this dictionary. This means you can see which strokes you've defined yourself, instead of trying to locate them inside the default dictionaries.
 
-You can add extra dictionaries to Plover, as well. We do not recommend you remove the `commands.json` dictionary from the dictionary list. This is because Plover has some concepts that users of other steno software will not be familiar with initially. 
+You can add extra dictionaries to Plover, as well. 
+
+> **Note:** We do not recommend you remove the `commands.json` dictionary from the dictionary list. This is because Plover has some concepts that users of other steno software will not be familiar with initially. 
 
 ### Dictionary priority
 
