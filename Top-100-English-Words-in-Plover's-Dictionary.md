@@ -146,7 +146,7 @@ Mirabai uses `PWUT` as "but" and that is okay, but you can safely remap `PWUT` t
 
 ### 23. his
 
-`HIS` (spelling), `HIZ` (phonetic)
+`HEUS` (spelling), `HEUZ` (phonetic)
 
 ### 24. by
 
