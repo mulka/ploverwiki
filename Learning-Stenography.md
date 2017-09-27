@@ -39,6 +39,14 @@ These sites aim to teach you steno, from the layout to the terminology to the st
 
     Just a small tutorial covering the top 100 English words according to Wikipedia. Many of them are briefs and this text gives some insight as to why these strokes are the way they are.
 
+- [Top 1000 Words in Plover's Dictionary on Quizlet](https://quizlet.com/215355550/plover-steno-briefs-and-outlines-for-the-top-1000-english-words-plus-a-few-extra-flash-cards/)
+
+    List of Top 1000 Words that someone made, which I think can be used as flashcards.
+
+- [Top 4348 Words in Plover's Dictionary from COCA (Google Drive)](https://drive.google.com/file/d/0B2JUx_lPTmtAa3BRX2ZGb3F6SzA/view)
+
+    List of Top 4348 Words from the Corpus of Contemporary American English (COCA). It is based on a list of 5000, but some are duplicates, hence the smaller number.
+
 ## Dictation
 
 If you want to eventually caption speakers, you will need to be able to take dictation.
