@@ -59,7 +59,10 @@ If you want to eventually caption speakers, you will need to be able to take dic
    YouTube videos will offer a good start for dictation. You can find [dictations on YouTube](http://www.stenotube.com/category/5/Practice+Dictation), as well as material designed for ESL students, and speeches by your favorite speaker.
 - Television
 
-   Try captioning your favorite TV show once you are able to.
+   Try captioning your favorite TV show once you are able to. Nature documentaries are especially good for beginners because they tend to have long pauses between dialogue.
+- [Pitman London](http://www.pitmanlondon.co.uk/shorthandspeed/)
+
+   Pitman London has a page of dictation for people learning pen shorthand. The dictation ranges in speed from 40WPM to 130WPM.
 - [Court Reporting Help](http://courtreportinghelp.com/)
 
    CRH has some free dictation posts. Especially useful is the [Magic Drill](http://courtreportinghelp.com/2016/01/02/magic-drills-free-audio-speed-drills/), for beginners and experts alike.
