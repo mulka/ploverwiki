@@ -39,13 +39,9 @@ These sites aim to teach you steno, from the layout to the terminology to the st
 
     Just a small tutorial covering the top 100 English words according to Wikipedia. Many of them are briefs and this text gives some insight as to why these strokes are the way they are.
 
-- [Top 1000 Words in Plover's Dictionary on Quizlet](https://quizlet.com/215355550/plover-steno-briefs-and-outlines-for-the-top-1000-english-words-plus-a-few-extra-flash-cards/)
-
-    List of Top 1000 Words that someone made, which I think can be used as flashcards.
-
 - [Top 4348 Words in Plover's Dictionary from COCA (Google Drive)](https://drive.google.com/file/d/0B2JUx_lPTmtAa3BRX2ZGb3F6SzA/view)
 
-    List of Top 4348 Words from the Corpus of Contemporary American English (COCA). It is based on a list of 5000, but some are duplicates, hence the smaller number.
+    List of Top 4348 Words from the Corpus of Contemporary American English (COCA). It is based on a list of 5000, but some are duplicates, hence the smaller number. Note: the document was prepared by a beginner and may not be 100% accurate.
 
 ## Dictation
 
@@ -69,17 +65,17 @@ If you want to eventually caption speakers, you will need to be able to take dic
 
 ## Flashcard decks
 
-There are two decks available:
 
-- Steno3000 An [Anki](http://ankisrs.net/) flash card deck has been created to help review the the 3000 most common English words as a flash card deck. Going through these basic flash cards is one way to become familiar with which strokes correspond to which sounds or letters, and to briefs in general. Eventually, this can help learners memorize the most basic and common English words.
+- [Steno3000](http://stenoknight.com/w/images/Steno3000.anki)
+
+    An [Anki](http://ankisrs.net/) flash card deck has been created to help review the the 3000 most common English words as a flash card deck. Going through these basic flash cards is one way to become familiar with which strokes correspond to which sounds or letters, and to briefs in general. Eventually, this can help learners memorize the most basic and common English words.
 
     The deck is entirely based off the Dictionary included in Plover 2.1.1. It is divided up into levels from 1 to 15, starting at the most common words. On each card, on the front is the common word. Anki gives you a field where you can use Plover to type in the word that you see. Press Enter (or in steno, R-R) and Anki will show you all the briefs that produce the word, starting from the most abbreviated. From there, you can report back to Anki how difficult it was to recall the brief. Anki will schedule the next time that word is shown to you, accordingly.
 
     The deck also includes briefs for phrases (where each word in the phrase is one of the most common 3000 words).
 
-    The Steno3000 Anki deck can be downloaded [here](http://stenoknight.com/w/images/Steno3000.anki)
-
 - An Anki deck with the complete Plover dictionary as flash cards is available [here](https://ankiweb.net/shared/info/1639515972)
+- [Top 1000 Words in Plover's Dictionary on Quizlet](https://quizlet.com/215355550/plover-steno-briefs-and-outlines-for-the-top-1000-english-words-plus-a-few-extra-flash-cards/)
 
 ## Other Typing Sites
 
