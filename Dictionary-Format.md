@@ -202,7 +202,7 @@ Forces the next letter to be lowercase, e.g. `{>}Plover` → `plover`
 
 - `{*>}`
 
-Rewrite the last word to start with a lowercase letter, e.g. `Plover{*<}` → `plover`
+Rewrite the last word to start with a lowercase letter, e.g. `Plover{*>}` → `plover`
 
 **Suggested stroke:** `HRO*ERD` (lowered)
 
