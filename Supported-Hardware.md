@@ -69,20 +69,25 @@ If you don't have a steno machine, you can use a keyboard that supports N-Key Ro
 This is a feature of some keyboards that means that you can press as many keys as you want simultaniously, and they will all register. Typical keyboards stop working correctly when you press somewhere between 4 and 7 keys at once.
 For more information, see the [Wikipedia entry about NKRO](http://en.wikipedia.org/wiki/Rollover_(key)#n-key_rollover).
 
-## How do I know if my keyboard has NKRO?
+## How do I know if my keyboard has NKRO
 
-### Simple test
+In general, most keyboards will not be NKRO. "Gamer" and mechanical keyboards are most likely to have NKRO, while budget as well as laptop keyboards are unlikely to have NKRO.
+
+### Test #1: Double Shift
+
+**Note: this test results in a false positive on some Macbooks**
+
 To test your keyboard for NKRO capability:
 
 1. Open up a text editor.
 2. Hold down both shift keys.
-3. Type each letter on your keyboard. 
+3. Type each letter on your keyboard (from A-Z).
 
 > **Note**: You must hold down both shift keys while you type each letter on your keyboard.
 
 If all keys are typed into the text editor, your keyboard probably has NKRO.
 
-### Microsoft's keyboard ghosting demonstration website test
+### Test #2: Microsoft's keyboard ghosting demonstration website test
 [Microsoft's keyboard ghosting demonstration website](http://www.microsoft.com/appliedsciences/content/projects/KeyboardGhostingDemo.aspx) provides a browser-based application that lets you test your keyboard's capabilities for registering multiple key presses. 
 
 To test your keyboard:
