@@ -16,3 +16,4 @@ There are many places where you can meet the stenography community. As Plover, w
 - Twitter: There isn't much steno activity on Twitter, but maybe this list and this hashtag will help you get started.
     + [Steno List](https://twitter.com/morinted/lists/steno)
     + [#stenolife](https://twitter.com/hashtag/stenolife?src=hash)
+- Reddit: [Unofficial Plover Subreddit: /r/Plover](http://reddit.com/r/plover)
