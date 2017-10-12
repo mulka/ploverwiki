@@ -43,13 +43,13 @@ These sites aim to teach you steno, from the layout to the terminology to the st
 
    This resource uses Anki's spaced repetition feature and 1200+ mnemonic stories and to help users learn and remember outlines for around 4300 common English words. (The words were taken from [a list of the 5,000 most common English words prepared by Mark Davies](https://www.wordfrequency.info/free.asp?s=y), but that list included duplicates, which is the main reason why the number is lower.) The document was prepared by a beginner and may not be 100% accurate, but the lists will be corrected periodically. The Reddit post has links to the Anki file, Excel file, and readme, or you can use the links below:
 
-[Anki deck download (Google Drive)](https://drive.google.com/open?id=0B2JUx_lPTmtAemRzMnNPWXlPajQ)
+-  [Anki deck download (Google Drive)](https://drive.google.com/open?id=0B2JUx_lPTmtAemRzMnNPWXlPajQ)
 
-[Excel file download ((Google Drive))](https://drive.google.com/open?id=0B2JUx_lPTmtAT0ZrRzc5YWpVRk0)
+-  [Excel file download ((Google Drive))](https://drive.google.com/open?id=0B2JUx_lPTmtAT0ZrRzc5YWpVRk0)
 
-[Readme download that explains the ROPE method (Google Drive)](https://drive.google.com/open?id=0B2JUx_lPTmtAZ0N5anhyMWVxUms)
+-  [Readme download that explains the ROPE method (Google Drive)](https://drive.google.com/open?id=0B2JUx_lPTmtAZ0N5anhyMWVxUms)
 
-[Link to the Anki deck on Ankiweb (Note: may not be updated as regularly as the Google Drive version)](https://ankiweb.net/shared/info/434809753). 
+-  [Link to the Anki deck on Ankiweb (Note: may not be updated as regularly as the Google Drive version)](https://ankiweb.net/shared/info/434809753). 
 
 
 
