@@ -94,7 +94,7 @@ To write "Hello, world." into a text editor with Plover, using a QWERTY keyboard
   * `lo` appears. 
 1. Simultaneously press `J`, `K`, `L`, and `;` (right index finger on `J`, right middle finger on `K`, right ring finger on `L`, and right little (pinky) finger on `;`), and then lift your fingers off the keys.
   * `,` appears.
-1. Simultaneously press `D`, `V`, `J`, `O`, and [ (left middle finger on `D`, left thumb on `V`, right index finger on `J`, right ring finger on `O`, and right little (pinky) finger on `[`), and then lift your fingers off the keys. 
+1. Simultaneously press `D`, `V`, `J`, `O`, and `[` (left middle finger on `D`, left thumb on `V`, right index finger on `J`, right ring finger on `O`, and right little (pinky) finger on `[`), and then lift your fingers off the keys. 
   * `world` appears.
 1. Simultaneously press `U`, `I`, `O`, and `P` (right index finger on `U`, right middle finger on `I`, right ring finger on `O`, right little (pinky) finger on `P`), and then lift your fingers off the keys. 
   * `.` appears.
