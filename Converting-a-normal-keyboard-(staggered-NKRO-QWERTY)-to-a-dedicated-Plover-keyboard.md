@@ -3,18 +3,20 @@ Converting a normal keyboard (staggered NKRO-QWERTY) to a dedicated Plover-keybo
 Performed on a LionCast Gaming Keyboard LK10
 
 ## Equipment
-### Most is optional
+#### (Most is optional)
 
 * Plover
 * Keyboard
 * Plastic baggies
-* Something to rip [keycaps](https://en.m.wikipedia.org/wiki/Keycap] off the keyboard (can be 3D-printed)
-* Label maker
-* Blue tack Skoletyggis
-Take picture of keyboard to know where keys used to be
-Use Plover to find out which keys are used, and which ones aren't
-Pluck off the keys in the Steno layout:
-#STKPWHRAO*EUFRPBLGTSDZ - except for F
+* Something to remove [keycaps](https://en.m.wikipedia.org/wiki/Keycap) from the keyboard (pulling tool that came with the keyboard or you [3D-](https://www.thingiverse.com/thing:1318655)[prin](https://www.thingiverse.com/thing:463824)[ted](https://www.thingiverse.com/thing:1326329), paperclip bent into hooks, adhesive tape. There are guides with text, pictures and videos out there. Google "remove keycap [name of your keyboard]")
+* Label maker with plastic tape
+* Blu tack
+
+## Steps
+
+1. Take picture of keyboard to know where keys used to be
+2. Use Plover to find out which keys are used, and which ones aren't
+3. Pluck off the keys in the Steno layout: #STKPWHRAO*EUFRPBLGTSDZ - except for F
 And yes, there's probably only a single S, T, P on your keyboard.
 Put them to the side
 Pluck off semicolon, colon, hyphen, asterisk, or similar
