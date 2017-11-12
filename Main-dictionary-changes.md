@@ -1,8 +1,8 @@
 # Main dictionary changes
 
-### Notes on significant/breaking changes between releases
+#### Notes on significant/breaking changes between releases
 
-# weekly-v4.0.0.dev5+9.gba958374
+## weekly-v4.0.0.dev5+9.gba958374
 
 Git: 06def5968
 
