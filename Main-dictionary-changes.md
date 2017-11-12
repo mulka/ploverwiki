@@ -2,9 +2,12 @@
 
 #### Notes on significant/breaking changes between releases
 
-## weekly-v4.0.0.dev5+9.gba958374
+To suggest changes to the dictionary, please leave a comment on [https://github.com/openstenoproject/plover/issues/400](issue #400).
 
-Git: 06def5968
+## November 2017
+
+- First version: weekly-v4.0.0.dev5+9.gba958374
+- Commit hash: 06def5968
 
 *6,494 additions and 965 deletions*
 
