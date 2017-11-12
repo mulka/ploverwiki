@@ -23,4 +23,4 @@ Git: 06def5968
 - `SOER` is "sorry", `SOR` for "sore"
 - `STEUBGS` is now "sticks", use `ST-BGS` for "statistics"
 - `SPEBGT` is "suspect", use `R-PT` for "respect".
-- New vocab: "m8", "vape", "sext", "dociousaliexpilisticfragicalirupes", "dayum", "covfefe", and maaaany others.
+- New vocab: "m8", "vape", "sext", "dociousaliexpilisticfragicalirupes", "dayum", "covfefe", and many others.
