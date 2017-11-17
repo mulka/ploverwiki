@@ -43,9 +43,9 @@ These sites aim to teach you steno, from the layout to the terminology to the st
 
     Just a small tutorial covering the top 100 English words according to Wikipedia. Many of them are briefs and this text gives some insight as to why these strokes are the way they are.
 
-- [ROPE--Remembering Outlines in Plover more Easily](https://www.reddit.com/r/Plover/comments/757w5u/roperemembering_outlines_in_plover_more_easily_a/)
+- [ROPE--Remembering Outlines in Plover more Easily](https://www.reddit.com/r/Plover/comments/7dap1k/rope_20_remembering_outlines_in_plover_more/)
 
-   This resource uses Anki's spaced repetition feature and 1200+ mnemonic stories to help users learn and remember outlines for around 4300 common English words. (The words were taken from [a list of the 5,000 most common English words prepared by Mark Davies](https://www.wordfrequency.info/free.asp?s=y), but that list included duplicates, which is the main reason why the number is lower.) The document was prepared by a beginner and may not be 100% accurate, but the lists will be corrected periodically. The Reddit post linked to above has links to the Anki file, Excel file, and readme.
+   This resource uses Anki's spaced repetition feature to help users learn and remember outlines for over 4000 common English words, and also includes over 1450 mnemonic stories that can make it easier to recall less intuitive outlines. The document was prepared by a beginner and may not be 100% accurate, but the lists will be corrected periodically. The Reddit post linked to above has links to the Anki file, Excel file, and readme.
 
 
 ## Dictation
