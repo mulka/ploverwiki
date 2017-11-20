@@ -52,7 +52,7 @@ after actually trying it:
 | Passport Touch                     | Advantage Software | USB, Bluetooth | While in "Emulation Mode": Stentura over Bluetooth or TX Bolt over USB ﻿ |
 | Protege                            | Stenograph         |                     |                         |
 | Revolution Grand                   | Neutrino Group     | Gemini PR (serial)  |                         |
-| Stentura 400 SRT                   | Stenograph         | Stentura (serial)   | [[Setup Instructions|How-to-setup-and-use-Plover-with-a-Stentura-400SRT]]  |
+| Stentura 400 SRT                   | Stenograph         | Stentura (serial)   | [Setup Instructions](https://github.com/openstenoproject/plover/wiki/How-to-setup-and-use-Plover-with-a-Stentura-400SRT)  |
 | Tréal                              | Word technologies  | Treal (USB)         |                         |
 | Wave                               | Stenograph         |                     |                         |
 
