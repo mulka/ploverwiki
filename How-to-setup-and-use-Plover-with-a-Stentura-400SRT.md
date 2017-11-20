@@ -1,29 +1,49 @@
 ## What you need
-* Stentura Stenograph device. This was done with a Stentura 400SRT, but it should work with others versions, as long as it is the electric version.
-* A cable. There are a few options here:
- + Option 1: The Stenograph realtime cable kit. The one that usually comes with the Stentura comes in three parts. A grey connector, a black connector, and a cable. There's nothing special about this cable, even though they try to pretend there is. So if you don't already have it, don't spend the amounts of money they are charging to get one. Use Option 2 instead.
- + Option 2: Any RS232 (Also called DB9) male to female cross over-cable (Also known as Null Modem). Here are a few options from Amazon:
-    - https://www.amazon.com/StarTech-com-RS232-Serial-Female-SCNM9FM2MBK/dp/B00CEMGMMM/
-    - https://www.amazon.com/Serial-Modem-Cable-Female-RS232/dp/B0026KE4CM/
-    - https://www.amazon.com/C2G-Cables-Go-Female-Adapter/dp/B000067RW2/  (No cable, so very short. Useful to minimize the amount of cords)
-    - https://www.amazon.com/CablesOnline-Slimline-Transfer-Adapter-AD-N04M-2/dp/B00HGIRU3O/ (Even shorter)
- + Option 3 (Not really an option): A serial (with Female connection) to USB converter with *built in cross-over*. This is more expensive, but simplifies the amount of cords and connections. Also I'm pretty sure that doesn't actually exist, since you can only get a male connector version of this.
 
-If you intend to connect to a PC serial port directly, or you somehow chose option three above, that's all you need. If you want to connect via USB, then you'll also need the following. If you're not sure if you'll need it, then you probably need it.
+1. Stentura Stenograph machine
+    
+    This was done with a Stentura 400SRT, but it should work with others versions (e.g. 200SRT), as long as it is the electric version.
+1. A serial cable.
 
-* Serial (Female connector) to USB converter. Once again, here are some options:
- + https://www.amazon.com/Sabrent-Serial-RS-232-Converter-CB-DB9P/dp/B00IDSM6BW/
- + https://www.amazon.com/Tera-Grand-Premium-Adapter-Supports/dp/B00BUZ0K68/ (No cable, so very short. Useful to minimize the amount of cords)
+    There are a couple options here:
+    + **Option 1: Stenograph realtime cable kit**
 
-**It's important that there is a cross-over cable at some point of the connection, and only one. The Stenograph cable has one built in.**
+        The one that usually comes with the Stentura comes in three parts. A grey connector, a black connector, and a cable. **There's nothing special about this cable**, even though they try to pretend there is. So if you don't already have it, don't spend the amounts of money they are charging to get one. **Use Option 2 instead.**
+    + **Option 2: Any RS232 (Also called DB9) male to female cross over-cable**
+
+        This is also known as Null Modem. This is a serial cable that will work with the machine.
+
+        Here are a few options from Amazon:
+        - [StarTech SCNM9FM2MBK](https://www.amazon.com/StarTech-com-RS232-Serial-Female-SCNM9FM2MBK/dp/B00CEMGMMM/)
+        - [Serial Modem Cable Female RS232](https://www.amazon.com/Serial-Modem-Cable-Female-RS232/dp/B0026KE4CM/)
+        - [C2G Female RS322 Adapter](https://www.amazon.com/C2G-Cables-Go-Female-Adapter/dp/B000067RW2/) — No cable, so very short. Useful to minimize the amount of cords
+        - [Cables Online Transfer Adapter](https://www.amazon.com/CablesOnline-Slimline-Transfer-Adapter-AD-N04M-2/dp/B00HGIRU3O/) — Even shorter
+
+1. USB to serial adapter
+
+    If you intend to connect to a PC serial port directly, you are already all set with the machine and serial cable. If you want to connect via USB, then you'll also need a USB to serial adapter. If you're not sure if you'll need it, then you probably need it.
+
+    * Serial (Female connector) to USB converter. Once again, here are some options:
+        + [Sabrent Serial RS232 Converter](https://www.amazon.com/Sabrent-Serial-RS-232-Converter-CB-DB9P/dp/B00IDSM6BW/)
+        + [Tera Grand Premium USB to serial adapter](https://www.amazon.com/Tera-Grand-Premium-Adapter-Supports/dp/B00BUZ0K68/) — No cable, so very short
+
+**It's important that there is a cross-over cable at some point of the connection, and only one. The Stenograph cable has one built in.** If you purchased any of the "option 2" cables, those are also cross-over cables and will work.
 
 The terms "RS232" and "DB9" mean the same thing and can be used interchangeably. The same goes for "Cross-over" and "Null Modem"
 
 ## Putting it all together
-Connecting all the pieces together is pretty straight forward. You can either connect directly to the PC's serial port (if it has one), or you can use the serial to USB converter. The RS232 cable will connect to the back of the Stenograph, and the other end to the USB connetor (or directly to the PC).
+
+If you have a **USB port:**
+
+- Computer USB port → USB to serial adapter → serial cross-over cable → steno machine
+
+If you have a **serial port** on your computer:
+
+- Computer serial port → serial cross-over cable → steno machine
 
 ## Connecting to Plover
-First, turn on the Stenograph. The green light should turn on, and the red light is usually off. If it's blinking, or the green and red are blinking back and forth, don't worry, it'll still work. If you want to stop the blinking, there are some instructions later.
+
+Turn on the Stenograph. The green light should turn on, and the red light is usually off. If it's blinking, or the green and red are blinking back and forth, don't worry, it'll still work. If you want to stop the blinking, there are some instructions later.
 
 Next, we can connect Plover to use the device. In Plover, click Configure. Select Stentura as the Stenotype machine. Click Configure.
 
