@@ -18,10 +18,10 @@ Note: Both of those amazon links are for 6 foot cables. Make sure you get a cord
 ## Setup
 
 Step 1. 
-Power cord. Connect USB A-to-B cable to Stentura machine and computer. Your machine now has power. On the front of your Stentura is a row of 6 grey buttons. Press and hold the 1st one to turn it on. 
+Connect power cord: Connect USB A-to-B cable to Stentura machine and computer. Your machine now has power. On the front of your Stentura is a row of 6 grey buttons. Press and hold the 1st one to turn it on. 
 
 Step 2. 
-Data cord. Connect serial-to-USB cable to Stentura machine and computer.
+Connect data cord: Connect serial-to-USB cable to Stentura machine and computer. 
 
 [Photo of cables connected.](https://imgur.com/wGc9y4p)
 
@@ -33,6 +33,10 @@ Open Plover. Click the configure button. A new configuration window will open. C
 
 Step 5. 
 Thanks to Plover, your Stentura can now type on your computer. Start learning plover with [lessons](https://sites.google.com/site/ploverdoc/lesson-1-fingers-and-keys)and [interactive drills](http://stenoknight.com/plover/haxeploverlearn/). 
+
+## Something went wrong
+
+I ran into a problem because I was using an older Serial-to-USB cable and Windows was not able to load the correct Prolific drivers for the cable. I found a solution. [This site](http://www.totalcardiagnostics.com/support/Knowledgebase/Article/View/92/20/prolific-usb-to-serial-fix-official-solution-to-code-10-error) explains the problem and gives you a link to download the right drivers. 
 
 ## Stentura Protege Manual
 
