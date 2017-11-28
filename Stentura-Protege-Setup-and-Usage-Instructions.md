@@ -55,7 +55,7 @@ My Stentura Protege did not come with a battery. As long as it has power it runs
  
 Option 1: Mute the speaker by putting a small bit of tape over the hole next to the plus sign shown in this photo.](https://imgur.com/4kgY1kC). This will lower the volume a lot and is non-destructive. 
 
-Option 2: Permanently remove the ability of your stenograph to make sounds. This will destructively remove all capabilities of your machine to make beeping sounds. I did this and my machine was fine, but do this at your own risk. 
+Option 2: Permanently remove the ability of your stenograph to make sounds. This will destructively remove all capabilities of your machine to make beeping sounds. Make sure you really want to go in this direction before moving forward. If you plan on using this machine with a battery, the low battery beep could be useful. I plan on only using it plugged in and I don't plan on getting a battery. I successfully completed this modification, but please do this at your own risk. 
 
 The speaker, a Piezo Electric Buzzer makes sound by vibrating a ceramic plate. This can be carefully broken. I used a screw. [Photo.](https://imgur.com/a/BRrsZ) Place it into the hole and gently twist. [Photo.](https://imgur.com/a/mQI5H) You can plug in the machine again to test if you have successfully disabled the speaker. If you no longer hear the chirp then you have been successful.  
 
