@@ -16,7 +16,7 @@ USB 2.0 Cable - A-Male to B-Male. (The Stentura Protege can be powered either by
 Note: Both of those Amazon links are for 6 foot cables. Make sure you get a cord long enough for your setup.
 
 **Why can't we just use the USB to transfer data?**
-Ideally, the USB cable could carry both power and data, but this is not possible because modern drivers are not available for the Protege and the USB link was only designed to work with Stentura software.
+Ideally, the USB cable could carry both power and data, but this is not possible because modern drivers are not available for the Protege and the USB link was only designed to work with Stentura software. Using a Serial-to-USB cable solves this problem. This cable carries the data and the cable has drivers that work with modern computers and Plover. So it really doesn't matter that Stentura no longer supports the Protege. 
 
 ## Setup
 
