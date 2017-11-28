@@ -10,10 +10,13 @@ You will need two cables:
 USB to RS-232 DB9 Male Serial Cable. (Make sure the cord has a male serial with 9 pins)
 - [Amazon link](http://a.co/9KWXIMP)
 2. **Power Cable:**
-USB 2.0 Cable - A-Male to B-Male. (The Stentura Protege can be powered either by USB or by a proprietary A/C charger. Your machine may come with a power chord. Mine did not. Ideally, the USB cable could carry both power and data, but this is not possible because modern drivers are not available and the USB link was only designed to work with Stentura software.)
+USB 2.0 Cable - A-Male to B-Male. (The Stentura Protege can be powered either by USB or by a proprietary A/C charger. Your machine may come with a power chord. Mine did not.)
 - [Amazon link](http://a.co/fQDbqWD)
 
 Note: Both of those Amazon links are for 6 foot cables. Make sure you get a cord long enough for your setup.
+
+**Why can't we just use the USB to transfer data? **
+Ideally, the USB cable could carry both power and data, but this is not possible because modern drivers are not available for the Protege and the USB link was only designed to work with Stentura software.
 
 ## Setup
 
