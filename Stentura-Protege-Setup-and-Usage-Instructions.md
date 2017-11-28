@@ -7,7 +7,7 @@ Congratulations on getting a Stentura Protege.
 You will need two cables:
 
 1. **Data Cable:** 
-USB to RS-232 DB9 Male Serial Cable. (Make sure the chord has a male serial with 9 pins)
+USB to RS-232 DB9 Male Serial Cable. (Make sure the cord has a male serial with 9 pins)
 - [Amazon link](http://a.co/9KWXIMP)
 2. **Power Cable:**
 USB 2.0 Cable - A-Male to B-Male. (Your machine may come with this. Mine did not. Ideally, the USB cable could carry data too but modern drivers are not available.)
