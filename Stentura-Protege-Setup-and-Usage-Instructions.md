@@ -49,9 +49,13 @@ I ran into a problem because I was using an older Serial-to-USB cable and Window
 
 My Stentura Protege did not come with a battery. As long as it has power it runs just fine, but it makes an annoying little beep every minute. This is the low battery beep and it beeps even if you have no battery connected. I searched through the manual and did not see a way to disable this. But, I discovered two approaches to remove the beeping. I will explain how below. I was successful but please try this at your own risk.
 
-**What is making the beep?** The beep is made by a small little speaker called a Piezo Electric Buzzer (cylinder with hole in it and plus sign). It is soldered to the circuit board. If you are curious, learn more about how these work in this [video](https://www.youtube.com/watch?v=77h1JhD9Syw).
+**What is making the beep?** The beep is made by a small little speaker called a Piezo Electric Buzzer (cylinder with hole in it and plus sign). It is soldered to the circuit board. (If you are curious, you can learn more about how these work in this [video](https://www.youtube.com/watch?v=77h1JhD9Syw).)
 
-**Opening up the machine** To see this beeping speaker you have to turn the machine over. [Photo.](https://imgur.com/a/0WPYP) Then, remove some screws. There are two sets of different sized screws. Make sure you keep track of which screws go where. (Hint: The smaller screws go with the metal washers. [Photo.](https://imgur.com/P0RR4dy)) Take the back cover off carefully because the battery wires are still attached to the case. Photo.
+**Opening up the machine** To see this beeping speaker you have to turn the machine over. [Photo.](https://imgur.com/a/0WPYP) Then, remove some screws. There are two sets of different sized screws. Make sure you keep track of which screws go where. (Hint: The smaller screws go with the metal washers. [Photo.](https://imgur.com/P0RR4dy)) Take the back cover off carefully because the battery wires are still attached to the case. [Photo.](https://imgur.com/kTWBKbM) Locate the beeping speaker. 
  
+Option 2: Permanently remove you the ability of your stenograph to make sounds. This will destructively remove all capabilities of your machine to make beeping sounds. Do this at your own risk. 
+
+The speaker, a Piezo Electric Buzzer makes sound by vibrating a ceramic plate. This can be carefully broken. I used a screw. [Photo.](https://imgur.com/a/BRrsZ) Place it into the hole and gently twist. [Photo.](https://imgur.com/a/mQI5H) You can plug in the machine again to test if you have successfully disabled the speaker. If you no longer hear the chirp then you have been successful.  
+
 
 It should be possible to desolder the chirp maker. 
