@@ -42,4 +42,6 @@ I ran into a problem because I was using an older Serial-to-USB cable and Window
 
 [Link to user guide PDF](http://www.stenograph.com/content/files/documents/Stentura%20Protege%20User%20Guide.pdf)
 
+## Stop The Beeping
 
+My Stentura Protege did not come with a battery. As long as it has power it runs just fine, but it makes an annoying little beep every minute. I will search through the manual to see if there is a way to disable this. If not, it should be possible to desolder the chirp maker. I will post photos if I attempt this. 
