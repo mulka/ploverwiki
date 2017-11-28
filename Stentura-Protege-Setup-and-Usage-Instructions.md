@@ -20,17 +20,17 @@ Note: Both of those amazon links are for 6 foot cables. Make sure you get a cord
 **Step 1.** 
 Connect power cord: Connect USB A-to-B cable to Stentura machine and computer. Your machine now has power. On the front of your Stentura is a row of 6 grey buttons. Press and hold the 1st one to turn it on. 
 
-**Step 2. **
+**Step 2.**
 Connect data cord: Connect serial-to-USB cable to Stentura machine and computer. 
 [Photo of cables connected.](https://imgur.com/wGc9y4p)
 
 **Step 3.** 
 Download the latest version of Plover for your OS.
 
-**Step 4. **
+**Step 4.**
 Open Plover. Click the configure button. A new configuration window will open. Click the tab for machine. Select Stentura from the drop down menu. Go back to the window where you clicked the configure button. Click the radio button "enable" to enable output. Click the reload button (arrows going in a circle) until the dot turns green and it says "Stentura: Connected"
 
-**Step 5. **
+**Step 5.**
 Thanks to Plover, your Stentura can now type on your computer. Start learning plover with [lessons](https://sites.google.com/site/ploverdoc/lesson-1-fingers-and-keys) and [interactive drills](http://stenoknight.com/plover/haxeploverlearn/). 
 
 ## Something went wrong
