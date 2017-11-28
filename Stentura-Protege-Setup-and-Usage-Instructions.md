@@ -13,7 +13,7 @@ USB to RS-232 DB9 Male Serial Cable. (Make sure the chord has a male serial with
 USB 2.0 Cable - A-Male to B-Male. (Your machine may come with this. Mine did not. Ideally, the USB cable could carry data too but modern drivers are not available.)
 - [Amazon link](http://a.co/fQDbqWD)
 
-Note: Both of those amazon links are for 6 foot cables. Make sure you get a cord long enough for your setup.
+Note: Both of those Amazon links are for 6 foot cables. Make sure you get a cord long enough for your setup.
 
 ## Setup
 
