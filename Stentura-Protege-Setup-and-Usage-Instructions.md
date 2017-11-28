@@ -1,4 +1,4 @@
-Congratulations on getting a Stentura Protege. This page will show you how to connect it to your computer and get started using Plover. 
+Congratulations on getting a Stentura Protege. This page will show you how to connect it to your computer and setup plover. 
 
 [Photo of my Protege. Note: My face plate is missing.](https://imgur.com/vKbiTOJ)
 
