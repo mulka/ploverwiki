@@ -2,7 +2,7 @@ Congratulations on getting a Stentura Protege.
 
 [Photo of my Protege. Note: My face plate is missing.](https://imgur.com/vKbiTOJ)
 
-## What you need
+## What you need to connect your Protege to your computer
 
 You will need two cables:
 
