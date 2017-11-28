@@ -53,7 +53,7 @@ My Stentura Protege did not come with a battery. As long as it has power it runs
 
 **Opening up the machine** To see this beeping speaker you have to turn the machine over. [Photo.](https://imgur.com/a/0WPYP) Then, remove some screws. There are two sets of different sized screws. Make sure you keep track of which screws go where. (Hint: The smaller screws go with the metal washers. [Photo.](https://imgur.com/P0RR4dy)) Take the back cover off carefully because the battery wires are still attached to the case. [Photo.](https://imgur.com/kTWBKbM) Locate the beeping speaker. It is labeled Alarm on the circuit board. [Photo.](https://imgur.com/4kgY1kC) 
  
-Option 1: Mute the speaker by putting a small bit of tape over the hole next to the plus sign shown in this photo.](https://imgur.com/4kgY1kC). This will lower the volume a lot and is non-destructive. 
+Option 1: Mute the speaker by putting a small bit of tape over the hole next to the plus sign shown in this [photo.](https://imgur.com/4kgY1kC). This will lower the volume a lot and is non-destructive. 
 
 Option 2: Permanently remove the ability of your stenograph to make sounds. This will destructively remove all capabilities of your machine to make beeping sounds. Make sure you really want to go in this direction before moving forward. If you plan on using this machine with a battery, the low battery beep could be useful. I plan on only using it plugged in and I don't plan on getting a battery. I successfully completed this modification, but please do this at your own risk. 
 
