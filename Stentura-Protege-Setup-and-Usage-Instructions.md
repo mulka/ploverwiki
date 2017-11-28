@@ -23,7 +23,7 @@ Connect serial-to-USB cable to your Stentura machine and to your computer.
 Step 2. 
 Connect USB A-to-B cable to your Stentura machine and your computer.
 
-[Photo of cables connected.](https://imgur.com/a/Oy6X0)
+[Photo of cables connected.](https://imgur.com/wGc9y4p)
 
 Step 3. 
 Download the latest version of Plover for your OS.
