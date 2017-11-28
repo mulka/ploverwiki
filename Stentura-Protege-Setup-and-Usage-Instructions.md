@@ -1,8 +1,8 @@
-Congratulations on getting a Stentura Protege. 
+Congratulations on getting a Stentura Protege. This page will show you how to connect it to your computer and get started using Plover. 
 
 [Photo of my Protege. Note: My face plate is missing.](https://imgur.com/vKbiTOJ)
 
-## What you need to connect your Protege to your computer
+## What you need
 
 You will need two cables:
 
