@@ -50,7 +50,7 @@ after actually trying it:
 | Infinity Genesis                   | Neutrino Group     | Gemini PR (serial)  |                         |
 | Passport                           | Advantage Software | Passport (USB)      |                         |
 | Passport Touch                     | Advantage Software | USB, Bluetooth | While in "Emulation Mode": Stentura over Bluetooth or TX Bolt over USB ﻿ |
-| Protege                            | Stenograph         | Stentura (serial)   | Connect Serial-to-USB cable to serial port of Protege. Use USB jack for power only (USB drivers not avail.) |
+| Protege                            | Stenograph         | Stentura (serial)   | Connect Serial-to-USB cable to serial port of Protege. Use USB jack for power only (USB drivers not avail.) [Setup Instructions](https://github.com/openstenoproject/plover/wiki/Stentura-Protege-Setup-and-Usage-Instructions)|
 | Revolution Grand                   | Neutrino Group     | Gemini PR (serial)  |                         |
 | Stentura 400 SRT                   | Stenograph         | Stentura (serial)   | [Setup Instructions](https://github.com/openstenoproject/plover/wiki/How-to-setup-and-use-Plover-with-a-Stentura-400SRT)  |
 | Tréal                              | Word technologies  | Treal (USB)         |                         |
