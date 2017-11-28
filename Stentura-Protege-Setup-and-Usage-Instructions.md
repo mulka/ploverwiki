@@ -22,7 +22,8 @@ Connect power cord: Connect USB A-to-B cable to Stentura machine and computer. Y
 
 **Step 2.**
 Connect data cord: Connect serial-to-USB cable to Stentura machine and computer. 
-[Photo of cables connected.](https://imgur.com/wGc9y4p)
+
+[Photo of both cables connected.](https://imgur.com/wGc9y4p)
 
 **Step 3.** 
 Download the latest version of Plover for your OS.
