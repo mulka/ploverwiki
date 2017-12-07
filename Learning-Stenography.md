@@ -69,7 +69,7 @@ If you want to eventually caption speakers, you will need to be able to take dic
    CRH has some free dictation posts. Especially useful is the [Magic Drill](http://courtreportinghelp.com/2016/01/02/magic-drills-free-audio-speed-drills/), for beginners and experts alike.
 - [englishlearning.webgarden.es](http://englishlearning.webgarden.es/menu/1st-and-2nd-eso-year/easy-reading-texts)
 
-   This little site has resources for ESL students, including some simple texts with slow (~100 WPM) dictation. Try the "Easy Dialogues" and "Easy Reading Texts" for 1st and 2nd year students and the "Easy Texts" for 3rd and 4th year students.
+   This repository of ESL resources has some simple texts with slow dictation. The "Easy Reading Texts" for 1st and 2nd year students and the "Easy Texts" for 3rd and 4th year students all appear to be at around 100 WPM.
 
 ## Flashcard decks
 
