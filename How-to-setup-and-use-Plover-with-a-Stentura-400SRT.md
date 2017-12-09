@@ -84,3 +84,12 @@ The memory will get full regularly so you'll have to do this occasionally. So re
 ## Manual
 
 Valentin from the [Plover Forums](https://groups.google.com/d/msg/ploversteno/dhLSXsPdGYY/jZQlVdcIAQAJ) has kindly scanned the entire manual. It is very useful to read, and you can get it [here](https://0au.de/~apo/stentura_200_400_srt_manual.pdf).
+
+## Resurrect a dead Stentura 200SRT/400SRT
+
+If the electronics in your 200SRT/400SRT aren't working, you may be interested in replacing them altogether with an Arduino controller. The machine will then be powered over USB through the Arduino -- don't plug in its own power supply lest you destroy your Arduino. The electric paper tape advance will not work; if you want paper tape you'll have to put the mechanism in manual mode (see the instructions) which has a slightly heavier touch, but you don't need paper tape for plover. Likewise, it will no longer have the ability to record strokes for later playback when not connected to the computer.
+
+It is a pretty simple task requiring soldering 6 wires to the switch board at 
+the top of the steno mechanism, just under the cover that opens. There's a [video](https://youtu.be/ccxri4A-SbM) and an [Arduino sketch](https://github.com/balthamos/steno-arduino). There is a debouncing delay constant in the sketch that may need to be increased if your machine produces multiple outputs in plover for a single stroke. 
+
+Note: this relies on the electronics on the switch board still working -- it is a collection of shift register ICs and seems likely to work even if the main electronics board at the bottom of the machine is no longer working. It would be a bigger job to wire the Arduino directly to all 24 switches but it could be done if the switch board electronics did not work.  
