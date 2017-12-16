@@ -10,7 +10,7 @@ You can start using these patterns today!
 
 <img src="https://images.discordapp.net/eyJ1cmwiOiJodHRwczovL2Rpc2NvcmQuc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9hdHRhY2htZW50cy8xMzY5NTM3MzU0MjY0NzM5ODQvMzE1OTMxNDg1MzU2MTYzMDg0L1NQVy0ucG5nIn0.PmMTgOlKRGBqsKjRfj79wRGZ2FU">
 
-This comes from Magnum steno. There are some entries in the default dictionary that use `SPW-`, although it's not documented in [Learn Plover]. Examples:
+This  originated in the first steno theory, published by Ward Stone Ireland in the early 20th century. Today, it is also a part of Magnum steno. There are some entries in the default dictionary that use `SPW-`, although it's not documented in [Learn Plover]. Examples:
 
   [Learn Plover]: https://sites.google.com/site/ploverdoc/home
 
