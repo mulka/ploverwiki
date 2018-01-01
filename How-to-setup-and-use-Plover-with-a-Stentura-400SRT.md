@@ -61,9 +61,9 @@ Next, we can connect Plover to use the device. In Plover, click **Configure**. I
 
 Click the **Scan** button, next to **Port**. This will refresh the Port list. You'll need to find the correct port number. If there is only one, it's probably the one you want. If there is more that one, you can try a few until you find the one that works. If you're using a USB device, it's likely to be the larger number. If you're connecting to the serial port directly, it'll probably be the first one.
 
-When using the USB converter, the other settings should stay at the defaults. Which are 9600, 8, N, 1, no flow control. When connecting with a serial port, it is recommended to use a baud rate of 2400.
+When using the USB converter, the other settings should stay at the defaults. Which are 9600, 8, N, 1, no flow control. When connecting with a serial port, it is recommended to use a baud rate of 2400. (Note: some users have found that they need to use 2400 as the baud rate even when using a USB converter.) 
 
-Press `OK` to get out of the Configure menu, until you get back to the main Plover screen. Click the refresh button, and it should say `Stentura: connected`. If not, then something went wrong, double check all the steps above.
+Press `OK` to get out of the Configure menu, until you get back to the main Plover screen. Click the refresh button, and it should say `Stentura: connected`. A successful connection is also indicated by the red light on the Stentura turning on -- it will not come on until Plover connects. If the connection is not established, then something went wrong, try pressing the `reconnect` button in the Plover window, or hit Ctrl-R with the main plover window in focus, and double check all the steps above. 
 
 That's it. You should get output when typing.
 
