@@ -20,6 +20,7 @@
     - [Lowercase Next Word](#lowercase-next-word)
     - [Lowercase Last Word](#lowercase-last-word)
   - [Canceling Formatting of Next Word](#canceling-formatting-of-next-word)
+  - [Format Currency](#format-currency)
 - [Undoable Line Breaks and Tabs](#undoable-line-breaks-and-tabs)
 - [Commands](#commands)
   - [Repeat Last Stroke](#repeat-last-stroke)
@@ -215,6 +216,18 @@ In order to cancel formatting of the next word, use the empty meta tag as your d
 Using `{}` in front of a arrow key commands, as in `{}{#Left}`, is useful if the arrow key commands are used to move cursor to edit text. Canceling formatting actions for cursor movement prevents Plover from, for instance, capitalizing words in middle of a sentence if cursor is moved back when the last stroke, such as `{.}`, includes action to capitalize next word.
 
 See also the ["do nothing" translation](#do-nothing-translation)
+
+### Format Currency
+
+There is a built-in meta in Plover that allows you to format the last-written number as currency. The format is `{*($c)}` where `$` is any currency symbol you'd like, and `c` is the amount, formatted in standard currency format, with either no decimals or two. Commas are added every 3 numbers before the decimal automatically.
+
+- `{*($c)}`: Standard English dollars
+  + `23{*($c)}` → $23
+  + `2000.5{*($c)}` → $2,000.50
+- `{*($c CAD)}`: You can include other text, e.g. when specifying a currency's country
+  - `100{*($c CAD)}` → $100 CAD
+- `{*(c円)}`: The symbol can be placed on either side of the number, which often happens in languages other than English and in certain regions.
+  - `2345{*(c円)}`: 2,345円
 
 ## Undoable Line Breaks and Tabs
 
