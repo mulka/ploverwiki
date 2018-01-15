@@ -3,7 +3,7 @@
 **Table of Contents**
 
 - [About Strokes and Dictionaries](#strokes-and-dictionaries)
-- [The Three Standard Plover Dictionaries](#the-standard-plover-dictionaries)
+- [Plover's Default Dictionaries](#plovers-default-dictionaries)
 - [JSON and RTF/CRE](#json-and-rtfcre)
 - [Plover Control Commands](#plover-control-commands)
 - [Sending Symbols](#sending-symbols)
@@ -43,7 +43,7 @@ If you are new to stenography:
 - The dictionaries map a stroke (or a combination of strokes) to an English word or phrase, number, punctuation symbol, emoji, software command, or a meta command for controlling spacing and capitalization.
 - Every stenographer creates their own customized dictionary to supplement or amend the default dictionary that comes with a steno application, such as Plover. By default, you add your customizations to the `user.json` dictionary that comes with Plover.
 
-## The Three Standard Plover Dictionaries
+## Plover's Default Dictionaries
 
 Plover comes supplied with three dictionaries: 
 
