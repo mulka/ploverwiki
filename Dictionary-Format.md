@@ -229,6 +229,8 @@ There is a built-in meta in Plover that allows you to format the last-written nu
 - `{*(c円)}`: The symbol can be placed on either side of the number, which often happens in languages other than English and in certain regions.
   - `2345{*(c円)}`: 2,345円
 
+Here are some other currency symbols, in case you need to copy-paste them into your entries: £, ¥, €, $, ₩, ¢
+
 ## Undoable Line Breaks and Tabs
 
 When you use [commands and keyboard shortcuts](#commands-and-keyboard-shortcuts), the asterisk/undo command on Plover will not have any effect. This is a limitation imposed by the fact that most commands will not have a meaningful undo. For example, you wouldn't "undo" a "copy" command. For this reason, `{#return}` and `{#tab}` don't work how many users would expect.
