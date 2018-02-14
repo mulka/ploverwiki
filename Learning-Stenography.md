@@ -35,6 +35,8 @@ These sites aim to teach you steno, from the layout to the terminology to the st
 
 - [Steno Jig](https://joshuagrams.github.io/steno-jig/) has a wide variety of words, sentences, etc that you can practice with optional stroke suggestions. There are several beginner drills, and a large set of vocabulary words, and sentence practice drills that you can work through to gradually learn the top 8,000 most used words.
 
+- [Typey Type for Stenographers](https://didoesdigital.com/typey-type/) is a drilling and learning resource with a fair amount of practice material and detailed quantitative feedback. It also allows the user to upload their own practice material.
+
 - [Plover Dojo](http://ploverdojo.appspot.com/)
 
     A lovely visual approach to learning the keyboard and basic chords, using a standard QWERTY keyboard, by JR, Jay Liu, and Myrntillae Nash.
