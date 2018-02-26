@@ -438,4 +438,4 @@ Here is a summary of the suggested commands you can cut and paste into your pers
 "TK-FPS":"{*!}"
 }
 ```
-> **Note:** You do not need a comma after the final entry in your personal dictionary.
+> **Note:** The final entry must not have a trailing comma.
