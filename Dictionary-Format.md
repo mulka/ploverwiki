@@ -23,8 +23,12 @@ This page contains an explanation for the syntax used in Plover's dictionaries, 
   - [Canceling Formatting of Next Word](#canceling-formatting-of-next-word)
   - [Format Currency](#format-currency)
 - [Undoable Line Breaks and Tabs](#undoable-line-breaks-and-tabs)
-- [Commands](#commands)
+- [Macros](#macros)
+  - [Undo/Delete](#undo-delete)
   - [Repeat Last Stroke](#repeat-last-stroke)
+  - [Toggle asterisk](#toggle-asterisk)
+  - [Retrospectively Add Space](#retrospectively-add-space)
+  - [Retrospectively Delete Space](#retrospectively-delete-space)
 - [Keyboard Shortcuts](#keyboard-shortcuts)
   - [Modifier Names](#modifier-names)
   - [Shortcut Key Names](#shortcut-key-names)
@@ -265,7 +269,15 @@ For example:
 
     This translation presses the tab key without any other spacing. It can be undone with the asterisk key.
 
-## Commands
+## Macros
+
+Macros can be mapped from a stroke and perform operations on the stroke-level. This means that it can perform actions based on previous strokes, not necessarily on previous words or translations.
+
+### Undo/Delete
+
+- `=undo`
+
+The built-in "undo" macro is assigned to the asterisk key `*`. You can map other strokes to "undo" or "delete last stroke" by creating a stroke where the translation is `=undo`
 
 ### Repeat Last Stroke
 
