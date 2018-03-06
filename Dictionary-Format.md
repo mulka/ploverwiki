@@ -24,7 +24,7 @@ This page contains an explanation for the syntax used in Plover's dictionaries, 
   - [Format Currency](#format-currency)
 - [Undoable Line Breaks and Tabs](#undoable-line-breaks-and-tabs)
 - [Macros](#macros)
-  - [Undo/Delete](#undo-delete)
+  - [Undo / Delete Last Stroke](#undo-delete-last-stroke)
   - [Repeat Last Stroke](#repeat-last-stroke)
   - [Toggle asterisk](#toggle-asterisk)
   - [Retrospectively Add Space](#retrospectively-add-space)
@@ -32,7 +32,7 @@ This page contains an explanation for the syntax used in Plover's dictionaries, 
 - [Keyboard Shortcuts](#keyboard-shortcuts)
   - [Modifier Names](#modifier-names)
   - [Shortcut Key Names](#shortcut-key-names)
-  - [Sample Shortcuts](#sample-shortcuts)
+  - [Example Shortcuts](#Example-shortcuts)
   - ["Do Nothing" Translation](#do-nothing-translation)
 - [Output Modes](#output-modes)
   - [Reset Command](#reset-command)
@@ -273,7 +273,7 @@ For example:
 
 Macros can be mapped from a stroke and perform operations on the stroke-level. This means that it can perform actions based on previous strokes, not necessarily on previous words or translations.
 
-### Undo/Delete
+### Undo / Delete Last Stroke
 
 - `=undo`
 
