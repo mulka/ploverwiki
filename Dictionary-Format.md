@@ -1,4 +1,4 @@
-> **Note:** We haven't finished writing this page. You will currently find a more complete list of keyboard commands at [Learn Plover! Appendix: The Dictionary Format](https://sites.google.com/site/ploverdoc/appendix-the-dictionary-format). Warning: _Learn Plover!_ describes the commands and keyboard shortcuts for Plover 3.0 and earlier. This page describes the commands and keyboard shortcuts in Plover 3.1 and later. This means this page has a more accurate description of those functions. 
+This page contains an explanation for the syntax used in Plover's dictionaries, as well as the operators that control capitalization, spacing, keyboard shortcuts, and other commands.
 
 **Table of Contents**
 
