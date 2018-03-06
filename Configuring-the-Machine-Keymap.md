@@ -9,3 +9,5 @@ Remapping keys is especially useful when using your Keyboard as a steno machine,
 The `Key` column enumerates every key that Plover can control on your machine. This is a list of all keys on the keyboard. For American steno machines, the key names will be the Ireland layout defaults (S, T, K, etc.)
 
 The `Action` column is what you'd like Plover to see when the key is pressed. The available actions will change depending on which system (e.g. English Stenotype) you have enabled.
+
+[[https://raw.github.com/wiki/openstenoproject/plover/images/keyboard_keymap.png|alt=Keymap configuration for the keyboard machine with some actions mapped to keys on the top row of the keyboard]]
