@@ -24,7 +24,7 @@ This page contains an explanation for the syntax used in Plover's dictionaries, 
   - [Format Currency](#format-currency)
 - [Undoable Line Breaks and Tabs](#undoable-line-breaks-and-tabs)
 - [Macros](#macros)
-  - [Undo / Delete Last Stroke](#undodelete-last-stroke)
+  - [Undo / Delete Last Stroke](#undo--delete-last-stroke)
   - [Repeat Last Stroke](#repeat-last-stroke)
   - [Toggle asterisk](#toggle-asterisk)
   - [Retrospectively Add Space](#retrospectively-add-space)
