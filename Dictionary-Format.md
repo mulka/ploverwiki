@@ -9,6 +9,7 @@
 - [Sending Symbols](#sending-symbols)
 - [Text Formatting](#text-formatting)
   - [Prefixes, Infixes, and Suffixes](#prefixes-infixes-and-suffixes)
+  - [Glue Operator (Numbers, Fingerspelling)](#glue-operator-numbers-fingerspelling)
   - [Capitalizing](#capitalizing)
     - [Capitalize Next Word](#capitalize-next-word)
     - [Capitalize Last Word](#capitalize-last-word)
@@ -121,6 +122,20 @@ Strokes can be attached at the beginning and/or end using the "attach" operator.
 - `{^-to-^}` is an infix, e.g. `day-to-day`.
 - `{in^}` is a prefix, e.g. `influx`.
 - Most custom punctuation entries will take advantage of the attach operator, e.g. `{^—^}` for an emdash.
+
+### Glue Operator (Numbers, Fingerspelling)
+
+Glue is sort of like the [attach operator](#prefixes-infixes-suffixes) above, except that "glued" strokes only attach to neighboring "glue" strokes.
+
+Translations containing *only* digits are glued, allowing you to output multiple number strokes to make a large number.
+
+- `{&}` is the glue operator.
+- `{&a}`, `{&b}`, `{&c}`, etc. are how the fingerspelling alphabet is made.
+- `{&th}` is a multiletter glue stroke, which can be useful (`TH*` in the default dictionary)
+
+Because glued translations only glue to other glued translations, they won't attach to regular words. This gives us some power because you can write:
+
+`THR/-R/#H/#A/KATS` to get "there are 45 cats" and only `#H` (4) and `#A` (5) are "glued" to each other.
 
 ### Capitalizing
 
