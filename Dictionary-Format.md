@@ -188,7 +188,7 @@ The default dictionary for Plover should use these operators where appropriate.
 
 ### Uppercasing (CAPS)
 
-See [Output Modes](#output-modes) for CAPS mode, which acts like CAPS lock on a regular keyboard. Alternatively, you can use a [Command](#commands-and-keyboard-shortcuts) set to `{#Caps_Lock}` to activate the system CAPS lock like you can on your keyboard.
+See [Output Modes](#output-modes) for CAPS mode, which acts like CAPS lock on a regular keyboard. Alternatively, you can use a [Keyboard Shortcut](#keyboard-shortcuts) set to `{#Caps_Lock}` to activate the system CAPS lock like you can on your keyboard.
 
 **Suggested stroke:** `"KA*PS": "{MODE:CAPS}"`
 
@@ -252,7 +252,7 @@ Here are some other currency symbols, in case you need to copy-paste them into y
 
 ## Undoable Line Breaks and Tabs
 
-When you use [commands and keyboard shortcuts](#commands-and-keyboard-shortcuts), the asterisk/undo command on Plover will not have any effect. This is a limitation imposed by the fact that most commands will not have a meaningful undo. For example, you wouldn't "undo" a "copy" command. For this reason, `{#return}` and `{#tab}` don't work how many users would expect.
+When you use [keyboard shortcuts](#keyboard-shortcuts), the asterisk/undo command on Plover will not have any effect. This is a limitation imposed by the fact that most commands will not have a meaningful undo. For example, you wouldn't "undo" a "copy" command. For this reason, `{#return}` and `{#tab}` don't work how many users would expect.
 
 Instead, we must use special characters that can be undone by Plover for new paragraphs and erasable tabs. Specifically: 
 
