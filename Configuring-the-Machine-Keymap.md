@@ -4,6 +4,10 @@ You can remap how Plover handles keys on your machine.
 
 The available options are affected by your system and the machine you are using.
 
+### What is a keymap?
+
+A key map is....
+
 ### Remapping Keys to Different Actions
 
 The `Key` column enumerates every key that Plover can control on your machine. This is a list of all keys on the keyboard. For American steno machines, the key names will be the Ireland layout defaults (S, T, K, etc.)
