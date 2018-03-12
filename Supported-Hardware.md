@@ -85,17 +85,18 @@ To test your keyboard for NKRO capability:
 
 If all keys are typed into the text editor, your keyboard probably has NKRO.
 
-### Test #2: Microsoft's keyboard ghosting demonstration website test
-[Microsoft's keyboard ghosting demonstration website](http://www.microsoft.com/appliedsciences/content/projects/KeyboardGhostingDemo.aspx) provides a browser-based application that lets you test your keyboard's capabilities for registering multiple key presses. 
+### Test #2: Keyboard Ghosting Test
+[Keyboard Ghosting Test](https://scratch.mit.edu/projects/20966625/) provides a browser-based application that lets you test your keyboard's capabilities for registering multiple key presses. 
 
 To test your keyboard:
 
-1. Open your web browser and go to [Microsoft's keyboard ghosting demonstration website](http://www.microsoft.com/appliedsciences/content/projects/KeyboardGhostingDemo.aspx).
-1. Click "**Click To Use**". Each key you press will light up green in the picture of a keyboard. 
+1. Open your web browser and go to [Keyboard Ghosting Test](https://scratch.mit.edu/projects/20966625/).
+1. Click the flag to start.
+    * Each key you press will light up in the picture of a keyboard. 
 1. Press the middle row keys `asdfjkl;`.
-  * With a normal keyboard only 6 of the 8 keys will light up green (maybe fewer).
-  * If your keyboard has N-key rollover, all 8 keys will light up green. 
-1. Press other multiple-key combinations, such as `yuhj`, and see if they all light up green.
+    * With a normal keyboard only 6 of the 8 keys will light up (maybe fewer).
+    * If your keyboard has N-key rollover, all 8 keys will light up. 
+1. Press other multiple-key combinations, such as `yuhj`, and see if they all light up.
 
 ## What if my keyboard is not capable of NKRO?
 
