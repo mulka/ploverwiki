@@ -16,7 +16,7 @@ The `Action` column is what you'd like Plover to see when the key is pressed. Th
 
 ### Disabling Keyboard Keys
 
-Remapping keys is especially useful when using your Keyboard as a steno machine, as you may want to set keys to `no-op` (short for "no operation") which will disable that key while Plover is running.
+Remapping keys is especially useful when using your keyboard as a steno machine, as you may want to set keys to `no-op` (short for "no operation") which will disable that key while Plover is running.
 
 [[https://raw.github.com/wiki/openstenoproject/plover/images/keyboard_keymap.png|alt=Keymap configuration for the keyboard machine with some actions mapped to keys on the top row of the keyboard]]
 
