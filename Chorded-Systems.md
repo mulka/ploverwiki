@@ -2,6 +2,12 @@ A chorded system, or *system* for short, is a set of rules for Plover that deter
 
 The [American Ward-Ireland Stone Stenotype](https://en.wikipedia.org/wiki/Stenotype) is the default layout in Plover, and what we teach and recommend by default. However, there are many different chorded systems worldwide and some of them have been implemented in Plover.
 
+### Legend
+
+- ✅ Available for Plover
+- 🚧 In Development
+- ❌ Not in Development
+
 ## English
 
 ### ✅English Stenotype
