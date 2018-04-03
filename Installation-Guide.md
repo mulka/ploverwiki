@@ -84,6 +84,8 @@ An [AppImage](http://appimage.org/) is provided: it includes all the necessary d
 - [make it executable](http://discourse.appimage.org/t/how-to-make-an-appimage-executable/80)
 - launch it like a standard executable
 
+Note: you can install the AppImage for your current user (and register Plover in your standard applications menu) by executing it with the `--install` flag. If you had previously installed another AppImage version of Plover, it will be automatically uninstalled and replaced.
+
 --------------------
 
 ## Setting up my machine
