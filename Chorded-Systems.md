@@ -42,6 +42,14 @@ Sorizava, developed by [a company of the same name](http://www.sorizava.co.kr/),
 
 The Sorizava system is not currently under development. There are partial pieces of an implementation in [plover-korean](https://github.com/nsmarkop/plover_korean) but outside of a dictionary no theory materials have been obtained to progress further.
 
+## Portuguese
+
+### Brazillian Stenotype
+
+Used by [Paulo Paniago](http://openstenoblog.blogspot.ca/2015/04/my-experience-in-open-source.html). No public dictionary currently available.
+
+Available as a plugin in Plover 4+ through the Plugins Manager: [plover-portuguese](https://pypi.python.org/pypi/plover-portuguese)
+
 ## Russian
 
 ### Trillo ✅
