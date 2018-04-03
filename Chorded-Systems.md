@@ -44,7 +44,7 @@ The Sorizava system is not currently under development. There are partial pieces
 
 ## Portuguese
 
-### Brazillian Stenotype ✅
+### Brazilian Stenotype ✅
 
 Used by [Paulo Paniago](http://openstenoblog.blogspot.ca/2015/04/my-experience-in-open-source.html). No public dictionary currently available.
 
