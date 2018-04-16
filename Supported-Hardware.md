@@ -181,8 +181,9 @@ If you want to always have steno on the go, you might consider finding a noteboo
 
 | Model    | Screen Size | Manufacturer    | Feature | Price |
 | -------- | ----------- | --------------- | ------- | ----- |
-| Alienware R3 | 13", 15", 17" | Dell        | NKRO    | $1000 - $3000 |
-| Zephyrus GX501 | 17"   | Asus        | 30KRO   | $2500     |
-| GL502    | 15"         | Asus        | 30KRO   | $1900     |
-| GL553    | 15"         | Asus        | 30KRO   | $1200     |
-| P57X     | 17"         | Gigabyte    | 30KRO   | $1800     | 
+| [Alienware R3/R4](http://www.dell.com/en-us/shop/dell-laptops/sc/laptops/alienware-laptops) | 13", 15", 17" | Dell        | n-key rollover    | $1000 - $3000 |
+| [Zephyrus GX501](https://www.asus.com/ca-en/Laptops/ROG-ZEPHYRUS-GX501/) | 17"   | Asus        | 30-key rollover   | $2500     |
+| [GL502](https://www.asus.com/ca-en/ROG-Republic-Of-Gamers/ROG-GL502VT/)    | 15"         | Asus        | 30-key rollover   | $1900     |
+| [GL553](https://www.asus.com/ca-en/Laptops/ROG-GL553VD/)    | 15"         | Asus        | 30-key rollover   | $1200     |
+| [Aero 15/15x](https://www.gigabyte.com/us/Laptop/AERO-15--i7-8750H) | 15"      | Gigabyte    | n-key rollover   | $1600-$2900 |
+| [P57X](https://www.gigabyte.com/Laptop/P57X-v7)     | 17"         | Gigabyte    | 30-key rollover   | $1800     | 
