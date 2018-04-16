@@ -181,7 +181,7 @@ If you want to always have steno on the go, you might consider finding a noteboo
 
 | Model    | Screen Size | Manufacturer    | Feature | Price |
 | -------- | ----------- | --------------- | ------- | ----- |
-| [Predator Triton 700](https://us-store.acer.com/predator-triton-700-gaming-laptop-pt715-51-732q) | 15" | n-key rollover | $3000 |
+| [Predator Triton 700](https://us-store.acer.com/predator-triton-700-gaming-laptop-pt715-51-732q) | 15" | Acer | n-key rollover | $3000 |
 | [Alienware R3/R4](http://www.dell.com/en-us/shop/dell-laptops/sc/laptops/alienware-laptops) | 13", 15", 17" | Dell        | n-key rollover    | $1000 - $3000 |
 | [Zephyrus GX501](https://www.asus.com/ca-en/Laptops/ROG-ZEPHYRUS-GX501/) | 17"   | Asus        | 30-key rollover   | $2500     |
 | [GL502](https://www.asus.com/ca-en/ROG-Republic-Of-Gamers/ROG-GL502VT/)    | 15"         | Asus        | 30-key rollover   | $1900     |
