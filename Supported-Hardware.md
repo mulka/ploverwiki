@@ -1,10 +1,28 @@
 This page lists the machine known to work with Plover.
 
-It lists:
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-* [Dedicated machines designed for use with Plover](#dedicated-machines-designed-for-use-with-plover)
-* [Stenotype machines](#stenotype-machines)
-* [Computer keyboards with NKRO](#keyboards)
+- [Dedicated machines designed for use with Plover](#dedicated-machines-designed-for-use-with-plover)
+- [Stenotype Machines](#stenotype-machines)
+  - [Supported protocols](#supported-protocols)
+  - [Known supported stenotypes](#known-supported-stenotypes)
+- [Keyboards](#keyboards)
+  - [What's NKRO?](#whats-nkro)
+  - [How do I know if my keyboard has NKRO](#how-do-i-know-if-my-keyboard-has-nkro)
+    - [Test #1: Double Shift](#test-1-double-shift)
+    - [Test #2: Keyboard Ghosting Test](#test-2-keyboard-ghosting-test)
+  - [What if my keyboard is not capable of NKRO?](#what-if-my-keyboard-is-not-capable-of-nkro)
+  - [Known supported keyboards](#known-supported-keyboards)
+    - [Which type of key switch should I choose?](#which-type-of-key-switch-should-i-choose)
+  - [Adapt a keyboard for steno use](#adapt-a-keyboard-for-steno-use)
+    - [Keytoppers](#keytoppers)
+    - [Keycaps](#keycaps)
+    - [NKRO keyboards with an ortholinear layout](#nkro-keyboards-with-an-ortholinear-layout)
+    - [Notebooks with NKRO](#notebooks-with-nkro)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Dedicated machines designed for use with Plover
 
