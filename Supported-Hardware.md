@@ -19,8 +19,8 @@ This page lists the machine known to work with Plover.
   - [Adapt a keyboard for steno use](#adapt-a-keyboard-for-steno-use)
     - [Keytoppers](#keytoppers)
     - [Keycaps](#keycaps)
-    - [NKRO keyboards with an ortholinear layout](#nkro-keyboards-with-an-ortholinear-layout)
-    - [Notebooks with NKRO](#notebooks-with-nkro)
+  - [NKRO keyboards with an ortholinear layout](#nkro-keyboards-with-an-ortholinear-layout)
+  - [Notebooks with NKRO](#notebooks-with-nkro)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -204,7 +204,7 @@ If you have a mechanical keyboard, it is likely your keys have a [Cherry MX stem
 
 Keys that have little space between them are good for steno, because then you can hit two neighboring keys with one finger (which is frequently necessary).
 
-### NKRO keyboards with an ortholinear layout
+## NKRO keyboards with an ortholinear layout
 
 Keyboards with an "ortholinear" layout have the keys in straight columns. This is handy for steno, as it makes it easier to press two keys in a column with a single finger. 
 
@@ -216,17 +216,18 @@ The following machines have been confirmed by users to work with Plover after ac
 | [Planck](http://olkb.com/planck/) | OLKB | USB | The Planck is a NKRO keyboard with an ortholinear layout. It is 40% the size of a standard keyboard.|
 |[Preonic](http://olkb.com/preonic/)| OLKB | USB | The Preonic is a NKRO keyboard with an ortholinear layout. It is 50% the size of a standard keyboard. |
 
-### Notebooks with NKRO
+## Notebooks with NKRO
 
 If you want to always have steno on the go, you might consider finding a notebook with NKRO. Note that not all these machines are equivalent in terms of actuation force or key shape. You might find, for example, that chiclet keys don't feel as good as the Alienware's classic keyboard style. It's always best to try laptop keyboards at a local store, if possible.
 
-| Model    | Screen Size | Manufacturer    | Feature | Price (USD) | Weight |
+| Model    | Screen Size | Manufacturer    | Rollover | Price (USD) | Weight |
 | -------- | ----------- | --------------- | ------- | ----- | ------ |
-| [Predator Triton 700](https://us-store.acer.com/predator-triton-700-gaming-laptop-pt715-51-732q) | 15" | Acer | n-key rollover | $3000 | 5.3 lbs |
-| [Zephyrus GX501](https://www.asus.com/ca-en/Laptops/ROG-ZEPHYRUS-GX501/) | 17"   | Asus        | 30-key rollover   | $2500     | 4.85lbs |
-| [GL502](https://www.asus.com/ca-en/ROG-Republic-Of-Gamers/ROG-GL502VT/)    | 15"         | Asus        | 30-key rollover   | $1900     | 4.9 lbs |
-| [GL553](https://www.asus.com/ca-en/Laptops/ROG-GL553VD/)    | 15"         | Asus        | 30-key rollover   | $1200     | 5.5 lbs |
-| [Alienware R3/R4](http://www.dell.com/en-us/shop/dell-laptops/sc/laptops/alienware-laptops) | 13", 15", 17" | Dell        | n-key rollover    | $1000 - $3000 | 5.8 to 9.8 lbs |
-| [Aero 15/15x](https://www.gigabyte.com/us/Laptop/AERO-15--i7-8750H) | 15"      | Gigabyte    | n-key rollover   | $1600-$2900 | 4.6 lbs |
-| [P57X](https://www.gigabyte.com/Laptop/P57X-v7)     | 17"         | Gigabyte    | 30-key rollover   | $1800     | 6.6 + 2.2 (power adaptor) lbs |
-| HP Omen [15](https://store.hp.com/us/en/pdp/omen-by-hp---15-ce051nr) and [17](https://store.hp.com/us/en/pdp/omen-by-hp---17-an053nr) | 15", 17" | HP | 26-key rollover | $1900 | 5.77 lbs, 8.23 lbs |
+| [Predator Triton 700](https://us-store.acer.com/predator-triton-700-gaming-laptop-pt715-51-732q) | 15" | Acer | n-key | $3000 | 5.3 lbs |
+| [Zephyrus GX501](https://www.asus.com/ca-en/Laptops/ROG-ZEPHYRUS-GX501/) | 15"   | Asus        | 30-key   | $2500     | 4.85lbs |
+| [GL502](https://www.asus.com/ca-en/ROG-Republic-Of-Gamers/ROG-GL502VT/)    | 15"         | Asus        | 30-key   | $1900 | 4.9 lbs |
+| [GL553](https://www.asus.com/ca-en/Laptops/ROG-GL553VD/)    | 15"         | Asus        | 30-key  | $1200     | 5.5 lbs |
+| Aorus [X5 v8](https://www.aorus.com/product-detail.php?p=744) and [X7 v8](https://www.aorus.com/product-detail.php?p=745) | 15", 17" | Aorus | 80-key | $2600, $3000 | 5.51 lbs, 7.05 lbs |
+| [Alienware R3/R4](http://www.dell.com/en-us/shop/dell-laptops/sc/laptops/alienware-laptops) | 13", 15", 17" | Dell        | n-key | $1000 to $3000 | 5.8 to 9.8 lbs |
+| [Aero 15/15x](https://www.gigabyte.com/us/Laptop/AERO-15--i7-8750H) | 15"      | Gigabyte    | 80-key   | $2000 to $2900 | 4.6 lbs |
+| [P57X](https://www.gigabyte.com/Laptop/P57X-v7)     | 17"         | Gigabyte    | 30-key   | $1800     | 6.6 + 2.2 (power adaptor) lbs |
+| HP Omen [15](https://store.hp.com/us/en/pdp/omen-by-hp---15-ce051nr) and [17](https://store.hp.com/us/en/pdp/omen-by-hp---17-an053nr) | 15", 17" | HP | 26-key | $1900 | 5.77 lbs, 8.23 lbs |
