@@ -20,7 +20,7 @@ This page lists the machine known to work with Plover.
     - [Keytoppers](#keytoppers)
     - [Keycaps](#keycaps)
   - [NKRO keyboards with an ortholinear layout](#nkro-keyboards-with-an-ortholinear-layout)
-  - [Notebooks with NKRO](#notebooks-with-nkro)
+- [Notebooks with NKRO](#notebooks-with-nkro)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -216,7 +216,7 @@ The following machines have been confirmed by users to work with Plover after ac
 | [Planck](http://olkb.com/planck/) | OLKB | USB | The Planck is a NKRO keyboard with an ortholinear layout. It is 40% the size of a standard keyboard.|
 |[Preonic](http://olkb.com/preonic/)| OLKB | USB | The Preonic is a NKRO keyboard with an ortholinear layout. It is 50% the size of a standard keyboard. |
 
-## Notebooks with NKRO
+# Notebooks with NKRO
 
 If you want to always have steno on the go, you might consider finding a notebook with NKRO. Note that not all these machines are equivalent in terms of actuation force or key shape. You might find, for example, that chiclet keys don't feel as good as the Alienware's classic keyboard style. It's always best to try laptop keyboards at a local store, if possible.
 
