@@ -188,3 +188,4 @@ If you want to always have steno on the go, you might consider finding a noteboo
 | [GL553](https://www.asus.com/ca-en/Laptops/ROG-GL553VD/)    | 15"         | Asus        | 30-key rollover   | $1200     |
 | [Aero 15/15x](https://www.gigabyte.com/us/Laptop/AERO-15--i7-8750H) | 15"      | Gigabyte    | n-key rollover   | $1600-$2900 |
 | [P57X](https://www.gigabyte.com/Laptop/P57X-v7)     | 17"         | Gigabyte    | 30-key rollover   | $1800     | 
+| [HP Omen 17](https://store.hp.com/us/en/pdp/omen-by-hp---17-an053nr) | 17" | HP | 26-key rollover | $1900 |
