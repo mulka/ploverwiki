@@ -129,9 +129,32 @@ The following machines have been confirmed by users to work with Plover after ac
 
 ### Which type of key switch should I choose?
 
-Stenography works best when you need little force to depress the keys. The lighter, the better. Ideally, the switch will be linear; this means, it should lack any clicks or bumps. 
+Because you hit many keys with steno at once, there are two properties that are useful to have in a mechanical keyboard switch for steno: a **light actuation force** on a **linear** switch.
 
-In the Cherry MX line, the best switch is Red, at 45 cN actuation. For Gaterons, the best switch for steno is Clear/White (different names, same switch), at only 35 cN actuation.
+The light actuation makes it easier on your hands. For a chord like `TKPWHRAOEUGD` (gliding), you are hitting 8 keys with your left hand. That means that whatever switch force you need to depress one key, you have to push 8-times as much. For a 80cN (~80 grams, ~2.9 oz) switch, that's 640cN (~640g, ~22.6 oz). For this reason, your wrists will have a much easier time working with your machine if its actuation force is as light as possible.
+
+The linearity is recommended because it's been found that the tactile feedback that one gets from an individual switch is not as useful when you are receiving 4-10 of those feedbacks at once. The brain just doesn't process all the fingers in parallel more. And since the bump usually requires a small addition to the actuation force, we recommend keeping it linear and simple.
+
+Professional steno machines, historically, always bottomed out (meaning the keys are pressed until they can no longer travel; the bottom.) Newer machines use more complicated mechanisms for detecting key travel, often using magnets and the hall effect to determine where the key is, allowing for customizable actuation points. The typical force required for a modern steno machine is between **10cN and 20cN**, with some extremes on either end for personal preference. The travel of a typical lever steno machine is usually between **2mm and 30mm**. The lower end is found in machines like the LightSpeed, where the higher end is around the maximum that you can configure a lever machine to stroke.
+
+Most of the mechanical switches have a 2mm actuation point, but some community members have found that "speed switches" with an earlier actuation point (usually 1.1-1.4mm) are better for steno due to their increased sensitivity.
+
+| Switch | Stat | Note | Machines |
+| ------ | ---- | ---- | ------- |
+| Gateron Clear / White | 35 cN linear | Best stock option available on the market | Stenomod uses this switch |
+| Matias Red | 35 cN linear | Feels heavier than 35 cN switches due to having a "flat" force curve. Matias also has a different stem from Cherry | SOFT/HRUF uses this switch |
+| Cherry MX Red | 45 cN linear | | |
+| Kailh Silver | 50 cN spring* linear | Has an early actuation (1.1mm vs 2mm) | |
+| Cherry MX Brown | 45 cN bumpy | While not ideal compared to other options, this switch is still a better choice than blues, blacks, and other Cherry switches | |
+
+\* The Kailh silvers use a spring that would cause a 50 cN actuation point at 2mm, but since they actuate earlier (1.1mm), the force required is nearer to 35 cN.
+
+There are other methods to decrease actuation force for even these switches. This includes:
+
+- Putting the Gateron Clear's 35 cN spring into the Kailh Silver for its earlier actuation point.
+- Trimming the springs of a linear switch by several mm to reduce force.
+- Using an aftermarket spring with lower forces, such as a prototype 20 cN spring that isn't yet released to the wider market.
+- Removing the leaf-spring (not the primary spring) in the Matias Red switch to make the force curve less flat.
 
 ## Adapt a keyboard for steno use
 
