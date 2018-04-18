@@ -75,7 +75,7 @@ if the green light is blinking, then the battery is drained. To charge, leave it
 If the red light is blinking, then the internal memory is full or close to full. To clear it:
 
 * turn the Stenograph off
-* while holding STK, turn the machine become on.
+* while holding STK, turn the machine back on.
 * the lights should be both blinking back and forth. If not, try again from the start.
 * press KWR to clear the memory, or TPH if you change your mind.
 
