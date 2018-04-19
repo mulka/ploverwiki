@@ -227,7 +227,8 @@ If you want to always have steno on the go, you might consider finding a noteboo
 | [GL502](https://www.asus.com/ca-en/ROG-Republic-Of-Gamers/ROG-GL502VT/)    | 15"         | Asus        | 30-key   | $1900 | 4.9 lbs |
 | [GL553](https://www.asus.com/ca-en/Laptops/ROG-GL553VD/)    | 15"         | Asus        | 30-key  | $1200     | 5.5 lbs |
 | Aorus [X5 v8](https://www.aorus.com/product-detail.php?p=744) and [X7 v8](https://www.aorus.com/product-detail.php?p=745) | 15", 17" | Aorus | 80-key | $2600, $3000 | 5.51 lbs, 7.05 lbs |
-| [Alienware R3/R4](http://www.dell.com/en-us/shop/dell-laptops/sc/laptops/alienware-laptops) | 13", 15", 17" | Dell        | n-key | $1000 to $3000 | 5.8 to 9.8 lbs |
-| [Aero 15/15x](https://www.gigabyte.com/us/Laptop/AERO-15--i7-8750H) | 15"      | Gigabyte    | 80-key   | $2000 to $2900 | 4.6 lbs |
+| [Alienware R3/R4](http://www.dell.com/en-us/shop/dell-laptops/sc/laptops/alienware-laptops) | 13", 15", 17" | Dell        | n-key | **$1000** to $3000 | 5.8 to 9.8 lbs |
+| [Aero 15/15x](https://www.gigabyte.com/us/Laptop/AERO-15--i7-8750H) | 15"      | Gigabyte    | 80-key   | $2000 to $2900 | **4.6 lbs** |
 | [P57X](https://www.gigabyte.com/Laptop/P57X-v7)     | 17"         | Gigabyte    | 30-key   | $1800     | 6.6 + 2.2 (power adaptor) lbs |
 | HP Omen [15](https://store.hp.com/us/en/pdp/omen-by-hp---15-ce051nr) and [17](https://store.hp.com/us/en/pdp/omen-by-hp---17-an053nr) | 15", 17" | HP | 26-key | $1900 | 5.77 lbs, 8.23 lbs |
+| [Legion Y920](https://www3.lenovo.com/us/en/laptops/ideapad/lenovo-legion-y-series-laptops/Legion-Y920/p/88GMY900877) | 17" | Lenovo | 100-key | $2200 | 10.1 lbs |
