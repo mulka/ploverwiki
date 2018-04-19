@@ -232,3 +232,7 @@ If you want to always have steno on the go, you might consider finding a noteboo
 | [P57X](https://www.gigabyte.com/Laptop/P57X-v7)     | 17"         | Gigabyte    | 30-key   | $1800     | 6.6 + 2.2 (power adaptor) lbs |
 | HP Omen [15](https://store.hp.com/us/en/pdp/omen-by-hp---15-ce051nr) and [17](https://store.hp.com/us/en/pdp/omen-by-hp---17-an053nr) | 15", 17" | HP | 26-key | $1900 | 5.77 lbs, 8.23 lbs |
 | [Legion Y920](https://www3.lenovo.com/us/en/laptops/ideapad/lenovo-legion-y-series-laptops/Legion-Y920/p/88GMY900877) | 17" | Lenovo | 100-key | $2200 | 10.1 lbs |
+| [GF62](https://us.msi.com/Laptop/GF62-7th-Gen-GEFORCE-GTX-1050TI.html) | 15" | MSI | 45-key* | $1200+ | 4.8 lbs |
+| [GP72](https://us.msi.com/Laptop/GP72-Leopard-Pro-6th-Gen-GTX-960M) | 17" | MSI | 45-key* | $1300+ | 5.95 lbs |
+
+\* *MSI machines have ambiguous marketing-speak that says "anti-ghosting for up to 45 keys". They need to be tested for steno before we can be 100% sure they mean 45-key rollover.*
