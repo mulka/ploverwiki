@@ -35,7 +35,7 @@ This makes steno the fastest and most accurate text entry method currently avail
 
 | Method | Typical Speed |
 | ----------|-----------|
-| Handwriting | 31 WPM |
+| Handwriting | 30 WPM |
 | Average Typist | 40 WPM |
 | Fast Typist | 120 WPM |
 | Typing World Record | 200 WPM |
@@ -45,7 +45,7 @@ This makes steno the fastest and most accurate text entry method currently avail
 | Professional Stenographer | 225 WPM |
 | Steno World Record | 360 WPM |
 
-In the first semester of steno school, nearly all students learn to exceed 100 words per minute. By comparison, top qwerty typists can do 120 WPM, top Dvorak typists around 140 WPM, and voice writers dictating to voice recognition software around 180 WPM. But experienced stenographers can enter text at up to 300 words per minute (the world record is actually 360, but that's an outlier). Conceivably, with practice, amateur steno users could reach 160-200 words per minute.
+In the first year of steno school, many students learn to exceed 100 words per minute. By comparison, top qwerty typists can do 120 WPM, top Dvorak typists around 140 WPM, and voice writers dictating to voice recognition software around 180 WPM. But experienced stenographers can enter text at up to 300 words per minute (the world record is actually 360, but that's an outlier). Conceivably, with practice, amateur steno users could reach 160-200 words per minute.
 
 ### How does it work?
 
