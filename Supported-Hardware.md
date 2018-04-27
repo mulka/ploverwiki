@@ -20,7 +20,8 @@ This page lists the machine known to work with Plover.
     - [Keytoppers](#keytoppers)
     - [Keycaps](#keycaps)
   - [NKRO keyboards with an ortholinear layout](#nkro-keyboards-with-an-ortholinear-layout)
-- [Notebooks with NKRO](#notebooks-with-nkro)
+- [Laptops with NKRO](#laptops-with-nkro)
+  - [Laptops that don't actually work with Plover](#laptops-that-dont-actually-work-with-plover)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -217,23 +218,31 @@ The following machines have been confirmed by users to work with Plover after ac
 | [Planck](http://olkb.com/planck/) | OLKB | USB | The Planck is a NKRO keyboard with an ortholinear layout. It is 40% the size of a standard keyboard.|
 |[Preonic](http://olkb.com/preonic/)| OLKB | USB | The Preonic is a NKRO keyboard with an ortholinear layout. It is 50% the size of a standard keyboard. |
 
-# Notebooks with NKRO
+# Laptops with NKRO <a id="notebooks-with-nkro"></a>
 
 If you want to always have steno on the go, you might consider finding a notebook with NKRO. Note that not all these machines are equivalent in terms of actuation force or key shape. You might find, for example, that chiclet keys don't feel as good as the Alienware's classic keyboard style. It's always best to try laptop keyboards at a local store, if possible.
 
 | Model    | Screen Size | Manufacturer    | Rollover | Price (USD) | Weight |
 | -------- | ----------- | --------------- | ------- | ----- | ------ |
-| [Predator Triton 700](https://us-store.acer.com/predator-triton-700-gaming-laptop-pt715-51-732q) | 15" | Acer | n-key | $3000 | 5.3 lbs |
-| [Zephyrus GX501](https://www.asus.com/ca-en/Laptops/ROG-ZEPHYRUS-GX501/) | 15"   | Asus        | 30-key   | $2500     | 4.85lbs |
+| [Predator Triton 700](https://us-store.acer.com/predator-triton-700-gaming-laptop-pt715-51-732q) | 15" | Acer | n-key* | $3000 | 5.3 lbs |
+| [Zephyrus GX501](https://www.asus.com/ca-en/Laptops/ROG-ZEPHYRUS-GX501/) | 15"   | Asus        | 30-key*   | $2500     | 4.85lbs |
 | [GL502](https://www.asus.com/ca-en/ROG-Republic-Of-Gamers/ROG-GL502VT/)    | 15"         | Asus        | 30-key   | $1900 | 4.9 lbs |
 | [GL553](https://www.asus.com/ca-en/Laptops/ROG-GL553VD/)    | 15"         | Asus        | 30-key  | $1200     | 5.5 lbs |
-| Aorus [X5 v8](https://www.aorus.com/product-detail.php?p=744) and [X7 v8](https://www.aorus.com/product-detail.php?p=745) | 15", 17" | Aorus | 80-key | $2600, $3000 | 5.51 lbs, 7.05 lbs |
+| Aorus [X5 v8](https://www.aorus.com/product-detail.php?p=744) and [X7 v8](https://www.aorus.com/product-detail.php?p=745) | 15", 17" | Aorus | 80-key* | $2600, $3000 | 5.51 lbs, 7.05 lbs |
 | [Alienware R3/R4](http://www.dell.com/en-us/shop/dell-laptops/sc/laptops/alienware-laptops) | 13", 15", 17" | Dell        | n-key | **$1000** to $3000 | 5.8 to 9.8 lbs |
-| [Aero 15/15x](https://www.gigabyte.com/us/Laptop/AERO-15--i7-8750H) | 15"      | Gigabyte    | 80-key   | $2000 to $2900 | **4.6 lbs** |
+| [Aero 15/15x](https://www.gigabyte.com/us/Laptop/AERO-15--i7-8750H) | 15"      | Gigabyte    | 80-key*   | $2000 to $2900 | **4.6 lbs** |
 | [P57X](https://www.gigabyte.com/Laptop/P57X-v7)     | 17"         | Gigabyte    | 30-key   | $1800     | 6.6 + 2.2 (power adaptor) lbs |
-| HP Omen [15](https://store.hp.com/us/en/pdp/omen-by-hp---15-ce051nr) and [17](https://store.hp.com/us/en/pdp/omen-by-hp---17-an053nr) | 15", 17" | HP | 26-key | $1900 | 5.77 lbs, 8.23 lbs |
-| [Legion Y920](https://www3.lenovo.com/us/en/laptops/ideapad/lenovo-legion-y-series-laptops/Legion-Y920/p/88GMY900877) | 17" | Lenovo | 100-key | $2200 | 10.1 lbs |
+| [Omen X](http://www8.hp.com/us/en/campaigns/omenxlaptop/overview.html) | 17" | HP | n-key* | $1800 | 10.7 lbs |
+| [Legion Y920](https://www3.lenovo.com/us/en/laptops/ideapad/lenovo-legion-y-series-laptops/Legion-Y920/p/88GMY900877) | 17" | Lenovo | 100-key* | $2200 | 10.1 lbs |
 | [GF62](https://us.msi.com/Laptop/GF62-7th-Gen-GEFORCE-GTX-1050TI.html) | 15" | MSI | 45-key* | $1200+ | 4.8 lbs |
 | [GP72](https://us.msi.com/Laptop/GP72-Leopard-Pro-6th-Gen-GTX-960M) | 17" | MSI | 45-key* | $1300+ | 5.95 lbs |
 
-\* *MSI machines have ambiguous marketing-speak that says "anti-ghosting for up to 45 keys". They need to be tested for steno before we can be 100% sure they mean 45-key rollover.*
+\* Untested for use with Plover
+
+## Laptops that don't actually work with Plover
+
+After testing some of the laptops on the list above, they were found to not live up to their claims.
+
+| Model    | Manufacturer    | Claimed Rollover | Findings |
+| -------- | --------------- | ------- | ----- |
+| HP Omen [15](https://store.hp.com/us/en/pdp/omen-by-hp---15-ce051nr) and [17](https://store.hp.com/us/en/pdp/omen-by-hp---17-an053nr) | HP | "26-key rollover anti-ghosting" | Combination "YUHJ" on Qwerty only produces 3 letters |
