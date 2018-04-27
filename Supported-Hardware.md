@@ -105,17 +105,17 @@ If all keys are typed into the text editor, your keyboard probably has NKRO.
 
 ### Test #2: Keyboard Ghosting Test
 
-[Microsoft Keyboard Ghosting Test](https://web.archive.org/web/20170708175544/https://www.microsoft.com/appliedsciences/content/projects/KeyboardGhostingDemo.aspx) provides a browser-based application that lets you test your keyboard's capabilities for registering multiple key presses. 
+The [in-browser steno demo](http://www.openstenoproject.org/demo/) provides a browser-based application that lets you test your keyboard's capabilities for registering multiple key presses with simulated steno output.
 
 To test your keyboard:
 
-1. Open your web browser and go to [Microsoft Keyboard Ghosting Test](https://web.archive.org/web/20170708175544/https://www.microsoft.com/appliedsciences/content/projects/KeyboardGhostingDemo.aspx).
-1. Click the keyboard to start.
+1. Open your web browser and go to the [in-browser steno demo](http://www.openstenoproject.org/demo/).
+1. Click in the **Output box** to start
     * Each key you press will light up in the picture of a keyboard. 
-1. Press the middle row keys `asdfjkl;`.
-    * With a normal keyboard only 6 of the 8 keys will light up (maybe fewer).
+1. Press the middle row keys `asdfjkl;` **all at once**.
+    * With a normal keyboard only 6 of the 8 keys will light up (likely fewer).
     * If your keyboard has N-key rollover, all 8 keys will light up. 
-1. Press other multiple-key combinations, such as `yuhj`, and see if they all light up.
+1. Press other multiple-key combinations, such as `yuhj`, and see if they all light up. Ideally, your keyboard should register the entire first two rows of your keyboard at once, plus `c`, `v`, `b`, and ` n`.
 
 ## What if my keyboard is not capable of NKRO?
 
