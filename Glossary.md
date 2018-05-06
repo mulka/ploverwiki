@@ -14,6 +14,7 @@ This glossary will help you with terms that you may come across in the steno com
 - [Steno Order](#steno-order)
 - [Stroke](#stroke)
 - [Steno Theory](#steno-theory)
+- [Suffix folding/tucking](#suffix-folding-or-tucking)
 - [Untranslate](#untranslate)
 - [Word Boundary](#word-boundary)
 - [Write Out](#write-out)
@@ -97,6 +98,12 @@ which is descended from StenEd. It offers a hybrid between a brief-heavy and
 stroke-heavy theory. It is recommended to start learning with Plover theory, and
 you will likely learn what style you like and you can always switch later. Mirabai
 uses the Plover dictionary professionally.
+
+### Suffix folding or tucking
+
+In some [steno theories](#steno-theory), when writing a word that ends with a suffix (or starts with a prefix), one may include that suffix or prefix in the same stroke as another part of the word. So rather than writing "seeing" as `SAOE/-G`, one may write `SAOEG` in one stroke. Sometimes this will break steno order. For example, when `EPBD/-G` is turned into `EPBGD`. This is known as folding in or tucking.
+
+Some commonly tucked one-key suffixes are `-S` (-s), `-D` (-ed), `-G` (-ing) and `-R` (-er). A one-key prefix that's often folded in Plover's default theory as well is `K-` (con-/com-). Some multi-letter suffixes in that theory are `-PLT` (-ment), `-GS` (-tion) and `-BGS` (-ction).
 
 ### Untranslate
 
