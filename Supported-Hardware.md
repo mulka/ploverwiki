@@ -227,6 +227,7 @@ If you want to always have steno on the go, you might consider finding a noteboo
 | -------- | ----------- | --------------- | ------- | ----- | ------ |
 | [Predator Triton 700](https://us-store.acer.com/predator-triton-700-gaming-laptop-pt715-51-732q) | 15" | Acer | n-key (clicky keys) | $3000 | 5.3 lbs |
 | [Zephyrus GX501](https://www.asus.com/ca-en/Laptops/ROG-ZEPHYRUS-GX501/) | 15"   | Asus        | 30-key   | $2500     | 4.85lbs |
+| [Zephyrus GM501](https://www.asus.com/ca-en/Laptops/ROG-ZEPHYRUS-GM501/) | 15"   | Asus        | 30-key   | $1500 to $2200     | 5.5lbs |
 | [GL502](https://www.asus.com/ca-en/ROG-Republic-Of-Gamers/ROG-GL502VT/)    | 15"         | Asus        | 30-key   | $1900 | 4.9 lbs |
 | [GL553](https://www.asus.com/ca-en/Laptops/ROG-GL553VD/)    | 15"         | Asus        | 30-key  | $1200     | 5.5 lbs |
 | Aorus [X5 v8](https://www.aorus.com/product-detail.php?p=744) and [X7 v8](https://www.aorus.com/product-detail.php?p=745) | 15", 17" | Aorus | 80-key* | $2600, $3000 | 5.51 lbs, 7.05 lbs |
