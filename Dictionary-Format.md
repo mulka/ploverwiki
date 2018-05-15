@@ -454,7 +454,6 @@ Here is a summary of the suggested commands you can cut and paste into your pers
 "PHROFG":"{PLOVER:CONFIGURE}",
 "PHROFBGS":"{PLOVER:FOCUS}",
 "PHROBGT":"{PLOVER:QUIT}",
-"TK-FPS":"{*!}",
 "KA*PD":"{*-|}",
 "KA*PS":"{MODE:CAPS}",
 "KPA*L":"{<}",
