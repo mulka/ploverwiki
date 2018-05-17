@@ -33,7 +33,7 @@ Various steno enthusiasts are making and selling machines designed for use with 
 | ---------------------------------- | ------------------ | ----------------------- | ----- |
 | [Stenomod](https://stenomod.blogspot.com) | Charley Shattuck | Open source hardware. This has light keys and a split design. See [Ted Morin's review of the Stenomod](http://www.tedmor.in/blog/posts/stenomod-affordable-steno-machine) as well as [Martin Körner's review](https://stenoblog.com/the-stenomod/). The name is supposed to hint at how the machine is "modular" and adaptable. It is very barebones so it is easy to take apart and customize. <br /> ![Stenomod](https://2.bp.blogspot.com/-n7j50BDdjAg/WJECk94jwCI/AAAAAAAAAI4/2E-G1dgflccCltPFN9FEPI4QtMW62ttCQCK4B/s400/20170131_131923.jpg) | $200 |
 | [SOFT/HRUF](https://softhruf.love) | Scott Urueta       | Open source hardware. This has the shape of a stenography machine, but is built using computer keys rather than levers. The name is the steno representation for, and is pronounced as, "soft love". <br /> ![SOFT/HRUF](https://i.imgur.com/pvmzoQy.png) | $138 (preorder) |
-| [Stenoboard](http://utopen.com)    | Utopen (Emanuele Caruso) | Open source hardware. The first open source steno machine on the market, released in 2014. The Stenoboard's keys actuate like mouse-clicks instead of a keyboard or lever-machine. ![](http://stenoboard.com/images/stenoboard.jpg)| Out of production |
+| Stenoboard | Utopen (Emanuele Caruso) | Open source hardware. The first open source steno machine on the market, released in 2014. The Stenoboard's keys actuate like mouse-clicks instead of a keyboard or lever-machine. ![](http://stenoboard.com/images/stenoboard.jpg)| Out of production |
 
 # Stenotype Machines
 
