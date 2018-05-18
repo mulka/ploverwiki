@@ -24,7 +24,7 @@ Available as a plugin in Plover 4+ through the Plugins Manager: [plover-palantyp
 
 ### ✅Michela
 
-Used by the Italian Senate.Both the phonetic and the orthographic theory are available. A cheap alternative to an official Michela machine is any MIDI keyboard.
+Used by the Italian Senate. Both the phonetic and the orthographic theory are available. A cheap alternative to an official Michela machine is any MIDI keyboard.
 
 [Free theory books](https://sillabix.gitbooks.io/dizionario-test/) (https://legacy.gitbook.com/book/sillabix/dizionario-ortografico-michela-per-input-sillabic/details) available.
 
