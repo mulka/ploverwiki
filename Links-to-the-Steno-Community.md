@@ -2,8 +2,6 @@ There are many places where you can meet the stenography community. As Plover, w
 
 ## Open Steno Project
 
-- [Plover Aviary](http://stenoknight.com/plover/aviary/phpBB3/)
-    If you are more comfortable with a classic forum, feel free to post in the Aviary, a forum created by Mirabai Knight specifically for learners of stenography.
 - [Plover Discord Server](https://discord.gg/0lQde43a6dGmAMp2)
     Join the Discord server to chat with other steno-interested individuals. We welcome new people who may have very basic questions, looking for direction and help. We also welcome curious developers, stenography students, intermediate stenos, and professionals who are curious about Plover and its many uses compared with traditional software. Feel free also to drop by if you are looking to practice or find a new brief.
 - [Ploversteno Facebook Group](https://www.facebook.com/groups/486062194804842/)
