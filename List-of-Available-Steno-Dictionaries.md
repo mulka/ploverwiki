@@ -11,17 +11,17 @@ You'll find many free, open source steno dictionaries at the [Stenodict](http://
 | ---------------------------------- | ------------------ | ------------------ | 
 |Arrows | Ted Morin | Symbolic arrows → → made easy |
 | Cross Platform Movement |Ted Morin | Movement and selection across Mac, Windows, and Linux |
-| Di’s Mac Movement| Di | Extensive Mac movement and selection |
-| Di’s Vim Commands | Di | Vim and steno were made for each other |
+| Di’s Mac Movement| Diana MacDonald | Extensive Mac movement and selection |
+| Di’s Vim Commands | Diana MacDonald | Vim and steno were made for each other |
 | Emoji | Ted Morin | Complete Emoji dictionary 😃 |
-|General Command Line| Di | Briefs and entries for terminal users |
+|General Command Line| Diana MacDonald | Briefs and entries for terminal users |
 | Left Hand Modifier Keys | Achim Siebert | Left-hand keyboard shortcuts in only two strokes |
 Left-side Mac Movement | Achim Siebert |Left movement shortcuts with selection for Mac |
 | Markdown | Ted Morin| Best markup language meets best text entry system |
 | Pokémon| Ted Morin | First 151 Pokémon written with Plover theory |
 |Spectacle | Ted Morin | Window management with Spectacle, the free application for OS X |
 | UK Spellings| Ted Morin | Replace US spellings in Plover's default dictionary |
-| Unspaced Punctuation| Di| Punctuation with all the spaces suppressed |
+| Unspaced Punctuation| Diana MacDonald| Punctuation with all the spaces suppressed |
 | Vim Captioning| Mirabai Knight| Useful realtime captioning commands for Vim |
 
 ## Stanley Sakai's Steno dictionaries
@@ -36,6 +36,8 @@ Stanley Sakai's repository on GitHub - [Stanley's Steno Dictionaries](https://gi
 | stanespanol.json | Main Spanish steno dictionary. |
 | stanmain.json | His main English dictionary. |
 | stanplover.json |Additional entries to correct formatting errors caused by RTF -> JSON conversion. |
+
+## Diana MacDonald's repository on GitHub [Diana MacDonald's dictionaries](https://github.com/dimonster/plover-dictionaries)
 
 ## Dictionaries for non-English languages
 
