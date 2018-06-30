@@ -39,7 +39,7 @@ Stanley Sakai's repository on GitHub - [Stanley's Steno Dictionaries](https://gi
 
 ## Diana MacDonald's repository 
 
-Diana MacDonald's repository on GitHub [Diana MacDonald's dictionaries](https://github.com/dimonster/plover-dictionaries)
+[Diana MacDonald's dictionaries](https://github.com/dimonster/plover-dictionaries)
 
 ## Dictionaries for non-English languages
 
