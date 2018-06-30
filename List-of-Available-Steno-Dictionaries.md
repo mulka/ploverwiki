@@ -37,7 +37,9 @@ Stanley Sakai's repository on GitHub - [Stanley's Steno Dictionaries](https://gi
 | stanmain.json | His main English dictionary. |
 | stanplover.json |Additional entries to correct formatting errors caused by RTF -> JSON conversion. |
 
-## Diana MacDonald's repository on GitHub [Diana MacDonald's dictionaries](https://github.com/dimonster/plover-dictionaries)
+## Diana MacDonald's repository 
+
+Diana MacDonald's repository on GitHub [Diana MacDonald's dictionaries](https://github.com/dimonster/plover-dictionaries)
 
 ## Dictionaries for non-English languages
 
