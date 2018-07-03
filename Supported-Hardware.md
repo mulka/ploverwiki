@@ -234,10 +234,11 @@ If you want to always have steno on the go, you might consider finding a noteboo
 | [GL553](https://www.asus.com/ca-en/Laptops/ROG-GL553VD/)    | 15"         | Asus        | 30-key  | $1200     | 5.5 lbs |
 | Aorus [X5 v8](https://www.aorus.com/product-detail.php?p=744) and [X7 v8](https://www.aorus.com/product-detail.php?p=745) | 15", 17" | Aorus | 80-key* | $2600, $3000 | 5.51 lbs, 7.05 lbs |
 | [Alienware R3/R4](http://www.dell.com/en-us/shop/dell-laptops/sc/laptops/alienware-laptops) | 13", 15", 17" | Dell        | n-key | **$1000** to $3000 | 5.8 to 9.8 lbs |
-| [Aero 15/15x](https://www.gigabyte.com/us/Laptop/AERO-15--i7-8750H) | 15"      | Gigabyte    | 80-key*   | $2000 to $2900 | **4.6 lbs** |
+| [Aero 15/15x](https://www.gigabyte.com/us/Laptop/AERO-15--i7-8750H) | 15"      | Gigabyte    | 80-key*   | $2000 to $2900 | 4.6 lbs |
 | [P57X](https://www.gigabyte.com/Laptop/P57X-v7)     | 17"         | Gigabyte    | 30-key   | $1800     | 6.6 + 2.2 (power adaptor) lbs |
 | [Omen X](http://www8.hp.com/us/en/campaigns/omenxlaptop/overview.html) | 17" | HP | n-key* | $1800 | 10.7 lbs |
 | [Legion Y920](https://www3.lenovo.com/us/en/laptops/ideapad/lenovo-legion-y-series-laptops/Legion-Y920/p/88GMY900877) | 17" | Lenovo | 100-key* | $2200 | 10.1 lbs |
+| [Razer Blade Stealth 8th Gen](https://www.razer.com/ca-en/gaming-laptops/razer-blade-stealth) | 13" | Razer | 14-key | $1200+ | **2.98 lbs** |
 
 \* Untested for use with Plover
 
