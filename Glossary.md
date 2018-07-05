@@ -9,6 +9,7 @@ This glossary will help you with terms that you may come across in the steno com
 - [JSON](#json)
 - [RTF/CRE](#rtfcre)
 - [Misstroke](#misstroke)
+- [Shadowing](#shadowing)
 - [Stacking](#stacking)
 - [Steno Dictionary](#steno-dictionary)
 - [Steno Order](#steno-order)
@@ -64,6 +65,10 @@ Plover can read steno dictionaries in JSON and RTF/CRE format. RTF/CRE stands fo
 `rich text format with court reporting extensions`. It is a standard format that most
 proprietary steno software can import from and export to. Plover can read RTF/CRE
 natively.
+
+### Shadowing
+
+Shadowing is when a key registers on the steno paper unintentionally, due to pressing lightly on a key by accident. The term "shadowing" comes from the light ink impression left on the steno paper - it looks like the shadow of a letter. While the use of writing to paper continues to decline, the act of shadowing can be a bigger problem with digital systems as the machine and/or transcription software registers it as off or on - no in-between.  Shadowing can be reduced or eliminated by more careful writing and by adjusting key sensitivity.
 
 ### Stacking
 
