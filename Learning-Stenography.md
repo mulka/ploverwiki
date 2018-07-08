@@ -45,9 +45,9 @@ These sites aim to teach you steno, from the layout to the terminology to the st
 
     Just a small tutorial covering the top 100 English words according to Wikipedia. Many of them are briefs and this text gives some insight as to why these strokes are the way they are.
 
-- [ROPE--Remembering Outlines in Plover more Easily](https://www.reddit.com/r/Plover/comments/7dap1k/rope_20_remembering_outlines_in_plover_more/)
+- [ROPE 2.1--Remembering Outlines in Plover more Easily](https://www.reddit.com/r/Plover/comments/8wzppp/rope_21_remembering_outlines_in_plover_more/)
 
-   This resource uses Anki's spaced repetition feature to help users learn and remember outlines for over 4000 common English words, and also includes over 1450 mnemonic stories that can make it easier to recall less intuitive outlines. The document was prepared by a beginner and may not be 100% accurate, but the lists will be corrected periodically. The Reddit post linked to above has links to the Anki file, Excel file, and readme.
+   This resource uses Anki's spaced repetition feature to help users learn and remember outlines for over 4000 common English words, and also includes over 1780 mnemonic stories that can make it easier to recall less intuitive outlines. The document was prepared by a beginner and may not be 100% accurate, but the lists will be corrected periodically. The Reddit post linked to above has links to the Anki file, Excel file, and readme.
 
 
 ## Dictation
@@ -86,7 +86,7 @@ If you want to eventually caption speakers, you will need to be able to take dic
 
 ~~- An Anki deck with the complete Plover dictionary as flash cards is available [here]~~
 ~~(https://ankiweb.net/shared/info/1639515972)~~ (link no longer works)
-- [Top 1000 Words in Plover's Dictionary on Quizlet](https://quizlet.com/215355550/plover-steno-briefs-and-outlines-for-the-top-1000-english-words-plus-a-few-extra-flash-cards/)
+
 
 ## Other Typing Sites
 
