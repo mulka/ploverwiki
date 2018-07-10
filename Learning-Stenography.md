@@ -47,7 +47,7 @@ These sites aim to teach you steno, from the layout to the terminology to the st
 
 - [ROPE 2.1--Remembering Outlines in Plover more Easily](https://www.reddit.com/r/Plover/comments/8wzppp/rope_21_remembering_outlines_in_plover_more/)
 
-   This resource uses Anki's spaced repetition feature to help users learn and remember outlines for over 4000 common English words, and also includes over 1780 mnemonic stories that can make it easier to recall less intuitive outlines. The document was prepared by a beginner and may not be 100% accurate, but the lists will be corrected periodically. The Reddit post linked to above has links to the Anki file, Excel file, and readme.
+   This resource uses Anki's spaced repetition feature to help users learn and remember outlines for over 4000 common English words, and also includes over 1780 'stories' that can make it easier to recall less intuitive outlines. The document was prepared by a beginner and may not be 100% accurate, but the lists will be corrected periodically. The Reddit post linked to above has links to the Anki file, Excel file, and readme.
 
 
 ## Dictation
