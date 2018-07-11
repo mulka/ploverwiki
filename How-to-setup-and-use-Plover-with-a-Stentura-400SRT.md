@@ -27,7 +27,7 @@
         + [Sabrent Serial RS232 Converter](https://www.amazon.com/Sabrent-Serial-RS-232-Converter-CB-DB9P/dp/B00IDSM6BW/)
         + [Tera Grand Premium USB to serial adapter](https://www.amazon.com/Tera-Grand-Premium-Adapter-Supports/dp/B00BUZ0K68/) — No cable, so very short
 
-    Most of these USB to serial adapters come with driver files that you have to install before the adapter works. After installing the driver, make sure you reboot your computer or you probably won't be able to connect to your machine.
+    Most of these USB to serial adapters come with driver files that you have to install before the adapter works. After installing the driver, make sure you reboot your computer or you probably won't be able to connect to your machine. Additionally, if you have a new computer with USB 3.0 ports many drivers will not support it and you can work around this issue by getting a USB 2.0 hub to connect through as a gateway.
 
 **It's important that there is a cross-over cable at some point of the connection, and only one. The Stenograph cable has one built in.** If you purchased any of the "option 2" cables, those are also cross-over cables and will work.
 
