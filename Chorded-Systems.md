@@ -38,15 +38,15 @@ An orthographic theory for Italian writing based on the Tréal machine. Developm
 
 ### 🚧CAS
 
-The Computer Aided Steno-machine, or CAS, features one of the two modern stenography systems for Korean in use today. Developed by [Korea Steno](http://www.koreasteno.com/), the system is composed of a number row, two rows of 5 consonants for each hand with each hand containing the same keys, and a row of 5 vowels that also contains an asterisk key similar in use to the [English Stenotype](https://github.com/openstenoproject/plover/wiki/Chorded-Systems#english-stenotype).
+The Computer Aided Steno-machine, or CAS, was developed by [Korea Steno](http://www.koreasteno.com/) and features one of the two modern stenography systems for Korean in use today.
 
 The CAS system is currently under development as a plugin in [plover-korean](https://github.com/nsmarkop/plover_korean).
 
 ### ❌Sorizava
 
-Sorizava, developed by [a company of the same name](http://www.sorizava.co.kr/), is the second of the modern stenography systems for Korean in use today. The Sorizava system contains more keys than the [CAS system](https://github.com/openstenoproject/plover/wiki/Chorded-Systems#cas) with a number row, 3 rows of 5 consonants for each hand, a row of 6 vowels, and a space key. The additional keys are mostly used for having dedicated aspirated and tensed consonant keys and unlike the [CAS system](https://github.com/openstenoproject/plover/wiki/Chorded-Systems#cas) the consonants on each hand are not identical - one hand even contains a complex vowel key.
+Sorizava, developed by [a company of the same name](http://www.sorizava.co.kr/), is the second of the modern stenography systems for Korean in use today and the more recent to have been created.
 
-The Sorizava system is not currently under development. There are partial pieces of an implementation in [plover-korean](https://github.com/nsmarkop/plover_korean) but outside of a dictionary no theory materials have been obtained to progress further.
+The Sorizava system is not currently under development. There are partial pieces of an implementation in [plover-korean](https://github.com/nsmarkop/plover_korean) but outside of a partial dictionary no theory materials have been obtained to progress further.
 
 ## Portuguese
 
