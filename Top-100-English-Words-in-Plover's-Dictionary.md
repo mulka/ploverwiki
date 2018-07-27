@@ -248,7 +248,7 @@ Similar to `THA` for "that", `WHAT` is "what the".
 
 `UP`
 
-Use `AUP` for the word beginning "up^" like `AUP/WARDS` for "upwards".
+Use `AUP` for the word beginning "up^" like `AUP/WARDZ` for "upwards".
 
 ### 43. out
 
