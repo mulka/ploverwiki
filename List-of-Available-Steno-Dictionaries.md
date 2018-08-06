@@ -49,7 +49,7 @@ Stanley Sakai's repository on GitHub - [Stanley's Steno Dictionaries](https://gi
 | [Spanish](https://github.com/stanographer/steno-dictionaries/blob/master/stanespanol.json) |Stanley Sakai|
 | [French](https://github.com/azizyemloul/plover-france-dict) | Aziz Yemloul |
 
->> Note: The Plover software is currently designed for the English steno keyboard layout, but it is possible to customize the steno layout. Some unofficial work has been done by users on creating versions of Plover with foreign language layouts. 
+> Note: The above foreign language dictionaries are designed to be used with the English steno keyboard layout, but it is possible to customize the steno layout. For dedicated foreign language steno layouts, see the [chorded systems page](https://github.com/openstenoproject/plover/wiki/Chorded-Systems).
 
 ## Commercial stenography dictionaries
 
