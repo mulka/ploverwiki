@@ -329,9 +329,9 @@ Inside of a command block, you write in what keys you want Plover to simulate. T
 
 - `{#a b c d}` will send "abcd" and will not affect Plover's text formatting or asterisk undo-buffer.
 
-You can also use key names, which is needed when you are accessing a symbol key. For example, on the QWERTY layout there is an equals/plus key in the top right, which you can access by either of its names:
+You can also use key names, which is needed when you are accessing a symbol key. For example, on the QWERTY layout there is an equal/plus key in the top right, which you can access by either of its names:
 
-- `{#equals plus}` will send "==". Plover doesn't send modifiers. It just hits the key based on the name. 
+- `{#equal plus}` will send "==". Plover doesn't send modifiers. It just hits the key based on the name. 
 
 If you want to send symbols, though, don't use commands. Commands should be used for keyboard shortcuts only. Instead, use the symbol in your dictionary entry.
 
@@ -359,7 +359,7 @@ Here are the key names you'll want to use:
 | Numbers | `0`, `1`, …, `9` | 
 | Control Keys |  `Escape`, `Tab`, `Caps_Lock`, `space`, `BackSpace`, `Delete`, `Return`, etc. | 
 | F-Keys | `F1`, `F2`, …, `F12` | 
-| Common Named Keys | `asciitilde` (~), `asciicircum` (^), `equals`, `minus`, `slash`, `backslash`, `comma`, `colon`, etc. |
+| Common Named Keys | `asciitilde` (~), `asciicircum` (^), `equal`, `minus`, `slash`, `backslash`, `comma`, `colon`, etc. |
 | Media Keys | **Common**: `AudioRaiseVolume`, `AudioLowerVolume`, `AudioMute`, `AudioNext`, `AudioPrev`, `AudioStop`, `AudioPlay`, `AudioPause`, `Eject`, **Mac**: `MonBrightnessUp`, `MonBrightnessDown`, `KbdBrightnessUp`, `KbdBrightnessDown`, **Windows**: `Back`, `Forward`, `Refresh`. Note: Linux supports supports any XF86 keyname. |
 
 Consult the code for the [full list of supported keyboard shortcut keys](https://github.com/openstenoproject/plover/blob/master/plover/key_combo.py#L21). Remember, if you want to send a symbol, just use the character in your translation. 
