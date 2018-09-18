@@ -64,6 +64,8 @@ Two AUR packages are provided:
 1. [plover](https://aur.archlinux.org/packages/plover/) for the latest stable release
 2. and [plover-git](https://aur.archlinux.org/packages/plover-git/) for the current `master`
 
+You may need to add yourself to the group "uucp" (owner of /dev/ttyACM*).
+
 --------------------
 
 #### Install Plover on Ubuntu Linux distribution
