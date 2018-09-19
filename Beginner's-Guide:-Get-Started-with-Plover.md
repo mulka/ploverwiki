@@ -88,16 +88,11 @@ To write "Hello, world." into a text editor with Plover, using a QWERTY keyboard
 1. Run Plover. 
 1. Click the **Enable** radio button.
 1. Open a text editor.
-1. Simultaneously press `R`, `N`, and `O` (left index finger on `R`, right thumb on `N`, and right ring finger on `O`), and then lift your fingers off the keys. 
-  * `Hel` appears.
-1. Simultaneously press `R`, `F`, and `V` (left index finger between 'R' and 'F', and left thumb on 'V'), and then lift your fingers off the keys.
-  * `lo` appears. 
-1. Simultaneously press `J`, `K`, `L`, and `;` (right index finger on `J`, right middle finger on `K`, right ring finger on `L`, and right little (pinky) finger on `;`), and then lift your fingers off the keys.
-  * `,` appears.
-1. Simultaneously press `D`, `V`, `J`, `O`, and `[` (left middle finger on `D`, left thumb on `V`, right index finger on `J`, right ring finger on `O`, and right little (pinky) finger on `[`), and then lift your fingers off the keys. 
-  * `world` appears.
-1. Simultaneously press `U`, `I`, `O`, and `P` (right index finger on `U`, right middle finger on `I`, right ring finger on `O`, right little (pinky) finger on `P`), and then lift your fingers off the keys. 
-  * `.` appears.
+1. Simultaneously press `R`, `N`, and `O` (left index finger on `R`, right thumb on `N`, and right ring finger on `O`), and then lift your fingers off the keys. <br>The word `Hell` appears.
+1. Simultaneously press `R`, `F`, and `V` (left index finger between 'R' and 'F', and left thumb on 'V'), and then lift your fingers off the keys. <br>The `o` appears. 
+1. Simultaneously press `J`, `K`, `L`, and `;` (right index finger on `J`, right middle finger on `K`, right ring finger on `L`, and right little (pinky) finger on `;`), and then lift your fingers off the keys. <br>The comma appears.
+1. Simultaneously press `D`, `V`, `J`, `O`, and `[` (left middle finger on `D`, left thumb on `V`, right index finger on `J`, right ring finger on `O`, and right little (pinky) finger on `[`), and then lift your fingers off the keys. <br>`world` appears.
+1. Simultaneously press `U`, `I`, `O`, and `P` (right index finger on `U`, right middle finger on `I`, right ring finger on `O`, right little (pinky) finger on `P`), and then lift your fingers off the keys. <br>A period appears.
 
 #### Use the correct body posture and finger placement
 
@@ -132,10 +127,9 @@ See [Supported protocols](https://github.com/openstenoproject/plover/wiki/Suppor
 ## Practice and learn
 
 * Start learning stenography for free with [Learn Plover!](https://sites.google.com/site/ploverdoc/home)
-
 * Practice the Learn Plover (and other stenography) exercises with [Steno Jig](https://joshuagrams.github.io/steno-jig/).
-
 * See also [Learning Resources](https://github.com/openstenoproject/plover/wiki/Learning-Stenography) and [the old steno practice page](http://stenoknight.com/wiki/Practice).
+* You might consider enabling [[tools|Tools]], especially the paper tape so you can see which keys Plover thinks you're pressing. Once you're familiar with the layout and can write things the way they're pronounced and fingerspell those you can't, you might also want to enable the strokes suggestions tool.
 
 ### Which steno theory should you learn?
 
