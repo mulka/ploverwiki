@@ -145,6 +145,7 @@ The following machines have been confirmed by users to work with Plover after ac
 | Vengeance K65               | Corsair                | NKRO over USB   | [$90](http://www.corsair.com/en/gaming-peripherals/gaming-keyboards/vengeance-k65-compact-mechanical-gaming-keyboard.html)
 | STRAFE                      | Corsair                | NKRO over USB   | [$80](https://www.amazon.com/CORSAIR-STRAFE-Mechanical-Gaming-Keyboard/dp/B012B6X7MI/)
 | K66                         | Corsair                | NKRO over USB   | [$55](https://www.amazon.com/CORSAIR-K66-Mechanical-Gaming-Keyboard/dp/B072LTTNVS/)
+| K63                         | Corsair                | NKRO over USB (Works on Mac!) | [$80](https://www.amazon.com/Corsair-CH-9115020-NACORSAIR-Compact-Mechanical-Keyboard/dp/B06XC1WNPT)
 | I-500 Victop (compact: 87 keys)     | Eastern times tech | NKRO over USB   | [27 GBP](https://www.amazon.co.uk/Water-Resistant-VicTop-Mechanical-Waterproof-Anti-ghosting/dp/B01DBYNVSY/)
 | ZM-K600S                    | Zalman                 | NKRO over USB   | [$40](http://www.amazon.com/Zalman-Unlimited-Multi-Key-keyboard-ZM-K600S/dp/B0196J3IPE)
 | X51 (Gaming Mechanical Keyboard 87/104) | Metoo                | NKRO over USB   | [$40](https://www.aliexpress.com/item/Metoo-Gaming-Mechanical-Keyboard-87-104-Anti-ghosting-Luminous-Blue-Red-Black-Switch-Backlit-LED-wired/32782819448.html) 
