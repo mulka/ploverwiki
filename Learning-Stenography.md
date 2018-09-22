@@ -25,7 +25,7 @@ These sites aim to teach you steno, from the layout to the terminology to the st
 
     * [Di's Plover, Learn!](http://didoesdigital.com/plover/learn/) has user-contributed lessons for the later chapters where Learn Plover doesn't provide exercises, plus some additional lessons of its own, including a large collection of fairy tales. Requires Adobe Flash or Google Chrome.
 
-- [Plover Theory (WIP)](https://www.gitbook.com/book/morinted/plover-theory/details)
+- [Plover Theory (WIP)](https://morinted.gitbooks.io/plover-theory/content/)
 
     Plover Theory is a textbook that aims to guide the student through their stenography learning by providing a broad amount of knowledge from the first lesson on. The goal is to get students writing real words and sentences as quickly as possible and then delve into the minutiae of how to write with Plover's default dictionary quickly and without conflict.
 
