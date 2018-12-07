@@ -138,7 +138,7 @@ The following machines have been confirmed by users to work with Plover after ac
 | Ergo Pro                    | Matias                 | NKRO over USB   | [$200](http://matias.ca/ergopro/pc/)
 | Ergodox                     | Ergodox                | NKRO over USB   | [$295](https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard)
 | G710+                       | Logitech               | NKRO over USB   | [$130](http://gaming.logitech.com/en-us/product/g710plus-mechanical-gaming-keyboard)
-| Keyboardio                  | Keyboardio             | NKRO over USB   | [$329](http://shop.keyboard.io)
+| Model01                     | Keyboard.io            | NKRO over USB   | [$329](http://shop.keyboard.io)
 | Majestouch-2                | Filco                  | NKRO over USB   | [$167](http://amzn.to/oLy2xQ)
 | Das Keyboard 4 Ultimate     | Das Keyboard           | NKRO over USB requires key sequence to enable. See fine print on underside of keyboard   | [$169](http://shop.daskeyboard.com/products/das-keyboard-4-ultimate/)
 | Ultimate Hacking Keyboard   | Ultimate Gadget Labs   | NKRO over USB   | [$250](https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard)
