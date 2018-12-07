@@ -111,3 +111,7 @@ macOS has a feature where holding down a key brings up an accent menu. This can 
 ### Linux dynamic keyboard layout switching is not working
 
 * Plover does not handle dynamic keyboard layout switching: see [bug #298](https://github.com/openstenoproject/plover/issues/298)
+
+### Delayed/slow output when using gnome-shell and the keyboard machine
+
+* It's a gnome-shell [bug](https://github.com/openstenoproject/plover/issues/1030), unfortunately there's no known workaround.
