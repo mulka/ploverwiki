@@ -220,8 +220,8 @@ The following machines have been confirmed by users to work with Plover after ac
 
 | Product Name                       | Manufacturer       | Protocol/Connection | Comments                |
 | ---------------------------------- | ------------------ | ------------------- | ----------------------- |
-| [ErgoDox](https://deskthority.net/wiki/ErgoDox)           |   ErgodoxEZ, Massdrop, FalbaTech, others |  USB  |     The ErgoDox is a fairly high-end NKRO keyboard at $200, with an ortholinear layout. It has two separate halves, so you can angle them to suit you. You can order it with the Gateron White keys, which have an extremely light, 35 gram activation force.                    |
-| [Planck](http://olkb.com/planck/) | OLKB | USB | The Planck is a NKRO keyboard with an ortholinear layout. It is 40% the size of a standard keyboard.|
+| [ErgoDox](https://deskthority.net/wiki/ErgoDox)           |   ErgodoxEZ, Massdrop, FalbaTech, others |  USB  |     The ErgoDox is a fairly high-end NKRO keyboard at $200, with an ortholinear layout. It has two separate halves, so you can angle them to suit you. You can order it with the Gateron White keys, which have an extremely light, 35 gram activation force. Read a [guide to Starting Stenography with an Ergodox by Paul Fioravanti](https://paulfioravanti.com/blog/2018/10/18/starting-stenography-with-an-ergodox/).                    |
+| [Planck](http://olkb.com/planck/) | OLKB | USB | The Planck is a NKRO keyboard with an ortholinear layout. It is 40% the size of a standard keyboard. Read a [guide to starting stenography with a Planck by DiDoesDigital](https://didoesdigital.com/blog/build-your-own-steno-keyboard-its-easier-than-you-think/).  <br /> ![Planck steno keyboard](https://i.imgur.com/e9B2qpO.jpg)|
 |[Preonic](http://olkb.com/preonic/)| OLKB | USB | The Preonic is a NKRO keyboard with an ortholinear layout. It is 50% the size of a standard keyboard. |
 
 <a id="notebooks-with-nkro"></a>
