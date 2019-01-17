@@ -97,7 +97,7 @@ As of January 2019 appimage files are not in the [latest stable version](https:/
 
 Other approaches could include:
 
- - Seeking to install from the `deb` file if you are using Debian or a Debian derived distribution (e.g. with `sudo apt install <deb file>`), but you may need to do some work to deal with handling the dependencies.
+ - Seeking to install from the `deb` file if you are using Debian or a Debian derived distribution (e.g. with `sudo apt install <deb file>` ), but you may need to do some work to deal with handling the dependencies.
  - Seeking to [install from source for Linux](https://github.com/openstenoproject/plover/tree/master/linux).
 
 --------------------
