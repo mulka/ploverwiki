@@ -16,10 +16,8 @@ Unsure which version to download? You have a few options, depending on your need
 
 - [**Stable**](https://github.com/openstenoproject/plover/releases/latest)
 
-    Most of the time, you'll want the [latest stable version](https://github.com/openstenoproject/plover/releases/latest).
-- [**Weekly**](https://github.com/openstenoproject/plover/releases)
+- [**Weeklies**](https://github.com/openstenoproject/plover/tags)
 
-    If you are adventurous and want access to the latest and greatest features and developments, check out [the weekly releases](https://github.com/openstenoproject/plover/releases).
 - **Source**
 
     If you are a developer and want to build from source, there are OS-specific guides for [Windows](https://github.com/openstenoproject/plover/tree/master/windows), [Linux](https://github.com/openstenoproject/plover/tree/master/linux), and [Mac](https://github.com/openstenoproject/plover/tree/master/osx). Follow those guides to get your environments setup and run or build the source.
@@ -87,6 +85,15 @@ An [AppImage](http://appimage.org/) is provided: it includes all the necessary d
 - launch it like a standard executable
 
 Note: you can install the AppImage for your current user (and register Plover in your standard applications menu) by executing it with the `--install` flag. If you had previously installed another AppImage version of Plover, it will be automatically uninstalled and replaced.
+
+As of January 2019 [appimages can be found here](https://github.com/openstenoproject/plover/tags).
+
+##### Other Approaches 
+
+Other approaches could include:
+
+ - Seeking to install from the deb file if you are using Debian or a Debian derived distribution (e.g. with `sudo apt install <deb file>`, but you may need to do some work to deal with handling the dependencies.
+ - Seeking to [install from source for Linux](https://github.com/openstenoproject/plover/tree/master/linux).
 
 --------------------
 
