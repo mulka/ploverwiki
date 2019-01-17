@@ -14,13 +14,17 @@
 
 Unsure which version to download? You have a few options, depending on your needs:
 
-- [**Stable**](https://github.com/openstenoproject/plover/releases/latest)
+Most of the time, you'll want the [latest stable version](https://github.com/openstenoproject/plover/releases/latest).
 
+If you are adventurous and want access to the latest and greatest features and developments, check out [the weekly releases](https://github.com/openstenoproject/plover/releases) or alternatively the [weeklies](https://github.com/openstenoproject/plover/tags).
+
+- [**Stable**](https://github.com/openstenoproject/plover/releases/latest)
+- [**Weekly**](https://github.com/openstenoproject/plover/releases)
 - [**Weeklies**](https://github.com/openstenoproject/plover/tags)
 
 - **Source**
 
-    If you are a developer and want to build from source, there are OS-specific guides for [Windows](https://github.com/openstenoproject/plover/tree/master/windows), [Linux](https://github.com/openstenoproject/plover/tree/master/linux), and [Mac](https://github.com/openstenoproject/plover/tree/master/osx). Follow those guides to get your environments setup and run or build the source.
+If you are a developer and want to build from source, there are OS-specific guides for [Windows](https://github.com/openstenoproject/plover/tree/master/windows), [Linux](https://github.com/openstenoproject/plover/tree/master/linux), and [Mac](https://github.com/openstenoproject/plover/tree/master/osx). Follow those guides to get your environments setup and run or build the source.
 
 ## Installation
 
@@ -32,7 +36,7 @@ Each release has files for all the operating systems we support. You only need t
 
 1. Download the `.exe` file from the release page.
   * You can place the file anywhere on your computer. You will run it from the same location every time.
-1. Open the file to launch Plover.
+2. Open the file to launch Plover.
 
 --------------------
 
@@ -59,8 +63,9 @@ Plover is set up! You can run Plover like you would any other application.
 #### Install Plover on Arch Linux distribution
 
 Two AUR packages are provided:
+
 1. [plover](https://aur.archlinux.org/packages/plover/) for the latest stable release
-2. and [plover-git](https://aur.archlinux.org/packages/plover-git/) for the current `master`
+1. and [plover-git](https://aur.archlinux.org/packages/plover-git/) for the current `master`
 
 You may need to add yourself to the group "uucp" (owner of /dev/ttyACM*).
 
@@ -86,13 +91,13 @@ An [AppImage](http://appimage.org/) is provided: it includes all the necessary d
 
 Note: you can install the AppImage for your current user (and register Plover in your standard applications menu) by executing it with the `--install` flag. If you had previously installed another AppImage version of Plover, it will be automatically uninstalled and replaced.
 
-As of January 2019 [appimages can be found here](https://github.com/openstenoproject/plover/tags).
+As of January 2019 appimage files are not in the [latest stable version](https://github.com/openstenoproject/plover/releases/latest) but can be found in [weeklies](https://github.com/openstenoproject/plover/tags) or [weekly](https://github.com/openstenoproject/plover/releases).  
 
 ##### Other Approaches 
 
 Other approaches could include:
 
- - Seeking to install from the deb file if you are using Debian or a Debian derived distribution (e.g. with `sudo apt install <deb file>`, but you may need to do some work to deal with handling the dependencies.
+ - Seeking to install from the `deb` file if you are using Debian or a Debian derived distribution (e.g. with `sudo apt install <deb file>`, but you may need to do some work to deal with handling the dependencies.
  - Seeking to [install from source for Linux](https://github.com/openstenoproject/plover/tree/master/linux).
 
 --------------------
