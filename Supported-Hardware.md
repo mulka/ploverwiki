@@ -73,6 +73,7 @@ after actually trying it:
 | Revolution Grand                   | Neutrino Group     | Gemini PR (serial)  |                         |
 | Stentura 400 SRT                   | Stenograph         | Stentura (serial)   | [Setup Instructions](https://github.com/openstenoproject/plover/wiki/How-to-setup-and-use-Plover-with-a-Stentura-400SRT)  |
 | Stentura 200 SRT                   | Stenograph         | Stentura (serial)   | (same instructions as the 400 SRT)  |
+| Stentura 500                   | Stenograph         | Stentura (serial)   | (same instructions as the 400 SRT)  |
 | Stentura 8000LX                   | Stenograph         | Stentura (serial)   | (same instructions as the 400 SRT)  |
 | Tréal                              | Word technologies  | Treal (USB)         |                         |
 | Wave                               | Stenograph         |                     |                         |
