@@ -78,7 +78,7 @@ after actually trying it:
 | Stentura 500                   | Stenograph         | Stentura (serial)   | (same instructions as the 400 SRT)  |
 | Stentura 8000LX                   | Stenograph         | Stentura (serial)   | (same instructions as the 400 SRT)  |
 | Tréal                              | Word technologies  | Treal (USB)         |                         |
-| Wave                               | Stenograph         |                     |                         |
+| Wave                               | Stenograph         | Stentura (serial) OR Stenograph USB | Requires stenograph drivers to do serial on windows. All platforms can use the [plover-stenograph-usb](https://pypi.org/project/plover-stenograph-usb/0.0.3/) plugin. Make sure "serial protocol" on the Wave is set to "Stentura". |
 
 # Keyboards
 
