@@ -108,7 +108,7 @@ This is another easy to use single key stroke that can begin phrases like `WOUR`
 
 `HE` 
 
-Th is recommended over the `E`-only version for most cases, but depending on the phrase or word you might need `E` (`SKPE`: and he), `HE` (`HEBGD`: he could), and `HAOE` (`HAO*EL`: he'll)
+This is recommended over the `E`-only version for most cases, but depending on the phrase or word you might need `E` (`SKPE`: and he), `HE` (`HEBGD`: he could), and `HAOE` (`HAO*EL`: he'll)
 
 ### 17. as
 
