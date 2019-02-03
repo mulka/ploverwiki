@@ -6,6 +6,7 @@
   - [Mac](#install-plover-on-mac)
   - [Linux](#install-plover-on-linux)
     - [Arch](#install-plover-on-arch-linux-distribution)
+    - [Gentoo](#install-plover-on-gentoo-linux-distribution)
     - [Ubuntu](#install-plover-on-ubuntu-linux-distribution)
     - [Other](#install-plover-on-other-linux-distributions)
 - [Setting up my machine](#setting-up-my-machine)
@@ -68,6 +69,14 @@ Two AUR packages are provided:
 1. and [plover-git](https://aur.archlinux.org/packages/plover-git/) for the current `master`
 
 You may need to add yourself to the group "uucp" (owner of /dev/ttyACM*).
+
+--------------------
+
+#### Install Plover on Gentoo Linux distribution
+
+Only git releases for the current `master` are provided.
+
+[Personal overlay](https://framagit.org/3/ebuilds)
 
 --------------------
 
