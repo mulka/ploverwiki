@@ -362,12 +362,18 @@ Here are the key names you'll want to use:
 | Common Named Keys | `asciitilde` (~), `asciicircum` (^), `equal`, `minus`, `slash`, `backslash`, `comma`, `colon`, etc. |
 | Media Keys | **Common**: `AudioRaiseVolume`, `AudioLowerVolume`, `AudioMute`, `AudioNext`, `AudioPrev`, `AudioStop`, `AudioPlay`, `AudioPause`, `Eject`, **Mac**: `MonBrightnessUp`, `MonBrightnessDown`, `KbdBrightnessUp`, `KbdBrightnessDown`, **Windows**: `Back`, `Forward`, `Refresh`. Note: Linux supports supports any XF86 keyname. |
 
-Consult the code for the [full list of supported keyboard shortcut keys](https://github.com/openstenoproject/plover/blob/master/plover/key_combo.py#L21). Remember, if you want to send a symbol, just use the character in your translation. 
+Consult the code for the [full list of supported keyboard shortcut keys](https://github.com/openstenoproject/plover/blob/master/plover/key_combo.py#L21). 
 
-Only use commands:
+Note that a particular key name will send an unmodified key. For example, for many typical keyboard layouts <code>{#braceleft}</code> will cause <code>[</code> to be outputted while <code>{#shift(braceleft)}</code> will cause <code>{</code> to be outputted.
 
-- When you need to control which modifiers are hit. 
-- For control keys, such as Tab and BackSpace.
+Most symbols (e.g. `+, =, ~, r`) can just be included directly in the definition. But some symbols are part of the dictionary syntax and so need to be escaped: 
+
+| Symbol | Escaped Form | 
+|----------|----------| 
+| `"` | `\"`   |
+| `\` | `\\`   |
+| `{` | `\\{`  |
+| `}` | `\\}`  |
 
 ### Example Shortcuts
 
