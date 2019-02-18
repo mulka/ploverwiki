@@ -170,7 +170,7 @@ The last stroke word will have a capitalized first letter. This is useful in cas
 
 ### Carrying Capitalization
 
-- `{~|}` or `{^~|^}` where the attach operator is optional.
+- `{~|text}` or `{^~|text^}` where the attach operator is optional and the text can be changed.
 
 In English, we have punctuation that doesn't get capitalized, but instead the next letter gets the capitalization. For example, if you end a sentence in quotes, the next sentence still starts with a capital letter! `"You can't eat that!" The baby ate on.` 
 
@@ -187,6 +187,8 @@ The default dictionary for Plover should use these operators where appropriate.
   "PR*EPB": "{^~|)}"
 }
 ```
+
+ For a newline, the syntax would be `{^~|\n^}`.
 
 ### Uppercasing (CAPS)
 
