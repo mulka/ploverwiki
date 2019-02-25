@@ -104,13 +104,13 @@ An [AppImage](http://appimage.org/) is provided: it includes all the necessary d
 
 Note: you can install the AppImage for your current user (and register Plover in your standard applications menu) by executing it with the `--install` flag. If you had previously installed another AppImage version of Plover, it will be automatically uninstalled and replaced.
 
-As of January 2019 appimage files are not in the [latest stable version](https://github.com/openstenoproject/plover/releases/latest) but can be found in [weeklies](https://github.com/openstenoproject/plover/tags) or [weekly](https://github.com/openstenoproject/plover/releases).  
+As of January 2019 AppImage files are not in the [latest stable version](https://github.com/openstenoproject/plover/releases/latest) but can be found in [weeklies](https://github.com/openstenoproject/plover/tags) or [weekly](https://github.com/openstenoproject/plover/releases).  
 
 ##### Other Approaches 
 
 Other approaches could include:
 
- - Seeking to install from the `deb` file if you are using Debian or a Debian derived distribution (e.g. with `sudo apt install <deb file>` or using `dpkg` ), but you may need to do some work to deal with handling the dependencies.
+ - Seeking to install from the `deb` file if you are using Debian or a Debian derived distribution (e.g. with `sudo apt install <path/deb file>` or using `dpkg` ), but you may need to do some work to deal with handling the dependencies.
  - Seeking to [install from source for Linux](https://github.com/openstenoproject/plover/tree/master/linux).
 
 --------------------
