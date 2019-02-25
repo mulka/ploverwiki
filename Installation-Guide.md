@@ -9,6 +9,8 @@
     - [Gentoo](#install-plover-on-gentoo-linux-distribution)
     - [Ubuntu](#install-plover-on-ubuntu-linux-distribution)
     - [Other](#install-plover-on-other-linux-distributions)
+         - [AppImage Method](#appimage-method)
+         - [Other Approaches](#other-approaches)
 - [Setting up my machine](#setting-up-my-machine)
 
 ## Select a version
@@ -84,11 +86,13 @@ Only git releases for the current `master` are provided.
 
 Stable releases can be installed from a dedicated PPA, see [ppa:benoit.pierre/plover](https://launchpad.net/~benoit.pierre/+archive/ubuntu/plover) for instructions.
 
-For weeklies, follow the directions for installing Plover on other Linux distributions.
+_2019-02-25 Note_: The PPA method doesn't currently appear to work with Ubuntu 18.04 Bionic Beaver ([there is a listing for Xenial however](https://launchpad.net/~benoit.pierre/+archive/ubuntu/plover/+packages)). One can use the [AppImage method](#appimage-method) instead. Similarly for weeklies one can use the AppImage method or [other approaches](#other-approaches) for installing on other Linux distributions.
 
 --------------------
 
 #### Install Plover on other Linux distributions
+
+##### AppImage Method 
 
 An [AppImage](http://appimage.org/) is provided: it includes all the necessary dependencies and should run on most x86 64-bits distributions. To use it:
 
