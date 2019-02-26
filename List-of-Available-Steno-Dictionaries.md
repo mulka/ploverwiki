@@ -7,7 +7,7 @@ In addition to creating your own personal dictionaries, you can download free, o
 
 You'll find many free, open source steno dictionaries at the [Stenodict](http://www.openstenoproject.org/stenodict/) website. 
 
-| Language                           | Author | Description | 
+| Purpose                            | Author | Description | 
 | ---------------------------------- | ------------------ | ------------------ | 
 |Arrows | Ted Morin | Symbolic arrows → → made easy |
 | Cross Platform Movement |Ted Morin | Movement and selection across Mac, Windows, and Linux |
