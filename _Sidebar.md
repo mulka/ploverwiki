@@ -5,6 +5,7 @@
 - [Supported Hardware](https://github.com/openstenoproject/plover/wiki/Supported-Hardware)
 - [Get Started with Plover](https://github.com/openstenoproject/plover/wiki/Beginner's-Guide:-Get-Started-with-Plover)
 - [Dictionary Format](https://github.com/openstenoproject/plover/wiki/Dictionary-Format)
+- [Built-in Tools](https://github.com/openstenoproject/plover/wiki/Built-in-tools)
 - [Open Steno Project Timeline](https://github.com/openstenoproject/plover/wiki/Open-Steno-Project-Timeline)
 - [Troubleshooting Issues](https://github.com/openstenoproject/plover/wiki/Troubleshooting:-Common-Issues)
 
