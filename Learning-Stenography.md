@@ -73,6 +73,14 @@ If you want to eventually caption speakers, you will need to be able to take dic
 
    This repository of ESL resources has some simple texts with slow dictation. In particular, "Easy Reading Texts" for 1st and 2nd year students and "Reading Texts" for 3rd and 4th year students tend to be dictated at around 100 WPM.
 
+- [www.stenolife.com](https://www.stenolife.com/index.php/site/dictation/index)
+
+   Many short pieces are available across a wide range of speeds. Making an account is required.
+
+- [www.ev360ultimate.com](http://www.ev360ultimate.com/ev360u/moodle/login/index.php)
+
+   A repository with longer pieces and guided practice sessions. Making an account is required.
+
 ## Flashcard decks
 
 
