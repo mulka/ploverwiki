@@ -51,7 +51,7 @@ You can also use [a keyboard with an ortholinear layout](https://github.com/open
 Various steno enthusiasts are making and selling machines designed for use with Plover:
 
 * [Georgi*](https://www.gboards.ca/product/georgi)
-* [SOFT/HRUF*](https://softhruf.love/)
+* [Splitography*](https://softhruf.love/products/soft-hruf-erl)
 * [Stenoboard*](http://stenoboard.com/)
 * [TinyMod*](https://stenomod.blogspot.com/2018/11/tinymod2.html)
 
