@@ -176,8 +176,9 @@ Most of the mechanical switches have a 2mm actuation point and 4mm travel/bottom
 | Cherry MX Red | 45 cN linear | | |
 | Kailh Silver | 50 cN spring* linear | Has an early actuation (1.1mm vs 2mm) | |
 | Cherry MX Brown | 45 cN bumpy | While not ideal compared to other options, this switch is still a better choice than blues, blacks, and other Cherry switches | |
+|Kailh Choc Red | 50 cN spring* linear | | The Georgi uses this switch |
 
-\* The Kailh silvers use a spring that would cause a 50 cN actuation point at 2mm, but since they actuate earlier (1.1mm), the force required is nearer to 35 cN.
+\* The Kailh silvers and Choc reds use a spring that would cause a 50 cN actuation point at 2mm, but since they actuate earlier (1.1mm), the force required is nearer to 35 cN.
 
 There are other methods to decrease actuation force for even these switches. This includes:
 
