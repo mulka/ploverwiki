@@ -52,7 +52,6 @@ Various steno enthusiasts are making and selling machines designed for use with 
 
 * [Georgi*](https://www.gboards.ca/product/georgi)
 * [Splitography*](https://softhruf.love/products/soft-hruf-erl)
-* [Stenoboard*](http://stenoboard.com/)
 * [TinyMod*](https://stenomod.blogspot.com/2018/11/tinymod2.html)
 
 (* = External link)
