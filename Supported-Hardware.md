@@ -135,6 +135,7 @@ The following machines have been confirmed by users to work with Plover after ac
 
 | Product Name                | Manufacturer           | Comments        | Price
 | --------------------------- | ---------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Anne Pro II | Obinslabs | NKRO over USB; 6KRO over bluetooth; Works on Mac | $20-100
 | Apex M800                   | SteelSeries            | NKRO over USB   | [$199](https://steelseries.com/gaming-keyboards/apex-m800)
 | Apex M750 TKL               | SteelSeries            | NKRO over USB (Works on Mac, but for some reason if you install the SteelSeries Engine it stops working) | [$120](https://www.amazon.com/dp/B076XDTLBB)
 | CM Storm Quickfire TK       | Cooler Master          | NKRO over USB (Doesn't work on Mac)   | [$85](http://www.amazon.com/CM-Storm-QuickFire-TK-Mechanical/dp/B00A378L4C/)
