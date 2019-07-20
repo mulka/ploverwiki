@@ -43,7 +43,7 @@ I ran into a problem because I was using an older Serial-to-USB cable and Window
 
 ## Stentura Protege Manual
 
-[Link to user guide PDF](http://www.stenograph.com/content/files/documents/Stentura%20Protege%20User%20Guide.pdf)
+[Link to user guide PDF](https://www.stenograph.com/content/files/documents/Stentura%20Protege%20User%20Guide.pdf)
 
 ## Stop The Beeping
 
