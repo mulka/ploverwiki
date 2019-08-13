@@ -81,6 +81,12 @@ If you want to eventually caption speakers, you will need to be able to take dic
 
    A repository with longer pieces and guided practice sessions. Making an account is required.
 
+## Volunteer Projects Needing Transcription
+
+- [Library of Congress By the People Project](https://crowd.loc.gov/)
+
+   Volunteer project transcribing historical texts.
+ 
 ## Flashcard decks
 
 
