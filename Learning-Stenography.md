@@ -2,6 +2,10 @@ Stenography was traditionally taught in schools, and still is today. However, be
 
 Also see this Wiki's [[Glossary]] to learn some common terminology that comes up in steno materials.
 
+
+<!-- I took a look at the documentation for doctoc here: https://github.com/thlorenz/doctoc#usage
+and I'm not totally sure, but I think without commit rights to the repository one needs to do a pull request
+in order to use that workflow to get the table of contents updated. I think in this case it's just be easier to do it manually. davidkitfriedman 2019-08-15 -->
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
@@ -9,6 +13,8 @@ Also see this Wiki's [[Glossary]] to learn some common terminology that comes up
 - [Tutorial / Textbook / Drills](#tutorial--textbook--drills)
 - [Dictation](#dictation)
 - [Other Typing Sites](#other-typing-sites)
+- [Volunteer Projects Needing Transcription](#volunteer-projects-needing-transcription)
+- [Flashcard decks](#flashcard-decks)
 - [Materials to Print](#materials-to-print)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
