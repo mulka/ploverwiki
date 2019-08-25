@@ -31,10 +31,10 @@ Various steno enthusiasts are making and selling machines designed for use with 
 
 | Product Name                       | Manufacturer       | About                   | Price |
 | ---------------------------------- | ------------------ | ----------------------- | ----- |
-| [Stenomod](https://stenomod.blogspot.com) | Charley Shattuck | Open source hardware. This has light (35g actuation) keys and a split design. See [Ted Morin's review of the Stenomod](http://www.tedmor.in/blog/posts/stenomod-affordable-steno-machine) as well as [Martin Körner's review](https://stenoblog.com/the-stenomod/). The name is supposed to hint at how the machine is "modular" and adaptable. <br /> ![Stenomod](https://2.bp.blogspot.com/-n7j50BDdjAg/WJECk94jwCI/AAAAAAAAAI4/2E-G1dgflccCltPFN9FEPI4QtMW62ttCQCK4B/s400/20170131_131923.jpg) | $200 |
+| [Stenomod](https://stenomod.blogspot.com) | Charley Shattuck | Open source hardware. This has light (35g actuation) keys and a split design. See [Ted Morin's review of the Stenomod](http://www.tedmor.in/blog/posts/stenomod-affordable-steno-machine) as well as [Martin Körner's review](https://stenoblog.com/the-stenomod/). The name is supposed to hint at how the machine is "modular" and adaptable. <br /> ![Stenomod](https://2.bp.blogspot.com/-n7j50BDdjAg/WJECk94jwCI/AAAAAAAAAI4/2E-G1dgflccCltPFN9FEPI4QtMW62ttCQCK4B/s400/20170131_131923.jpgre) | $200 |
 | [TinyMod](https://stenomod.blogspot.com) | Charley Shattuck | Open source hardware. A smaller, nonsplit version of the Stenomod that omits the number bar in order to reduce costs and size. The center vowel key is used as a number bar replacement. <br /> ![TinyMod](https://2.bp.blogspot.com/-EtmothiLtUo/XL4RrK7jw5I/AAAAAAAACTU/8TibacoLPuYBu6-nmPhaEQnVZsweVEp5gCLcBGAs/s400/20190422_120223.png) | $160 |
 | [SOFT/HRUF Splitography](https://softhruf.love) | Scott Urueta       | Open source hardware. This has the shape of a stenography machine, but is built using computer keys rather than levers. The name is the steno representation for, and is pronounced as, "soft love". The SOFT/HRUF uses Matias Red switches (~40g actuation). <br /> ![SOFT/HRUF](https://i.imgur.com/pvmzoQy.png) | $138 |
-| [Georgi](https://www.gboards.ca/product/georgi) | [g Heavy Industries](https://www.gboards.ca) | Portable, affordable, and light-touch option. Low-profile Kailh Choc switches with 20g-actuation springs swapped in makes this the lightest-touch and lowest-height machine made for Plover so far. The removal of a number bar reduces costs and weight for portability. A third thumb key is to be used as a number bar replacement like the TinyMod. <br /> ![Georgi](https://assets.bigcartel.com/product_images/232702451/52661703_571704223305936_5341086750800347136_n.jpg?auto=format&fit=max&w=750) | $95 |
+| [Georgi](https://www.gboards.ca/product/georgi) | [g Heavy Industries](https://www.gboards.ca) | Portable, affordable, and light-touch option. Low-profile Kailh Choc switches with 20g-actuation springs swapped in makes this the lightest-touch and lowest-height machine made for Plover so far. The removal of a number bar reduces costs and weight for portability. A third thumb key is to be used as a number bar replacement like the TinyMod. <br /> ![Georgi](https://assets.bigcartel.com/product_images/232702451/52661703_571704223305936_5341086750800347136_n.jpg?auto=format&fit=max&w=350) | $95 |
 | Stenoboard | Utopen (Emanuele Caruso) | Open source hardware. The first open source steno machine on the market, released in 2014. The Stenoboard's keys actuate like mouse-clicks instead of a keyboard or lever-machine. ![](http://stenoboard.com/images/stenoboard.jpg)| Out of production |
 
 # Stenotype Machines
@@ -135,28 +135,28 @@ The following machines have been confirmed by users to work with Plover after ac
 
 | Product Name                | Manufacturer           | Comments        | Price
 | --------------------------- | ---------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| Anne Pro II | Obinslabs | NKRO over USB; 6KRO over bluetooth; Works on Mac | $20-100
-| Apex M800                   | SteelSeries            | NKRO over USB   | [$199](https://steelseries.com/gaming-keyboards/apex-m800)
-| Apex M750 TKL               | SteelSeries            | NKRO over USB (Works on Mac, but for some reason if you install the SteelSeries Engine it stops working) | [$120](https://www.amazon.com/dp/B076XDTLBB)
-| CM Storm Quickfire TK       | Cooler Master          | NKRO over USB (Doesn't work on Mac)   | [$85](http://www.amazon.com/CM-Storm-QuickFire-TK-Mechanical/dp/B00A378L4C/)
-| Francium Pro                  | Deck            | NKRO over USB when in "lightning" mode (Fn + F10). Full NKRO works on Windows and Linux, but is rumored NOT to work on Macs (you'd be stuck with 6KRO).  | [$94](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=690)
-| Noppoo Choc                 | Noppoo                 | NKRO over USB (works on Mac without adapters)   | [$95](http://www.amazon.com/Noppoo-84-Technology-Mechanical-Keyboard/dp/B0091Q34EI/ref=sr_1_1?s=pc&ie=UTF8&qid=1458020924&sr=1-1-spons&keywords=noppoo+choc+mini&psc=1)
-| Ergo Pro                    | Matias                 | NKRO over USB   | [$200](http://matias.ca/ergopro/pc/)
-| Ergodox                     | Ergodox                | NKRO over USB   | [$295](https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard)
-| G710+                       | Logitech               | NKRO over USB   | [$130](http://gaming.logitech.com/en-us/product/g710plus-mechanical-gaming-keyboard)
-| Model01                     | Keyboard.io            | NKRO over USB   | [$329](http://shop.keyboard.io)
-| Majestouch-2                | Filco                  | NKRO over USB   | [$167](http://amzn.to/oLy2xQ)
-| Das Keyboard 4 Ultimate     | Das Keyboard           | NKRO over USB requires key sequence to enable. See fine print on underside of keyboard   | [$169](http://shop.daskeyboard.com/products/das-keyboard-4-ultimate/)
-| Ultimate Hacking Keyboard   | Ultimate Gadget Labs   | NKRO over USB   | [$250](https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard)
-| Vengeance K65               | Corsair                | NKRO over USB   | [$90](http://www.corsair.com/en/gaming-peripherals/gaming-keyboards/vengeance-k65-compact-mechanical-gaming-keyboard.html)
-| STRAFE                      | Corsair                | NKRO over USB   | [$80](https://www.amazon.com/CORSAIR-STRAFE-Mechanical-Gaming-Keyboard/dp/B012B6X7MI/)
-| K66                         | Corsair                | NKRO over USB   | [$55](https://www.amazon.com/CORSAIR-K66-Mechanical-Gaming-Keyboard/dp/B072LTTNVS/)
-| K63                         | Corsair                | NKRO over USB (Works on Mac!) | [$80](https://www.amazon.com/Corsair-CH-9115020-NACORSAIR-Compact-Mechanical-Keyboard/dp/B06XC1WNPT)
+| Anne Pro II | Obinslabs | NKRO over USB; 6KRO over bluetooth; Works on Mac | $20-100
 | I-500 Victop (compact: 87 keys)     | Eastern times tech | NKRO over USB   | [27 GBP](https://www.amazon.co.uk/Water-Resistant-VicTop-Mechanical-Waterproof-Anti-ghosting/dp/B01DBYNVSY/)
-| ZM-K600S                    | Zalman                 | NKRO over USB   | [$40](http://www.amazon.com/Zalman-Unlimited-Multi-Key-keyboard-ZM-K600S/dp/B0196J3IPE)
-| X51 (Gaming Mechanical Keyboard 87/104) | Metoo                | NKRO over USB   | [$40](https://www.aliexpress.com/item/Metoo-Gaming-Mechanical-Keyboard-87-104-Anti-ghosting-Luminous-Blue-Red-Black-Switch-Backlit-LED-wired/32782819448.html) 
 | TOMOKO (87 key Mechanical Keyboard) | TOMOKO               | NKRO over USB (Works on Mac)   | [$30](https://www.amazon.com/TOMOKO-Water-Resistant-Mechanical-Keyboard-Non-Conflicting/dp/B01DBJTZU2/)
 | K552 | Redragon | NKRO over USB | [$35](https://www.amazon.com/Redragon-KUMARA-Backlit-Mechanical-Keyboard/dp/B016MAK38U)
+| X51 (Gaming Mechanical Keyboard 87/104) | Metoo                | NKRO over USB   | [$40](https://www.aliexpress.com/item/Metoo-Gaming-Mechanical-Keyboard-87-104-Anti-ghosting-Luminous-Blue-Red-Black-Switch-Backlit-LED-wired/32782819448.html) 
+| ZM-K600S                    | Zalman                 | NKRO over USB   | [$40](http://www.amazon.com/Zalman-Unlimited-Multi-Key-keyboard-ZM-K600S/dp/B0196J3IPE)
+| K66                         | Corsair                | NKRO over USB   | [$55](https://www.amazon.com/CORSAIR-K66-Mechanical-Gaming-Keyboard/dp/B072LTTNVS/)
+| K63                         | Corsair                | NKRO over USB (Works on Mac!) | [$80](https://www.amazon.com/Corsair-CH-9115020-NACORSAIR-Compact-Mechanical-Keyboard/dp/B06XC1WNPT)
+| STRAFE                      | Corsair                | NKRO over USB   | [$80](https://www.amazon.com/CORSAIR-STRAFE-Mechanical-Gaming-Keyboard/dp/B012B6X7MI/)
+| CM Storm Quickfire TK       | Cooler Master          | NKRO over USB (Doesn't work on Mac)   | [$85](http://www.amazon.com/CM-Storm-QuickFire-TK-Mechanical/dp/B00A378L4C/)
+| Vengeance K65               | Corsair                | NKRO over USB   | [$90](http://www.corsair.com/en/gaming-peripherals/gaming-keyboards/vengeance-k65-compact-mechanical-gaming-keyboard.html)
+| Francium Pro                  | Deck            | NKRO over USB when in "lightning" mode (Fn + F10). Full NKRO works on Windows and Linux, but is rumored NOT to work on Macs (you'd be stuck with 6KRO).  | [$94](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=690)
+| Noppoo Choc                 | Noppoo                 | NKRO over USB (works on Mac without adapters)   | [$95](http://www.amazon.com/Noppoo-84-Technology-Mechanical-Keyboard/dp/B0091Q34EI/ref=sr_1_1?s=pc&ie=UTF8&qid=1458020924&sr=1-1-spons&keywords=noppoo+choc+mini&psc=1)
+| Apex M750 TKL               | SteelSeries            | NKRO over USB (Works on Mac, but for some reason if you install the SteelSeries Engine it stops working) | [$120](https://www.amazon.com/dp/B076XDTLBB)
+| G710+                       | Logitech               | NKRO over USB   | [$130](http://gaming.logitech.com/en-us/product/g710plus-mechanical-gaming-keyboard)
+| Majestouch-2                | Filco                  | NKRO over USB   | [$167](http://amzn.to/oLy2xQ)
+| Das Keyboard 4 Ultimate     | Das Keyboard           | NKRO over USB requires key sequence to enable. See fine print on underside of keyboard   | [$169](http://shop.daskeyboard.com/products/das-keyboard-4-ultimate/)
+| Apex M800                   | SteelSeries            | NKRO over USB   | [$199](https://steelseries.com/gaming-keyboards/apex-m800)
+| Ergo Pro                    | Matias                 | NKRO over USB   | [$200](http://matias.ca/ergopro/pc/)
+| Ultimate Hacking Keyboard   | Ultimate Gadget Labs   | NKRO over USB   | [$250](https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard)
+| Ergodox                     | Ergodox                | NKRO over USB   | [$295](https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard)
+| Model01                     | Keyboard.io            | NKRO over USB   | [$329](http://shop.keyboard.io)
 
 ### Which type of key switch should I choose?
 
@@ -238,18 +238,18 @@ If you want to always have steno on the go, you might consider finding a noteboo
 
 | Model    | Screen Size | Manufacturer    | Rollover | Price (USD) | Weight |
 | -------- | ----------- | --------------- | ------- | ----- | ------ |
-| [Predator Triton 700](https://us-store.acer.com/predator-triton-700-gaming-laptop-pt715-51-732q) | 15" | Acer | n-key (clicky keys) | $3000 | 5.3 lbs |
-| [Zephyrus GX501](https://www.asus.com/ca-en/Laptops/ROG-ZEPHYRUS-GX501/) | 15"   | Asus        | 30-key   | $2500     | 4.85lbs |
-| [Zephyrus GM501](https://www.asus.com/ca-en/Laptops/ROG-ZEPHYRUS-GM501/) | 15"   | Asus        | 30-key   | $1500 to $2200     | 5.5lbs |
-| [GL502](https://www.asus.com/ca-en/ROG-Republic-Of-Gamers/ROG-GL502VT/)    | 15"         | Asus        | 30-key   | $1900 | 4.9 lbs |
-| [GL553](https://www.asus.com/ca-en/Laptops/ROG-GL553VD/)    | 15"         | Asus        | 30-key  | $1200     | 5.5 lbs |
-| Aorus [X5 v8](https://www.aorus.com/product-detail.php?p=744) and [X7 v8](https://www.aorus.com/product-detail.php?p=745) | 15", 17" | Aorus | 80-key* | $2600, $3000 | 5.51 lbs, 7.05 lbs |
 | [Alienware R3/R4](http://www.dell.com/en-us/shop/dell-laptops/sc/laptops/alienware-laptops) | 13", 15", 17" | Dell        | n-key | **$1000** to $3000 | 5.8 to 9.8 lbs |
-| [Aero 15/15x](https://www.gigabyte.com/us/Laptop/AERO-15--i7-8750H) | 15"      | Gigabyte    | 80-key*   | $2000 to $2900 | 4.6 lbs |
-| [P57X](https://www.gigabyte.com/Laptop/P57X-v7)     | 17"         | Gigabyte    | 30-key   | $1800     | 6.6 + 2.2 (power adaptor) lbs |
-| [Omen X](http://www8.hp.com/us/en/campaigns/omenxlaptop/overview.html) | 17" | HP | n-key* | $1800 | 10.7 lbs |
-| [Legion Y920](https://www3.lenovo.com/us/en/laptops/ideapad/lenovo-legion-y-series-laptops/Legion-Y920/p/88GMY900877) | 17" | Lenovo | 100-key* | $2200 | 10.1 lbs |
+| [GL553](https://www.asus.com/ca-en/Laptops/ROG-GL553VD/)    | 15"         | Asus        | 30-key  | $1200     | 5.5 lbs |
 | [Razer Blade Stealth 8th Gen](https://www.razer.com/ca-en/gaming-laptops/razer-blade-stealth) | 13" | Razer | 14-key | $1200+ | **2.98 lbs** |
+| [Zephyrus GM501](https://www.asus.com/ca-en/Laptops/ROG-ZEPHYRUS-GM501/) | 15"   | Asus        | 30-key   | $1500 to $2200     | 5.5lbs |
+| [Omen X](http://www8.hp.com/us/en/campaigns/omenxlaptop/overview.html) | 17" | HP | n-key* | $1800 | 10.7 lbs |
+| [P57X](https://www.gigabyte.com/Laptop/P57X-v7)     | 17"         | Gigabyte    | 30-key   | $1800     | 6.6 + 2.2 (power adaptor) lbs |
+| [GL502](https://www.asus.com/ca-en/ROG-Republic-Of-Gamers/ROG-GL502VT/)    | 15"         | Asus        | 30-key   | $1900 | 4.9 lbs |
+| [Aero 15/15x](https://www.gigabyte.com/us/Laptop/AERO-15--i7-8750H) | 15"      | Gigabyte    | 80-key*   | $2000 to $2900 | 4.6 lbs |
+| [Legion Y920](https://www3.lenovo.com/us/en/laptops/ideapad/lenovo-legion-y-series-laptops/Legion-Y920/p/88GMY900877) | 17" | Lenovo | 100-key* | $2200 | 10.1 lbs |
+| [Zephyrus GX501](https://www.asus.com/ca-en/Laptops/ROG-ZEPHYRUS-GX501/) | 15"   | Asus        | 30-key   | $2500     | 4.85lbs |
+| Aorus [X5 v8](https://www.aorus.com/product-detail.php?p=744) and [X7 v8](https://www.aorus.com/product-detail.php?p=745) | 15", 17" | Aorus | 80-key* | $2600, $3000 | 5.51 lbs, 7.05 lbs |
+| [Predator Triton 700](https://us-store.acer.com/predator-triton-700-gaming-laptop-pt715-51-732q) | 15" | Acer | n-key (clicky keys) | $3000 | 5.3 lbs |
 
 \* Untested for use with Plover
 
