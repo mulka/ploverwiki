@@ -51,10 +51,9 @@ These sites aim to teach you steno, from the layout to the terminology to the st
 
     Just a small tutorial covering the top 100 English words according to Wikipedia. Many of them are briefs and this text gives some insight as to why these strokes are the way they are.
 
-- [ROPE 2.2--Remembering Outlines in Plover more Easily](https://www.reddit.com/r/Plover/comments/ads6yg/rope_22_remembering_outlines_in_plover_more/)
+- [ROPE: Remembering Outlines in Plover more Easily](https://github.com/kburchfiel/rope)
 
-   This resource uses Anki's spaced repetition feature to help users learn and remember outlines for over 4000 common English words, and also includes around 2970 mnemonic 'stories' that can make it easier to recall less intuitive outlines. ROPE 2.2 features added-in outlines that allow users to write all words in ROPE in one stroke and in 5 keypresses or less; these outlines also allow for the top 1000 words to be written in 4 keypresses or less. The document was prepared by a beginner and may not be 100% accurate, but the lists will be corrected periodically. The Reddit post linked to above has links to the Anki file, Excel file, and readme.
-
+   This resource (now in version 2.3) uses Anki's spaced repetition feature to help users learn and remember outlines for over 4000 common English words, and also includes around 2750 mnemonic 'stories' that can make it easier to recall less intuitive outlines. ROPE features added-in outlines that allow users to write all words in ROPE in one stroke and in 5 keypresses or less, and the top 1000 words in one stroke and 4 keypresses or less. The document was prepared by a non-professional steno user and may not be 100% accurate, but the lists will be corrected periodically. The ROPE spreadsheet, Anki file, readme, and custom dictionary can all be found on the GitHub page linked to above. 
 
 ## Dictation
 
