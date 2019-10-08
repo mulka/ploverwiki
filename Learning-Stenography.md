@@ -103,8 +103,7 @@ If you want to eventually caption speakers, you will need to be able to take dic
 
     The deck also includes briefs for phrases (where each word in the phrase is one of the most common 3000 words).
 
-~~- An Anki deck with the complete Plover dictionary as flash cards is available [here]~~
-~~(https://ankiweb.net/shared/info/1639515972)~~ (link no longer works)
+- An Anki deck with the complete Plover dictionary as flash cards is available [here](https://github.com/percidae/Anki_Plover/releases/)
 
 
 ## Other Typing Sites
