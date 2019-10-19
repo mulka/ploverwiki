@@ -1,4 +1,4 @@
-The [Open Steno Project](www.opensteno.org) has a lot of different goals and projects, and sometimes it's hard to tell what happened when. This page aims to provide a summary of events with dates for anyone curious.
+The [Open Steno Project](https://www.opensteno.org) has a lot of different goals and projects, and sometimes it's hard to tell what happened when. This page aims to provide a summary of events with dates for anyone curious.
 
 ### September 2005 to March 2007 (18 months)
 
