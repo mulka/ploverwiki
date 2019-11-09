@@ -136,7 +136,7 @@ The following machines have been confirmed by users to work with Plover after ac
 | --------------------------- | ---------------------- | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Anne Pro II | Obinslabs | NKRO over USB; 6KRO over bluetooth; Works on Mac | $20-100
 | I-500 Victop (compact: 87 keys)     | Eastern times tech | NKRO over USB   | [27 GBP](https://www.amazon.co.uk/Water-Resistant-VicTop-Mechanical-Waterproof-Anti-ghosting/dp/B01DBYNVSY/)
-| DareU DK87  | DareU | NKRO over USB (Tested on Linux), however some keys may be stuck after released. Discontinued model. There is a [similar model](http://www.dareu.com/?m=home&c=View&a=index&aid=169), they may have the glitch mentioned above or not. | < $30
+| DareU DK87 (red switch) | DareU | NKRO over USB (Tested on Linux), however some keys may be stuck after released. Discontinued model. There is a [similar model](http://www.dareu.com/?m=home&c=View&a=index&aid=169), they may have the glitch mentioned above or not. | < $30
 | TOMOKO (87 key Mechanical Keyboard) | TOMOKO               | NKRO over USB (Works on Mac)   | [$30](https://www.amazon.com/TOMOKO-Water-Resistant-Mechanical-Keyboard-Non-Conflicting/dp/B01DBJTZU2/)
 | K552 | Redragon | NKRO over USB | [$35](https://www.amazon.com/Redragon-KUMARA-Backlit-Mechanical-Keyboard/dp/B016MAK38U)
 | X51 (Gaming Mechanical Keyboard 87/104) | Metoo                | NKRO over USB   | [$40](https://www.aliexpress.com/item/Metoo-Gaming-Mechanical-Keyboard-87-104-Anti-ghosting-Luminous-Blue-Red-Black-Switch-Backlit-LED-wired/32782819448.html) 
