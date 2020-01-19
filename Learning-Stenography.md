@@ -53,7 +53,9 @@ These sites aim to teach you steno, from the layout to the terminology to the st
 
 - [ROPE: Remembering Outlines in Plover more Easily](https://github.com/kburchfiel/rope)
 
-   This resource (now in version 2.3) uses Anki's spaced repetition feature to help users learn and remember outlines for over 4000 common English words, and also includes around 2750 mnemonic 'stories' that can make it easier to recall less intuitive outlines. ROPE features added-in outlines that allow users to write all words in ROPE in one stroke and in 5 keypresses or less, and the top 1000 words in one stroke and 4 keypresses or less. The document was prepared by a non-professional steno user and may not be 100% accurate, but the lists will be corrected periodically. The ROPE spreadsheet, Anki file, readme, and custom dictionary can all be found on the GitHub page linked to above. 
+   This resource (now in version 3.0) offers a spreadsheet and two Anki decks to help users learn and remember outlines for over 4,000 common English words and over 1,000 common English phrases. The single-word deck also includes around 2750 mnemonic 'stories' that can make it easier to recall less intuitive outlines. ROPE features added-in outlines that allow users to write all words and phrases in ROPE in one stroke. In addition, these outlines allow users to write all words in the single-word deck in 5 keypresses or less, and the top 1000 root words in 4 keypresses or less. 
+
+The document was prepared by a non-professional steno user and may not be 100% accurate, but the lists will be corrected periodically. The ROPE spreadsheet, Anki file, readme, and custom dictionary can all be found on the GitHub page linked to above. 
 
 ## Dictation
 
