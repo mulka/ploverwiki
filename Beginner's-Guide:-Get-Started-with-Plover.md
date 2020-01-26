@@ -13,8 +13,7 @@ The main steps are:
 
 Plover works on **Windows, Mac, and Linux**. 
 
-* Download and install the [latest release](https://github.com/openstenoproject/plover/releases/). 
-* See the [installation guide](https://github.com/openstenoproject/plover/wiki/Installation-Guide) for more information.
+* See the [installation guide](https://github.com/openstenoproject/plover/wiki/Installation-Guide) to install Plover.
 * If you get stuck, see the [troubleshooting guide](https://github.com/openstenoproject/plover/wiki/Troubleshooting:-Common-Issues).
 
 ## Connect a compatible keyboard or stenography machine
