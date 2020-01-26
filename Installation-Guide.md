@@ -12,6 +12,10 @@
          - [Other Approaches](#other-approaches)
 - [Setting up my machine](#setting-up-my-machine)
 
+## Troubleshooting
+
+If you get stuck, see the [troubleshooting guide](https://github.com/openstenoproject/plover/wiki/Troubleshooting:-Common-Issues) or ask for help on the [Plover Discord Server](https://discord.gg/0lQde43a6dGmAMp2) or in the [steno community](https://github.com/openstenoproject/plover/wiki/Links-to-the-Steno-Community).
+
 ## Select a version
 
 Unsure which version to download? You have a few options, depending on your needs:
