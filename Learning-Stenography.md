@@ -1,8 +1,5 @@
 Stenography was traditionally taught in schools, and still is today. However, because of Open Steno, there are increasingly self-taught stenographers. Plover has everything you need to teach yourself stenography.
 
-Also see this Wiki's [[Glossary]] to learn some common terminology that comes up in steno materials.
-
-
 <!-- I took a look at the documentation for doctoc here: https://github.com/thlorenz/doctoc#usage
 and I'm not totally sure, but I think without commit rights to the repository one needs to do a pull request
 in order to use that workflow to get the table of contents updated. I think in this case it's just be easier to do it manually. davidkitfriedman 2019-08-15 -->
@@ -10,7 +7,9 @@ in order to use that workflow to get the table of contents updated. I think in t
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
+- [Overview](#overview)
 - [Tutorial / Textbook / Drills](#tutorial--textbook--drills)
+- [Tools](#tools)
 - [Dictation](#dictation)
 - [Other Typing Sites](#other-typing-sites)
 - [Volunteer Projects Needing Transcription](#volunteer-projects-needing-transcription)
@@ -19,29 +18,42 @@ in order to use that workflow to get the table of contents updated. I think in t
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Overview
+
+* Start learning stenography theory for free. See the [Stenography theory](#stenograph-theory) section.
+* Practice writing using stenography through drills and exercises. See the [Practice writing using stenography](#practice-writing-using-stenography) section.
+* Learn extra tools to assist you along the journey. See the [tools](#tools) section.
+* Learn common terminology that comes up in steno materials. See this Wiki's [[Glossary]].
+
+If you find other useful resources along the way, edit this wiki page to add them.
+
 ## Tutorial / Textbook / Drills
 
-These sites aim to teach you steno, from the layout to the terminology to the strokes.
+### Stenography theory
+
+These sites aim to teach you steno theory, from the layout to the terminology to the strokes.
 
 - [Learn Plover!](https://sites.google.com/site/ploverdoc/home)
 
-    Learn Plover! is a free online textbook by Zack Brown, based on his steno tutoring sessions with Mirabai Knight. It offers a step-by-step introduction to Plover for beginners, with practice material at the end of every chapter. The accompanying exercises are available online in several places, notably:
+    Learn Plover! is a free online textbook by Zack Brown, based on his steno tutoring sessions with Mirabai Knight. It offers a step-by-step introduction to Plover for beginners, with practice material at the end of every chapter. The accompanying exercises are available online in several places, notably Steno Jig and Typey Type. See the [Practice writing using stenography](#practice-writing-using-stenography) section.
 
-    * [Steno Jig](https://joshuagrams.github.io/steno-jig/) has [Learn Plover! drills](https://joshuagrams.github.io/steno-jig/learn-plover.html) with stroke hints and lookahead display.
+- [The Art of Chording](https://www.artofchording.com/)
 
-    * [Di's Plover, Learn!](http://didoesdigital.com/plover/learn/) has user-contributed lessons for the later chapters where Learn Plover doesn't provide exercises, plus some additional lessons of its own, including a large collection of fairy tales. Requires Adobe Flash or Google Chrome.
+    The Art of Chording is a textbook that aims to guide the student through their stenography learning by providing a broad amount of knowledge from the first lesson on. The goal is to get students writing real words and sentences as quickly as possible and then delve into the minutiae of how to write with Plover's default dictionary quickly and without conflict. It includes additional sections on approaches borrowed from other steno theories that can be found in Plover's default dictionary.
 
-- [The Art of Chording (WIP)](https://www.artofchording.com/)
-
-    The Art of Chording is a textbook that aims to guide the student through their stenography learning by providing a broad amount of knowledge from the first lesson on. The goal is to get students writing real words and sentences as quickly as possible and then delve into the minutiae of how to write with Plover's default dictionary quickly and without conflict.
+### Practice writing using stenography
 
 - [Qwerty Steno](http://qwertysteno.com/Home/)
 
     Qwerty Steno is a fantastic resource which has a tutorial on steno theory written by Mike Neale of the Open Steno community.
 
-- [Steno Jig](https://joshuagrams.github.io/steno-jig/) has a wide variety of words, sentences, etc that you can practice with optional stroke suggestions. There are several beginner drills, and a large set of vocabulary words, and sentence practice drills that you can work through to gradually learn the top 8,000 most used words.
+- [Steno Jig](https://joshuagrams.github.io/steno-jig/)
 
-- [Typey Type for Stenographers](https://didoesdigital.com/typey-type/) is a drilling and learning resource with a fair amount of practice material and detailed quantitative feedback. It also allows the user to upload their own practice material.
+    Steno Jig has a wide variety of words, sentences, etc that you can practice with optional stroke suggestions. There are several beginner drills, and a large set of vocabulary words, and sentence practice drills that you can work through to gradually learn the top 8,000 most used words. It has [Learn Plover! drills](https://joshuagrams.github.io/steno-jig/learn-plover.html) with stroke hints and lookahead display.
+
+- [Typey Type for Stenographers](https://didoesdigital.com/typey-type/)
+
+    Type Type for Stenographers is a drilling and learning resource with a fair amount of practice material and detailed quantitative feedback. It includes lessons that follow the [Learn Plover!](https://sites.google.com/site/ploverdoc/home) book and lets you [upload your own practice material](https://didoesdigital.com/typey-type/lessons/custom/setup). It also has [dictionaries](https://didoesdigital.com/typey-type/dictionaries), [flashcards](https://didoesdigital.com/typey-type/flashcards), [recommendations](https://didoesdigital.com/typey-type/progress) on how much of which lesson to do next, a [break timer](https://didoesdigital.com/typey-type/break), a [lookup tool](https://didoesdigital.com/typey-type/lookup), and a [diagram generator](https://didoesdigital.com/typey-type/writer).
 
 - [Plover Dojo](http://ploverdojo.appspot.com/)
 
@@ -55,7 +67,11 @@ These sites aim to teach you steno, from the layout to the terminology to the st
 
    This resource (now in version 3.0) offers a spreadsheet and two Anki decks to help users learn and remember outlines for over 4,000 common English words and over 1,000 common English phrases. The single-word deck also includes around 2750 mnemonic 'stories' that can make it easier to recall less intuitive outlines. ROPE features added-in outlines that allow users to write all words and phrases in ROPE in one stroke. In addition, these outlines allow users to write all words in the single-word deck in 5 keypresses or less, and the top 1000 root words in 4 keypresses or less. 
 
-  The document was prepared by a non-professional steno user and may not be 100% accurate, but the lists will be corrected periodically. The ROPE spreadsheet, Anki file, readme, and custom dictionary can all be found on the GitHub page linked to above. 
+  The document was prepared by a non-professional steno user and may not be 100% accurate, but the lists will be corrected periodically. The ROPE spreadsheet, Anki file, readme, and custom dictionary can all be found on the GitHub page linked to above.
+
+## Tools
+
+You might consider enabling some of the [[built-in tools]], especially the paper tape so you can see which keys Plover thinks you're pressing. Once you're familiar with the layout and can write things the way they're pronounced and fingerspell those you can't, you might also want to enable the strokes suggestions tool.
 
 ## Dictation
 
