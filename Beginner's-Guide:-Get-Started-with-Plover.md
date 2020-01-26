@@ -77,13 +77,9 @@ By default, Plover will use your keyboard as its input device.
  
 You may like to go into Plover's `Configure > Display` settings and turn on either the stroke display or the suggestions window.
 
-#### Practice sentences
-
-You can practice sentences that (mostly) only need two keys at once, on the [StenoJig](https://joshuagrams.github.io/steno-jig/two-key) website.
-
 #### Write "Hello World"
 
-To write "Hello, world." into a text editor with Plover, using a QWERTY keyboard:
+To confirm Plover is working correctly, you may try to write "Hello, world." into a text editor with Plover, using a QWERTY keyboard:
 
 1. Run Plover. 
 1. Click the **Enable** radio button.
@@ -93,6 +89,12 @@ To write "Hello, world." into a text editor with Plover, using a QWERTY keyboard
 1. Simultaneously press `J`, `K`, `L`, and `;` (right index finger on `J`, right middle finger on `K`, right ring finger on `L`, and right little (pinky) finger on `;`), and then lift your fingers off the keys. <br>The comma appears.
 1. Simultaneously press `D`, `V`, `J`, `O`, and `[` (left middle finger on `D`, left thumb on `V`, right index finger on `J`, right ring finger on `O`, and right little (pinky) finger on `[`), and then lift your fingers off the keys. <br>`world` appears.
 1. Simultaneously press `U`, `I`, `O`, and `P` (right index finger on `U`, right middle finger on `I`, right ring finger on `O`, right little (pinky) finger on `P`), and then lift your fingers off the keys. <br>A period appears.
+
+If you see different output, you might check that you're using the right protocol for your [stenography machine](https://github.com/openstenoproject/plover/wiki/Beginner's-Guide:-Get-Started-with-Plover#stenography-machine).
+
+#### Practice sentences
+
+You can practice sentences that (mostly) only need two keys at once, on the [StenoJig](https://joshuagrams.github.io/steno-jig/two-key) website.
 
 #### Use the correct body posture and finger placement
 
