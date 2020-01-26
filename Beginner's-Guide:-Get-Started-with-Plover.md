@@ -128,10 +128,9 @@ See [Supported protocols](https://github.com/openstenoproject/plover/wiki/Suppor
 
 ## Practice and learn
 
-* Start learning stenography for free with [Learn Plover!](https://sites.google.com/site/ploverdoc/home)
-* Practice the Learn Plover (and other stenography) exercises with [Steno Jig](https://joshuagrams.github.io/steno-jig/).
-* See also [Learning Resources](https://github.com/openstenoproject/plover/wiki/Learning-Stenography) and [the old steno practice page](http://stenoknight.com/wiki/Practice).
-* You might consider enabling some of the [[built-in tools]], especially the paper tape so you can see which keys Plover thinks you're pressing. Once you're familiar with the layout and can write things the way they're pronounced and fingerspell those you can't, you might also want to enable the strokes suggestions tool.
+It's time to start learning stenography theory for free, practicing writing using stenography, and learning how to make the most of Plover's built-in tools.
+
+* See the [Learning Resources](https://github.com/openstenoproject/plover/wiki/Learning-Stenography) and [the old steno practice page](http://stenoknight.com/wiki/Practice).
 
 ### Which steno theory should you learn?
 
