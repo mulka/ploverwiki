@@ -18,9 +18,9 @@ If you get stuck, see the [troubleshooting guide](https://github.com/openstenopr
 
 ## Select a version
 
-Unsure which version to download? You have a few options, depending on your needs:
+Unsure which version to download? You have a few options, depending on your needs…
 
-Most of the time, you'll want the [latest stable version](https://github.com/openstenoproject/plover/releases/latest).
+Most of the time, you'll want the [latest stable version](https://github.com/openstenoproject/plover/releases/latest). As at 26 Jan 2020, most folk on the [Plover Discord Server](https://discord.gg/0lQde43a6dGmAMp2) recommend v4.0.0. See the [latest weekly release](https://github.com/openstenoproject/plover/releases).
 
 If you are adventurous and want access to the latest and greatest features and developments, check out [the weekly releases](https://github.com/openstenoproject/plover/releases) or alternatively the [weeklies](https://github.com/openstenoproject/plover/tags).
 
