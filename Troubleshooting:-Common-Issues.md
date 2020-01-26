@@ -95,7 +95,7 @@ Have a look inside to see some sample keyboard commands that Plover can do.
 
 ### Plover does not run (macOS)
 
-* If you use a keyboard instead of a steno machine, Plover needs [Assistive Device Permissions](https://support.apple.com/en-ca/HT202866).
+* If you use a keyboard instead of a steno machine, Plover needs [Assistive Device Permissions](https://support.apple.com/en-ca/guide/mac-help/mh43185/mac). From the Catalina version of macOS, you may need to enable both the `Plover` app and the `env` app under Security & Privacy > Privacy > Accessibility.
 * Plover will not work if you are using [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements)
 
 ### Unrecognized keystrokes
