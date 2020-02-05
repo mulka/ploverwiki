@@ -91,7 +91,7 @@ If you want to eventually caption speakers, you will need to be able to take dic
    Pitman London has a page of dictation for people learning pen shorthand. The dictation ranges in speed from 40WPM to 130WPM.
 - [Court Reporting Help](http://courtreportinghelp.com/)
 
-   CRH has some free dictation posts. Especially useful is the [Magic Drill](http://courtreportinghelp.com/2016/01/02/magic-drills-free-audio-speed-drills/), for beginners and experts alike.
+   CRH has some free dictation posts. Especially useful is the [Magic Drill](https://web.archive.org/web/20181107020646/http://courtreportinghelp.com:80/2016/01/02/magic-drills-free-audio-speed-drills/), for beginners and experts alike.
 - [englishlearning.webgarden.es](http://englishlearning.webgarden.es/menu/1st-and-2nd-eso-year/easy-reading-texts)
 
    This repository of ESL resources has some simple texts with slow dictation. In particular, "Easy Reading Texts" for 1st and 2nd year students and "Reading Texts" for 3rd and 4th year students tend to be dictated at around 100 WPM.
