@@ -67,7 +67,7 @@ However, Plover, and other steno systems, use keyboard "chords" to type syllable
 
 > "When your fingers are in position, press them all down together, and release them. Out comes the word 'tap'! You've just tapped your first word in steno! Notice that it doesn't really matter that all the keys go down absolutely simultaneously. The only thing Plover cares about is that there's one moment in time when all three keys are down together."
 
-(From [Learn Plover!](https://sites.google.com/site/ploverdoc/lesson-1-fingers-and-keys))
+(From [Learn Plover!](https://sites.google.com/site/learnplover/lesson-1-fingers-and-keys))
 
 Plover - and all steno systems - express words primarily as groups of sounds rather than groups of letters of the alphabet.
 
@@ -95,7 +95,7 @@ with a minimum of dorkitude.
 1. [CART, Court, and Captioning](http://stenoknight.com/CARTCourtCaptioning.html): for
 people who want to provide live verbatim transcription professionally.
 
-For learning, the best resource is [Learn Plover!](https://sites.google.com/site/ploverdoc/home) by Zack Brown.
+For learning, the best resource is [Learn Plover!](https://sites.google.com/site/learnplover/) by Zack Brown.
 
 ### Why isn't steno more popular than QWERTY?
 

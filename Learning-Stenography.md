@@ -33,7 +33,7 @@ If you find other useful resources along the way, edit this wiki page to add the
 
 These sites aim to teach you steno theory, from the layout to the terminology to the strokes.
 
-- [Learn Plover!](https://sites.google.com/site/ploverdoc/home)
+- [Learn Plover!](https://sites.google.com/site/learnplover/)
 
     Learn Plover! is a free online textbook by Zack Brown, based on his steno tutoring sessions with Mirabai Knight. It offers a step-by-step introduction to Plover for beginners, with practice material at the end of every chapter. The accompanying exercises are available online in several places, notably Steno Jig and Typey Type. See the [Practice writing using stenography](#practice-writing-using-stenography) section.
 
@@ -53,7 +53,7 @@ These sites aim to teach you steno theory, from the layout to the terminology to
 
 - [Typey Type for Stenographers](https://didoesdigital.com/typey-type/)
 
-    Type Type for Stenographers is a drilling and learning resource with a fair amount of practice material and detailed quantitative feedback. It includes lessons that follow the [Learn Plover!](https://sites.google.com/site/ploverdoc/home) book and lets you [upload your own practice material](https://didoesdigital.com/typey-type/lessons/custom/setup). It also has [dictionaries](https://didoesdigital.com/typey-type/dictionaries), [flashcards](https://didoesdigital.com/typey-type/flashcards), [recommendations](https://didoesdigital.com/typey-type/progress) on how much of which lesson to do next, a [break timer](https://didoesdigital.com/typey-type/break), a [lookup tool](https://didoesdigital.com/typey-type/lookup), and a [diagram generator](https://didoesdigital.com/typey-type/writer).
+    Type Type for Stenographers is a drilling and learning resource with a fair amount of practice material and detailed quantitative feedback. It includes lessons that follow the [Learn Plover!](https://sites.google.com/site/learnplover/) book and lets you [upload your own practice material](https://didoesdigital.com/typey-type/lessons/custom/setup). It also has [dictionaries](https://didoesdigital.com/typey-type/dictionaries), [flashcards](https://didoesdigital.com/typey-type/flashcards), [recommendations](https://didoesdigital.com/typey-type/progress) on how much of which lesson to do next, a [break timer](https://didoesdigital.com/typey-type/break), a [lookup tool](https://didoesdigital.com/typey-type/lookup), and a [diagram generator](https://didoesdigital.com/typey-type/writer).
 
 - [Plover Dojo](http://ploverdojo.appspot.com/)
 

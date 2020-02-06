@@ -96,7 +96,7 @@ Jay Liu introduces steno-training website [Plover Dojo](http://ploverdojo.appspo
 
 > Education
 
-Zach Brown, a technical writer, publishes the first half of [Learn Plover!](https://sites.google.com/site/ploverdoc/home). Learn Plover! is a free online textbook that Mirabai commissioned Zach in exchange for steno lessons.
+Zach Brown, a technical writer, publishes the first half of [Learn Plover!](https://sites.google.com/site/learnplover/). Learn Plover! is a free online textbook that Mirabai commissioned Zach in exchange for steno lessons.
 
 ### January 2014
 

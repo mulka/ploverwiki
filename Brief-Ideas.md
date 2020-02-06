@@ -1,4 +1,4 @@
-[Learn Plover!](https://sites.google.com/site/ploverdoc/home) is a great introduction to Plover's theory and has everything you need to get started writing in steno. However, there are some patterns across Plover's dictionary which are not documented there. This document aims to show some of the hidden patterns. It also suggests some others that you can consider using in your personal dictionary.
+[Learn Plover!](https://sites.google.com/site/learnplover/) is a great introduction to Plover's theory and has everything you need to get started writing in steno. However, there are some patterns across Plover's dictionary which are not documented there. This document aims to show some of the hidden patterns. It also suggests some others that you can consider using in your personal dictionary.
 
 <img src="http://qwertysteno.com/Images/steno-keyboard1.gif">
 
@@ -12,7 +12,7 @@ You can start using these patterns today!
 
 This  originated in the first steno theory, published by Ward Stone Ireland in the early 20th century. Today, it is also a part of Magnum steno. There are some entries in the default dictionary that use `SPW-`, although it's not documented in [Learn Plover]. Examples:
 
-  [Learn Plover]: https://sites.google.com/site/ploverdoc/home
+  [Learn Plover]: https://sites.google.com/site/learnplover/
 
 * `SPWEPBLGT` for "intelligent".
 * `SPWRABGT` for "interact".

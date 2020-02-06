@@ -35,7 +35,7 @@ Download the latest version of Plover for your OS.
 Open Plover. Click the configure button. A new configuration window will open. Click the tab for machine. Select Stentura from the drop down menu. Go back to the window where you clicked the configure button. Click the radio button "enable" to enable output. Click the reload button (arrows going in a circle) until the dot turns green and it says "Stentura: Connected"
 
 **Step 5.**
-Thanks to Plover, your Stentura can now type on your computer. Start learning Steno with Plover [lessons](https://sites.google.com/site/ploverdoc/lesson-1-fingers-and-keys) and [interactive drills](http://stenoknight.com/plover/haxeploverlearn/). 
+Thanks to Plover, your Stentura can now type on your computer. Start learning Steno with Plover [lessons](https://sites.google.com/site/learnplover/lesson-1-fingers-and-keys) and [interactive drills](http://stenoknight.com/plover/haxeploverlearn/). 
 
 ## Something went wrong
 
